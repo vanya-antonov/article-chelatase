@@ -1,0 +1,1211 @@
+id	kingdom	phylum	genus	name	num_M_zero	num_M_minus	num_M_plus
+355	Bacteria	Cyanobacteria	Acaryochloris	Acaryochloris marina MBIC11017	1	0	0
+3449	Bacteria	Firmicutes	Acetobacterium	Acetobacterium bakii	3	0	0
+1204	Bacteria	Firmicutes	Acetobacterium	Acetobacterium woodii DSM 1030	1	0	0
+451	Bacteria	Actinobacteria	Acidimicrobium	Acidimicrobium ferrooxidans DSM 10331	2	0	0
+2680	Bacteria	Proteobacteria	Acidiphilium	Acidiphilium angustum ATCC 35903	1	1	0
+971	Bacteria	Proteobacteria	Acidiphilium	Acidiphilium multivorum AIU301	1	1	0
+2065	Bacteria	Actinobacteria	Acidipropionibacterium	Acidipropionibacterium jensenii DSM 20535	2	0	0
+3188	Bacteria	Actinobacteria	Acidithrix	Acidithrix ferrooxidans	2	0	0
+3898	Bacteria	Proteobacteria	Acidovorax	Acidovorax delafieldii	1	1	0
+4905	Bacteria	Proteobacteria	Acidovorax	Acidovorax valerianellae	1	1	0
+4400	Bacteria	Actinobacteria	Actinokineospora	Actinokineospora bangkokensis	3	0	0
+1712	Bacteria	Actinobacteria	Actinokineospora	Actinokineospora enzanensis DSM 44649	3	0	0
+2307	Bacteria	Actinobacteria	Actinokineospora	Actinokineospora inagensis DSM 44258	2	0	0
+2462	Bacteria	Actinobacteria	Actinokineospora	Actinokineospora spheciospongiae	3	0	0
+5144	Bacteria	Actinobacteria	Actinokineospora	Actinokineospora terrae	2	0	0
+1830	Bacteria	Actinobacteria	Actinomadura	Actinomadura atramentaria DSM 43919	1	0	0
+3867	Bacteria	Actinobacteria	Actinomadura	Actinomadura chibensis NBRC 106107	1	0	0
+1708	Bacteria	Actinobacteria	Actinomadura	Actinomadura flavalba DSM 45200	1	0	0
+3882	Bacteria	Actinobacteria	Actinomadura	Actinomadura hibisca NBRC 15177	1	0	0
+3869	Bacteria	Actinobacteria	Actinomadura	Actinomadura kijaniata NBRC 14229	1	0	0
+3871	Bacteria	Actinobacteria	Actinomadura	Actinomadura macra NBRC 14102	1	0	1
+5272	Bacteria	Actinobacteria	Actinomadura	Actinomadura madurae	2	0	0
+5697	Bacteria	Actinobacteria	Actinomadura	Actinomadura mexicana	1	0	0
+2399	Bacteria	Actinobacteria	Actinomadura	Actinomadura oligospora ATCC 43269	1	0	0
+2056	Bacteria	Actinobacteria	Actinomadura	Actinomadura rifamycini DSM 43936	1	0	0
+3872	Bacteria	Actinobacteria	Actinomadura	Actinomadura rubrobrunea NBRC 15275	1	0	0
+1784	Bacteria	Actinobacteria	Actinomycetospora	Actinomycetospora chiangmaiensis DSM 45062	3	0	0
+3810	Bacteria	Actinobacteria	Actinoplanes	Actinoplanes awajinensis subsp. mycoplanecinus	2	0	0
+4976	Bacteria	Actinobacteria	Actinoplanes	Actinoplanes derwentensis	2	0	0
+2322	Bacteria	Actinobacteria	Actinoplanes	Actinoplanes friuliensis DSM 7358	1	0	0
+1785	Bacteria	Actinobacteria	Actinoplanes	Actinoplanes globisporus DSM 43857	1	0	0
+1317	Bacteria	Actinobacteria	Actinoplanes	Actinoplanes missouriensis 431	1	0	0
+5212	Bacteria	Actinobacteria	Actinoplanes	Actinoplanes philippinensis	2	0	0
+3219	Bacteria	Actinobacteria	Actinoplanes	Actinoplanes rectilineatus	2	0	0
+5692	Bacteria	Actinobacteria	Actinoplanes	Actinoplanes regularis	2	0	0
+3041	Bacteria	Actinobacteria	Actinoplanes	Actinoplanes utahensis	2	0	0
+1671	Bacteria	Actinobacteria	Actinopolyspora	Actinopolyspora halophila DSM 43834	1	0	0
+1854	Bacteria	Actinobacteria	Actinopolyspora	Actinopolyspora mortivallis DSM 44261	2	0	0
+5324	Bacteria	Actinobacteria	Actinopolyspora	Actinopolyspora righensis	2	0	0
+4962	Bacteria	Actinobacteria	Actinopolyspora	Actinopolyspora xinjiangensis	2	0	0
+2347	Bacteria	Actinobacteria	Actinospica	Actinospica robiniae DSM 44927	2	0	0
+450	Bacteria	Actinobacteria	Actinosynnema	Actinosynnema mirum DSM 43827	3	0	0
+5590	Bacteria	Actinobacteria	Aeromicrobium	Aeromicrobium choanae	2	0	0
+3809	Bacteria	Actinobacteria	Aeromicrobium	Aeromicrobium erythreum	2	0	0
+1453	Bacteria	Actinobacteria	Aeromicrobium	Aeromicrobium massiliense JC14	2	0	0
+1960	Bacteria	Actinobacteria	Aestuariimicrobium	Aestuariimicrobium kwangyangense DSM 21549	2	0	0
+3436	Bacteria	Proteobacteria	Aestuariivita	Aestuariivita atlantica	2	1	0
+3446	Bacteria	Proteobacteria	Aestuariivita	Aestuariivita boseongensis	2	1	0
+4907	Bacteria	Proteobacteria	Afifella	Afifella marina DSM 2698	1	0	1
+2653	Bacteria	Proteobacteria	Afifella	Afifella pfennigii DSM 17143	3	0	0
+1385	Bacteria	Proteobacteria	Agrobacterium	Agrobacterium albertimagni AOL15	2	0	1
+5021	Bacteria	Proteobacteria	Aidingimonas	Aidingimonas halophila	2	0	0
+5230	Bacteria	Proteobacteria	Albimonas	Albimonas pacifica	2	1	0
+4266	Bacteria	Bacteroidetes	Algibacter	Algibacter aquaticus	1	0	0
+3193	Bacteria	Cyanobacteria	Aliterella	Aliterella atlantica CENA595	2	0	0
+361	Bacteria	Firmicutes	Alkaliphilus	Alkaliphilus oremlandii OhILAs	1	0	0
+513	Bacteria	Proteobacteria	Allochromatium	Allochromatium vinosum DSM 180	2	1	0
+5030	Bacteria	Proteobacteria	Allochromatium	Allochromatium warmingii	2	0	0
+4942	Bacteria	Actinobacteria	Allokutzneria	Allokutzneria albata	3	0	0
+4157	Bacteria	Proteobacteria	Altererythrobacter	Altererythrobacter ishigakiensis	1	1	0
+3501	Bacteria	Proteobacteria	Amantichitinum	Amantichitinum ursilacus	1	1	0
+489	Bacteria	Firmicutes	Ammonifex	Ammonifex degensii KC4	1	0	0
+5335	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis australiensis	3	0	0
+1861	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis balhimycina FH 1894	3	0	0
+1851	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis benzoatilytica AK 16/65	4	0	0
+2346	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis halophila YIM 93223	2	0	0
+2812	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis japonica	4	0	0
+2755	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis jejuensis	4	0	0
+5168	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis marina	3	0	0
+963	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis mediterranei U32	3	0	0
+2843	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis methanolica 239	3	0	0
+1862	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis nigrescens CSC17Ta-90	3	0	0
+5284	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis rubida	4	0	0
+5119	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis saalfeldensis	3	0	0
+5239	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis sacchari	3	0	0
+5027	Bacteria	Actinobacteria	Amycolatopsis	Amycolatopsis xylanica	3	0	0
+1501	Bacteria	Cyanobacteria	Anabaena	Anabaena cylindrica PCC 7122	1	0	0
+3395	Bacteria	Chloroflexi	Anaerolinea	Anaerolinea thermolimosa	2	1	0
+968	Bacteria	Chloroflexi	Anaerolinea	Anaerolinea thermophila UNI-1	2	1	0
+2743	Bacteria	Bacteroidetes	Anditalea	Anditalea andensis	1	0	0
+2729	Bacteria	Proteobacteria	Andreprevotia	Andreprevotia chitinilytica DSM 18519	1	0	0
+2420	Bacteria	Cyanobacteria	Aphanizomenon	Aphanizomenon flos-aquae NIES-81	2	0	0
+3580	Bacteria	Bacteroidetes	Aquimarina	Aquimarina longa SW024	2	0	0
+2419	Bacteria	Bacteroidetes	Aquimarina	Aquimarina macrocephali JAMB N27	2	0	0
+2199	Bacteria	Bacteroidetes	Aquimarina	Aquimarina muelleri DSM 19832	2	0	0
+3816	Bacteria	Proteobacteria	Aquitalea	Aquitalea pelogenes	1	0	0
+508	Archaea	Euryarchaeota	Archaeoglobus	Archaeoglobus profundus DSM 5631	2	0	0
+922	Archaea	Euryarchaeota	Archaeoglobus	Archaeoglobus veneficus SNP6	2	0	0
+2089	Bacteria	Actinobacteria	Arsenicicoccus	Arsenicicoccus bolidensis DSM 15745	1	0	0
+991	Bacteria	Cyanobacteria	Arthrospira	Arthrospira platensis NIES-39	2	0	0
+5041	Bacteria	Actinobacteria	Asanoa	Asanoa ishikariensis	1	0	0
+1363	Bacteria	Actinobacteria	Austwickia	Austwickia chelonae NBRC 105200	2	0	0
+3091	Bacteria	Proteobacteria	Azotobacter	Azotobacter chroococcum NCIMB 8003	0	1	0
+5036	Bacteria	Firmicutes	Bacillus	Bacillus caseinilyticus	1	0	0
+3619	Bacteria	Firmicutes	Bacillus	Bacillus solani	1	0	0
+3525	Bacteria	Chloroflexi	Bellilinea	Bellilinea caldifistulae	1	1	0
+2910	Bacteria	Proteobacteria	Belnapia	Belnapia moabensis DSM 16746	1	1	0
+4955	Bacteria	Proteobacteria	Belnapia	Belnapia rosea	3	1	0
+2683	Bacteria	Proteobacteria	Bilophila	Bilophila wadsworthia ATCC 49260	2	0	0
+3581	Bacteria	Proteobacteria	Blastochloris	Blastochloris viridis	2	1	0
+5118	Bacteria	Actinobacteria	Blastococcus	Blastococcus endophyticus	1	0	0
+1310	Bacteria	Actinobacteria	Blastococcus	Blastococcus saxobsidens DD2	2	0	0
+1619	Bacteria	Proteobacteria	Bradyrhizobium	Bradyrhizobium oligotrophicum S58	2	1	0
+5684	Bacteria	Chloroflexi	Brevefilum	Brevefilum fermentans	1	1	0
+2676	Bacteria	Proteobacteria	Brevundimonas	Brevundimonas bacteroides DSM 4726	3	0	0
+613	Bacteria	Proteobacteria	Brevundimonas	Brevundimonas subvibrioides ATCC 15264	1	1	0
+3598	Bacteria	Proteobacteria	Burkholderia	Burkholderia cepacia ATCC 25416	2	1	0
+3215	Bacteria	Proteobacteria	Burkholderia	Burkholderia gladioli	1	1	0
+205	Bacteria	Proteobacteria	Burkholderia	Burkholderia pseudomallei K96243	0	1	0
+3214	Bacteria	Proteobacteria	Burkholderia	Burkholderia ubonensis MSMB22	0	1	0
+3849	Bacteria	Proteobacteria	Caballeronia	Caballeronia concitans	0	1	0
+2669	Bacteria	Proteobacteria	Caballeronia	Caballeronia glathei	1	1	0
+3850	Bacteria	Proteobacteria	Caballeronia	Caballeronia glebae	1	1	0
+3848	Bacteria	Proteobacteria	Caballeronia	Caballeronia telluris	1	1	0
+2668	Bacteria	Proteobacteria	Caballeronia	Caballeronia zhejiangensis	1	1	0
+1485	Bacteria	Proteobacteria	Caenispirillum	Caenispirillum salinarum AK4	1	1	0
+5477	Bacteria	Firmicutes	Caldanaerovirga	Caldanaerovirga acetigignens	1	1	0
+4678	Bacteria	Firmicutes	Calderihabitans	Calderihabitans maritimus	1	0	0
+1303	Bacteria	Chloroflexi	Caldilinea	Caldilinea aerophila DSM 14535 = NBRC 104270	0	1	0
+3859	Bacteria	Thermodesulfobacteria	Caldimicrobium	Caldimicrobium thiodismutans	1	0	1
+5685	Bacteria	Cyanobacteria	Calothrix	Calothrix rhizosoleniae SC01	1	0	0
+1494	Bacteria	Cyanobacteria	Calothrix	Calothrix sp. PCC 6303	1	0	0
+2447	Bacteria	Proteobacteria	Carnimonas	Carnimonas nigrificans ATCC BAA-78	1	0	0
+1787	Bacteria	Actinobacteria	Catelliglobosispora	Catelliglobosispora koreensis DSM 44566	2	0	0
+470	Bacteria	Actinobacteria	Catenulispora	Catenulispora acidiphila DSM 44928	2	0	0
+2752	Bacteria	Actinobacteria	Catenuloplanes	Catenuloplanes japonicus	2	0	0
+1010	Bacteria	Firmicutes	Centipeda	Centipeda periodontii DSM 2778	2	0	0
+1490	Bacteria	Cyanobacteria	Chamaesiphon	Chamaesiphon minutus PCC 6605	2	0	0
+4903	Bacteria	Bacteroidetes	Chitinophaga	Chitinophaga filiformis	0	1	0
+1085	Bacteria	Acidobacteria	Chloracidobacterium	Chloracidobacterium thermophilum B	3	0	0
+4268	Bacteria	Chlorobi	Chlorobaculum	Chlorobaculum limnaeum	1	0	0
+399	Bacteria	Chlorobi	Chlorobaculum	Chlorobaculum parvum NCIB 8327	2	0	0
+224	Bacteria	Chlorobi	Chlorobium	Chlorobium chlorochromatii CaD3	2	0	0
+772	Bacteria	Chlorobi	Chlorobium	Chlorobium ferrooxidans DSM 13031	2	0	0
+397	Bacteria	Chlorobi	Chlorobium	Chlorobium limicola DSM 245	3	0	0
+401	Bacteria	Chlorobi	Chlorobium	Chlorobium phaeobacteroides BS1	1	0	0
+296	Bacteria	Chlorobi	Chlorobium	Chlorobium phaeobacteroides DSM 266	2	0	0
+314	Bacteria	Chlorobi	Chlorobium	Chlorobium phaeovibrioides DSM 265	1	0	0
+425	Bacteria	Chloroflexi	Chloroflexus	Chloroflexus aggregans DSM 9485	3	0	0
+368	Bacteria	Chloroflexi	Chloroflexus	Chloroflexus aurantiacus J-10-fl	3	0	0
+4127	Bacteria	Chloroflexi	Chloroflexus	Chloroflexus islandicus	3	0	0
+1492	Bacteria	Cyanobacteria	Chlorogloeopsis	Chlorogloeopsis fritschii PCC 6912	2	0	0
+400	Bacteria	Chlorobi	Chloroherpeton	Chloroherpeton thalassium ATCC 35110	2	0	0
+4167	Bacteria	Proteobacteria	Chromobacterium	Chromobacterium subtsugae	1	0	0
+119	Bacteria	Proteobacteria	Chromobacterium	Chromobacterium violaceum ATCC 12472	1	0	0
+1489	Bacteria	Cyanobacteria	Chroococcidiopsis	Chroococcidiopsis thermalis PCC 7203	1	0	0
+4365	Bacteria	Cyanobacteria	Chroogloeocystis	Chroogloeocystis siderophila 5.2 s.c.1	2	0	0
+811	Bacteria	Proteobacteria	Citromicrobium	Citromicrobium bathyomarinum JL354	1	1	0
+2707	Bacteria	Firmicutes	Clostridium	Clostridium algidicarnis	2	0	0
+5417	Bacteria	Firmicutes	Clostridium	Clostridium collagenovorans DSM 3089	2	0	0
+2523	Bacteria	Firmicutes	Clostridium	Clostridium ihumii AP5	3	0	0
+2609	Bacteria	Firmicutes	Clostridium	Clostridium tetanomorphum DSM 665	3	0	0
+680	Bacteria	Cyanobacteria	Coleofasciculus	Coleofasciculus chthonoplastes PCC 7420	2	0	0
+3172	Bacteria	Proteobacteria	Comamonas	Comamonas aquatica	0	1	0
+2181	Bacteria	Proteobacteria	Comamonas	Comamonas composti DSM 21721	0	1	0
+4648	Bacteria	Proteobacteria	Comamonas	Comamonas serinivorans	0	1	0
+3842	Bacteria	Proteobacteria	Comamonas	Comamonas terrae	2	1	0
+3818	Bacteria	Proteobacteria	Comamonas	Comamonas terrigena NBRC 13299	0	1	0
+2844	Bacteria	Proteobacteria	Comamonas	Comamonas testosteroni TK102	1	1	0
+2052	Bacteria	Actinobacteria	Conexibacter	Conexibacter woesei Iso977N	1	0	0
+647	Bacteria	Proteobacteria	Congregibacter	Congregibacter litoralis KT71	1	1	0
+4405	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium aquilae DSM 44791	0	0	1
+2495	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium argentoratense DSM 44202	1	0	1
+2813	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium atypicum	1	0	0
+1618	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium callunae DSM 20147	1	0	1
+1676	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium ciconiae DSM 44920	1	0	1
+4105	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium crudilactis	0	0	1
+3475	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium deserti GIMN1.010	0	0	1
+3735	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium diphtheriae	1	0	1
+1508	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium durum F0235	0	0	1
+197	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium efficiens YS-314	1	0	1
+3333	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium epidermidicanis	0	0	1
+2139	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium freiburgense DSM 45254	0	0	1
+2962	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium freneyi DNF00450	1	0	1
+5640	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium glucuronolyticum	0	0	1
+198	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium glutamicum ATCC 13032	0	0	1
+2603	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium glyciniphilum AJ 3170	0	0	1
+3406	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium halotolerans	1	0	1
+4684	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium jeikeium	0	0	1
+3295	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium kutscheri	1	0	1
+3470	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium lactis RW2-5	1	0	1
+808	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium matruchotii ATCC 14266	1	0	1
+3332	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium mustelae	0	0	1
+615	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium pseudotuberculosis C231	0	0	1
+1904	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium pyruviciproducens ATCC BAA-1742	0	0	1
+4408	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium sphenisci DSM 44792	0	0	1
+2123	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium sputi DSM 45148	1	0	1
+2773	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium variabile	2	0	0
+2459	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium vitaeruminis DSM 20294	0	0	1
+3876	Bacteria	Actinobacteria	Corynebacterium	Corynebacterium xerosis NBRC 16721	1	0	1
+1496	Bacteria	Cyanobacteria	Crinalium	Crinalium epipsammum PCC 9333	1	0	0
+769	Bacteria	Cyanobacteria	Crocosphaera	Crocosphaera watsonii WH 8501	1	0	0
+2490	Bacteria	Actinobacteria	Cryptosporangium	Cryptosporangium arvum DSM 44712	1	0	0
+5478	Bacteria	Actinobacteria	Cryptosporangium	Cryptosporangium aurantiacum	1	0	0
+3149	Bacteria	Proteobacteria	Cupriavidus	Cupriavidus basilensis	1	1	0
+3283	Bacteria	Proteobacteria	Cupriavidus	Cupriavidus pauculus	0	1	0
+1500	Bacteria	Cyanobacteria	Cyanobacterium	Cyanobacterium aponinum PCC 10605	1	0	0
+1486	Bacteria	Cyanobacteria	Cyanobium	Cyanobium gracile PCC 6307	2	0	0
+4163	Bacteria	Cyanobacteria	Cylindrospermopsis	Cylindrospermopsis raciborskii CS-505	1	0	0
+1497	Bacteria	Cyanobacteria	Cylindrospermum	Cylindrospermum stagnale PCC 7417	1	0	0
+1499	Bacteria	Cyanobacteria	Dactylococcopsis	Dactylococcopsis salina PCC 8305	2	0	0
+2748	Bacteria	Actinobacteria	Dactylosporangium	Dactylosporangium aurantiacum	1	0	0
+2439	Bacteria	Proteobacteria	Deferrisoma	Deferrisoma camini S3R1	1	1	0
+404	Bacteria	Deinococcus-Thermus	Deinococcus	Deinococcus deserti VCD115	2	0	0
+2209	Bacteria	Deinococcus-Thermus	Deinococcus	Deinococcus ficus DSM 19119	2	0	0
+948	Bacteria	Deinococcus-Thermus	Deinococcus	Deinococcus geothermalis DSM 11300	2	0	0
+1216	Bacteria	Deinococcus-Thermus	Deinococcus	Deinococcus gobiensis I-0	2	0	0
+5641	Bacteria	Deinococcus-Thermus	Deinococcus	Deinococcus hopiensis KR-140	2	0	0
+877	Bacteria	Deinococcus-Thermus	Deinococcus	Deinococcus maricopensis DSM 21211	2	0	0
+1503	Bacteria	Deinococcus-Thermus	Deinococcus	Deinococcus peraridilitoris DSM 19664	2	0	0
+2504	Bacteria	Deinococcus-Thermus	Deinococcus	Deinococcus phoenicis	3	0	0
+86	Bacteria	Proteobacteria	Delftia	Delftia acidovorans SPH-1	2	1	0
+2797	Bacteria	Actinobacteria	Dermacoccus	Dermacoccus nishinomiyaensis	1	0	0
+2183	Bacteria	Actinobacteria	Dermatophilus	Dermatophilus congolensis DSM 44180 = NBRC 105199	2	0	0
+5644	Bacteria	Proteobacteria	Desulfacinum	Desulfacinum hydrothermale DSM 13146	2	0	0
+5381	Bacteria	Proteobacteria	Desulfacinum	Desulfacinum infernum DSM 9756	2	0	0
+611	Bacteria	Proteobacteria	Desulfarculus	Desulfarculus baarsii DSM 2075	2	0	0
+2184	Bacteria	Proteobacteria	Desulfatibacillum	Desulfatibacillum aliphaticivorans DSM 15576	3	0	0
+1973	Bacteria	Proteobacteria	Desulfatiglans	Desulfatiglans anilini DSM 4660	0	1	0
+926	Bacteria	Proteobacteria	Desulfobacca	Desulfobacca acetoxidans DSM 11109	1	1	0
+5649	Bacteria	Proteobacteria	Desulfobacterium	Desulfobacterium vacuolatum DSM 3385	3	0	0
+1408	Bacteria	Proteobacteria	Desulfobacula	Desulfobacula toluolica Tol2	2	0	0
+2579	Bacteria	Proteobacteria	Desulfobulbus	Desulfobulbus elongatus DSM 2908	2	0	0
+2186	Bacteria	Proteobacteria	Desulfobulbus	Desulfobulbus japonicus DSM 18378	2	0	0
+879	Bacteria	Proteobacteria	Desulfobulbus	Desulfobulbus propionicus DSM 2032	2	0	0
+3414	Bacteria	Proteobacteria	Desulfocarbo	Desulfocarbo indianensis	3	0	0
+5418	Bacteria	Proteobacteria	Desulfofustis	Desulfofustis glycolicus DSM 9705	1	1	0
+1272	Bacteria	Proteobacteria	Desulfomonile	Desulfomonile tiedjei DSM 6799	2	0	0
+1924	Bacteria	Proteobacteria	Desulfospira	Desulfospira joergensenii DSM 10085	0	1	0
+5223	Bacteria	Firmicutes	Desulfotomaculum	Desulfotomaculum arcticum	3	0	0
+1115	Bacteria	Firmicutes	Desulfotomaculum	Desulfotomaculum gibsoniae DSM 7213	1	0	0
+2632	Bacteria	Firmicutes	Desulfotomaculum	Desulfotomaculum thermocisternum DSM 10259	1	0	0
+5439	Bacteria	Firmicutes	Desulfotomaculum	Desulfotomaculum thermosubterraneum DSM 16057	1	0	0
+3547	Bacteria	Proteobacteria	Desulfovibrio	Desulfovibrio brasiliensis JCM 12178	2	0	0
+3894	Bacteria	Proteobacteria	Desulfovibrio	Desulfovibrio fairfieldensis	2	0	0
+5704	Bacteria	Proteobacteria	Desulfovibrio	Desulfovibrio mexicanus	2	0	0
+2161	Bacteria	Firmicutes	Desulfovirgula	Desulfovirgula thermocuniculi DSM 16036	2	0	0
+5164	Bacteria	Proteobacteria	Desulfuromonas	Desulfuromonas acetexigens	1	1	0
+3162	Bacteria	Proteobacteria	Dethiosulfatarculus	Dethiosulfatarculus sandiegensis	3	0	0
+722	Bacteria	Firmicutes	Dialister	Dialister invisus DSM 15470	3	0	0
+1165	Bacteria	Firmicutes	Dialister	Dialister succinatiphilus YIT 11850	2	0	0
+1084	Bacteria	Actinobacteria	Dietzia	Dietzia alimentaria 72	2	0	0
+4066	Bacteria	Actinobacteria	Dietzia	Dietzia maris	2	0	0
+4148	Bacteria	Actinobacteria	Dietzia	Dietzia timorensis	1	0	0
+356	Bacteria	Proteobacteria	Dinoroseobacter	Dinoroseobacter shibae DFL 12 = DSM 16493	2	1	0
+5479	Bacteria	Proteobacteria	Duganella	Duganella sacchari	0	1	0
+1850	Bacteria	Proteobacteria	Duganella	Duganella zoogloeoides ATCC 25935	2	0	0
+2679	Bacteria	Bacteroidetes	Dyadobacter	Dyadobacter crusticola DSM 16708	3	0	0
+446	Bacteria	Bacteroidetes	Dyadobacter	Dyadobacter fermentans DSM 18053	2	0	0
+5068	Bacteria	Bacteroidetes	Dyadobacter	Dyadobacter koreensis	1	0	0
+2468	Bacteria	Bacteroidetes	Dyadobacter	Dyadobacter tibetensis Y620-1	2	0	0
+5515	Bacteria	Proteobacteria	Ectothiorhodosinus	Ectothiorhodosinus mongolicus	1	0	0
+2607	Bacteria	Proteobacteria	Ectothiorhodospira	Ectothiorhodospira haloalkaliphila ATCC 51935	2	1	0
+5134	Bacteria	Proteobacteria	Ectothiorhodospira	Ectothiorhodospira magna	2	0	0
+5084	Bacteria	Proteobacteria	Ectothiorhodospira	Ectothiorhodospira marina	2	1	0
+5265	Bacteria	Proteobacteria	Ectothiorhodospira	Ectothiorhodospira mobilis	2	2	0
+2916	Bacteria	Acidobacteria	Edaphobacter	Edaphobacter aggregans DSM 19364	3	0	0
+1768	Bacteria	Proteobacteria	Elioraea	Elioraea tepidiphila DSM 17972	2	1	0
+4235	Bacteria	Proteobacteria	Erythrobacter	Erythrobacter litoralis	1	1	0
+2745	Bacteria	Proteobacteria	Erythrobacter	Erythrobacter longus	1	1	0
+3336	Bacteria	Proteobacteria	Erythrobacter	Erythrobacter marinus	2	0	0
+2913	Bacteria	Actinobacteria	Ferrimicrobium	Ferrimicrobium acidiphilum DSM 19497	2	0	0
+5359	Bacteria	Actinobacteria	Ferrithrix	Ferrithrix thermotolerans DSM 19514	1	0	0
+639	Archaea	Euryarchaeota	Ferroplasma	Ferroplasma acidarmanus fer1	1	0	0
+3917	Bacteria	Firmicutes	Fervidicola	Fervidicola ferrireducens	2	1	0
+1491	Bacteria	Cyanobacteria	Fischerella	Fischerella thermalis PCC 7521	2	0	0
+3069	Bacteria	Bacteroidetes	Flammeovirga	Flammeovirga pacifica	2	0	0
+4190	Bacteria	Firmicutes	Flavonifractor	Flavonifractor plautii	2	0	0
+3431	Bacteria	Chloroflexi	Flexilinea	Flexilinea flocculi	0	1	0
+1546	Bacteria	Cyanobacteria	Fortiea	Fortiea contorta PCC 7126	1	0	0
+550	Bacteria	Actinobacteria	Frankia	Frankia alni ACN14a	1	0	0
+251	Bacteria	Actinobacteria	Frankia	Frankia casuarinae	2	0	0
+1691	Bacteria	Actinobacteria	Frankia	Frankia discariae	1	0	0
+1707	Bacteria	Actinobacteria	Frankia	Frankia elaeagni	1	0	0
+763	Bacteria	Actinobacteria	Frankia	Frankia inefficax	2	0	0
+819	Bacteria	Actinobacteria	Frankia	Frankia symbiont of Datisca glomerata	2	0	0
+1164	Bacteria	Proteobacteria	Frateuria	Frateuria aurantia DSM 6220	0	1	0
+5130	Bacteria	Actinobacteria	Friedmanniella	Friedmanniella flava	3	0	0
+4986	Bacteria	Actinobacteria	Friedmanniella	Friedmanniella luteola	2	0	0
+5000	Bacteria	Actinobacteria	Friedmanniella	Friedmanniella sagamiharensis	3	0	0
+5654	Bacteria	Proteobacteria	Fulvimarina	Fulvimarina manganoxydans	2	1	0
+657	Bacteria	Proteobacteria	Fulvimarina	Fulvimarina pelagi HTCC2506	1	1	0
+1249	Bacteria	Fusobacteria	Fusobacterium	Fusobacterium necrophorum subsp. funduliforme ATCC 51357	1	0	0
+1827	Bacteria	Fusobacteria	Fusobacterium	Fusobacterium russii ATCC 25533	1	0	0
+1545	Bacteria	Cyanobacteria	Geminocystis	Geminocystis herdmanii PCC 6308	1	0	0
+2660	Bacteria	Gemmatimonadetes	Gemmatimonas	Gemmatimonas phototrophica	0	0	1
+3102	Bacteria	Proteobacteria	Geoalkalibacter	Geoalkalibacter ferrihydriticus DSM 17813	1	1	0
+3122	Bacteria	Proteobacteria	Geoalkalibacter	Geoalkalibacter subterraneus	1	1	0
+5028	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus africanus	2	0	0
+5322	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus amargosae	3	0	0
+5393	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus nigrescens	2	0	0
+5286	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus obscurus	2	0	0
+511	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus obscurus DSM 43160	2	0	0
+5713	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus pulveris	3	0	0
+5250	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus ruber	3	0	0
+5703	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus saharensis	3	0	0
+4943	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus siccatus	2	0	0
+4950	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus soli	2	0	0
+5195	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus taihuensis	3	0	0
+4909	Bacteria	Actinobacteria	Geodermatophilus	Geodermatophilus telluris	1	0	0
+3313	Archaea	Euryarchaeota	Geoglobus	Geoglobus ahangari	1	0	0
+2312	Bacteria	Cyanobacteria	Gloeobacter	Gloeobacter kilaueensis JS1	1	0	0
+201	Bacteria	Cyanobacteria	Gloeobacter	Gloeobacter violaceus PCC 7421	1	0	0
+4315	Bacteria	Cyanobacteria	Gloeomargarita	Gloeomargarita lithophora Alchichica-D10	2	0	0
+1551	Bacteria	Actinobacteria	Gordonia	Gordonia aichiensis NBRC 108223	3	0	0
+1161	Bacteria	Actinobacteria	Gordonia	Gordonia amarae NBRC 15530	3	0	0
+1159	Bacteria	Actinobacteria	Gordonia	Gordonia araii NBRC 100433	2	1	0
+493	Bacteria	Actinobacteria	Gordonia	Gordonia bronchialis DSM 43247	3	0	0
+3799	Bacteria	Actinobacteria	Gordonia	Gordonia desulfuricans NBRC 100010	3	0	0
+1160	Bacteria	Actinobacteria	Gordonia	Gordonia effusa NBRC 100432	3	0	0
+1552	Bacteria	Actinobacteria	Gordonia	Gordonia hirsuta DSM 44140 = NBRC 16056	2	0	0
+3992	Bacteria	Actinobacteria	Gordonia	Gordonia hydrophobica NBRC 16057	1	0	0
+1812	Bacteria	Actinobacteria	Gordonia	Gordonia kroppenstedtii DSM 45133	3	0	0
+1616	Bacteria	Actinobacteria	Gordonia	Gordonia malaquae NBRC 108250	2	0	0
+912	Bacteria	Actinobacteria	Gordonia	Gordonia neofelifaecis NRRL B-59395	3	0	0
+1617	Bacteria	Actinobacteria	Gordonia	Gordonia paraffinivorans NBRC 108238	3	0	0
+1205	Bacteria	Actinobacteria	Gordonia	Gordonia polyisoprenivorans VH2	2	0	0
+1364	Bacteria	Actinobacteria	Gordonia	Gordonia rhizosphera NBRC 16068	3	0	0
+2008	Bacteria	Actinobacteria	Gordonia	Gordonia shandongensis DSM 45094	2	0	0
+1553	Bacteria	Actinobacteria	Gordonia	Gordonia sihwensis NBRC 108236	3	0	0
+1557	Bacteria	Actinobacteria	Gordonia	Gordonia soli NBRC 108243	3	0	0
+1208	Bacteria	Actinobacteria	Gordonia	Gordonia sputi NBRC 100414	2	0	0
+4204	Bacteria	Actinobacteria	Gordonia	Gordonia terrae	3	0	0
+4998	Bacteria	Actinobacteria	Gordonia	Gordonia westfalica	3	0	0
+828	Bacteria	Acidobacteria	Granulicella	Granulicella mallensis MP5ACTX8	2	0	0
+5254	Bacteria	Acidobacteria	Granulicella	Granulicella pectinivorans	2	0	0
+829	Bacteria	Acidobacteria	Granulicella	Granulicella tundricola MP5ACTX9	2	0	0
+2010	Bacteria	Actinobacteria	Granulicoccus	Granulicoccus phenolivorans DSM 17626	1	0	0
+4701	Bacteria	Proteobacteria	Granulosicoccus	Granulosicoccus antarcticus IMCC3135	2	1	0
+3178	Bacteria	Proteobacteria	Gynuella	Gynuella sunshinyii YC6258	1	0	0
+240	Bacteria	Proteobacteria	Hahella	Hahella chejuensis KCTC 2396	1	0	0
+1741	Bacteria	Proteobacteria	Hahella	Hahella ganghwensis DSM 17046	1	0	0
+4933	Archaea	Euryarchaeota	Haloarchaeobius	Haloarchaeobius iranensis	1	0	0
+1067	Archaea	Euryarchaeota	Haloarcula	Haloarcula hispanica ATCC 33960	1	0	0
+1587	Archaea	Euryarchaeota	Haloarcula	Haloarcula vallismortis ATCC 29715	1	0	0
+3802	Archaea	Euryarchaeota	Halobacterium	Halobacterium hubeiense	1	0	0
+5117	Archaea	Euryarchaeota	Halobacterium	Halobacterium jilantaiense	1	0	0
+96	Archaea	Euryarchaeota	Halobacterium	Halobacterium salinarum NRC-1	1	0	0
+5401	Archaea	Euryarchaeota	Halobaculum	Halobaculum gomorrense	1	0	0
+5032	Archaea	Euryarchaeota	Halobellus	Halobellus clavatus	1	0	0
+1090	Archaea	Euryarchaeota	Halobiforma	Halobiforma lacisalsi AJ5	1	0	0
+1589	Archaea	Euryarchaeota	Halobiforma	Halobiforma nitratireducens JCM 10879	1	0	0
+1568	Archaea	Euryarchaeota	Halococcus	Halococcus saccharolyticus DSM 5350	1	0	0
+1569	Archaea	Euryarchaeota	Halococcus	Halococcus salifodinae DSM 8989	1	0	0
+2944	Archaea	Euryarchaeota	Halococcus	Halococcus sediminicola	1	0	0
+1565	Archaea	Euryarchaeota	Halococcus	Halococcus thailandensis JCM 13552	1	0	0
+4339	Archaea	Euryarchaeota	Halodesulfurarchaeum	Halodesulfurarchaeum formicicum	1	0	0
+5698	Bacteria	Actinobacteria	Haloechinothrix	Haloechinothrix alba	2	0	0
+1566	Archaea	Euryarchaeota	Haloferax	Haloferax elongans ATCC BAA-1513	1	0	0
+1404	Archaea	Euryarchaeota	Haloferax	Haloferax mediterranei ATCC 33500	1	0	0
+1588	Archaea	Euryarchaeota	Haloferax	Haloferax mucosum ATCC BAA-1512	1	0	0
+520	Archaea	Euryarchaeota	Haloferax	Haloferax volcanii DS2	1	0	0
+791	Archaea	Euryarchaeota	Halogeometricum	Halogeometricum borinquense DSM 11551	1	0	0
+1572	Archaea	Euryarchaeota	Halogeometricum	Halogeometricum pallidum JCM 14848	1	0	0
+2455	Bacteria	Actinobacteria	Haloglycomyces	Haloglycomyces albus DSM 45210	2	0	0
+5072	Archaea	Euryarchaeota	Halohasta	Halohasta litchfieldiae	1	0	0
+468	Archaea	Euryarchaeota	Halomicrobium	Halomicrobium mukohataei DSM 12286	1	0	0
+5251	Archaea	Euryarchaeota	Halomicrobium	Halomicrobium zhouii	1	0	0
+4529	Bacteria	Cyanobacteria	Halomicronema	Halomicronema hongdechloris C2206	1	0	0
+1129	Bacteria	Proteobacteria	Halomonas	Halomonas boliviensis LC1	2	0	0
+2666	Bacteria	Proteobacteria	Halomonas	Halomonas campaniensis	1	0	0
+5471	Bacteria	Proteobacteria	Halomonas	Halomonas cupida	3	0	0
+4631	Bacteria	Proteobacteria	Halomonas	Halomonas desiderata SP1	2	0	0
+3632	Bacteria	Proteobacteria	Halomonas	Halomonas huangheensis	2	0	0
+1770	Bacteria	Proteobacteria	Halomonas	Halomonas lutea DSM 23508	2	0	0
+4914	Bacteria	Proteobacteria	Halomonas	Halomonas pantelleriensis	2	0	0
+1260	Bacteria	Proteobacteria	Halomonas	Halomonas smyrnensis AAD6	2	0	0
+5149	Bacteria	Proteobacteria	Halomonas	Halomonas subterranea	2	0	0
+2966	Bacteria	Proteobacteria	Halomonas	Halomonas xinjiangensis	2	0	0
+5063	Archaea	Euryarchaeota	Halopenitus	Halopenitus malekzadehii	1	0	0
+2243	Archaea	Euryarchaeota	Halopiger	Halopiger djelfimassiliensis	1	0	0
+2242	Archaea	Euryarchaeota	Halopiger	Halopiger goleimassiliensis	1	0	0
+3035	Archaea	Euryarchaeota	Halopiger	Halopiger salifodinae	1	0	0
+1035	Archaea	Euryarchaeota	Halopiger	Halopiger xanaduensis SH-6	1	0	0
+2119	Archaea	Euryarchaeota	Haloplanus	Haloplanus natans DSM 17983	0	1	0
+5048	Archaea	Euryarchaeota	Haloplanus	Haloplanus vescus	1	0	0
+1141	Archaea	Euryarchaeota	Haloquadratum	Haloquadratum walsbyi C23	1	0	0
+305	Bacteria	Proteobacteria	Halorhodospira	Halorhodospira halophila SL1	1	0	0
+5107	Archaea	Euryarchaeota	Halorientalis	Halorientalis persicus	1	0	0
+4898	Archaea	Euryarchaeota	Halorientalis	Halorientalis regularis	1	0	0
+1567	Archaea	Euryarchaeota	Halorubrum	Halorubrum californiensis DSM 19288	1	0	0
+1571	Archaea	Euryarchaeota	Halorubrum	Halorubrum coriense DSM 10284	1	0	0
+2849	Archaea	Euryarchaeota	Halorubrum	Halorubrum halophilum	1	0	0
+433	Archaea	Euryarchaeota	Halorubrum	Halorubrum lacusprofundi ATCC 49239	1	0	0
+1577	Archaea	Euryarchaeota	Halorubrum	Halorubrum tebenquichense DSM 14210	1	0	0
+5314	Archaea	Euryarchaeota	Halostagnicola	Halostagnicola kamekurae	1	0	0
+2395	Archaea	Euryarchaeota	Halostagnicola	Halostagnicola larsenii XH-48	1	0	0
+4438	Archaea	Euryarchaeota	Haloterrigena	Haloterrigena daqingensis	1	0	0
+1579	Archaea	Euryarchaeota	Haloterrigena	Haloterrigena limicola JCM 13563	1	0	0
+4425	Archaea	Euryarchaeota	Haloterrigena	Haloterrigena saccharevitans	1	0	0
+510	Archaea	Euryarchaeota	Haloterrigena	Haloterrigena turkmenica DSM 5511	2	0	0
+1580	Archaea	Euryarchaeota	Halovivax	Halovivax asiaticus JCM 14624	1	0	0
+5450	Bacteria	Firmicutes	Hathewaya	Hathewaya proteolytica DSM 3090	1	0	0
+371	Bacteria	Firmicutes	Heliobacterium	Heliobacterium modesticaldum Ice1	2	0	0
+3423	Bacteria	Proteobacteria	Herbaspirillum	Herbaspirillum autotrophicum	2	0	0
+4513	Bacteria	Proteobacteria	Herbaspirillum	Herbaspirillum frisingense	1	0	0
+3457	Bacteria	Proteobacteria	Herbaspirillum	Herbaspirillum hiltneri N3	2	0	0
+3425	Bacteria	Proteobacteria	Herbaspirillum	Herbaspirillum rhizosphaerae	2	0	0
+3364	Bacteria	Proteobacteria	Herbaspirillum	Herbaspirillum seropedicae	1	0	0
+3923	Bacteria	Actinobacteria	Herbidospora	Herbidospora mongoliensis	2	0	0
+3922	Bacteria	Actinobacteria	Herbidospora	Herbidospora sakaeratensis	1	0	0
+3527	Bacteria	Chloroflexi	Herpetosiphon	Herpetosiphon geysericola	1	1	0
+4213	Bacteria	Proteobacteria	Hoeflea	Hoeflea olei	2	0	1
+673	Bacteria	Proteobacteria	Hoeflea	Hoeflea phototrophica DFL-43	1	0	1
+1168	Bacteria	Acidobacteria	Holophaga	Holophaga foetida DSM 6591	1	0	0
+1014	Bacteria	Actinobacteria	Hoyosella	Hoyosella subflava DQS3-9A1	2	1	0
+3934	Bacteria	Proteobacteria	Hydrogenophaga	Hydrogenophaga palleronii NBRC 102513	1	1	0
+995	Bacteria	Proteobacteria	Hylemonella	Hylemonella gracilis ATCC 19624	0	1	0
+1845	Bacteria	Proteobacteria	Hyphomicrobium	Hyphomicrobium zavarzinii ATCC 27496	2	0	1
+3498	Bacteria	Proteobacteria	Ideonella	Ideonella sakaiensis	1	1	0
+2486	Bacteria	Proteobacteria	Imhoffiella	Imhoffiella purpurea	1	1	0
+857	Bacteria	Actinobacteria	Intrasporangium	Intrasporangium calvum DSM 43043	2	0	0
+2475	Bacteria	Actinobacteria	Intrasporangium	Intrasporangium chromatireducens Q5-1	2	0	0
+3928	Bacteria	Actinobacteria	Janibacter	Janibacter anophelis NBRC 107843	2	0	0
+3929	Bacteria	Actinobacteria	Janibacter	Janibacter corallicola NBRC 107790	3	0	0
+5651	Bacteria	Actinobacteria	Janibacter	Janibacter indicus	1	0	0
+4085	Bacteria	Actinobacteria	Janibacter	Janibacter melonis	1	0	0
+3973	Bacteria	Actinobacteria	Janibacter	Janibacter terrae NBRC 107853	2	0	0
+3161	Bacteria	Proteobacteria	Jannaschia	Jannaschia aquimarina	2	1	0
+3586	Bacteria	Proteobacteria	Jannaschia	Jannaschia donghaensis	2	1	0
+5039	Bacteria	Proteobacteria	Jannaschia	Jannaschia faecimaris	3	1	0
+5235	Bacteria	Proteobacteria	Jannaschia	Jannaschia pohangensis	2	1	0
+5389	Bacteria	Actinobacteria	Jatrophihabitans	Jatrophihabitans endophyticus	1	0	0
+5659	Bacteria	Actinobacteria	Kibdelosporangium	Kibdelosporangium aridum	2	0	0
+3517	Bacteria	Actinobacteria	Kibdelosporangium	Kibdelosporangium phytohabitans	1	0	0
+1365	Bacteria	Actinobacteria	Kineosphaera	Kineosphaera limosa NBRC 100340	2	0	0
+4541	Bacteria	Actinobacteria	Kitasatospora	Kitasatospora aureofaciens	2	0	0
+2896	Bacteria	Actinobacteria	Kitasatospora	Kitasatospora azatica KCTC 9699	2	0	0
+2664	Bacteria	Actinobacteria	Kitasatospora	Kitasatospora cheerisanensis KCTC 2395	2	0	0
+2884	Bacteria	Actinobacteria	Kitasatospora	Kitasatospora mediocidica KCTC 9733	2	0	0
+2759	Bacteria	Actinobacteria	Kitasatospora	Kitasatospora purpeofusca	2	0	0
+1278	Bacteria	Actinobacteria	Kitasatospora	Kitasatospora setae KM-6054	1	0	0
+3017	Bacteria	Actinobacteria	Knoellia	Knoellia sinensis KCTC 19936	2	0	0
+3015	Bacteria	Actinobacteria	Knoellia	Knoellia subterranea KCTC 19937	2	0	0
+1680	Bacteria	Actinobacteria	Kribbella	Kribbella catacumbae DSM 19601	3	0	0
+481	Bacteria	Actinobacteria	Kribbella	Kribbella flavida DSM 17836	2	0	0
+5198	Bacteria	Proteobacteria	Kushneria	Kushneria avicenniae	1	0	0
+4642	Bacteria	Proteobacteria	Kushneria	Kushneria marisflavi	1	0	0
+2430	Bacteria	Actinobacteria	Kutzneria	Kutzneria albida DSM 43870	2	0	0
+700	Bacteria	Proteobacteria	Labrenzia	Labrenzia alexandrii DFL-11	1	0	1
+1783	Bacteria	Proteobacteria	Lamprocystis	Lamprocystis purpurea DSM 4197	2	1	0
+3776	Bacteria	Proteobacteria	Legionella	Legionella rubrilucens	2	0	0
+5135	Bacteria	Actinobacteria	Lentzea	Lentzea albida	3	0	0
+2768	Bacteria	Actinobacteria	Lentzea	Lentzea albidocapillata	3	0	0
+4209	Bacteria	Actinobacteria	Lentzea	Lentzea guizhouensis	0	1	0
+4630	Bacteria	Actinobacteria	Lentzea	Lentzea kentuckyensis	3	0	0
+3397	Bacteria	Chloroflexi	Leptolinea	Leptolinea tardivitalis	0	1	0
+4625	Bacteria	Cyanobacteria	Leptolyngbya	Leptolyngbya boryana dg5	1	0	0
+4699	Bacteria	Cyanobacteria	Leptolyngbya	Leptolyngbya ohadii IS1	2	0	0
+1917	Bacteria	Proteobacteria	Leucothrix	Leucothrix mucor DSM 2157	2	0	0
+3524	Bacteria	Chloroflexi	Levilinea	Levilinea saccharolytica	2	1	0
+3460	Bacteria	Proteobacteria	Limnohabitans	Limnohabitans planktonicus II-D5	2	0	0
+3275	Bacteria	Cyanobacteria	Limnoraphis	Limnoraphis robusta CS-951	2	0	0
+4364	Bacteria	Cyanobacteria	Limnothrix	Limnothrix rosea IAM M-220	2	0	0
+5362	Bacteria	Proteobacteria	Loktanella	Loktanella atrilutea	2	0	1
+5102	Bacteria	Proteobacteria	Loktanella	Loktanella fryxellensis	2	0	1
+5078	Bacteria	Proteobacteria	Loktanella	Loktanella koreensis	2	0	1
+5257	Bacteria	Proteobacteria	Loktanella	Loktanella litorea	2	0	1
+4888	Bacteria	Proteobacteria	Loktanella	Loktanella pyoseonensis	1	1	0
+5523	Bacteria	Proteobacteria	Loktanella	Loktanella rosea	3	0	1
+5406	Bacteria	Proteobacteria	Loktanella	Loktanella sediminum	3	0	1
+4649	Bacteria	Proteobacteria	Loktanella	Loktanella vestfoldensis	2	0	1
+3396	Bacteria	Chloroflexi	Longilinea	Longilinea arvoryzae	1	1	0
+1792	Bacteria	Actinobacteria	Longispora	Longispora albida DSM 44784	2	0	0
+701	Bacteria	Proteobacteria	Luminiphilus	Luminiphilus syltensis NOR5-1B	0	1	0
+3440	Bacteria	Actinobacteria	Luteipulveratus	Luteipulveratus halotolerans	2	0	0
+3429	Bacteria	Actinobacteria	Luteipulveratus	Luteipulveratus mongoliensis	2	0	0
+5705	Bacteria	Bacteroidetes	Lutibacter	Lutibacter agarilyticus	1	0	0
+4829	Bacteria	Proteobacteria	Lutimaribacter	Lutimaribacter saemankumensis	1	1	0
+5445	Bacteria	Firmicutes	Lutispora	Lutispora thermophila DSM 19022	4	0	0
+2293	Bacteria	Cyanobacteria	Lyngbya	Lyngbya aestuarii BL J	2	0	0
+3089	Bacteria	Cyanobacteria	Lyngbya	Lyngbya confervoides BDU141951	4	0	0
+5446	Bacteria	Proteobacteria	Malonomonas	Malonomonas rubra DSM 5091	0	1	0
+4872	Bacteria	Proteobacteria	Mameliella	Mameliella alba	2	1	0
+5104	Bacteria	Proteobacteria	Maribius	Maribius pelagius	2	1	0
+1069	Bacteria	Proteobacteria	Marichromatium	Marichromatium purpuratum 984	2	1	0
+5587	Bacteria	Actinobacteria	Marinactinospora	Marinactinospora thermotolerans DSM 45154	2	0	0
+3496	Bacteria	Proteobacteria	Marinagarivorans	Marinagarivorans algicola	2	0	0
+4687	Bacteria	Proteobacteria	Marinibacterium	Marinibacterium profundimaris	2	1	0
+1653	Bacteria	Proteobacteria	Marinobacter	Marinobacter nanhaiticus D15-8W	2	0	0
+2564	Bacteria	Proteobacteria	Marinobacterium	Marinobacterium jannaschii DSM 6295	3	0	0
+1756	Bacteria	Proteobacteria	Marinobacterium	Marinobacterium rhizophilum DSM 18822	3	0	0
+4766	Bacteria	Proteobacteria	Marinomonas	Marinomonas aquimarina	1	0	0
+4091	Bacteria	Proteobacteria	Marinomonas	Marinomonas atlantica	1	0	0
+3607	Bacteria	Proteobacteria	Marinomonas	Marinomonas fungiae	1	0	0
+916	Bacteria	Proteobacteria	Marinomonas	Marinomonas mediterranea MMB-1	1	0	0
+5373	Bacteria	Proteobacteria	Marinomonas	Marinomonas polaris DSM 16579	1	0	0
+1015	Bacteria	Proteobacteria	Marinomonas	Marinomonas posidonica IVIA-Po-181	1	0	0
+2354	Bacteria	Proteobacteria	Marinomonas	Marinomonas profundimaris	1	0	0
+4768	Bacteria	Proteobacteria	Marinomonas	Marinomonas spartinae	1	0	0
+2424	Bacteria	Proteobacteria	Marinomonas	Marinomonas ushuaiensis DSM 15871	1	0	0
+4606	Bacteria	Proteobacteria	Marivita	Marivita cryptomonadis	2	1	0
+4609	Bacteria	Proteobacteria	Marivita	Marivita geojedonensis	2	1	0
+5407	Bacteria	Proteobacteria	Marivita	Marivita hallyeonensis	2	1	0
+2774	Bacteria	Actinobacteria	Marmoricola	Marmoricola aequoreus	1	0	0
+4982	Bacteria	Actinobacteria	Marmoricola	Marmoricola scoriae	1	0	0
+1484	Bacteria	Cyanobacteria	Mastigocladopsis	Mastigocladopsis repens PCC 10914	1	0	0
+3163	Bacteria	Cyanobacteria	Mastigocladus	Mastigocladus laminosus UU774	1	0	0
+3728	Bacteria	Cyanobacteria	Mastigocoleus	Mastigocoleus testarum BC008	2	0	0
+983	Archaea	Crenarchaeota	Metallosphaera	Metallosphaera cuprina Ar-4	1	0	0
+325	Archaea	Crenarchaeota	Metallosphaera	Metallosphaera sedula DSM 5348	1	0	0
+4795	Archaea	Euryarchaeota	Methanobacterium	Methanobacterium congolense	1	0	0
+2979	Archaea	Euryarchaeota	Methanobacterium	Methanobacterium formicicum	0	1	0
+1391	Archaea	Euryarchaeota	Methanobacterium	Methanobacterium formicicum DSM 3637	0	1	0
+909	Archaea	Euryarchaeota	Methanobacterium	Methanobacterium lacus	1	0	0
+1022	Archaea	Euryarchaeota	Methanobacterium	Methanobacterium paludis	1	0	0
+2905	Archaea	Euryarchaeota	Methanobacterium	Methanobacterium veterum	1	0	0
+2379	Archaea	Euryarchaeota	Methanobrevibacter	Methanobrevibacter arboriphilus ANOR1	0	2	0
+4090	Archaea	Euryarchaeota	Methanobrevibacter	Methanobrevibacter curvatus	1	2	0
+4089	Archaea	Euryarchaeota	Methanobrevibacter	Methanobrevibacter cuticularis	1	1	0
+4087	Archaea	Euryarchaeota	Methanobrevibacter	Methanobrevibacter filiformis	1	0	0
+2842	Archaea	Euryarchaeota	Methanocaldococcus	Methanocaldococcus bathoardescens	0	1	0
+85	Archaea	Euryarchaeota	Methanocaldococcus	Methanocaldococcus fervens AG86	1	1	0
+588	Archaea	Euryarchaeota	Methanocaldococcus	Methanocaldococcus infernus ME	0	1	0
+575	Archaea	Euryarchaeota	Methanocaldococcus	Methanocaldococcus jannaschii DSM 2661	0	1	0
+84	Archaea	Euryarchaeota	Methanocaldococcus	Methanocaldococcus sp. FS406-22	0	1	0
+1672	Archaea	Euryarchaeota	Methanocaldococcus	Methanocaldococcus villosus KIN24-T80	0	1	0
+490	Archaea	Euryarchaeota	Methanocaldococcus	Methanocaldococcus vulcanius M7	0	1	0
+1214	Archaea	Euryarchaeota	Methanocella	Methanocella conradii HZ254	0	1	0
+5161	Archaea	Euryarchaeota	Methanococcoides	Methanococcoides vulcani	3	0	0
+336	Archaea	Euryarchaeota	Methanococcus	Methanococcus aeolicus Nankai-3	0	1	0
+1061	Archaea	Euryarchaeota	Methanococcus	Methanococcus maripaludis X1	0	1	0
+335	Archaea	Euryarchaeota	Methanococcus	Methanococcus vannielii SB	0	1	0
+89	Archaea	Euryarchaeota	Methanococcus	Methanococcus voltae A3	0	1	0
+1396	Archaea	Euryarchaeota	Methanoculleus	Methanoculleus bourgensis MS2	1	0	0
+4796	Archaea	Euryarchaeota	Methanoculleus	Methanoculleus chikugoensis	1	0	0
+3937	Archaea	Euryarchaeota	Methanofollis	Methanofollis ethanolicus	1	0	0
+1288	Archaea	Euryarchaeota	Methanofollis	Methanofollis liminatans DSM 4140	1	0	0
+634	Archaea	Euryarchaeota	Methanolacinia	Methanolacinia petrolearia DSM 11571	2	0	0
+1127	Archaea	Euryarchaeota	Methanolinea	Methanolinea tarda NOBI-1	1	0	0
+4852	Archaea	Euryarchaeota	Methanolobus	Methanolobus vulcani	0	0	1
+1416	Archaea	Euryarchaeota	Methanomassiliicoccus	Methanomassiliicoccus luminyensis B10	2	0	0
+2721	Archaea	Euryarchaeota	Methanomicrobium	Methanomicrobium mobile BP	0	1	0
+1177	Archaea	Euryarchaeota	Methanoplanus	Methanoplanus limicola DSM 2279	1	1	0
+1524	Archaea	Euryarchaeota	Methanoregula	Methanoregula formicica SMSP	2	0	0
+1124	Archaea	Euryarchaeota	Methanosaeta	Methanosaeta harundinacea 6Ac	1	1	0
+111	Archaea	Euryarchaeota	Methanosarcina	Methanosarcina acetivorans C2A	1	0	0
+3256	Archaea	Euryarchaeota	Methanosarcina	Methanosarcina barkeri 3	1	0	0
+3251	Archaea	Euryarchaeota	Methanosarcina	Methanosarcina barkeri MS	1	0	0
+3518	Archaea	Euryarchaeota	Methanosarcina	Methanosarcina flavescens	1	0	0
+3255	Archaea	Euryarchaeota	Methanosarcina	Methanosarcina horonobensis HB-1 = JCM 15518	1	0	0
+3254	Archaea	Euryarchaeota	Methanosarcina	Methanosarcina lacustris Z-7289	1	0	0
+3253	Archaea	Euryarchaeota	Methanosarcina	Methanosarcina mazei S-6	1	0	0
+3252	Archaea	Euryarchaeota	Methanosarcina	Methanosarcina siciliae T4/M	1	0	0
+3249	Archaea	Euryarchaeota	Methanosarcina	Methanosarcina thermophila TM-1	1	0	0
+3250	Archaea	Euryarchaeota	Methanosarcina	Methanosarcina vacuolata Z-761	1	0	0
+255	Archaea	Euryarchaeota	Methanospirillum	Methanospirillum hungatei JF-1	2	0	0
+622	Archaea	Euryarchaeota	Methanothermobacter	Methanothermobacter marburgensis str. Marburg	1	0	0
+148	Archaea	Euryarchaeota	Methanothermobacter	Methanothermobacter thermautotrophicus str. Delta H	1	0	0
+4799	Archaea	Euryarchaeota	Methanothermobacter	Methanothermobacter wolfeii	2	0	0
+834	Archaea	Euryarchaeota	Methanothermococcus	Methanothermococcus okinawensis IH1	0	1	0
+1746	Archaea	Euryarchaeota	Methanothermococcus	Methanothermococcus thermolithotrophicus DSM 2095	0	1	0
+762	Archaea	Euryarchaeota	Methanothermus	Methanothermus fervidus DSM 2088	1	1	0
+979	Archaea	Euryarchaeota	Methanothrix	Methanothrix soehngenii GP6	2	0	0
+1182	Archaea	Euryarchaeota	Methanotorris	Methanotorris formicicus Mc-S-70	1	1	0
+1018	Archaea	Euryarchaeota	Methanotorris	Methanotorris igneus Kol 5	0	1	0
+2731	Archaea	Euryarchaeota	Methermicoccus	Methermicoccus shengliensis DSM 18856	1	0	0
+904	Bacteria	Proteobacteria	Methylobacter	Methylobacter tundripaludum SV96	1	0	0
+3857	Bacteria	Proteobacteria	Methylobacterium	Methylobacterium aquaticum	1	1	0
+5226	Bacteria	Proteobacteria	Methylobacterium	Methylobacterium gossipiicola	2	1	0
+4930	Bacteria	Proteobacteria	Methylobacterium	Methylobacterium phyllostachyos	2	1	0
+384	Bacteria	Proteobacteria	Methylobacterium	Methylobacterium populi BJ001	2	0	0
+379	Bacteria	Proteobacteria	Methylobacterium	Methylobacterium radiotolerans JCM 2831	1	1	0
+5246	Bacteria	Proteobacteria	Methylocapsa	Methylocapsa palsarum	2	1	0
+421	Bacteria	Proteobacteria	Methylocella	Methylocella silvestris BL2	1	1	0
+1682	Bacteria	Proteobacteria	Methylocystis	Methylocystis rosea SV97	1	1	0
+2454	Bacteria	Proteobacteria	Methyloversatilis	Methyloversatilis discipulorum	0	1	0
+1684	Bacteria	Proteobacteria	Methyloversatilis	Methyloversatilis thermotolerans	0	1	0
+1011	Bacteria	Proteobacteria	Methyloversatilis	Methyloversatilis universalis FAM5	0	1	0
+4685	Bacteria	Proteobacteria	Methylovulum	Methylovulum psychrotolerans	1	0	0
+5518	Bacteria	Actinobacteria	Microbispora	Microbispora rosea	2	0	0
+186	Bacteria	Cyanobacteria	Microcystis	Microcystis aeruginosa NIES-843	2	0	0
+1280	Bacteria	Actinobacteria	Microlunatus	Microlunatus phosphovorus NM-1	1	0	0
+4992	Bacteria	Actinobacteria	Microlunatus	Microlunatus soli	2	0	0
+4764	Bacteria	Actinobacteria	Micromonospora	Micromonospora auratinigra	1	0	0
+5512	Bacteria	Actinobacteria	Micromonospora	Micromonospora avicenniae	2	0	0
+4781	Bacteria	Actinobacteria	Micromonospora	Micromonospora carbonacea	2	0	0
+4778	Bacteria	Actinobacteria	Micromonospora	Micromonospora chersina	1	0	0
+4772	Bacteria	Actinobacteria	Micromonospora	Micromonospora coxensis	2	0	0
+5488	Bacteria	Actinobacteria	Micromonospora	Micromonospora cremea	2	0	0
+4779	Bacteria	Actinobacteria	Micromonospora	Micromonospora echinospora	1	0	0
+4775	Bacteria	Actinobacteria	Micromonospora	Micromonospora inyonensis	1	0	0
+4776	Bacteria	Actinobacteria	Micromonospora	Micromonospora krabiensis	1	0	0
+1358	Bacteria	Actinobacteria	Micromonospora	Micromonospora lupini str. Lupac 08	1	0	0
+4782	Bacteria	Actinobacteria	Micromonospora	Micromonospora nigra	1	0	0
+4774	Bacteria	Actinobacteria	Micromonospora	Micromonospora pallida	1	0	0
+5035	Bacteria	Actinobacteria	Micromonospora	Micromonospora pattaloongensis	1	0	0
+4784	Bacteria	Actinobacteria	Micromonospora	Micromonospora peucetia	1	0	0
+4780	Bacteria	Actinobacteria	Micromonospora	Micromonospora purpureochromogenes	2	0	0
+4770	Bacteria	Actinobacteria	Micromonospora	Micromonospora rifamycinica	2	0	0
+3920	Bacteria	Actinobacteria	Micromonospora	Micromonospora rosaria	2	0	0
+2781	Bacteria	Actinobacteria	Microtetraspora	Microtetraspora glauca	2	0	0
+3826	Bacteria	Actinobacteria	Microtetraspora	Microtetraspora malaysiensis	2	0	0
+2565	Bacteria	Proteobacteria	Microvirgula	Microvirgula aerodenitrificans DSM 15089	1	0	0
+3881	Bacteria	Actinobacteria	Millisia	Millisia brevis NBRC 105863	3	0	0
+1206	Bacteria	Actinobacteria	Mobilicoccus	Mobilicoccus pelagius NBRC 104925	1	0	0
+2978	Bacteria	Actinobacteria	Modestobacter	Modestobacter caceresii	3	0	0
+1405	Bacteria	Actinobacteria	Modestobacter	Modestobacter marinus	2	0	0
+4430	Bacteria	Actinobacteria	Monashia	Monashia flava	2	0	0
+4293	Bacteria	Cyanobacteria	Moorea	Moorea producens PAL-8-15-08-1	2	0	0
+4000	Bacteria	Firmicutes	Moorella	Moorella mulderi DSM 14980	1	0	0
+3203	Bacteria	Proteobacteria	Moritella	Moritella viscosa	0	1	0
+561	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium abscessus	1	0	0
+4760	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium acapulcensis	3	0	0
+4554	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium alsense	3	0	0
+2461	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium aromaticivorans JS19b1 = JCM 16368	2	0	0
+4544	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium arosiense ATCC BAA-1401 = DSM 45069	3	0	0
+2526	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium asiaticum DSM 44297	3	0	0
+3387	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium aurum	2	0	0
+1157	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium avium subsp. avium Env 77	3	0	0
+126	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium avium subsp. paratuberculosis K-10	2	0	0
+4543	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium bacteremicum	2	0	0
+3403	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium bohemicum DSM 44277	3	0	0
+934	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium bovis AF2122/97	2	0	0
+3921	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium brisbanense	3	0	0
+4743	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium brumae	2	0	0
+4545	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium celeriflavum	3	0	0
+4070	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium chelonae CCUG 47445	1	0	0
+3373	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium chlorophenolicum	3	0	0
+1270	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium chubuense NBB4	3	0	0
+4600	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium colombiense CECT 3035	2	0	0
+4587	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium confluentis	3	0	0
+4586	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium conspicuum	3	0	0
+2525	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium cosmeticum	1	0	0
+4374	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium diernhoferi	2	0	0
+4588	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium doricum	3	0	0
+3307	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium elephantis	3	0	0
+3569	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium europaeum	3	0	0
+4584	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium fallax	3	0	0
+4243	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium flavescens	3	0	0
+3531	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium fortuitum	2	0	0
+4589	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium fragae	3	0	0
+4492	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium franklinii	2	0	0
+2451	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium genavense ATCC 51234	2	0	0
+855	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium gilvum Spyr1	1	0	0
+3416	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium goodii	3	0	0
+4574	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium gordonae	3	0	0
+1592	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium haemophilum DSM 44634	3	0	0
+1794	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium hassiacum DSM 44199	3	0	0
+4546	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium heidelbergense	3	0	0
+4244	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium holsaticum	3	0	0
+4547	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium insubricum	2	0	0
+4548	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium intermedium	3	0	0
+1291	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium intracellulare ATCC 13950	2	0	0
+4575	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium iranicum	2	0	0
+695	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium kansasii ATCC 12478	3	0	0
+3391	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium komaniense	3	0	0
+4597	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium koreense	3	0	0
+4576	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium kubicae	3	0	0
+2969	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium kyorinense	3	0	0
+4590	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium lacus	3	0	0
+3568	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium lentiflavum	2	0	0
+4487	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium litorale	3	0	0
+4591	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium longobardum	2	0	0
+2522	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium mageritense DSM 44476 = CIP 104973	2	0	0
+3390	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium malmesburyense	3	0	0
+4549	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium malmoense	3	0	0
+4550	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium mantenii	3	0	0
+2788	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium marinum E11	2	0	0
+4552	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium minnesotense	3	0	0
+4551	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium moriokaense	3	0	0
+3495	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium mucogenicum	1	0	0
+1493	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium neoaurum VKM Ac-1815D	2	0	0
+4553	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium noviomagense	3	0	0
+3374	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium obuense	2	0	0
+4577	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium palustre	3	0	0
+4557	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium parafortuitum	2	0	0
+746	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium parascrofulaceum ATCC BAA-614	3	0	0
+4592	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium parmense	3	0	0
+3584	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium peregrinum	2	0	0
+3953	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium phlei	3	0	0
+1106	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium rhodesiae JS60	3	0	0
+1105	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium rhodesiae NBB3	3	0	0
+4578	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium riyadhense	3	0	0
+5066	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium rutilum	3	0	0
+4491	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium salmoniphilum	1	0	0
+4579	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium saskatchewanense	3	0	0
+4580	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium senuense	3	0	0
+3063	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium setense	3	0	0
+3956	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium simiae	3	0	0
+1013	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium sinense	2	0	0
+293	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium smegmatis str. MC2 155	2	0	0
+4610	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium szulgai	3	0	0
+4582	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium terrae	3	0	0
+1120	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium thermoresistibile ATCC 19527	3	0	0
+2656	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium triplex	2	0	0
+4593	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium triviale	2	0	0
+939	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium tuberculosis H37Rv	2	0	0
+4556	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium tusciae	3	0	0
+4144	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium vaccae 95051	2	0	0
+300	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium vanbaalenii PYR-1	2	0	0
+4583	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium wolinskyi	2	0	0
+4585	Bacteria	Actinobacteria	Mycobacterium	Mycobacterium xenopi	3	0	0
+482	Bacteria	Actinobacteria	Nakamurella	Nakamurella multipartita DSM 44233	1	0	0
+4965	Bacteria	Actinobacteria	Nakamurella	Nakamurella panacisegetis	2	0	0
+4702	Bacteria	Firmicutes	Natranaerobius	Natranaerobius trueperi	1	1	0
+1581	Archaea	Euryarchaeota	Natrialba	Natrialba asiatica DSM 12278	1	0	0
+4641	Archaea	Euryarchaeota	Natrialbaceae	Natrialbaceae archaeon JW/NM-HA 15	2	0	0
+2808	Archaea	Euryarchaeota	Natrinema	Natrinema altunense	1	0	0
+1104	Archaea	Euryarchaeota	Natrinema	Natrinema pellirubrum DSM 15624	1	0	0
+5131	Archaea	Euryarchaeota	Natrinema	Natrinema salaciae	1	0	0
+1573	Archaea	Euryarchaeota	Natrinema	Natrinema versiforme JCM 10478	2	0	0
+5238	Archaea	Euryarchaeota	Natronobacterium	Natronobacterium gregoryi	1	0	0
+1103	Archaea	Euryarchaeota	Natronobacterium	Natronobacterium gregoryi SP2	1	0	0
+1583	Archaea	Euryarchaeota	Natronococcus	Natronococcus amylolyticus DSM 10524	1	0	0
+1584	Archaea	Euryarchaeota	Natronococcus	Natronococcus jeotgali DSM 18795	1	0	0
+1528	Archaea	Euryarchaeota	Natronococcus	Natronococcus occultus SP4	1	0	0
+1574	Archaea	Euryarchaeota	Natronolimnobius	Natronolimnobius innermongolicus JCM 12255	2	0	0
+2498	Archaea	Euryarchaeota	Natronomonas	Natronomonas moolapensis 8.8.11	1	0	0
+531	Archaea	Euryarchaeota	Natronomonas	Natronomonas pharaonis DSM 2160	1	0	0
+1585	Archaea	Euryarchaeota	Natronorubrum	Natronorubrum bangense JCM 10635	1	0	0
+1586	Archaea	Euryarchaeota	Natronorubrum	Natronorubrum sulfidifaciens JCM 14089	1	0	0
+5521	Archaea	Euryarchaeota	Natronorubrum	Natronorubrum thiooxidans	1	0	0
+1853	Archaea	Euryarchaeota	Natronorubrum	Natronorubrum tibetense GA33	1	0	0
+5492	Bacteria	Firmicutes	Negativibacillus	Negativibacillus massiliensis	1	0	0
+5498	Bacteria	Firmicutes	Negativicoccus	Negativicoccus massiliensis	1	0	0
+653	Bacteria	Proteobacteria	Neptuniibacter	Neptuniibacter caesariensis	1	0	0
+4004	Bacteria	Proteobacteria	Neptuniibacter	Neptuniibacter marinus	2	0	0
+3388	Bacteria	Proteobacteria	Nereida	Nereida ignava	2	1	0
+1944	Bacteria	Proteobacteria	Nevskia	Nevskia ramosa DSM 11499	0	1	0
+3246	Bacteria	Actinobacteria	Nitriliruptor	Nitriliruptor alkaliphilus DSM 45188	1	0	0
+4061	Bacteria	Actinobacteria	Nocardia	Nocardia acidivorans NBRC 108247	2	0	0
+4029	Bacteria	Actinobacteria	Nocardia	Nocardia amikacinitolerans NBRC 108937	2	0	0
+3539	Bacteria	Actinobacteria	Nocardia	Nocardia arizonensis	2	0	0
+4030	Bacteria	Actinobacteria	Nocardia	Nocardia arthritidis NBRC 100137	3	0	0
+1421	Bacteria	Actinobacteria	Nocardia	Nocardia asteroides NBRC 15531	2	0	0
+1212	Bacteria	Actinobacteria	Nocardia	Nocardia brasiliensis ATCC 700358	2	0	0
+1422	Bacteria	Actinobacteria	Nocardia	Nocardia brevicatena NBRC 12119	3	0	0
+1423	Bacteria	Actinobacteria	Nocardia	Nocardia carnea NBRC 14403	3	0	0
+4043	Bacteria	Actinobacteria	Nocardia	Nocardia crassostreae	1	0	0
+4031	Bacteria	Actinobacteria	Nocardia	Nocardia cummidelens NBRC 100378	2	0	0
+1311	Bacteria	Actinobacteria	Nocardia	Nocardia cyriacigeorgica GUH-2	2	0	0
+4539	Bacteria	Actinobacteria	Nocardia	Nocardia donostiensis	2	0	0
+3413	Bacteria	Actinobacteria	Nocardia	Nocardia farcinica	2	1	0
+4032	Bacteria	Actinobacteria	Nocardia	Nocardia harenae NBRC 108248	2	0	0
+1424	Bacteria	Actinobacteria	Nocardia	Nocardia higoensis NBRC 100133	3	0	0
+4033	Bacteria	Actinobacteria	Nocardia	Nocardia inohanensis NBRC 100128	2	0	0
+4037	Bacteria	Actinobacteria	Nocardia	Nocardia jejuensis NBRC 103114	2	0	1
+1425	Bacteria	Actinobacteria	Nocardia	Nocardia jiangxiensis NBRC 101359	2	0	0
+4038	Bacteria	Actinobacteria	Nocardia	Nocardia mexicana NBRC 108244	3	0	0
+4045	Bacteria	Actinobacteria	Nocardia	Nocardia mikamii NBRC 108933	3	0	0
+4035	Bacteria	Actinobacteria	Nocardia	Nocardia miyunensis NBRC 108239	3	0	0
+1427	Bacteria	Actinobacteria	Nocardia	Nocardia niigatensis NBRC 100131	2	0	0
+4044	Bacteria	Actinobacteria	Nocardia	Nocardia niwae NBRC 108934 = DSM 45340	3	0	0
+2427	Bacteria	Actinobacteria	Nocardia	Nocardia nova SH22a	2	0	0
+1426	Bacteria	Actinobacteria	Nocardia	Nocardia otitidiscaviarum NBRC 14405	1	1	0
+1428	Bacteria	Actinobacteria	Nocardia	Nocardia paucivorans NBRC 100373	3	0	0
+1431	Bacteria	Actinobacteria	Nocardia	Nocardia pneumoniae NBRC 100136	3	0	0
+4036	Bacteria	Actinobacteria	Nocardia	Nocardia pseudobrasiliensis NBRC 108224	3	0	0
+4039	Bacteria	Actinobacteria	Nocardia	Nocardia puris NBRC 108233	2	0	0
+2775	Bacteria	Actinobacteria	Nocardia	Nocardia rhamnosiphila NBRC 108938	3	0	0
+4310	Bacteria	Actinobacteria	Nocardia	Nocardia seriolae	2	0	0
+4336	Bacteria	Actinobacteria	Nocardia	Nocardia soli	2	0	0
+4040	Bacteria	Actinobacteria	Nocardia	Nocardia speluncae NBRC 108251	3	0	0
+1429	Bacteria	Actinobacteria	Nocardia	Nocardia takedensis NBRC 100417	2	0	0
+4062	Bacteria	Actinobacteria	Nocardia	Nocardia terpenica	1	0	0
+1435	Bacteria	Actinobacteria	Nocardia	Nocardia transvalensis NBRC 15921	2	0	0
+4042	Bacteria	Actinobacteria	Nocardia	Nocardia uniformis NBRC 13702	1	1	0
+4041	Bacteria	Actinobacteria	Nocardia	Nocardia vermiculata NBRC 100427	3	0	0
+1434	Bacteria	Actinobacteria	Nocardia	Nocardia veterana NBRC 100344	3	0	0
+1433	Bacteria	Actinobacteria	Nocardia	Nocardia vinacea NBRC 16497	3	0	0
+2094	Bacteria	Actinobacteria	Nocardioides	Nocardioides alkalitolerans DSM 16699	1	0	0
+4137	Bacteria	Actinobacteria	Nocardioides	Nocardioides dokdonensis FR1436	1	0	0
+4994	Bacteria	Actinobacteria	Nocardioides	Nocardioides exalbidus	1	0	0
+1998	Bacteria	Actinobacteria	Nocardioides	Nocardioides insulae DSM 17944	1	0	0
+4869	Bacteria	Actinobacteria	Nocardioides	Nocardioides lianchengensis	1	0	0
+3216	Bacteria	Actinobacteria	Nocardioides	Nocardioides luteus	2	0	0
+5229	Bacteria	Actinobacteria	Nocardioides	Nocardioides psychrotolerans	2	0	0
+1340	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis alba ATCC BAA-2165	2	0	0
+1605	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis baichengensis YIM 90130	3	0	0
+603	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111	2	0	0
+5438	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis flavescens	2	0	0
+1599	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis ganjiahuensis DSM 45031	3	0	0
+1603	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis gilva YIM 90087	2	0	0
+1598	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis halotolerans DSM 44410	1	0	0
+1595	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis kunsanensis DSM 44524	2	0	0
+3925	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis listeri NBRC 13360	2	0	0
+1601	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis lucentensis DSM 44048	2	0	0
+1600	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis potens DSM 45234	3	0	0
+1597	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis salina YIM 90010	2	0	0
+4457	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis sinuspersici	3	0	0
+3880	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis trehalosi NBRC 14201	2	0	0
+1602	Bacteria	Actinobacteria	Nocardiopsis	Nocardiopsis xinjiangensis YIM 90004	2	0	0
+1437	Bacteria	Cyanobacteria	Nodosilinea	Nodosilinea nodulosa PCC 7104	2	0	0
+1593	Bacteria	Cyanobacteria	Nodularia	Nodularia spumigena CCY9414	1	0	0
+2799	Bacteria	Actinobacteria	Nonomuraea	Nonomuraea candida	2	0	0
+4826	Bacteria	Actinobacteria	Nonomuraea	Nonomuraea jiangxiensis	2	0	0
+4844	Bacteria	Actinobacteria	Nonomuraea	Nonomuraea maritima	2	0	1
+5080	Bacteria	Actinobacteria	Nonomuraea	Nonomuraea pusilla	2	0	0
+4366	Bacteria	Cyanobacteria	Nostoc	Nostoc calcicola FACHB-389	3	0	0
+3511	Bacteria	Cyanobacteria	Nostoc	Nostoc piscinale CENA21	1	0	0
+387	Bacteria	Cyanobacteria	Nostoc	Nostoc punctiforme PCC 73102	2	0	0
+4654	Bacteria	Cyanobacteria	Nostocales	Nostocales cyanobacterium HT-58-2	2	0	0
+4475	Bacteria	Firmicutes	Novibacillus	Novibacillus thermophilus	1	0	0
+2148	Bacteria	Proteobacteria	Novosphingobium	Novosphingobium acidiphilum DSM 19966	1	1	0
+4009	Bacteria	Proteobacteria	Novosphingobium	Novosphingobium capsulatum NBRC 12533	1	1	0
+3825	Bacteria	Proteobacteria	Novosphingobium	Novosphingobium fuchskuhlense	1	1	0
+3070	Bacteria	Proteobacteria	Novosphingobium	Novosphingobium subterraneum	2	1	0
+1375	Bacteria	Proteobacteria	Oceanibaculum	Oceanibaculum indicum P24	1	0	1
+5545	Bacteria	Firmicutes	Oceanobacillus	Oceanobacillus sojae	1	1	0
+1980	Bacteria	Proteobacteria	Oceanospirillum	Oceanospirillum beijerinckii DSM 7166	2	0	0
+2000	Bacteria	Proteobacteria	Oceanospirillum	Oceanospirillum maris DSM 6286	2	0	0
+4652	Bacteria	Proteobacteria	Oleiphilus	Oleiphilus messinensis	3	0	0
+3526	Bacteria	Chloroflexi	Ornatilinea	Ornatilinea apprima	1	1	0
+1488	Bacteria	Cyanobacteria	Oscillatoria	Oscillatoria acuminata PCC 6304	1	0	0
+1495	Bacteria	Cyanobacteria	Oscillatoria	Oscillatoria nigro-viridis PCC 7112	1	0	0
+1439	Bacteria	Cyanobacteria	Oscillatoriales	Oscillatoriales cyanobacterium JSC-12	1	0	0
+3565	Bacteria	Firmicutes	Oxobacter	Oxobacter pfennigii	2	0	0
+2241	Bacteria	Firmicutes	Paenibacillus	Paenibacillus antibioticophila	1	0	0
+1888	Bacteria	Firmicutes	Paenibacillus	Paenibacillus barengoltzii G22	1	0	0
+1816	Bacteria	Firmicutes	Paenibacillus	Paenibacillus ginsengihumi DSM 21568	2	0	0
+3587	Bacteria	Firmicutes	Paenibacillus	Paenibacillus ihumii	1	0	0
+4429	Bacteria	Firmicutes	Paenibacillus	Paenibacillus rhizosphaerae	1	0	0
+1326	Bacteria	Firmicutes	Paenibacillus	Paenibacillus senegalensis JC66	2	0	0
+4180	Bacteria	Firmicutes	Paenibacillus	Paenibacillus yonginensis	1	0	0
+2798	Archaea	Euryarchaeota	Palaeococcus	Palaeococcus pacificus DY20341	1	0	0
+2003	Bacteria	Proteobacteria	Paludibacterium	Paludibacterium yongneupense DSM 18731	2	0	0
+2617	Bacteria	Proteobacteria	Paraburkholderia	Paraburkholderia acidipaludis NBRC 101816	0	1	0
+4980	Bacteria	Proteobacteria	Paraburkholderia	Paraburkholderia caballeronis	0	1	0
+5672	Bacteria	Proteobacteria	Paraburkholderia	Paraburkholderia caryophylli	0	1	0
+2851	Bacteria	Proteobacteria	Paraburkholderia	Paraburkholderia kururiensis subsp. thiooxydans NBRC 107107	0	1	0
+5234	Bacteria	Proteobacteria	Paraburkholderia	Paraburkholderia megapolitana	1	1	0
+388	Bacteria	Proteobacteria	Paraburkholderia	Paraburkholderia phymatum STM815	1	1	0
+3037	Bacteria	Proteobacteria	Paraburkholderia	Paraburkholderia sacchari	1	1	0
+5050	Bacteria	Proteobacteria	Paraburkholderia	Paraburkholderia sartisoli	0	1	0
+4309	Bacteria	Proteobacteria	Paraburkholderia	Paraburkholderia sprentiae WSM5005	0	1	0
+257	Bacteria	Proteobacteria	Paraburkholderia	Paraburkholderia xenovorans LB400	2	1	0
+1921	Bacteria	Actinobacteria	Patulibacter	Patulibacter americanus DSM 16676	1	0	0
+295	Bacteria	Proteobacteria	Pelobacter	Pelobacter propionicus DSM 2379	2	0	0
+403	Bacteria	Chlorobi	Pelodictyon	Pelodictyon phaeoclathratiforme BU-1	2	0	0
+4677	Bacteria	Proteobacteria	Pelomonas	Pelomonas puraquae	0	1	0
+1341	Bacteria	Proteobacteria	Phaeospirillum	Phaeospirillum molischianum DSM 120	4	0	0
+888	Bacteria	Firmicutes	Phascolarctobacterium	Phascolarctobacterium succinatutens YIT 12067	2	0	0
+4360	Bacteria	Cyanobacteria	Phormidesmis	Phormidesmis priestleyi ULC007	2	0	0
+4367	Bacteria	Cyanobacteria	Phormidium	Phormidium ambiguum IAM M-71	2	0	0
+4368	Bacteria	Cyanobacteria	Phormidium	Phormidium tenue NIES-30	2	0	0
+3038	Bacteria	Actinobacteria	Pimelobacter	Pimelobacter simplex	2	0	0
+2840	Bacteria	Proteobacteria	Planktomarina	Planktomarina temperata RCA23	1	0	1
+4349	Bacteria	Proteobacteria	Planktotalea	Planktotalea frisia	1	0	0
+2717	Bacteria	Cyanobacteria	Planktothrix	Planktothrix agardhii NIVA-CYA 126/8	2	0	0
+4727	Bacteria	Cyanobacteria	Planktothrix	Planktothrix paucivesiculata PCC 9631	2	0	0
+4728	Bacteria	Cyanobacteria	Planktothrix	Planktothrix serta PCC 8927	2	0	0
+4726	Bacteria	Cyanobacteria	Planktothrix	Planktothrix tepida PCC 9214	2	0	0
+4198	Bacteria	Actinobacteria	Planobispora	Planobispora rosea	1	0	0
+4135	Bacteria	Actinobacteria	Planomonospora	Planomonospora sphaerica	1	0	0
+1487	Bacteria	Cyanobacteria	Pleurocapsa	Pleurocapsa sp. PCC 7327	1	0	0
+3279	Bacteria	Proteobacteria	Polynucleobacter	Polynucleobacter duraquae	1	1	0
+4635	Bacteria	Proteobacteria	Porphyrobacter	Porphyrobacter colymbi	1	1	0
+2006	Bacteria	Proteobacteria	Porphyrobacter	Porphyrobacter cryptus DSM 12079	2	1	0
+4169	Bacteria	Proteobacteria	Porphyrobacter	Porphyrobacter dokdonensis DSW-74	1	1	0
+3901	Bacteria	Proteobacteria	Porphyrobacter	Porphyrobacter donghaensis	2	1	0
+4158	Bacteria	Proteobacteria	Porphyrobacter	Porphyrobacter neustonensis	1	1	0
+5484	Bacteria	Proteobacteria	Porphyrobacter	Porphyrobacter sanguineus	1	1	0
+4636	Bacteria	Proteobacteria	Porphyrobacter	Porphyrobacter tepidarius	2	1	0
+2542	Bacteria	Bacteroidetes	Porphyromonas	Porphyromonas cangingivalis JCM 15983	2	0	0
+3891	Bacteria	Bacteroidetes	Porphyromonas	Porphyromonas somerae	1	0	0
+4724	Bacteria	Actinobacteria	Prauserella	Prauserella marina	3	0	0
+2772	Bacteria	Actinobacteria	Prauserella	Prauserella rugosa	3	0	0
+306	Bacteria	Cyanobacteria	Prochlorococcus	Prochlorococcus marinus str. AS9601	1	0	0
+2972	Bacteria	Cyanobacteria	Prochlorococcus	Prochlorococcus marinus str. MIT 9107	1	0	0
+365	Bacteria	Cyanobacteria	Prochlorococcus	Prochlorococcus marinus str. MIT 9211	1	0	0
+226	Bacteria	Cyanobacteria	Prochlorococcus	Prochlorococcus marinus str. MIT 9312	1	0	0
+204	Bacteria	Cyanobacteria	Prochlorococcus	Prochlorococcus marinus str. MIT 9313	1	0	0
+307	Bacteria	Cyanobacteria	Prochlorococcus	Prochlorococcus marinus str. MIT 9515	1	0	0
+221	Bacteria	Cyanobacteria	Prochlorococcus	Prochlorococcus marinus str. NATL2A	1	0	0
+128	Bacteria	Cyanobacteria	Prochlorococcus	Prochlorococcus marinus subsp. marinus str. CCMP1375	1	0	0
+203	Bacteria	Cyanobacteria	Prochlorococcus	Prochlorococcus marinus subsp. pastoris str. CCMP1986	1	0	0
+1547	Bacteria	Cyanobacteria	Prochlorothrix	Prochlorothrix hollandica PCC 9006 = CALU 1027	2	0	0
+402	Bacteria	Chlorobi	Prosthecochloris	Prosthecochloris aestuarii DSM 271	3	0	0
+3521	Bacteria	Proteobacteria	Prosthecomicrobium	Prosthecomicrobium hirschii	1	1	0
+5042	Bacteria	Firmicutes	Proteiniborus	Proteiniborus ethanoligenes	2	0	0
+1544	Bacteria	Cyanobacteria	Pseudanabaena	Pseudanabaena biceps PCC 7429	2	0	0
+5666	Bacteria	Proteobacteria	Pseudogulbenkiania	Pseudogulbenkiania subflava DSM 22618	3	0	0
+2990	Bacteria	Proteobacteria	Pseudohaliea	Pseudohaliea rubra DSM 19751	1	0	0
+94	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas aeruginosa PAO1	1	1	0
+4003	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas alcaligenes	1	1	0
+4991	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas anguilliseptica	2	1	0
+4847	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas benzenivorans	1	1	0
+4140	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas citronellolis	1	1	0
+1136	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas fluorescens F113	1	1	0
+1007	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas fulva 12-X	0	1	0
+5067	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas fuscovaginae	0	1	0
+5003	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas guangdongensis	1	1	0
+5231	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas guineae	1	1	0
+5022	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas kuykendallii	2	1	0
+2967	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas lutea	1	1	0
+3115	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas massiliensis	1	1	0
+324	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas mendocina ymp	1	1	0
+3830	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas monteilii	1	1	0
+4565	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas nitroreducens NBRC 12694	1	1	0
+4979	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas oryzae	1	1	0
+5166	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas otitidis	1	1	0
+1878	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas protegens CHA0	1	1	0
+4377	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas psychrotolerans	1	1	0
+3054	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas putida	1	1	0
+116	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas putida KT2440	1	1	0
+1907	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas resinovorans NBRC 106553	1	1	0
+2975	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas rhizosphaerae	1	1	0
+5297	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas sagittaria	1	1	0
+123	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas syringae pv. tomato str. DC3000	0	1	0
+5436	Bacteria	Proteobacteria	Pseudomonas	Pseudomonas zeshuii	1	1	0
+2572	Bacteria	Actinobacteria	Pseudonocardia	Pseudonocardia acaciae DSM 45401	4	0	0
+5267	Bacteria	Actinobacteria	Pseudonocardia	Pseudonocardia ammonioxydans	3	0	0
+2035	Bacteria	Actinobacteria	Pseudonocardia	Pseudonocardia asaccharolytica DSM 44247 = NBRC 16224	3	0	0
+2753	Bacteria	Actinobacteria	Pseudonocardia	Pseudonocardia autotrophica	3	0	0
+959	Bacteria	Actinobacteria	Pseudonocardia	Pseudonocardia dioxanivorans CB1190	3	0	0
+4895	Bacteria	Actinobacteria	Pseudonocardia	Pseudonocardia oroxyli	4	0	0
+2149	Bacteria	Actinobacteria	Pseudonocardia	Pseudonocardia spinosispora DSM 44797	4	0	0
+5457	Bacteria	Actinobacteria	Pseudonocardia	Pseudonocardia thermophila	3	0	0
+5624	Bacteria	Proteobacteria	Pseudooctadecabacter	Pseudooctadecabacter jejudonensis	3	1	0
+1292	Bacteria	Actinobacteria	Pseudopropionibacterium	Pseudopropionibacterium propionicum F0230a	2	0	0
+2303	Bacteria	Proteobacteria	Psychromonas	Psychromonas arctica DSM 14288	1	0	0
+1927	Bacteria	Proteobacteria	Psychromonas	Psychromonas hadalis ATCC BAA-638	2	0	0
+1032	Archaea	Euryarchaeota	Pyrococcus	Pyrococcus yayanosii CH1	1	0	0
+3747	Archaea	Crenarchaeota	Pyrodictium	Pyrodictium occultum	1	0	0
+4786	Bacteria	Actinobacteria	Raineyella	Raineyella antarctica	2	0	0
+160	Bacteria	Proteobacteria	Ralstonia	Ralstonia solanacearum GMI1000	1	0	0
+4611	Bacteria	Proteobacteria	Rhizobacter	Rhizobacter gummiphilus	0	1	0
+4317	Bacteria	Proteobacteria	Rhodobaca	Rhodobaca barguzinensis	2	1	0
+5530	Bacteria	Proteobacteria	Rhodobacter	Rhodobacter aestuarii	2	0	1
+422	Bacteria	Proteobacteria	Rhodobacter	Rhodobacter capsulatus SB 1003	3	0	0
+237	Bacteria	Proteobacteria	Rhodobacter	Rhodobacter sphaeroides 2.4.1	2	1	0
+319	Bacteria	Proteobacteria	Rhodobacter	Rhodobacter sphaeroides ATCC 17025	2	1	0
+5534	Bacteria	Proteobacteria	Rhodobacter	Rhodobacter vinaykumarii	2	1	0
+5687	Bacteria	Proteobacteria	Rhodoblastus	Rhodoblastus acidophilus	2	1	0
+3300	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus aetherivorans	1	0	0
+4357	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus coprophilus NBRC 100603	3	0	0
+4350	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus corynebacterioides NBRC 14404	1	0	0
+2841	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus defluvii	2	0	0
+2236	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus erythropolis CCM2595	1	0	0
+2974	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus fascians A44A	3	0	0
+4058	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus fascians D188	2	0	0
+960	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus hoagii 103S	1	0	0
+281	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus jostii RHA1	3	0	0
+4116	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus kunmingensis	2	0	0
+4115	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus kyotonensis	3	0	0
+4351	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus maanshanensis NBRC 100610	3	0	0
+4352	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus marinonascens NBRC 14363	3	0	0
+2363	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus pyridinivorans SB3094	3	0	0
+4820	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus triatomae	3	1	0
+1612	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus triatomae BKS 15-14	3	0	0
+4354	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus tukisamuensis NBRC 100609	3	0	0
+4355	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus yunnanensis NBRC 103083	3	0	0
+4356	Bacteria	Actinobacteria	Rhodococcus	Rhodococcus zopfii NBRC 100606 = JCM 9919	3	0	0
+4428	Bacteria	Proteobacteria	Rhodoferax	Rhodoferax antarcticus	0	2	0
+4499	Bacteria	Proteobacteria	Rhodoferax	Rhodoferax fermentans	0	1	0
+4427	Bacteria	Proteobacteria	Rhodoferax	Rhodoferax saidenbachensis	0	1	0
+4671	Bacteria	Proteobacteria	Rhodomicrobium	Rhodomicrobium sp. R_RK_3	3	0	0
+761	Bacteria	Proteobacteria	Rhodomicrobium	Rhodomicrobium vannielii ATCC 17100	2	1	0
+3173	Bacteria	Proteobacteria	Rhodopseudomonas	Rhodopseudomonas palustris	2	1	0
+288	Bacteria	Proteobacteria	Rhodopseudomonas	Rhodopseudomonas palustris BisA53	2	1	0
+260	Bacteria	Proteobacteria	Rhodopseudomonas	Rhodopseudomonas palustris BisB18	3	1	0
+933	Bacteria	Proteobacteria	Rhodopseudomonas	Rhodopseudomonas palustris CGA009	2	1	0
+252	Bacteria	Proteobacteria	Rhodopseudomonas	Rhodopseudomonas palustris HaA2	2	0	0
+2348	Bacteria	Proteobacteria	Rhodopseudomonas	Rhodopseudomonas palustris JSC-3b	3	0	0
+4886	Bacteria	Proteobacteria	Rhodospira	Rhodospira trueperi	2	0	1
+316	Bacteria	Proteobacteria	Rhodospirillum	Rhodospirillum centenum SW	1	1	0
+244	Bacteria	Proteobacteria	Rhodospirillum	Rhodospirillum rubrum ATCC 11170	2	1	0
+2382	Bacteria	Proteobacteria	Rhodovibrio	Rhodovibrio salinarum DSM 9154	2	1	0
+4410	Bacteria	Proteobacteria	Rhodovulum	Rhodovulum sulfidophilum	2	0	1
+4071	Bacteria	Proteobacteria	Rhodovulum	Rhodovulum sulfidophilum DSM 1374	2	0	1
+1640	Bacteria	Cyanobacteria	Richelia	Richelia intracellularis HH01	1	0	0
+3258	Bacteria	Proteobacteria	Robbsia	Robbsia andropogonis	1	1	0
+3820	Bacteria	Proteobacteria	Roseibaca	Roseibaca calidilacus	2	0	1
+2497	Bacteria	Proteobacteria	Roseibacterium	Roseibacterium elongatum DSM 19469	2	1	0
+5025	Bacteria	Proteobacteria	Roseicitreum	Roseicitreum antarcticum	2	0	1
+351	Bacteria	Chloroflexi	Roseiflexus	Roseiflexus castenholzii DSM 13941	1	1	0
+4318	Bacteria	Proteobacteria	Roseinatronobacter	Roseinatronobacter thiooxidans	2	1	0
+5631	Bacteria	Proteobacteria	Roseisalinus	Roseisalinus antarcticus	2	0	1
+2417	Bacteria	Proteobacteria	Roseivivax	Roseivivax atlanticus	2	1	0
+2423	Bacteria	Proteobacteria	Roseivivax	Roseivivax halodurans JCM 10272	1	1	0
+5302	Bacteria	Proteobacteria	Roseivivax	Roseivivax halotolerans	1	1	0
+2425	Bacteria	Proteobacteria	Roseivivax	Roseivivax isoporae LMG 25204	2	1	0
+5623	Bacteria	Proteobacteria	Roseivivax	Roseivivax jejudonensis	2	1	0
+5539	Bacteria	Proteobacteria	Roseivivax	Roseivivax lentus	1	1	0
+5150	Bacteria	Proteobacteria	Roseivivax	Roseivivax roseus	1	1	0
+266	Bacteria	Proteobacteria	Roseobacter	Roseobacter denitrificans OCh 114	3	1	0
+675	Bacteria	Proteobacteria	Roseobacter	Roseobacter litoralis Och 149	3	1	0
+5248	Bacteria	Proteobacteria	Roseomonas	Roseomonas stagni DSM 19981	1	1	0
+4845	Bacteria	Proteobacteria	Roseospirillum	Roseospirillum parvum	1	1	0
+3711	Bacteria	Proteobacteria	Roseovarius	Roseovarius atlanticus	3	1	0
+5083	Bacteria	Proteobacteria	Roseovarius	Roseovarius azorensis	2	1	0
+3712	Bacteria	Proteobacteria	Roseovarius	Roseovarius indicus	3	1	0
+4537	Bacteria	Proteobacteria	Roseovarius	Roseovarius mucosus	2	1	0
+5526	Bacteria	Proteobacteria	Roseovarius	Roseovarius nanhaiticus	2	1	0
+5095	Bacteria	Proteobacteria	Roseovarius	Roseovarius tolerans	1	1	0
+2285	Bacteria	Cyanobacteria	Rubidibacter	Rubidibacter lacunae KORDI 51-2	2	0	0
+2068	Bacteria	Proteobacteria	Rubritepida	Rubritepida flocculans DSM 14296	1	1	0
+1316	Bacteria	Proteobacteria	Rubrivivax	Rubrivivax gelatinosus IL144	1	1	0
+3357	Bacteria	Actinobacteria	Rubrobacter	Rubrobacter aplysinae	2	0	0
+2613	Bacteria	Actinobacteria	Rubrobacter	Rubrobacter radiotolerans	1	0	0
+269	Bacteria	Actinobacteria	Rubrobacter	Rubrobacter xylanophilus DSM 9941	2	0	0
+5258	Bacteria	Proteobacteria	Rugamonas	Rugamonas rubra	2	0	0
+1108	Bacteria	Actinobacteria	Saccharomonospora	Saccharomonospora azurea NA-128	2	0	0
+1190	Bacteria	Actinobacteria	Saccharomonospora	Saccharomonospora marina XMU15	3	0	0
+463	Bacteria	Actinobacteria	Saccharomonospora	Saccharomonospora viridis DSM 43017	3	0	0
+552	Bacteria	Actinobacteria	Saccharopolyspora	Saccharopolyspora erythraea NRRL 2338	3	0	0
+5311	Bacteria	Actinobacteria	Saccharopolyspora	Saccharopolyspora flava	3	0	0
+5197	Bacteria	Actinobacteria	Saccharopolyspora	Saccharopolyspora jiangxiensis	3	0	0
+2329	Bacteria	Actinobacteria	Saccharopolyspora	Saccharopolyspora rectivirgula DSM 43747	3	0	0
+1529	Bacteria	Actinobacteria	Saccharothrix	Saccharothrix espanaensis DSM 44229	2	0	0
+2749	Bacteria	Actinobacteria	Saccharothrix	Saccharothrix syringae	3	0	0
+2150	Bacteria	Proteobacteria	Salinarimonas	Salinarimonas rosea DSM 21201	2	1	0
+358	Bacteria	Actinobacteria	Salinispora	Salinispora arenicola CNS-205	1	0	0
+320	Bacteria	Actinobacteria	Salinispora	Salinispora tropica CNB-440	1	0	0
+1949	Bacteria	Proteobacteria	Sandarakinorhabdus	Sandarakinorhabdus limnophila DSM 17366	1	1	0
+1781	Bacteria	Actinobacteria	Sciscionella	Sciscionella marina DSM 45152	3	0	0
+1621	Bacteria	Cyanobacteria	Scytonema	Scytonema hofmannii PCC 7110	1	0	0
+3124	Bacteria	Cyanobacteria	Scytonema	Scytonema tolypothrichoides VB-61278	2	0	0
+612	Bacteria	Spirochaetes	Sediminispirochaeta	Sediminispirochaeta smaragdinae DSM 11293	1	1	0
+2100	Bacteria	Firmicutes	Selenomonas	Selenomonas artemidis DSM 19719	2	0	0
+987	Bacteria	Firmicutes	Selenomonas	Selenomonas sputigena ATCC 35185	1	0	0
+3314	Bacteria	Acidobacteria	Silvibacterium	Silvibacterium bohemicum	2	0	0
+2648	Bacteria	Proteobacteria	Simplicispira	Simplicispira psychrophila DSM 11588	0	1	0
+1166	Bacteria	Planctomycetes	Singulisphaera	Singulisphaera acidiphila DSM 18658	1	0	0
+4849	Bacteria	Actinobacteria	Sinosporangium	Sinosporangium album	3	0	0
+4928	Bacteria	Bacteroidetes	Siphonobacter	Siphonobacter aquaeclarae	1	0	0
+3175	Bacteria	Proteobacteria	Skermanella	Skermanella aerolata KACC 11604	1	0	0
+3886	Bacteria	Actinobacteria	Skermania	Skermania piniformis NBRC 15059	2	0	0
+464	Bacteria	Actinobacteria	Slackia	Slackia heliotrinireducens DSM 20476	1	1	0
+1815	Bacteria	Actinobacteria	Smaragdicoccus	Smaragdicoccus niigatensis DSM 44881 = NBRC 103563	2	0	0
+2037	Bacteria	Actinobacteria	Solirubrobacter	Solirubrobacter soli DSM 22325	1	0	0
+2725	Bacteria	Proteobacteria	Sphingomonas	Sphingomonas astaxanthinifaciens DSM 22298	1	1	0
+1162	Bacteria	Proteobacteria	Sphingomonas	Sphingomonas echinoides ATCC 14820	1	1	0
+3170	Bacteria	Proteobacteria	Sphingomonas	Sphingomonas hengshuiensis	1	1	0
+2492	Bacteria	Proteobacteria	Sphingomonas	Sphingomonas jaspsi DSM 18422	1	1	0
+2367	Bacteria	Proteobacteria	Sphingomonas	Sphingomonas sanxanigenens DSM 19645 = NX02	1	1	0
+2763	Bacteria	Actinobacteria	Spirillospora	Spirillospora albida	1	0	0
+854	Bacteria	Spirochaetes	Spirochaeta	Spirochaeta thermophila DSM 6578	0	1	0
+5190	Bacteria	Bacteroidetes	Spirosoma	Spirosoma endophyticum	2	0	0
+4348	Bacteria	Cyanobacteria	Spirulina	Spirulina major PCC 6313	2	0	0
+1470	Bacteria	Cyanobacteria	Spirulina	Spirulina subsalsa PCC 9445	2	0	0
+5419	Bacteria	Firmicutes	Sporanaerobacter	Sporanaerobacter acetigenes DSM 13106	2	0	0
+1856	Bacteria	Actinobacteria	Sporichthya	Sporichthya polymorpha DSM 43042	2	0	0
+2231	Bacteria	Firmicutes	Sporomusa	Sporomusa ovata DSM 2662	3	0	0
+4414	Bacteria	Firmicutes	Sporomusa	Sporomusa sphaeroides DSM 2875	3	0	1
+1498	Bacteria	Cyanobacteria	Stanieria	Stanieria cyanosphaera PCC 7437	1	0	0
+2038	Bacteria	Proteobacteria	Stappia	Stappia stellulata DSM 5886	2	0	1
+2893	Bacteria	Actinobacteria	Streptacidiphilus	Streptacidiphilus albus JL83	0	1	0
+3044	Bacteria	Actinobacteria	Streptacidiphilus	Streptacidiphilus melanogenes	2	0	0
+2897	Bacteria	Actinobacteria	Streptacidiphilus	Streptacidiphilus oryzae TH49	1	1	0
+2892	Bacteria	Actinobacteria	Streptacidiphilus	Streptacidiphilus rugosus AM-16	0	1	0
+5386	Bacteria	Actinobacteria	Streptoalloteichus	Streptoalloteichus hindustanus	1	0	0
+3120	Bacteria	Actinobacteria	Streptomonospora	Streptomonospora alba	2	0	0
+1170	Bacteria	Actinobacteria	Streptomyces	Streptomyces acidiscabies 84-104	2	0	0
+5189	Bacteria	Actinobacteria	Streptomyces	Streptomyces aidingensis	1	0	0
+2771	Bacteria	Actinobacteria	Streptomyces	Streptomyces albidoflavus	1	0	0
+4663	Bacteria	Actinobacteria	Streptomyces	Streptomyces albireticuli	2	0	0
+4661	Bacteria	Actinobacteria	Streptomyces	Streptomyces alboflavus	2	0	0
+3121	Bacteria	Actinobacteria	Streptomyces	Streptomyces albus	1	0	0
+2770	Bacteria	Actinobacteria	Streptomyces	Streptomyces albus subsp. albus	2	0	0
+5206	Bacteria	Actinobacteria	Streptomyces	Streptomyces alni	2	0	0
+2908	Bacteria	Actinobacteria	Streptomyces	Streptomyces atratus	1	0	0
+2751	Bacteria	Actinobacteria	Streptomyces	Streptomyces atroolivaceus	1	0	0
+3609	Bacteria	Actinobacteria	Streptomyces	Streptomyces aurantiacus	2	0	0
+4449	Bacteria	Actinobacteria	Streptomyces	Streptomyces autolyticus	1	0	0
+167	Bacteria	Actinobacteria	Streptomyces	Streptomyces avermitilis MA-4680 = NBRC 14893	1	0	0
+3459	Bacteria	Actinobacteria	Streptomyces	Streptomyces azureus	2	0	0
+590	Bacteria	Actinobacteria	Streptomyces	Streptomyces bingchenggensis BCW-1	1	0	0
+3415	Bacteria	Actinobacteria	Streptomyces	Streptomyces caatingaensis	2	0	0
+4634	Bacteria	Actinobacteria	Streptomyces	Streptomyces cacaoi subsp. cacaoi	1	0	0
+3812	Bacteria	Actinobacteria	Streptomyces	Streptomyces canus	1	0	0
+2758	Bacteria	Actinobacteria	Streptomyces	Streptomyces catenulae	2	0	0
+1154	Bacteria	Actinobacteria	Streptomyces	Streptomyces cattleya NRRL 8057 = DSM 46488	1	0	0
+4194	Bacteria	Actinobacteria	Streptomyces	Streptomyces clavuligerus	2	0	0
+972	Bacteria	Actinobacteria	Streptomyces	Streptomyces coelicolor A3(2)	2	0	0
+2226	Bacteria	Actinobacteria	Streptomyces	Streptomyces collinus Tu 365	1	0	0
+1636	Bacteria	Actinobacteria	Streptomyces	Streptomyces davaonensis JCM 4913	2	0	0
+2152	Bacteria	Actinobacteria	Streptomyces	Streptomyces flavidovirens DSM 40150	2	0	0
+2800	Bacteria	Actinobacteria	Streptomyces	Streptomyces flavovariabilis	1	0	0
+2762	Bacteria	Actinobacteria	Streptomyces	Streptomyces fulvoviolaceus	2	0	0
+2976	Bacteria	Actinobacteria	Streptomyces	Streptomyces glaucescens	1	0	0
+5715	Bacteria	Actinobacteria	Streptomyces	Streptomyces glauciniger	2	0	0
+981	Bacteria	Actinobacteria	Streptomyces	Streptomyces griseoaurantiacus M045	2	0	0
+3832	Bacteria	Actinobacteria	Streptomyces	Streptomyces griseochromogenes	1	0	0
+2764	Bacteria	Actinobacteria	Streptomyces	Streptomyces griseofuscus	2	0	0
+3614	Bacteria	Actinobacteria	Streptomyces	Streptomyces griseoruber	2	0	0
+185	Bacteria	Actinobacteria	Streptomyces	Streptomyces griseus subsp. griseus NBRC 13350	1	0	0
+4951	Bacteria	Actinobacteria	Streptomyces	Streptomyces guanduensis	1	0	0
+1738	Bacteria	Actinobacteria	Streptomyces	Streptomyces hokutonensis	2	0	0
+4839	Bacteria	Actinobacteria	Streptomyces	Streptomyces indicus	2	0	0
+4104	Bacteria	Actinobacteria	Streptomyces	Streptomyces jeddahensis	2	0	0
+4515	Bacteria	Actinobacteria	Streptomyces	Streptomyces katrae	0	1	0
+4370	Bacteria	Actinobacteria	Streptomyces	Streptomyces kebangsaanensis	2	0	0
+3325	Bacteria	Actinobacteria	Streptomyces	Streptomyces leeuwenhoekii	1	0	0
+4179	Bacteria	Actinobacteria	Streptomyces	Streptomyces lincolnensis	2	0	0
+4252	Bacteria	Actinobacteria	Streptomyces	Streptomyces lydicus	1	0	0
+2767	Bacteria	Actinobacteria	Streptomyces	Streptomyces megasporus	2	0	0
+4996	Bacteria	Actinobacteria	Streptomyces	Streptomyces melanosporofaciens	1	0	0
+1614	Bacteria	Actinobacteria	Streptomyces	Streptomyces mobaraensis NBRC 13819 = DSM 40847	2	0	0
+2747	Bacteria	Actinobacteria	Streptomyces	Streptomyces monomycini	2	0	0
+4490	Bacteria	Actinobacteria	Streptomyces	Streptomyces niveus	1	0	0
+3097	Bacteria	Actinobacteria	Streptomyces	Streptomyces nodosus	2	0	0
+4216	Bacteria	Actinobacteria	Streptomyces	Streptomyces noursei ATCC 11455	1	0	0
+2780	Bacteria	Actinobacteria	Streptomyces	Streptomyces olivaceus	2	0	0
+3813	Bacteria	Actinobacteria	Streptomyces	Streptomyces olivochromogenes	2	0	0
+3611	Bacteria	Actinobacteria	Streptomyces	Streptomyces ossamyceticus	2	0	0
+3612	Bacteria	Actinobacteria	Streptomyces	Streptomyces pathocidini	2	0	0
+5466	Bacteria	Actinobacteria	Streptomyces	Streptomyces paucisporeus	2	0	0
+3615	Bacteria	Actinobacteria	Streptomyces	Streptomyces phaeochromogenes	2	0	0
+3058	Bacteria	Actinobacteria	Streptomyces	Streptomyces pluripotens	1	0	0
+3617	Bacteria	Actinobacteria	Streptomyces	Streptomyces prasinopilosus	1	0	0
+3477	Bacteria	Actinobacteria	Streptomyces	Streptomyces pristinaespiralis	1	0	0
+4258	Bacteria	Actinobacteria	Streptomyces	Streptomyces puniciscabiei	1	0	0
+1858	Bacteria	Actinobacteria	Streptomyces	Streptomyces purpureus KA281	1	0	0
+5146	Bacteria	Actinobacteria	Streptomyces	Streptomyces qinglanensis	2	0	0
+5126	Bacteria	Actinobacteria	Streptomyces	Streptomyces radiopugnans	2	0	0
+2754	Bacteria	Actinobacteria	Streptomyces	Streptomyces rimosus subsp. rimosus	2	0	0
+4637	Bacteria	Actinobacteria	Streptomyces	Streptomyces rochei	1	0	0
+2769	Bacteria	Actinobacteria	Streptomyces	Streptomyces roseoverticillatus	2	0	0
+5110	Bacteria	Actinobacteria	Streptomyces	Streptomyces rubidus	2	0	0
+570	Bacteria	Actinobacteria	Streptomyces	Streptomyces scabiei 87.22	1	0	0
+1681	Bacteria	Actinobacteria	Streptomyces	Streptomyces scabrisporus DSM 41855	2	0	0
+2761	Bacteria	Actinobacteria	Streptomyces	Streptomyces scopuliridis RB72	2	0	0
+4441	Bacteria	Actinobacteria	Streptomyces	Streptomyces silaceus	1	0	0
+4218	Bacteria	Actinobacteria	Streptomyces	Streptomyces sparsogenes	2	0	0
+1818	Bacteria	Actinobacteria	Streptomyces	Streptomyces sulphureus DSM 40104	2	0	0
+3840	Bacteria	Actinobacteria	Streptomyces	Streptomyces thermoautotrophicus	2	0	0
+2294	Bacteria	Actinobacteria	Streptomyces	Streptomyces thermolilacinus SPC6	1	0	0
+4638	Bacteria	Actinobacteria	Streptomyces	Streptomyces thermovulgaris	2	0	0
+4485	Bacteria	Actinobacteria	Streptomyces	Streptomyces tsukubensis	2	0	0
+1535	Bacteria	Actinobacteria	Streptomyces	Streptomyces turgidiscabies Car8	2	0	0
+4369	Bacteria	Actinobacteria	Streptomyces	Streptomyces uncialis	2	0	0
+2766	Bacteria	Actinobacteria	Streptomyces	Streptomyces varsoviensis	2	0	0
+3718	Bacteria	Actinobacteria	Streptomyces	Streptomyces venezuelae	1	0	0
+3141	Bacteria	Actinobacteria	Streptomyces	Streptomyces vietnamensis	1	0	0
+2756	Bacteria	Actinobacteria	Streptomyces	Streptomyces violens	3	0	0
+2776	Bacteria	Actinobacteria	Streptomyces	Streptomyces virginiae	2	0	0
+4931	Bacteria	Actinobacteria	Streptomyces	Streptomyces wuyuanensis	2	0	0
+2750	Bacteria	Actinobacteria	Streptomyces	Streptomyces yerevanensis	2	0	0
+1081	Bacteria	Actinobacteria	Streptomyces	Streptomyces zinciresistens K42	2	0	0
+2779	Bacteria	Actinobacteria	Streptosporangium	Streptosporangium amethystogenes	2	0	0
+495	Bacteria	Actinobacteria	Streptosporangium	Streptosporangium roseum DSM 43021	1	0	0
+5711	Bacteria	Actinobacteria	Streptosporangium	Streptosporangium subroseum	2	0	0
+5207	Bacteria	Firmicutes	Succiniclasticum	Succiniclasticum ruminis DSM 9236	2	0	0
+1857	Bacteria	Firmicutes	Succinispira	Succinispira mobilis DSM 6222	1	0	0
+2601	Bacteria	Proteobacteria	Sulfitobacter	Sulfitobacter guttiformis KCTC 32187	2	1	0
+2599	Bacteria	Proteobacteria	Sulfitobacter	Sulfitobacter noctilucicola	3	1	0
+5639	Bacteria	Firmicutes	Sulfobacillus	Sulfobacillus thermosulfidooxidans DSM 9293	1	0	0
+175	Bacteria	Cyanobacteria	Synechococcus	Synechococcus elongatus PCC 6301	2	0	0
+292	Bacteria	Proteobacteria	Syntrophobacter	Syntrophobacter fumaroxidans MPOB	2	0	0
+2368	Bacteria	Proteobacteria	Syntrophorhabdus	Syntrophorhabdus aromaticivorans UI	2	0	0
+3788	Bacteria	Bacteroidetes	Tenacibaculum	Tenacibaculum dicentrarchi	1	0	0
+2194	Bacteria	Bacteroidetes	Tenacibaculum	Tenacibaculum ovolyticum DSM 18103	1	0	0
+4193	Bacteria	Bacteroidetes	Tenacibaculum	Tenacibaculum soleae	1	0	0
+1531	Bacteria	Firmicutes	Tepidanaerobacter	Tepidanaerobacter acetatoxydans Re1	0	1	0
+4161	Bacteria	Proteobacteria	Tepidimonas	Tepidimonas fonticaldi	0	1	0
+3065	Bacteria	Proteobacteria	Tepidimonas	Tepidimonas taiwanensis	0	1	0
+4196	Bacteria	Actinobacteria	Tessaracoccus	Tessaracoccus lapidicaptus	2	0	0
+3381	Bacteria	Actinobacteria	Tetrasphaera	Tetrasphaera japonica T1-X7	1	0	0
+3739	Bacteria	Proteobacteria	Thalassobacter	Thalassobacter stenotrophicus	1	1	0
+2042	Bacteria	Proteobacteria	Thalassobaculum	Thalassobaculum salexigens DSM 19539	3	0	0
+2224	Bacteria	Proteobacteria	Thauera	Thauera terpenica 58Eu	1	1	0
+1400	Bacteria	Firmicutes	Thermacetogenium	Thermacetogenium phaeum DSM 12270	3	0	0
+5634	Bacteria	Firmicutes	Thermanaeromonas	Thermanaeromonas toyohensis ToBE	2	0	0
+3528	Bacteria	Chloroflexi	Thermanaerothrix	Thermanaerothrix daxensis	2	1	0
+4566	Bacteria	Actinobacteria	Thermoactinospora	Thermoactinospora rubra	2	0	0
+2986	Bacteria	Firmicutes	Thermoanaerobacter	Thermoanaerobacter kivui	0	1	0
+3824	Bacteria	Actinobacteria	Thermobifida	Thermobifida cellulosilytica TB100	1	0	0
+219	Bacteria	Actinobacteria	Thermobifida	Thermobifida fusca YX	1	0	0
+4150	Bacteria	Actinobacteria	Thermobifida	Thermobifida halotolerans	2	0	0
+596	Bacteria	Actinobacteria	Thermobispora	Thermobispora bispora DSM 43833	2	0	0
+637	Archaea	Euryarchaeota	Thermococcus	Thermococcus barophilus MP	1	0	0
+3793	Archaea	Euryarchaeota	Thermococcus	Thermococcus celericrescens	1	0	0
+362	Archaea	Euryarchaeota	Thermococcus	Thermococcus onnurineus NA1	1	0	0
+2391	Archaea	Euryarchaeota	Thermococcus	Thermococcus paralvinellae	1	0	0
+4118	Archaea	Euryarchaeota	Thermococcus	Thermococcus piezophilus	1	0	0
+1237	Archaea	Euryarchaeota	Thermococcus	Thermococcus zilligii AN1	0	1	0
+2122	Bacteria	Actinobacteria	Thermocrispum	Thermocrispum municipale DSM 44069	3	0	0
+1963	Bacteria	Thermodesulfobacteria	Thermodesulfatator	Thermodesulfatator atlanticus DSM 21156	2	0	0
+4097	Bacteria	Thermodesulfobacteria	Thermodesulfatator	Thermodesulfatator autotrophicus	2	0	0
+1036	Bacteria	Thermodesulfobacteria	Thermodesulfatator	Thermodesulfatator indicus DSM 15286	2	0	0
+2821	Bacteria	Thermodesulfobacteria	Thermodesulfobacterium	Thermodesulfobacterium commune DSM 2178	2	0	0
+2919	Bacteria	Thermodesulfobacteria	Thermodesulfobacterium	Thermodesulfobacterium hydrogeniphilum	2	0	0
+5266	Bacteria	Proteobacteria	Thermodesulforhabdus	Thermodesulforhabdus norvegica	3	0	0
+409	Bacteria	Nitrospirae	Thermodesulfovibrio	Thermodesulfovibrio yellowstonii DSM 11347	2	0	0
+5690	Bacteria	Chloroflexi	Thermoflexus	Thermoflexus hugenholtzii JAD2	2	0	0
+5058	Bacteria	Actinobacteria	Thermoleophilum	Thermoleophilum album	2	0	0
+483	Bacteria	Actinobacteria	Thermomonospora	Thermomonospora curvata DSM 43183	1	0	0
+937	Archaea	Euryarchaeota	Thermoplasma	Thermoplasma acidophilum DSM 1728	1	0	0
+193	Archaea	Euryarchaeota	Thermoplasma	Thermoplasma volcanium GSS1	1	0	0
+1643	Archaea	Euryarchaeota	Thermoplasmatales	Thermoplasmatales archaeon BRNA1	2	0	0
+614	Bacteria	Firmicutes	Thermosediminibacter	Thermosediminibacter oceani DSM 16646	2	1	0
+4131	Bacteria	Thermodesulfobacteria	Thermosulfurimonas	Thermosulfurimonas dismutans	2	0	0
+199	Bacteria	Cyanobacteria	Thermosynechococcus	Thermosynechococcus elongatus BP-1	2	0	0
+4017	Bacteria	Firmicutes	Thermovenabulum	Thermovenabulum gondwanense	1	1	0
+1068	Bacteria	Proteobacteria	Thiocapsa	Thiocapsa marina 5811	2	1	0
+1098	Bacteria	Proteobacteria	Thiocystis	Thiocystis violascens DSM 198	2	1	0
+1521	Bacteria	Proteobacteria	Thioflavicoccus	Thioflavicoccus mobilis 8321	2	0	0
+1070	Bacteria	Proteobacteria	Thiorhodococcus	Thiorhodococcus drewsii AZ1	2	0	0
+1097	Bacteria	Proteobacteria	Thiorhodospira	Thiorhodospira sibirica ATCC 700588	1	0	1
+2973	Bacteria	Cyanobacteria	Tolypothrix	Tolypothrix bouteillei VB521301	2	0	0
+2428	Bacteria	Actinobacteria	Tomitella	Tomitella biformata AHU 1821	3	0	0
+5292	Bacteria	Proteobacteria	Tranquillimonas	Tranquillimonas alkanivorans	2	1	0
+134	Bacteria	Spirochaetes	Treponema	Treponema denticola ATCC 35405	1	0	0
+2942	Bacteria	Spirochaetes	Treponema	Treponema putidum	1	0	0
+272	Bacteria	Cyanobacteria	Trichodesmium	Trichodesmium erythraeum IMS101	2	0	0
+584	Bacteria	Actinobacteria	Tsukamurella	Tsukamurella paurometabola DSM 20162	1	0	0
+3943	Bacteria	Actinobacteria	Tsukamurella	Tsukamurella pseudospumae	2	0	0
+4925	Bacteria	Actinobacteria	Tsukamurella	Tsukamurella pulmonis	2	0	0
+4978	Bacteria	Actinobacteria	Tsukamurella	Tsukamurella tyrosinosolvens	1	0	0
+1834	Bacteria	Proteobacteria	Variovorax	Variovorax paradoxus 110B	1	1	0
+859	Bacteria	Proteobacteria	Variovorax	Variovorax paradoxus EPS	1	1	0
+2136	Bacteria	Firmicutes	Veillonella	Veillonella magna DSM 19857	1	0	0
+499	Bacteria	Firmicutes	Veillonella	Veillonella parvula DSM 2008	0	1	0
+3226	Bacteria	Actinobacteria	Williamsia	Williamsia herbipolensis	3	0	0
+4015	Bacteria	Actinobacteria	Williamsia	Williamsia muralis NBRC 105860	3	0	0
+5522	Bacteria	Actinobacteria	Williamsia	Williamsia sterculiae	2	0	0
+5290	Bacteria	Actinobacteria	Yuhushiella	Yuhushiella deserti	2	0	0
+2561	Bacteria	Proteobacteria	Zymobacter	Zymobacter palmae DSM 10491	2	0	0

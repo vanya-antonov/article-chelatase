@@ -114,3 +114,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+data_R/private.R
