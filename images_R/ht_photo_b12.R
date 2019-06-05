@@ -5,13 +5,8 @@ library(ComplexHeatmap)
 library(circlize)   # colorRamp2()
 
 library(ape)        # read.tree()
-#library(phytools)   # findMRCA()
 
 ###
-
-#DATA_DIR <- '~/Projects/2018/Baranov/DataLog/'
-# photo_b12_df <- read.table(paste0(DATA_DIR, "/1016.Ba.pathogens/Results/1024.org_photo_b12.txt"),
-# tree <- read.tree(paste0(DATA_DIR, "/1010.Ba.rRNA_tree/data/_all_species.rRNA.tree"))
 
 # Heatmap ----
 all_data <- dbGetQuery(con,
