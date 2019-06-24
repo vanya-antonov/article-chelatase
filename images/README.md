@@ -1,9 +1,45 @@
-# RNAfold images
+# The "rnafold_\*" images
 
-## Da_extended
-* [ sequence from NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_010002/?from=6395600&to=6395711&report=fasta&strand=true): 
+The following sequences were submitted to the [RNAfold webserver](http://rna.tbi.univie.ac.at//cgi-bin/RNAWebSuite/RNAfold.cgi):
 ```
-AAGGTGGGAGCGCCCGCCACAAAAAAAGCCTGAGCCCCCGCGGCCCCGCGCCACAGGCAAGGGCTGCGGGGGCGGGCCAGCAGGCGACCGGCCAGCCCCGGCTGGCCCAGGC
+>Mf
+AAAAAGGAAAATAATGACGTAAAAAAAAAAACAAGAATAAATTAAATAATGAATCAAATAATAATGAGAA
+TAATAAT
+>Ms
+GAGCAAAAAAATGATGACGTAAAAAAAAACATGATGAAATAAGAAATGAGTTTGAAGAAGAAAATGAGGA
+TTCAAAT
+>Da
+AAGGTGGGAGCGCCCGCCACAAAAAAAGCCTGAGCCCCCGCGGCCCCGCGCCACAGGCAAGGGCTGCGGG
+GG
+>Da_extended
+AAGGTGGGAGCGCCCGCCACAAAAAAAGCCTGAGCCCCCGCGGCCCCGCGCCACAGGCAAGGGCTGCGGG
+GGCGGGCCAGCAGGCGACCGGCCAGCCCCGGCTGGCCCAGGC
 ```
-* [RNAfold results](http://rna.tbi.univie.ac.at//cgi-bin/RNAWebSuite/RNAfold.cgi?PAGE=3&ID=8jdohAUhHd)
-* [VIEW IN FORNA](http://rna.tbi.univie.ac.at/forna/forna.html?id=RNAfold/8jdohAUhHd&file=mfe.json) (custom colors: `21-27:red 31-33:blue`)
+* rna_fold_Mf.png: 
+[sequence from NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_013156.1?report=fasta&from=1122916&to=1122992)
+|
+[RNAfold results](http://rna.tbi.univie.ac.at//cgi-bin/RNAWebSuite/RNAfold.cgi?PAGE=3&ID=9zTQL2cPTy)
+|
+[FORNA view](http://rna.tbi.univie.ac.at/forna/forna.html?id=RNAfold/9zTQL2cPTy&file=mfe.json)
+  * FORNA custom colors: `21-31:red 43-45:blue`
+* rna_fold_Ms.png:
+[sequence from NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_013887.1?report=fasta&from=1224237&to=1224313)
+|
+[RNAfold results](http://rna.tbi.univie.ac.at//cgi-bin/RNAWebSuite/RNAfold.cgi?PAGE=3&ID=or1Bng54o9)
+|
+[FORNA view](http://rna.tbi.univie.ac.at/forna/forna.html?id=RNAfold/or1Bng54o9&file=mfe.json)
+  * FORNA custom colors: `21-29:red 40-42:blue`
+* rna_fold_Da.png:
+[sequence from NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_010002/?from=6395640&to=6395711&report=fasta&strand=true)
+|
+[RNAfold results](http://rna.tbi.univie.ac.at//cgi-bin/RNAWebSuite/RNAfold.cgi?PAGE=3&ID=sK1_w0mF8W)
+|
+[FORNA view](http://rna.tbi.univie.ac.at/forna/forna.html?id=RNAfold/sK1_w0mF8W&file=mfe.json)
+  * FORNA custom colors: `21-27:red 31-33:blue`
+* rna_fold_Da_extended.png:
+[sequence from NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_010002/?from=6395600&to=6395711&report=fasta&strand=true)
+|
+[RNAfold results](http://rna.tbi.univie.ac.at//cgi-bin/RNAWebSuite/RNAfold.cgi?PAGE=3&ID=8jdohAUhHd)
+|
+[FORNA view](http://rna.tbi.univie.ac.at/forna/forna.html?id=RNAfold/8jdohAUhHd&file=mfe.json)
+  * FORNA custom colors: `21-27:red 31-33:blue`
