@@ -18,9 +18,15 @@ ORG_TYPE_COLORS <- c(
   'bchlD_wo_fs' = 'lightgreen',
   'no_bchlD' = 'grey')
 ORG_TYPE_LABELS <- c(
-  'bchlD_fs' = 'Frameshifted chlD gene(s)',
-  'bchlD_wo_fs' = 'Normal chlD gene(s)',
-  'no_bchlD' = 'No chlD gene(s)')
+  'bchlD_fs' = 'Genomes with frameshifted chlD gene(s)',
+  'bchlD_wo_fs' = 'Genomes with normal chlD gene(s)',
+  'no_bchlD' = 'Genomes without chlD gene(s)')
+
+num_fs_genes <- sum(orgs_df$num_bchlD_fs)
+num_fs_orgs <- orgs_df %>% filter(num_bchlD_fs > 0) %>% nrow
+subT <- sprintf('Number of chlD genes with frameshifts = %d (from %d genomes)',
+                num_fs_genes, num_fs_orgs)
+title <- paste('Total number of prokaryotic genomes = ', nrow(orgs_df))
 
 orgs_df %>%
   mutate(taxa = case_when(kingdom == 'Archaea' ~ 'Archaea',
@@ -33,20 +39,16 @@ orgs_df %>%
   ggplot() +
   aes(x = taxa, fill = org_type) +
   geom_bar(col = 'black') +
-  ylab('Number of species') +
+  ylab('Number of genomes') +
   xlab('') +
-  ggtitle(paste(nrow(orgs_df), 'prokaryotic species'),
-          subtitle = 'NCBI Reference and Representative genomes') +
+  ggtitle(title, subtitle = subT) +
   scale_fill_manual(
     name = NULL,
     values = ORG_TYPE_COLORS,
     breaks = names(ORG_TYPE_COLORS),
     labels = ORG_TYPE_LABELS) +
   # Legend items in one column
-#  guides(fill=guide_legend(ncol=1)) +
+  guides(fill=guide_legend(ncol=1)) +
   coord_flip() +
   theme(legend.position="bottom")
 ggsave('all_orgs_hist.pdf', path = OUT_DIR)
-#ggsave('all_orgs_hist.pdf', path = OUT_DIR, width = 7)
-
-#?scale_fill_manual
