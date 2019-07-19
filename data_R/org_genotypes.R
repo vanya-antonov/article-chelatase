@@ -12,9 +12,9 @@ source("../images_R/lib.R")
 # num_cobS, num_chlI, num_bchI
 
 SQL <- "
-select o.id, o.name, o.genus, o.phylum, o.kingdom, tax2,
-  num_L, num_M_tree, num_M_fs,
-  (select count(distinct t.id) from chel_feats_v t where t.org_id=o.id and t.chel_subunit_tree='S' and t.num_kids=0) AS num_S_tree_wo_kids
+select o.id, o.dir_name, o.name, o.genus, o.phylum, o.kingdom, tax2,
+  num_L, num_M_tree AS num_M, num_S_tree AS num_S,
+  num_M_fs, num_M_plus, num_M_minus
 from chel_orgs_v o
 where num_M_tree > 0;
 "

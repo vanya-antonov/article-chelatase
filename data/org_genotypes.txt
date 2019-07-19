@@ -1,340 +1,340 @@
-id	name	genus	phylum	kingdom	tax2	num_L	num_M_tree	num_M_fs	num_S_tree_wo_kids
-84	Methanocaldococcus sp. FS406-22	Methanocaldococcus	Euryarchaeota	Archaea	Methanococci	3	1	1	0
-85	Methanocaldococcus fervens AG86	Methanocaldococcus	Euryarchaeota	Archaea	Methanococci	2	1	1	0
-86	Delftia acidovorans SPH-1	Delftia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-94	Pseudomonas aeruginosa PAO1	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	2	1	1	0
-116	Pseudomonas putida KT2440	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-119	Chromobacterium violaceum ATCC 12472	Chromobacterium	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-123	Pseudomonas syringae pv. tomato str. DC3000	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-128	Prochlorococcus marinus subsp. marinus str. CCMP1375	Prochlorococcus	Cyanobacteria	Bacteria	Synechococcales	2	1	0	1
-160	Ralstonia solanacearum GMI1000	Ralstonia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-199	Thermosynechococcus elongatus BP-1	Thermosynechococcus	Cyanobacteria	Bacteria	Synechococcales	2	1	0	1
-201	Gloeobacter violaceus PCC 7421	Gloeobacter	Cyanobacteria	Bacteria	Gloeobacteria	3	1	0	1
-205	Burkholderia pseudomallei K96243	Burkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-237	Rhodobacter sphaeroides 2.4.1	Rhodobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-240	Hahella chejuensis KCTC 2396	Hahella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-244	Rhodospirillum rubrum ATCC 11170	Rhodospirillum	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-252	Rhodopseudomonas palustris HaA2	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	0	2
-257	Paraburkholderia xenovorans LB400	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-260	Rhodopseudomonas palustris BisB18	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-266	Roseobacter denitrificans OCh 114	Roseobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-288	Rhodopseudomonas palustris BisA53	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-292	Syntrophobacter fumaroxidans MPOB	Syntrophobacter	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	0	1
-295	Pelobacter propionicus DSM 2379	Pelobacter	Proteobacteria	Bacteria	Deltaproteobacteria	3	2	0	2
-305	Halorhodospira halophila SL1	Halorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1
-316	Rhodospirillum centenum SW	Rhodospirillum	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-319	Rhodobacter sphaeroides ATCC 17025	Rhodobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-324	Pseudomonas mendocina ymp	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-356	Dinoroseobacter shibae DFL 12 = DSM 16493	Dinoroseobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-379	Methylobacterium radiotolerans JCM 2831	Methylobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-384	Methylobacterium populi BJ001	Methylobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	0	2
-387	Nostoc punctiforme PCC 73102	Nostoc	Cyanobacteria	Bacteria	Nostocales	3	1	0	1
-388	Paraburkholderia phymatum STM815	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-421	Methylocella silvestris BL2	Methylocella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-422	Rhodobacter capsulatus SB 1003	Rhodobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	0	2
-513	Allochromatium vinosum DSM 180	Allochromatium	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	0
-611	Desulfarculus baarsii DSM 2075	Desulfarculus	Proteobacteria	Bacteria	Deltaproteobacteria	3	2	0	2
-613	Brevundimonas subvibrioides ATCC 15264	Brevundimonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-647	Congregibacter litoralis KT71	Congregibacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-653	Neptuniibacter caesariensis	Neptuniibacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-657	Fulvimarina pelagi HTCC2506	Fulvimarina	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-673	Hoeflea phototrophica DFL-43	Hoeflea	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-675	Roseobacter litoralis Och 149	Roseobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-700	Labrenzia alexandrii DFL-11	Labrenzia	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-701	Luminiphilus syltensis NOR5-1B	Luminiphilus	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-761	Rhodomicrobium vannielii ATCC 17100	Rhodomicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-769	Crocosphaera watsonii WH 8501	Crocosphaera	Cyanobacteria	Bacteria	Oscillatoriophycideae	3	1	0	1
-811	Citromicrobium bathyomarinum JL354	Citromicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-859	Variovorax paradoxus EPS	Variovorax	Proteobacteria	Bacteria	Betaproteobacteria	2	2	1	1
-879	Desulfobulbus propionicus DSM 2032	Desulfobulbus	Proteobacteria	Bacteria	Deltaproteobacteria	3	1	0	1
-904	Methylobacter tundripaludum SV96	Methylobacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-916	Marinomonas mediterranea MMB-1	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-926	Desulfobacca acetoxidans DSM 11109	Desulfobacca	Proteobacteria	Bacteria	Deltaproteobacteria	3	2	1	1
-933	Rhodopseudomonas palustris CGA009	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	3	3	1	1
-971	Acidiphilium multivorum AIU301	Acidiphilium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-995	Hylemonella gracilis ATCC 19624	Hylemonella	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-1007	Pseudomonas fulva 12-X	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-1011	Methyloversatilis universalis FAM5	Methyloversatilis	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-1015	Marinomonas posidonica IVIA-Po-181	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-1068	Thiocapsa marina 5811	Thiocapsa	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	0
-1069	Marichromatium purpuratum 984	Marichromatium	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	0
-1070	Thiorhodococcus drewsii AZ1	Thiorhodococcus	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1
-1097	Thiorhodospira sibirica ATCC 700588	Thiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	2	1	1	0
-1098	Thiocystis violascens DSM 198	Thiocystis	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	0
-1129	Halomonas boliviensis LC1	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-1136	Pseudomonas fluorescens F113	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-1162	Sphingomonas echinoides ATCC 14820	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-1164	Frateuria aurantia DSM 6220	Frateuria	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-1260	Halomonas smyrnensis AAD6	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-1272	Desulfomonile tiedjei DSM 6799	Desulfomonile	Proteobacteria	Bacteria	Deltaproteobacteria	2	2	0	2
-1316	Rubrivivax gelatinosus IL144	Rubrivivax	Proteobacteria	Bacteria	Betaproteobacteria	3	2	1	1
-1341	Phaeospirillum molischianum DSM 120	Phaeospirillum	Proteobacteria	Bacteria	Alphaproteobacteria	3	3	0	3
-1375	Oceanibaculum indicum P24	Oceanibaculum	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-1385	Agrobacterium albertimagni AOL15	Agrobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-1408	Desulfobacula toluolica Tol2	Desulfobacula	Proteobacteria	Bacteria	Deltaproteobacteria	4	1	0	1
-1470	Spirulina subsalsa PCC 9445	Spirulina	Cyanobacteria	Bacteria	Spirulinales	3	1	0	1
-1485	Caenispirillum salinarum AK4	Caenispirillum	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-1491	Fischerella thermalis PCC 7521	Fischerella	Cyanobacteria	Bacteria	Nostocales	3	1	0	1
-1492	Chlorogloeopsis fritschii PCC 6912	Chlorogloeopsis	Cyanobacteria	Bacteria	Nostocales	3	1	0	1
-1494	Calothrix sp. PCC 6303	Calothrix	Cyanobacteria	Bacteria	Nostocales	3	1	0	1
-1497	Cylindrospermum stagnale PCC 7417	Cylindrospermum	Cyanobacteria	Bacteria	Nostocales	3	1	0	1
-1501	Anabaena cylindrica PCC 7122	Anabaena	Cyanobacteria	Bacteria	Nostocales	3	1	0	1
-1521	Thioflavicoccus mobilis 8321	Thioflavicoccus	Proteobacteria	Bacteria	Gammaproteobacteria	2	1	0	1
-1544	Pseudanabaena biceps PCC 7429	Pseudanabaena	Cyanobacteria	Bacteria	Synechococcales	2	1	0	1
-1546	Fortiea contorta PCC 7126	Fortiea	Cyanobacteria	Bacteria	Nostocales	3	1	0	1
-1619	Bradyrhizobium oligotrophicum S58	Bradyrhizobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-1653	Marinobacter nanhaiticus D15-8W	Marinobacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-1682	Methylocystis rosea SV97	Methylocystis	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-1684	Methyloversatilis thermotolerans	Methyloversatilis	Proteobacteria	Bacteria	Betaproteobacteria	3	1	1	0
-1741	Hahella ganghwensis DSM 17046	Hahella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-1756	Marinobacterium rhizophilum DSM 18822	Marinobacterium	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	0	1
-1768	Elioraea tepidiphila DSM 17972	Elioraea	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-1770	Halomonas lutea DSM 23508	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-1783	Lamprocystis purpurea DSM 4197	Lamprocystis	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	0
-1834	Variovorax paradoxus 110B	Variovorax	Proteobacteria	Bacteria	Betaproteobacteria	2	2	1	1
-1845	Hyphomicrobium zavarzinii ATCC 27496	Hyphomicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-1850	Duganella zoogloeoides ATCC 25935	Duganella	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-1878	Pseudomonas protegens CHA0	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-1907	Pseudomonas resinovorans NBRC 106553	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-1917	Leucothrix mucor DSM 2157	Leucothrix	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	0	1
-1924	Desulfospira joergensenii DSM 10085	Desulfospira	Proteobacteria	Bacteria	Deltaproteobacteria	2	1	1	0
-1927	Psychromonas hadalis ATCC BAA-638	Psychromonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-1944	Nevskia ramosa DSM 11499	Nevskia	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-1949	Sandarakinorhabdus limnophila DSM 17366	Sandarakinorhabdus	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-1973	Desulfatiglans anilini DSM 4660	Desulfatiglans	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	1	0
-1980	Oceanospirillum beijerinckii DSM 7166	Oceanospirillum	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-2000	Oceanospirillum maris DSM 6286	Oceanospirillum	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-2003	Paludibacterium yongneupense DSM 18731	Paludibacterium	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-2006	Porphyrobacter cryptus DSM 12079	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-2038	Stappia stellulata DSM 5886	Stappia	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-2042	Thalassobaculum salexigens DSM 19539	Thalassobaculum	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	0	2
-2068	Rubritepida flocculans DSM 14296	Rubritepida	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-2148	Novosphingobium acidiphilum DSM 19966	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-2150	Salinarimonas rosea DSM 21201	Salinarimonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-2181	Comamonas composti DSM 21721	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-2184	Desulfatibacillum aliphaticivorans DSM 15576	Desulfatibacillum	Proteobacteria	Bacteria	Deltaproteobacteria	3	2	0	1
-2186	Desulfobulbus japonicus DSM 18378	Desulfobulbus	Proteobacteria	Bacteria	Deltaproteobacteria	3	1	0	1
-2224	Thauera terpenica 58Eu	Thauera	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-2303	Psychromonas arctica DSM 14288	Psychromonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-2348	Rhodopseudomonas palustris JSC-3b	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	0	2
-2354	Marinomonas profundimaris	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-2367	Sphingomonas sanxanigenens DSM 19645 = NX02	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-2368	Syntrophorhabdus aromaticivorans UI	Syntrophorhabdus	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	0	1
-2382	Rhodovibrio salinarum DSM 9154	Rhodovibrio	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-2417	Roseivivax atlanticus	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-2423	Roseivivax halodurans JCM 10272	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-2424	Marinomonas ushuaiensis DSM 15871	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-2425	Roseivivax isoporae LMG 25204	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-2439	Deferrisoma camini S3R1	Deferrisoma	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	1	0
-2447	Carnimonas nigrificans ATCC BAA-78	Carnimonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-2454	Methyloversatilis discipulorum	Methyloversatilis	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-2486	Imhoffiella purpurea	Imhoffiella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-2492	Sphingomonas jaspsi DSM 18422	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-2497	Roseibacterium elongatum DSM 19469	Roseibacterium	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-2561	Zymobacter palmae DSM 10491	Zymobacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-2564	Marinobacterium jannaschii DSM 6295	Marinobacterium	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	0	1
-2565	Microvirgula aerodenitrificans DSM 15089	Microvirgula	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-2579	Desulfobulbus elongatus DSM 2908	Desulfobulbus	Proteobacteria	Bacteria	Deltaproteobacteria	3	1	0	1
-2599	Sulfitobacter noctilucicola	Sulfitobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-2601	Sulfitobacter guttiformis KCTC 32187	Sulfitobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-2607	Ectothiorhodospira haloalkaliphila ATCC 51935	Ectothiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	2	2	1	1
-2617	Paraburkholderia acidipaludis NBRC 101816	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-2648	Simplicispira psychrophila DSM 11588	Simplicispira	Proteobacteria	Bacteria	Betaproteobacteria	2	1	1	0
-2653	Afifella pfennigii DSM 17143	Afifella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	0	2
-2666	Halomonas campaniensis	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-2668	Caballeronia zhejiangensis	Caballeronia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-2669	Caballeronia glathei	Caballeronia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-2676	Brevundimonas bacteroides DSM 4726	Brevundimonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	0	2
-2680	Acidiphilium angustum ATCC 35903	Acidiphilium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-2683	Bilophila wadsworthia ATCC 49260	Bilophila	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	0	1
-2725	Sphingomonas astaxanthinifaciens DSM 22298	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-2729	Andreprevotia chitinilytica DSM 18519	Andreprevotia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-2745	Erythrobacter longus	Erythrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-2840	Planktomarina temperata RCA23	Planktomarina	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-2844	Comamonas testosteroni TK102	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-2851	Paraburkholderia kururiensis subsp. thiooxydans NBRC 107107	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-2910	Belnapia moabensis DSM 16746	Belnapia	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-2966	Halomonas xinjiangensis	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-2967	Pseudomonas lutea	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-2975	Pseudomonas rhizosphaerae	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-3037	Paraburkholderia sacchari	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-3054	Pseudomonas putida	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-3065	Tepidimonas taiwanensis	Tepidimonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-3070	Novosphingobium subterraneum	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	3	2	1	1
-3091	Azotobacter chroococcum NCIMB 8003	Azotobacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-3102	Geoalkalibacter ferrihydriticus DSM 17813	Geoalkalibacter	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	1	0
-3115	Pseudomonas massiliensis	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-3122	Geoalkalibacter subterraneus	Geoalkalibacter	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	1	0
-3149	Cupriavidus basilensis	Cupriavidus	Proteobacteria	Bacteria	Betaproteobacteria	3	2	1	1
-3161	Jannaschia aquimarina	Jannaschia	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-3162	Dethiosulfatarculus sandiegensis	Dethiosulfatarculus	Proteobacteria	Bacteria	Deltaproteobacteria	4	2	0	2
-3170	Sphingomonas hengshuiensis	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-3172	Comamonas aquatica	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-3173	Rhodopseudomonas palustris	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-3178	Gynuella sunshinyii YC6258	Gynuella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-3203	Moritella viscosa	Moritella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-3214	Burkholderia ubonensis MSMB22	Burkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-3215	Burkholderia gladioli	Burkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-3258	Robbsia andropogonis	Robbsia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-3279	Polynucleobacter duraquae	Polynucleobacter	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	0
-3283	Cupriavidus pauculus	Cupriavidus	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-3336	Erythrobacter marinus	Erythrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	0	2
-3364	Herbaspirillum seropedicae	Herbaspirillum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-3388	Nereida ignava	Nereida	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-3414	Desulfocarbo indianensis	Desulfocarbo	Proteobacteria	Bacteria	Deltaproteobacteria	2	2	0	2
-3423	Herbaspirillum autotrophicum	Herbaspirillum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-3425	Herbaspirillum rhizosphaerae	Herbaspirillum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-3436	Aestuariivita atlantica	Aestuariivita	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-3446	Aestuariivita boseongensis	Aestuariivita	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-3457	Herbaspirillum hiltneri N3	Herbaspirillum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-3460	Limnohabitans planktonicus II-D5	Limnohabitans	Proteobacteria	Bacteria	Betaproteobacteria	1	2	0	2
-3496	Marinagarivorans algicola	Marinagarivorans	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-3498	Ideonella sakaiensis	Ideonella	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-3501	Amantichitinum ursilacus	Amantichitinum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-3521	Prosthecomicrobium hirschii	Prosthecomicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-3547	Desulfovibrio brasiliensis JCM 12178	Desulfovibrio	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	0	1
-3581	Blastochloris viridis	Blastochloris	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-3586	Jannaschia donghaensis	Jannaschia	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-3598	Burkholderia cepacia ATCC 25416	Burkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-3607	Marinomonas fungiae	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-3632	Halomonas huangheensis	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	0	1
-3711	Roseovarius atlanticus	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-3712	Roseovarius indicus	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-3739	Thalassobacter stenotrophicus	Thalassobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-3776	Legionella rubrilucens	Legionella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1
-3816	Aquitalea pelogenes	Aquitalea	Proteobacteria	Bacteria	Betaproteobacteria	0	1	0	0
-3818	Comamonas terrigena NBRC 13299	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-3820	Roseibaca calidilacus	Roseibaca	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-3825	Novosphingobium fuchskuhlense	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-3830	Pseudomonas monteilii	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-3842	Comamonas terrae	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-3848	Caballeronia telluris	Caballeronia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-3849	Caballeronia concitans	Caballeronia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-3850	Caballeronia glebae	Caballeronia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1
-3857	Methylobacterium aquaticum	Methylobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-3894	Desulfovibrio fairfieldensis	Desulfovibrio	Proteobacteria	Bacteria	Deltaproteobacteria	2	2	0	2
-3898	Acidovorax delafieldii	Acidovorax	Proteobacteria	Bacteria	Betaproteobacteria	2	2	1	1
-3901	Porphyrobacter donghaensis	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	2	1	1
-3934	Hydrogenophaga palleronii NBRC 102513	Hydrogenophaga	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-4003	Pseudomonas alcaligenes	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-4004	Neptuniibacter marinus	Neptuniibacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-4009	Novosphingobium capsulatum NBRC 12533	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4071	Rhodovulum sulfidophilum DSM 1374	Rhodovulum	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4091	Marinomonas atlantica	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-4140	Pseudomonas citronellolis	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	1	1	0
-4157	Altererythrobacter ishigakiensis	Altererythrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-4158	Porphyrobacter neustonensis	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-4161	Tepidimonas fonticaldi	Tepidimonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-4163	Cylindrospermopsis raciborskii CS-505	Cylindrospermopsis	Cyanobacteria	Bacteria	Nostocales	3	1	0	1
-4167	Chromobacterium subtsugae	Chromobacterium	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-4169	Porphyrobacter dokdonensis DSW-74	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-4213	Hoeflea olei	Hoeflea	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4235	Erythrobacter litoralis	Erythrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-4309	Paraburkholderia sprentiae WSM5005	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-4315	Gloeomargarita lithophora Alchichica-D10	Gloeomargarita	Cyanobacteria	Bacteria	Gloeoemargaritales	1	1	0	1
-4317	Rhodobaca barguzinensis	Rhodobaca	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4318	Roseinatronobacter thiooxidans	Roseinatronobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4377	Pseudomonas psychrotolerans	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-4410	Rhodovulum sulfidophilum	Rhodovulum	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4427	Rhodoferax saidenbachensis	Rhodoferax	Proteobacteria	Bacteria	Betaproteobacteria	2	1	1	0
-4428	Rhodoferax antarcticus	Rhodoferax	Proteobacteria	Bacteria	Betaproteobacteria	2	2	2	0
-4499	Rhodoferax fermentans	Rhodoferax	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-4513	Herbaspirillum frisingense	Herbaspirillum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0
-4529	Halomicronema hongdechloris C2206	Halomicronema	Cyanobacteria	Bacteria	Synechococcales	3	1	0	1
-4537	Roseovarius mucosus	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4565	Pseudomonas nitroreducens NBRC 12694	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-4606	Marivita cryptomonadis	Marivita	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-4609	Marivita geojedonensis	Marivita	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-4611	Rhizobacter gummiphilus	Rhizobacter	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-4631	Halomonas desiderata SP1	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-4635	Porphyrobacter colymbi	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4636	Porphyrobacter tepidarius	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-4642	Kushneria marisflavi	Kushneria	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-4648	Comamonas serinivorans	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-4649	Loktanella vestfoldensis	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4652	Oleiphilus messinensis	Oleiphilus	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	0	1
-4654	Nostocales cyanobacterium HT-58-2	Nostocales	Cyanobacteria	Bacteria	Nostocales	3	1	0	1
-4671	Rhodomicrobium sp. R_RK_3	Rhodomicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	0	2
-4677	Pelomonas puraquae	Pelomonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-4685	Methylovulum psychrotolerans	Methylovulum	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-4687	Marinibacterium profundimaris	Marinibacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4699	Leptolyngbya ohadii IS1	Leptolyngbya	Cyanobacteria	Bacteria	Synechococcales	3	1	0	1
-4701	Granulosicoccus antarcticus IMCC3135	Granulosicoccus	Proteobacteria	Bacteria	Gammaproteobacteria	1	3	1	1
-4766	Marinomonas aquimarina	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-4768	Marinomonas spartinae	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-4829	Lutimaribacter saemankumensis	Lutimaribacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-4845	Roseospirillum parvum	Roseospirillum	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4847	Pseudomonas benzenivorans	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-4872	Mameliella alba	Mameliella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4886	Rhodospira trueperi	Rhodospira	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-4888	Loktanella pyoseonensis	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4905	Acidovorax valerianellae	Acidovorax	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-4907	Afifella marina DSM 2698	Afifella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4914	Halomonas pantelleriensis	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-4930	Methylobacterium phyllostachyos	Methylobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-4955	Belnapia rosea	Belnapia	Proteobacteria	Bacteria	Alphaproteobacteria	1	3	1	1
-4979	Pseudomonas oryzae	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-4980	Paraburkholderia caballeronis	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-4991	Pseudomonas anguilliseptica	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-5003	Pseudomonas guangdongensis	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-5021	Aidingimonas halophila	Aidingimonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-5022	Pseudomonas kuykendallii	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	1
-5025	Roseicitreum antarcticum	Roseicitreum	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-5030	Allochromatium warmingii	Allochromatium	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1
-5039	Jannaschia faecimaris	Jannaschia	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-5050	Paraburkholderia sartisoli	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-5067	Pseudomonas fuscovaginae	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-5078	Loktanella koreensis	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5083	Roseovarius azorensis	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-5084	Ectothiorhodospira marina	Ectothiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	2	2	1	1
-5095	Roseovarius tolerans	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-5102	Loktanella fryxellensis	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5104	Maribius pelagius	Maribius	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5134	Ectothiorhodospira magna	Ectothiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1
-5149	Halomonas subterranea	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-5150	Roseivivax roseus	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5164	Desulfuromonas acetexigens	Desulfuromonas	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	1	0
-5166	Pseudomonas otitidis	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-5198	Kushneria avicenniae	Kushneria	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-5226	Methylobacterium gossipiicola	Methylobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5230	Albimonas pacifica	Albimonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5231	Pseudomonas guineae	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-5234	Paraburkholderia megapolitana	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-5235	Jannaschia pohangensis	Jannaschia	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5246	Methylocapsa palsarum	Methylocapsa	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5248	Roseomonas stagni DSM 19981	Roseomonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-5257	Loktanella litorea	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5258	Rugamonas rubra	Rugamonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-5265	Ectothiorhodospira mobilis	Ectothiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	2	3	2	0
-5266	Thermodesulforhabdus norvegica	Thermodesulforhabdus	Proteobacteria	Bacteria	Deltaproteobacteria	1	2	0	1
-5292	Tranquillimonas alkanivorans	Tranquillimonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5297	Pseudomonas sagittaria	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-5302	Roseivivax halotolerans	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5362	Loktanella atrilutea	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5373	Marinomonas polaris DSM 16579	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0
-5381	Desulfacinum infernum DSM 9756	Desulfacinum	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	0	0
-5406	Loktanella sediminum	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-5407	Marivita hallyeonensis	Marivita	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-5418	Desulfofustis glycolicus DSM 9705	Desulfofustis	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	1	0
-5436	Pseudomonas zeshuii	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0
-5446	Malonomonas rubra DSM 5091	Malonomonas	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	1	0
-5471	Halomonas cupida	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	0	1
-5479	Duganella sacchari	Duganella	Proteobacteria	Bacteria	Betaproteobacteria	2	1	1	0
-5484	Porphyrobacter sanguineus	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-5515	Ectothiorhodosinus mongolicus	Ectothiorhodosinus	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1
-5523	Loktanella rosea	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-5526	Roseovarius nanhaiticus	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5530	Rhodobacter aestuarii	Rhodobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5534	Rhodobacter vinaykumarii	Rhodobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5539	Roseivivax lentus	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1
-5623	Roseivivax jejudonensis	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5624	Pseudooctadecabacter jejudonensis	Pseudooctadecabacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5631	Roseisalinus antarcticus	Roseisalinus	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5644	Desulfacinum hydrothermale DSM 13146	Desulfacinum	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	0	0
-5649	Desulfobacterium vacuolatum DSM 3385	Desulfobacterium	Proteobacteria	Bacteria	Deltaproteobacteria	4	2	0	2
-5654	Fulvimarina manganoxydans	Fulvimarina	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1
-5666	Pseudogulbenkiania subflava DSM 22618	Pseudogulbenkiania	Proteobacteria	Bacteria	Betaproteobacteria	1	2	0	1
-5672	Paraburkholderia caryophylli	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1	0
-5685	Calothrix rhizosoleniae SC01	Calothrix	Cyanobacteria	Bacteria	Nostocales	2	1	0	1
-5687	Rhodoblastus acidophilus	Rhodoblastus	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1
-5704	Desulfovibrio mexicanus	Desulfovibrio	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	0	1
+id	dir_name	name	genus	phylum	kingdom	tax2	num_L	num_M	num_S	num_M_fs	num_M_plus	num_M_minus
+84	Methanocaldococcus_sp_FS406_22	Methanocaldococcus sp. FS406-22	Methanocaldococcus	Euryarchaeota	Archaea	Methanococci	3	1	0	1	0	1
+85	Methanocaldococcus_fervens_AG86	Methanocaldococcus fervens AG86	Methanocaldococcus	Euryarchaeota	Archaea	Methanococci	2	1	0	1	0	1
+86	Delftia_acidovorans_SPH_1	Delftia acidovorans SPH-1	Delftia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+94	Pseudomonas_aeruginosa_PAO1	Pseudomonas aeruginosa PAO1	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	2	1	0	1	0	1
+116	Pseudomonas_putida_KT2440	Pseudomonas putida KT2440	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+119	Chromobacterium_violaceum_ATCC_12472	Chromobacterium violaceum ATCC 12472	Chromobacterium	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+123	Pseudomonas_syringae_pv_tomato_str_DC3000	Pseudomonas syringae pv. tomato str. DC3000	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+128	Prochlorococcus_marinus_subsp_marinus_str_CCMP1375	Prochlorococcus marinus subsp. marinus str. CCMP1375	Prochlorococcus	Cyanobacteria	Bacteria	Synechococcales	2	1	1	0	0	0
+160	Ralstonia_solanacearum_GMI1000	Ralstonia solanacearum GMI1000	Ralstonia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+199	Thermosynechococcus_elongatus_BP_1	Thermosynechococcus elongatus BP-1	Thermosynechococcus	Cyanobacteria	Bacteria	Synechococcales	2	1	1	0	0	0
+201	Gloeobacter_violaceus_PCC_7421	Gloeobacter violaceus PCC 7421	Gloeobacter	Cyanobacteria	Bacteria	Gloeobacteria	3	1	1	0	0	0
+205	Burkholderia_pseudomallei_K96243	Burkholderia pseudomallei K96243	Burkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+237	Rhodobacter_sphaeroides_2_4_1	Rhodobacter sphaeroides 2.4.1	Rhodobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+240	Hahella_chejuensis_KCTC_2396	Hahella chejuensis KCTC 2396	Hahella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+244	Rhodospirillum_rubrum_ATCC_11170	Rhodospirillum rubrum ATCC 11170	Rhodospirillum	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	0	1
+252	Rhodopseudomonas_palustris_HaA2	Rhodopseudomonas palustris HaA2	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	2	0	0	0
+257	Paraburkholderia_xenovorans_LB400	Paraburkholderia xenovorans LB400	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+260	Rhodopseudomonas_palustris_BisB18	Rhodopseudomonas palustris BisB18	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	0	1
+266	Roseobacter_denitrificans_OCh_114	Roseobacter denitrificans OCh 114	Roseobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	0	1
+288	Rhodopseudomonas_palustris_BisA53	Rhodopseudomonas palustris BisA53	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	0	1
+292	Syntrophobacter_fumaroxidans_MPOB	Syntrophobacter fumaroxidans MPOB	Syntrophobacter	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	1	0	0	0
+295	Pelobacter_propionicus_DSM_2379	Pelobacter propionicus DSM 2379	Pelobacter	Proteobacteria	Bacteria	Deltaproteobacteria	3	2	2	0	0	0
+305	Halorhodospira_halophila_SL1	Halorhodospira halophila SL1	Halorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0	0	0
+316	Rhodospirillum_centenum_SW	Rhodospirillum centenum SW	Rhodospirillum	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+319	Rhodobacter_sphaeroides_ATCC_17025	Rhodobacter sphaeroides ATCC 17025	Rhodobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+324	Pseudomonas_mendocina_ymp	Pseudomonas mendocina ymp	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+356	Dinoroseobacter_shibae_DFL_12_DSM_16493	Dinoroseobacter shibae DFL 12 = DSM 16493	Dinoroseobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+379	Methylobacterium_radiotolerans_JCM_2831	Methylobacterium radiotolerans JCM 2831	Methylobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+384	Methylobacterium_populi_BJ001	Methylobacterium populi BJ001	Methylobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	2	0	0	0
+387	Nostoc_punctiforme_PCC_73102	Nostoc punctiforme PCC 73102	Nostoc	Cyanobacteria	Bacteria	Nostocales	3	1	1	0	0	0
+388	Paraburkholderia_phymatum_STM815	Paraburkholderia phymatum STM815	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+421	Methylocella_silvestris_BL2	Methylocella silvestris BL2	Methylocella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+422	Rhodobacter_capsulatus_SB_1003	Rhodobacter capsulatus SB 1003	Rhodobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	2	0	0	0
+513	Allochromatium_vinosum_DSM_180	Allochromatium vinosum DSM 180	Allochromatium	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	0	1	0	1
+611	Desulfarculus_baarsii_DSM_2075	Desulfarculus baarsii DSM 2075	Desulfarculus	Proteobacteria	Bacteria	Deltaproteobacteria	3	2	2	0	0	0
+613	Brevundimonas_subvibrioides_ATCC_15264	Brevundimonas subvibrioides ATCC 15264	Brevundimonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+647	Congregibacter_litoralis_KT71	Congregibacter litoralis KT71	Congregibacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+653	Neptuniibacter_caesariensis	Neptuniibacter caesariensis	Neptuniibacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+657	Fulvimarina_pelagi_HTCC2506	Fulvimarina pelagi HTCC2506	Fulvimarina	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+673	Hoeflea_phototrophica_DFL_43	Hoeflea phototrophica DFL-43	Hoeflea	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+675	Roseobacter_litoralis_Och_149	Roseobacter litoralis Och 149	Roseobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	0	1
+700	Labrenzia_alexandrii_DFL_11	Labrenzia alexandrii DFL-11	Labrenzia	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+701	Luminiphilus_syltensis_NOR5_1B	Luminiphilus syltensis NOR5-1B	Luminiphilus	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+761	Rhodomicrobium_vannielii_ATCC_17100	Rhodomicrobium vannielii ATCC 17100	Rhodomicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	0	1
+769	Crocosphaera_watsonii_WH_8501	Crocosphaera watsonii WH 8501	Crocosphaera	Cyanobacteria	Bacteria	Oscillatoriophycideae	3	1	1	0	0	0
+811	Citromicrobium_bathyomarinum_JL354	Citromicrobium bathyomarinum JL354	Citromicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+859	Variovorax_paradoxus_EPS	Variovorax paradoxus EPS	Variovorax	Proteobacteria	Bacteria	Betaproteobacteria	2	2	1	1	0	1
+879	Desulfobulbus_propionicus_DSM_2032	Desulfobulbus propionicus DSM 2032	Desulfobulbus	Proteobacteria	Bacteria	Deltaproteobacteria	3	1	1	0	0	0
+904	Methylobacter_tundripaludum_SV96	Methylobacter tundripaludum SV96	Methylobacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+916	Marinomonas_mediterranea_MMB_1	Marinomonas mediterranea MMB-1	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+926	Desulfobacca_acetoxidans_DSM_11109	Desulfobacca acetoxidans DSM 11109	Desulfobacca	Proteobacteria	Bacteria	Deltaproteobacteria	3	2	1	1	0	1
+933	Rhodopseudomonas_palustris_CGA009	Rhodopseudomonas palustris CGA009	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	3	3	1	1	0	1
+971	Acidiphilium_multivorum_AIU301	Acidiphilium multivorum AIU301	Acidiphilium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+995	Hylemonella_gracilis_ATCC_19624	Hylemonella gracilis ATCC 19624	Hylemonella	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+1007	Pseudomonas_fulva_12_X	Pseudomonas fulva 12-X	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+1011	Methyloversatilis_universalis_FAM5	Methyloversatilis universalis FAM5	Methyloversatilis	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+1015	Marinomonas_posidonica_IVIA_Po_181	Marinomonas posidonica IVIA-Po-181	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+1068	Thiocapsa_marina_5811	Thiocapsa marina 5811	Thiocapsa	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	0	1	0	1
+1069	Marichromatium_purpuratum_984	Marichromatium purpuratum 984	Marichromatium	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	0	1	0	1
+1070	Thiorhodococcus_drewsii_AZ1	Thiorhodococcus drewsii AZ1	Thiorhodococcus	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0	0	0
+1097	Thiorhodospira_sibirica_ATCC_700588	Thiorhodospira sibirica ATCC 700588	Thiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	2	1	0	1	1	0
+1098	Thiocystis_violascens_DSM_198	Thiocystis violascens DSM 198	Thiocystis	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	0	1	0	1
+1129	Halomonas_boliviensis_LC1	Halomonas boliviensis LC1	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+1136	Pseudomonas_fluorescens_F113	Pseudomonas fluorescens F113	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+1162	Sphingomonas_echinoides_ATCC_14820	Sphingomonas echinoides ATCC 14820	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+1164	Frateuria_aurantia_DSM_6220	Frateuria aurantia DSM 6220	Frateuria	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+1260	Halomonas_smyrnensis_AAD6	Halomonas smyrnensis AAD6	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+1272	Desulfomonile_tiedjei_DSM_6799	Desulfomonile tiedjei DSM 6799	Desulfomonile	Proteobacteria	Bacteria	Deltaproteobacteria	2	2	2	0	0	0
+1316	Rubrivivax_gelatinosus_IL144	Rubrivivax gelatinosus IL144	Rubrivivax	Proteobacteria	Bacteria	Betaproteobacteria	3	2	1	1	0	1
+1341	Phaeospirillum_molischianum_DSM_120	Phaeospirillum molischianum DSM 120	Phaeospirillum	Proteobacteria	Bacteria	Alphaproteobacteria	3	3	3	0	0	0
+1375	Oceanibaculum_indicum_P24	Oceanibaculum indicum P24	Oceanibaculum	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+1385	Agrobacterium_albertimagni_AOL15	Agrobacterium albertimagni AOL15	Agrobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	1	0
+1408	Desulfobacula_toluolica_Tol2	Desulfobacula toluolica Tol2	Desulfobacula	Proteobacteria	Bacteria	Deltaproteobacteria	4	1	1	0	0	0
+1470	Spirulina_subsalsa_PCC_9445	Spirulina subsalsa PCC 9445	Spirulina	Cyanobacteria	Bacteria	Spirulinales	3	1	1	0	0	0
+1485	Caenispirillum_salinarum_AK4	Caenispirillum salinarum AK4	Caenispirillum	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+1491	Fischerella_thermalis_PCC_7521	Fischerella thermalis PCC 7521	Fischerella	Cyanobacteria	Bacteria	Nostocales	3	1	1	0	0	0
+1492	Chlorogloeopsis_fritschii_PCC_6912	Chlorogloeopsis fritschii PCC 6912	Chlorogloeopsis	Cyanobacteria	Bacteria	Nostocales	3	1	1	0	0	0
+1494	Calothrix_sp_PCC_6303	Calothrix sp. PCC 6303	Calothrix	Cyanobacteria	Bacteria	Nostocales	3	1	1	0	0	0
+1497	Cylindrospermum_stagnale_PCC_7417	Cylindrospermum stagnale PCC 7417	Cylindrospermum	Cyanobacteria	Bacteria	Nostocales	3	1	1	0	0	0
+1501	Anabaena_cylindrica_PCC_7122	Anabaena cylindrica PCC 7122	Anabaena	Cyanobacteria	Bacteria	Nostocales	3	1	1	0	0	0
+1521	Thioflavicoccus_mobilis_8321	Thioflavicoccus mobilis 8321	Thioflavicoccus	Proteobacteria	Bacteria	Gammaproteobacteria	2	1	1	0	0	0
+1544	Pseudanabaena_biceps_PCC_7429	Pseudanabaena biceps PCC 7429	Pseudanabaena	Cyanobacteria	Bacteria	Synechococcales	2	1	1	0	0	0
+1546	Fortiea_contorta_PCC_7126	Fortiea contorta PCC 7126	Fortiea	Cyanobacteria	Bacteria	Nostocales	3	1	1	0	0	0
+1619	Bradyrhizobium_oligotrophicum_S58	Bradyrhizobium oligotrophicum S58	Bradyrhizobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+1653	Marinobacter_nanhaiticus_D15_8W	Marinobacter nanhaiticus D15-8W	Marinobacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+1682	Methylocystis_rosea_SV97	Methylocystis rosea SV97	Methylocystis	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+1684	Methyloversatilis_thermotolerans	Methyloversatilis thermotolerans	Methyloversatilis	Proteobacteria	Bacteria	Betaproteobacteria	3	1	0	1	0	1
+1741	Hahella_ganghwensis_DSM_17046	Hahella ganghwensis DSM 17046	Hahella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+1756	Marinobacterium_rhizophilum_DSM_18822	Marinobacterium rhizophilum DSM 18822	Marinobacterium	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	0	0	0
+1768	Elioraea_tepidiphila_DSM_17972	Elioraea tepidiphila DSM 17972	Elioraea	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+1770	Halomonas_lutea_DSM_23508	Halomonas lutea DSM 23508	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+1783	Lamprocystis_purpurea_DSM_4197	Lamprocystis purpurea DSM 4197	Lamprocystis	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	0	1	0	1
+1834	Variovorax_paradoxus_110B	Variovorax paradoxus 110B	Variovorax	Proteobacteria	Bacteria	Betaproteobacteria	2	2	1	1	0	1
+1845	Hyphomicrobium_zavarzinii_ATCC_27496	Hyphomicrobium zavarzinii ATCC 27496	Hyphomicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	1	0
+1850	Duganella_zoogloeoides_ATCC_25935	Duganella zoogloeoides ATCC 25935	Duganella	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+1878	Pseudomonas_protegens_CHA0	Pseudomonas protegens CHA0	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+1907	Pseudomonas_resinovorans_NBRC_106553	Pseudomonas resinovorans NBRC 106553	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+1917	Leucothrix_mucor_DSM_2157	Leucothrix mucor DSM 2157	Leucothrix	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	0	0	0
+1924	Desulfospira_joergensenii_DSM_10085	Desulfospira joergensenii DSM 10085	Desulfospira	Proteobacteria	Bacteria	Deltaproteobacteria	2	1	0	1	0	1
+1927	Psychromonas_hadalis_ATCC_BAA_638	Psychromonas hadalis ATCC BAA-638	Psychromonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+1944	Nevskia_ramosa_DSM_11499	Nevskia ramosa DSM 11499	Nevskia	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+1949	Sandarakinorhabdus_limnophila_DSM_17366	Sandarakinorhabdus limnophila DSM 17366	Sandarakinorhabdus	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+1973	Desulfatiglans_anilini_DSM_4660	Desulfatiglans anilini DSM 4660	Desulfatiglans	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	0	1	0	1
+1980	Oceanospirillum_beijerinckii_DSM_7166	Oceanospirillum beijerinckii DSM 7166	Oceanospirillum	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+2000	Oceanospirillum_maris_DSM_6286	Oceanospirillum maris DSM 6286	Oceanospirillum	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+2003	Paludibacterium_yongneupense_DSM_18731	Paludibacterium yongneupense DSM 18731	Paludibacterium	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+2006	Porphyrobacter_cryptus_DSM_12079	Porphyrobacter cryptus DSM 12079	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+2038	Stappia_stellulata_DSM_5886	Stappia stellulata DSM 5886	Stappia	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+2042	Thalassobaculum_salexigens_DSM_19539	Thalassobaculum salexigens DSM 19539	Thalassobaculum	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	2	0	0	0
+2068	Rubritepida_flocculans_DSM_14296	Rubritepida flocculans DSM 14296	Rubritepida	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+2148	Novosphingobium_acidiphilum_DSM_19966	Novosphingobium acidiphilum DSM 19966	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+2150	Salinarimonas_rosea_DSM_21201	Salinarimonas rosea DSM 21201	Salinarimonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+2181	Comamonas_composti_DSM_21721	Comamonas composti DSM 21721	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+2184	Desulfatibacillum_aliphaticivorans_DSM_15576	Desulfatibacillum aliphaticivorans DSM 15576	Desulfatibacillum	Proteobacteria	Bacteria	Deltaproteobacteria	3	2	1	0	0	0
+2186	Desulfobulbus_japonicus_DSM_18378	Desulfobulbus japonicus DSM 18378	Desulfobulbus	Proteobacteria	Bacteria	Deltaproteobacteria	3	1	1	0	0	0
+2224	Thauera_terpenica_58Eu	Thauera terpenica 58Eu	Thauera	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+2303	Psychromonas_arctica_DSM_14288	Psychromonas arctica DSM 14288	Psychromonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+2348	Rhodopseudomonas_palustris_JSC_3b	Rhodopseudomonas palustris JSC-3b	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	2	0	0	0
+2354	Marinomonas_profundimaris	Marinomonas profundimaris	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+2367	Sphingomonas_sanxanigenens_DSM_19645_NX02	Sphingomonas sanxanigenens DSM 19645 = NX02	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+2368	Syntrophorhabdus_aromaticivorans_UI	Syntrophorhabdus aromaticivorans UI	Syntrophorhabdus	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	1	0	0	0
+2382	Rhodovibrio_salinarum_DSM_9154	Rhodovibrio salinarum DSM 9154	Rhodovibrio	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	0	1
+2417	Roseivivax_atlanticus	Roseivivax atlanticus	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+2423	Roseivivax_halodurans_JCM_10272	Roseivivax halodurans JCM 10272	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+2424	Marinomonas_ushuaiensis_DSM_15871	Marinomonas ushuaiensis DSM 15871	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+2425	Roseivivax_isoporae_LMG_25204	Roseivivax isoporae LMG 25204	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+2439	Deferrisoma_camini_S3R1	Deferrisoma camini S3R1	Deferrisoma	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	0	1	0	1
+2447	Carnimonas_nigrificans_ATCC_BAA_78	Carnimonas nigrificans ATCC BAA-78	Carnimonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+2454	Methyloversatilis_discipulorum	Methyloversatilis discipulorum	Methyloversatilis	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+2486	Imhoffiella_purpurea	Imhoffiella purpurea	Imhoffiella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+2492	Sphingomonas_jaspsi_DSM_18422	Sphingomonas jaspsi DSM 18422	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+2497	Roseibacterium_elongatum_DSM_19469	Roseibacterium elongatum DSM 19469	Roseibacterium	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+2561	Zymobacter_palmae_DSM_10491	Zymobacter palmae DSM 10491	Zymobacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+2564	Marinobacterium_jannaschii_DSM_6295	Marinobacterium jannaschii DSM 6295	Marinobacterium	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	0	0	0
+2565	Microvirgula_aerodenitrificans_DSM_15089	Microvirgula aerodenitrificans DSM 15089	Microvirgula	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+2579	Desulfobulbus_elongatus_DSM_2908	Desulfobulbus elongatus DSM 2908	Desulfobulbus	Proteobacteria	Bacteria	Deltaproteobacteria	3	1	1	0	0	0
+2599	Sulfitobacter_noctilucicola	Sulfitobacter noctilucicola	Sulfitobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+2601	Sulfitobacter_guttiformis_KCTC_32187	Sulfitobacter guttiformis KCTC 32187	Sulfitobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+2607	Ectothiorhodospira_haloalkaliphila_ATCC_51935	Ectothiorhodospira haloalkaliphila ATCC 51935	Ectothiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	2	2	1	1	0	1
+2617	Paraburkholderia_acidipaludis_NBRC_101816	Paraburkholderia acidipaludis NBRC 101816	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+2648	Simplicispira_psychrophila_DSM_11588	Simplicispira psychrophila DSM 11588	Simplicispira	Proteobacteria	Bacteria	Betaproteobacteria	2	1	0	1	0	1
+2653	Afifella_pfennigii_DSM_17143	Afifella pfennigii DSM 17143	Afifella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	2	0	0	0
+2666	Halomonas_campaniensis	Halomonas campaniensis	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+2668	Caballeronia_zhejiangensis	Caballeronia zhejiangensis	Caballeronia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+2669	Caballeronia_glathei	Caballeronia glathei	Caballeronia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+2676	Brevundimonas_bacteroides_DSM_4726	Brevundimonas bacteroides DSM 4726	Brevundimonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	2	0	0	0
+2680	Acidiphilium_angustum_ATCC_35903	Acidiphilium angustum ATCC 35903	Acidiphilium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+2683	Bilophila_wadsworthia_ATCC_49260	Bilophila wadsworthia ATCC 49260	Bilophila	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	1	0	0	0
+2725	Sphingomonas_astaxanthinifaciens_DSM_22298	Sphingomonas astaxanthinifaciens DSM 22298	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+2729	Andreprevotia_chitinilytica_DSM_18519	Andreprevotia chitinilytica DSM 18519	Andreprevotia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+2745	Erythrobacter_longus	Erythrobacter longus	Erythrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+2840	Planktomarina_temperata_RCA23	Planktomarina temperata RCA23	Planktomarina	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+2844	Comamonas_testosteroni_TK102	Comamonas testosteroni TK102	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+2851	Paraburkholderia_kururiensis_subsp_thiooxydans_NBRC_107107	Paraburkholderia kururiensis subsp. thiooxydans NBRC 107107	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+2910	Belnapia_moabensis_DSM_16746	Belnapia moabensis DSM 16746	Belnapia	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+2966	Halomonas_xinjiangensis	Halomonas xinjiangensis	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+2967	Pseudomonas_lutea	Pseudomonas lutea	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+2975	Pseudomonas_rhizosphaerae	Pseudomonas rhizosphaerae	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+3037	Paraburkholderia_sacchari	Paraburkholderia sacchari	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+3054	Pseudomonas_putida	Pseudomonas putida	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+3065	Tepidimonas_taiwanensis	Tepidimonas taiwanensis	Tepidimonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+3070	Novosphingobium_subterraneum	Novosphingobium subterraneum	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	3	2	1	1	0	1
+3091	Azotobacter_chroococcum_NCIMB_8003	Azotobacter chroococcum NCIMB 8003	Azotobacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+3102	Geoalkalibacter_ferrihydriticus_DSM_17813	Geoalkalibacter ferrihydriticus DSM 17813	Geoalkalibacter	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	0	1	0	1
+3115	Pseudomonas_massiliensis	Pseudomonas massiliensis	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+3122	Geoalkalibacter_subterraneus	Geoalkalibacter subterraneus	Geoalkalibacter	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	0	1	0	1
+3149	Cupriavidus_basilensis	Cupriavidus basilensis	Cupriavidus	Proteobacteria	Bacteria	Betaproteobacteria	3	2	1	1	0	1
+3161	Jannaschia_aquimarina	Jannaschia aquimarina	Jannaschia	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+3162	Dethiosulfatarculus_sandiegensis	Dethiosulfatarculus sandiegensis	Dethiosulfatarculus	Proteobacteria	Bacteria	Deltaproteobacteria	4	2	2	0	0	0
+3170	Sphingomonas_hengshuiensis	Sphingomonas hengshuiensis	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+3172	Comamonas_aquatica	Comamonas aquatica	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+3173	Rhodopseudomonas_palustris	Rhodopseudomonas palustris	Rhodopseudomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	0	1
+3178	Gynuella_sunshinyii_YC6258	Gynuella sunshinyii YC6258	Gynuella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+3203	Moritella_viscosa	Moritella viscosa	Moritella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+3214	Burkholderia_ubonensis_MSMB22	Burkholderia ubonensis MSMB22	Burkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+3215	Burkholderia_gladioli	Burkholderia gladioli	Burkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+3258	Robbsia_andropogonis	Robbsia andropogonis	Robbsia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+3279	Polynucleobacter_duraquae	Polynucleobacter duraquae	Polynucleobacter	Proteobacteria	Bacteria	Betaproteobacteria	1	2	0	1	0	1
+3283	Cupriavidus_pauculus	Cupriavidus pauculus	Cupriavidus	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+3336	Erythrobacter_marinus	Erythrobacter marinus	Erythrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	2	0	0	0
+3364	Herbaspirillum_seropedicae	Herbaspirillum seropedicae	Herbaspirillum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+3388	Nereida_ignava	Nereida ignava	Nereida	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+3414	Desulfocarbo_indianensis	Desulfocarbo indianensis	Desulfocarbo	Proteobacteria	Bacteria	Deltaproteobacteria	2	2	2	0	0	0
+3423	Herbaspirillum_autotrophicum	Herbaspirillum autotrophicum	Herbaspirillum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+3425	Herbaspirillum_rhizosphaerae	Herbaspirillum rhizosphaerae	Herbaspirillum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+3436	Aestuariivita_atlantica	Aestuariivita atlantica	Aestuariivita	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+3446	Aestuariivita_boseongensis	Aestuariivita boseongensis	Aestuariivita	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+3457	Herbaspirillum_hiltneri_N3	Herbaspirillum hiltneri N3	Herbaspirillum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+3460	Limnohabitans_planktonicus_II_D5	Limnohabitans planktonicus II-D5	Limnohabitans	Proteobacteria	Bacteria	Betaproteobacteria	1	2	2	0	0	0
+3496	Marinagarivorans_algicola	Marinagarivorans algicola	Marinagarivorans	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+3498	Ideonella_sakaiensis	Ideonella sakaiensis	Ideonella	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+3501	Amantichitinum_ursilacus	Amantichitinum ursilacus	Amantichitinum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+3521	Prosthecomicrobium_hirschii	Prosthecomicrobium hirschii	Prosthecomicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+3547	Desulfovibrio_brasiliensis_JCM_12178	Desulfovibrio brasiliensis JCM 12178	Desulfovibrio	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	1	0	0	0
+3581	Blastochloris_viridis	Blastochloris viridis	Blastochloris	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+3586	Jannaschia_donghaensis	Jannaschia donghaensis	Jannaschia	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+3598	Burkholderia_cepacia_ATCC_25416	Burkholderia cepacia ATCC 25416	Burkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+3607	Marinomonas_fungiae	Marinomonas fungiae	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+3632	Halomonas_huangheensis	Halomonas huangheensis	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	0	0	0
+3711	Roseovarius_atlanticus	Roseovarius atlanticus	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+3712	Roseovarius_indicus	Roseovarius indicus	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+3739	Thalassobacter_stenotrophicus	Thalassobacter stenotrophicus	Thalassobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+3776	Legionella_rubrilucens	Legionella rubrilucens	Legionella	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0	0	0
+3816	Aquitalea_pelogenes	Aquitalea pelogenes	Aquitalea	Proteobacteria	Bacteria	Betaproteobacteria	0	1	0	0	0	0
+3818	Comamonas_terrigena_NBRC_13299	Comamonas terrigena NBRC 13299	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+3820	Roseibaca_calidilacus	Roseibaca calidilacus	Roseibaca	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	1	0
+3825	Novosphingobium_fuchskuhlense	Novosphingobium fuchskuhlense	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+3830	Pseudomonas_monteilii	Pseudomonas monteilii	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+3842	Comamonas_terrae	Comamonas terrae	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+3848	Caballeronia_telluris	Caballeronia telluris	Caballeronia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+3849	Caballeronia_concitans	Caballeronia concitans	Caballeronia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+3850	Caballeronia_glebae	Caballeronia glebae	Caballeronia	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	1	0	1
+3857	Methylobacterium_aquaticum	Methylobacterium aquaticum	Methylobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+3894	Desulfovibrio_fairfieldensis	Desulfovibrio fairfieldensis	Desulfovibrio	Proteobacteria	Bacteria	Deltaproteobacteria	2	2	2	0	0	0
+3898	Acidovorax_delafieldii	Acidovorax delafieldii	Acidovorax	Proteobacteria	Bacteria	Betaproteobacteria	2	2	1	1	0	1
+3901	Porphyrobacter_donghaensis	Porphyrobacter donghaensis	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	2	1	1	0	1
+3934	Hydrogenophaga_palleronii_NBRC_102513	Hydrogenophaga palleronii NBRC 102513	Hydrogenophaga	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+4003	Pseudomonas_alcaligenes	Pseudomonas alcaligenes	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+4004	Neptuniibacter_marinus	Neptuniibacter marinus	Neptuniibacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+4009	Novosphingobium_capsulatum_NBRC_12533	Novosphingobium capsulatum NBRC 12533	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+4071	Rhodovulum_sulfidophilum_DSM_1374	Rhodovulum sulfidophilum DSM 1374	Rhodovulum	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+4091	Marinomonas_atlantica	Marinomonas atlantica	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+4140	Pseudomonas_citronellolis	Pseudomonas citronellolis	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	1	0	1	0	1
+4157	Altererythrobacter_ishigakiensis	Altererythrobacter ishigakiensis	Altererythrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+4158	Porphyrobacter_neustonensis	Porphyrobacter neustonensis	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+4161	Tepidimonas_fonticaldi	Tepidimonas fonticaldi	Tepidimonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+4163	Cylindrospermopsis_raciborskii_CS_505	Cylindrospermopsis raciborskii CS-505	Cylindrospermopsis	Cyanobacteria	Bacteria	Nostocales	3	1	1	0	0	0
+4167	Chromobacterium_subtsugae	Chromobacterium subtsugae	Chromobacterium	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+4169	Porphyrobacter_dokdonensis_DSW_74	Porphyrobacter dokdonensis DSW-74	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+4213	Hoeflea_olei	Hoeflea olei	Hoeflea	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+4235	Erythrobacter_litoralis	Erythrobacter litoralis	Erythrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+4309	Paraburkholderia_sprentiae_WSM5005	Paraburkholderia sprentiae WSM5005	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+4315	Gloeomargarita_lithophora_Alchichica_D10	Gloeomargarita lithophora Alchichica-D10	Gloeomargarita	Cyanobacteria	Bacteria	Gloeoemargaritales	1	1	1	0	0	0
+4317	Rhodobaca_barguzinensis	Rhodobaca barguzinensis	Rhodobaca	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+4318	Roseinatronobacter_thiooxidans	Roseinatronobacter thiooxidans	Roseinatronobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+4377	Pseudomonas_psychrotolerans	Pseudomonas psychrotolerans	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+4410	Rhodovulum_sulfidophilum	Rhodovulum sulfidophilum	Rhodovulum	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+4427	Rhodoferax_saidenbachensis	Rhodoferax saidenbachensis	Rhodoferax	Proteobacteria	Bacteria	Betaproteobacteria	2	1	0	1	0	1
+4428	Rhodoferax_antarcticus	Rhodoferax antarcticus	Rhodoferax	Proteobacteria	Bacteria	Betaproteobacteria	2	2	0	2	0	2
+4499	Rhodoferax_fermentans	Rhodoferax fermentans	Rhodoferax	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+4513	Herbaspirillum_frisingense	Herbaspirillum frisingense	Herbaspirillum	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	0	0	0
+4529	Halomicronema_hongdechloris_C2206	Halomicronema hongdechloris C2206	Halomicronema	Cyanobacteria	Bacteria	Synechococcales	3	1	1	0	0	0
+4537	Roseovarius_mucosus	Roseovarius mucosus	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+4565	Pseudomonas_nitroreducens_NBRC_12694	Pseudomonas nitroreducens NBRC 12694	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+4606	Marivita_cryptomonadis	Marivita cryptomonadis	Marivita	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+4609	Marivita_geojedonensis	Marivita geojedonensis	Marivita	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+4611	Rhizobacter_gummiphilus	Rhizobacter gummiphilus	Rhizobacter	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+4631	Halomonas_desiderata_SP1	Halomonas desiderata SP1	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+4635	Porphyrobacter_colymbi	Porphyrobacter colymbi	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+4636	Porphyrobacter_tepidarius	Porphyrobacter tepidarius	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+4642	Kushneria_marisflavi	Kushneria marisflavi	Kushneria	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+4648	Comamonas_serinivorans	Comamonas serinivorans	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+4649	Loktanella_vestfoldensis	Loktanella vestfoldensis	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+4652	Oleiphilus_messinensis	Oleiphilus messinensis	Oleiphilus	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	0	0	0
+4654	Nostocales_cyanobacterium_HT_58_2	Nostocales cyanobacterium HT-58-2	Nostocales	Cyanobacteria	Bacteria	Nostocales	3	1	1	0	0	0
+4671	Rhodomicrobium_sp_R_RK_3	Rhodomicrobium sp. R_RK_3	Rhodomicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	2	0	0	0
+4677	Pelomonas_puraquae	Pelomonas puraquae	Pelomonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+4685	Methylovulum_psychrotolerans	Methylovulum psychrotolerans	Methylovulum	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+4687	Marinibacterium_profundimaris	Marinibacterium profundimaris	Marinibacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+4699	Leptolyngbya_ohadii_IS1	Leptolyngbya ohadii IS1	Leptolyngbya	Cyanobacteria	Bacteria	Synechococcales	3	1	1	0	0	0
+4701	Granulosicoccus_antarcticus_IMCC3135	Granulosicoccus antarcticus IMCC3135	Granulosicoccus	Proteobacteria	Bacteria	Gammaproteobacteria	1	3	1	1	0	1
+4766	Marinomonas_aquimarina	Marinomonas aquimarina	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+4768	Marinomonas_spartinae	Marinomonas spartinae	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+4829	Lutimaribacter_saemankumensis	Lutimaribacter saemankumensis	Lutimaribacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+4845	Roseospirillum_parvum	Roseospirillum parvum	Roseospirillum	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+4847	Pseudomonas_benzenivorans	Pseudomonas benzenivorans	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+4872	Mameliella_alba	Mameliella alba	Mameliella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+4886	Rhodospira_trueperi	Rhodospira trueperi	Rhodospira	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	1	0
+4888	Loktanella_pyoseonensis	Loktanella pyoseonensis	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+4905	Acidovorax_valerianellae	Acidovorax valerianellae	Acidovorax	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+4907	Afifella_marina_DSM_2698	Afifella marina DSM 2698	Afifella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+4914	Halomonas_pantelleriensis	Halomonas pantelleriensis	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+4930	Methylobacterium_phyllostachyos	Methylobacterium phyllostachyos	Methylobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+4955	Belnapia_rosea	Belnapia rosea	Belnapia	Proteobacteria	Bacteria	Alphaproteobacteria	1	3	1	1	0	1
+4979	Pseudomonas_oryzae	Pseudomonas oryzae	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+4980	Paraburkholderia_caballeronis	Paraburkholderia caballeronis	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+4991	Pseudomonas_anguilliseptica	Pseudomonas anguilliseptica	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+5003	Pseudomonas_guangdongensis	Pseudomonas guangdongensis	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+5021	Aidingimonas_halophila	Aidingimonas halophila	Aidingimonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+5022	Pseudomonas_kuykendallii	Pseudomonas kuykendallii	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	1	0	1
+5025	Roseicitreum_antarcticum	Roseicitreum antarcticum	Roseicitreum	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	1	0
+5030	Allochromatium_warmingii	Allochromatium warmingii	Allochromatium	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0	0	0
+5039	Jannaschia_faecimaris	Jannaschia faecimaris	Jannaschia	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	0	1
+5050	Paraburkholderia_sartisoli	Paraburkholderia sartisoli	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+5067	Pseudomonas_fuscovaginae	Pseudomonas fuscovaginae	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+5078	Loktanella_koreensis	Loktanella koreensis	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+5083	Roseovarius_azorensis	Roseovarius azorensis	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+5084	Ectothiorhodospira_marina	Ectothiorhodospira marina	Ectothiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	2	2	1	1	0	1
+5095	Roseovarius_tolerans	Roseovarius tolerans	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+5102	Loktanella_fryxellensis	Loktanella fryxellensis	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+5104	Maribius_pelagius	Maribius pelagius	Maribius	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5134	Ectothiorhodospira_magna	Ectothiorhodospira magna	Ectothiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0	0	0
+5149	Halomonas_subterranea	Halomonas subterranea	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+5150	Roseivivax_roseus	Roseivivax roseus	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5164	Desulfuromonas_acetexigens	Desulfuromonas acetexigens	Desulfuromonas	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	0	1	0	1
+5166	Pseudomonas_otitidis	Pseudomonas otitidis	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+5198	Kushneria_avicenniae	Kushneria avicenniae	Kushneria	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+5226	Methylobacterium_gossipiicola	Methylobacterium gossipiicola	Methylobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5230	Albimonas_pacifica	Albimonas pacifica	Albimonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5231	Pseudomonas_guineae	Pseudomonas guineae	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+5234	Paraburkholderia_megapolitana	Paraburkholderia megapolitana	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+5235	Jannaschia_pohangensis	Jannaschia pohangensis	Jannaschia	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5246	Methylocapsa_palsarum	Methylocapsa palsarum	Methylocapsa	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5248	Roseomonas_stagni_DSM_19981	Roseomonas stagni DSM 19981	Roseomonas	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+5257	Loktanella_litorea	Loktanella litorea	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+5258	Rugamonas_rubra	Rugamonas rubra	Rugamonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+5265	Ectothiorhodospira_mobilis	Ectothiorhodospira mobilis	Ectothiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	2	3	0	2	0	2
+5266	Thermodesulforhabdus_norvegica	Thermodesulforhabdus norvegica	Thermodesulforhabdus	Proteobacteria	Bacteria	Deltaproteobacteria	1	2	1	0	0	0
+5292	Tranquillimonas_alkanivorans	Tranquillimonas alkanivorans	Tranquillimonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5297	Pseudomonas_sagittaria	Pseudomonas sagittaria	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+5302	Roseivivax_halotolerans	Roseivivax halotolerans	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5362	Loktanella_atrilutea	Loktanella atrilutea	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+5373	Marinomonas_polaris_DSM_16579	Marinomonas polaris DSM 16579	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	0	0	0
+5381	Desulfacinum_infernum_DSM_9756	Desulfacinum infernum DSM 9756	Desulfacinum	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	0	0	0	0
+5406	Loktanella_sediminum	Loktanella sediminum	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	1	0
+5407	Marivita_hallyeonensis	Marivita hallyeonensis	Marivita	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+5418	Desulfofustis_glycolicus_DSM_9705	Desulfofustis glycolicus DSM 9705	Desulfofustis	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	0	1	0	1
+5436	Pseudomonas_zeshuii	Pseudomonas zeshuii	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0	1	0	1
+5446	Malonomonas_rubra_DSM_5091	Malonomonas rubra DSM 5091	Malonomonas	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	0	1	0	1
+5471	Halomonas_cupida	Halomonas cupida	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	2	1	0	0	0
+5479	Duganella_sacchari	Duganella sacchari	Duganella	Proteobacteria	Bacteria	Betaproteobacteria	2	1	0	1	0	1
+5484	Porphyrobacter_sanguineus	Porphyrobacter sanguineus	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+5515	Ectothiorhodosinus_mongolicus	Ectothiorhodosinus mongolicus	Ectothiorhodosinus	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1	0	0	0
+5523	Loktanella_rosea	Loktanella rosea	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	1	0
+5526	Roseovarius_nanhaiticus	Roseovarius nanhaiticus	Roseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5530	Rhodobacter_aestuarii	Rhodobacter aestuarii	Rhodobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+5534	Rhodobacter_vinaykumarii	Rhodobacter vinaykumarii	Rhodobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5539	Roseivivax_lentus	Roseivivax lentus	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	1	2	1	1	0	1
+5623	Roseivivax_jejudonensis	Roseivivax jejudonensis	Roseivivax	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5624	Pseudooctadecabacter_jejudonensis	Pseudooctadecabacter jejudonensis	Pseudooctadecabacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5631	Roseisalinus_antarcticus	Roseisalinus antarcticus	Roseisalinus	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	1	0
+5644	Desulfacinum_hydrothermale_DSM_13146	Desulfacinum hydrothermale DSM 13146	Desulfacinum	Proteobacteria	Bacteria	Deltaproteobacteria	0	1	0	0	0	0
+5649	Desulfobacterium_vacuolatum_DSM_3385	Desulfobacterium vacuolatum DSM 3385	Desulfobacterium	Proteobacteria	Bacteria	Deltaproteobacteria	4	2	2	0	0	0
+5654	Fulvimarina_manganoxydans	Fulvimarina manganoxydans	Fulvimarina	Proteobacteria	Bacteria	Alphaproteobacteria	2	2	1	1	0	1
+5666	Pseudogulbenkiania_subflava_DSM_22618	Pseudogulbenkiania subflava DSM 22618	Pseudogulbenkiania	Proteobacteria	Bacteria	Betaproteobacteria	1	2	1	0	0	0
+5672	Paraburkholderia_caryophylli	Paraburkholderia caryophylli	Paraburkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0	1	0	1
+5685	Calothrix_rhizosoleniae_SC01	Calothrix rhizosoleniae SC01	Calothrix	Cyanobacteria	Bacteria	Nostocales	2	1	1	0	0	0
+5687	Rhodoblastus_acidophilus	Rhodoblastus acidophilus	Rhodoblastus	Proteobacteria	Bacteria	Alphaproteobacteria	2	3	1	1	0	1
+5704	Desulfovibrio_mexicanus	Desulfovibrio mexicanus	Desulfovibrio	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	1	0	0	0
