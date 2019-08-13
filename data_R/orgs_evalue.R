@@ -10,9 +10,7 @@ source("../images_R/lib.R")
 genes_df <- read.delim(
   url('https://raw.githubusercontent.com/vanya-antonov/django_gtdb2/master/chelatase_db/data/pathway_genes.txt'),
   comment.char = '#', header = TRUE, as.is = TRUE)
-cat(unique(sort(genes_df$chel_gene_group)), sep = '\n')
-
-unique(c(1,3,5,1,2,6,6,7, 3))
+#cat(unique(sort(genes_df$chel_gene_group)), sep = '\n')
 
 sql_str <- "
 select 

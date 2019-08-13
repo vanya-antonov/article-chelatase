@@ -6,12 +6,8 @@ library(circlize)   # colorRamp2()
 
 ###
 
-con <- DBI::dbConnect(
-  RMySQL::MySQL(), host = "10.0.1.254", dbname = 'gtdb2',user = "ivan", password = "123")
-
-CHL_NAMES <- c('chlH', 'chlD', 'chlI')
-BCH_NAMES <- c('bchH', 'bchD', 'bchI')
-COB_NAMES <- c('cobN', 'cobT', 'cobS')
+MG_CHEL_NAMES  <- c('chlH_bchH', 'chlD_bchD', 'chlI_bchI')
+COB_CHEL_NAMES <- c('cobN', 'cobT', 'cobS')
 
 CHL_PATH_GENES <- c("bchE", "chlB_bchB",  "chlG_bchG", "chlL_bchL", "chlM_bchM", "chlN_bchN")
 B12_PATH_GENES <- c("cobD_cobC", "cobO", "cobP_cobU", "cobQ", "cobV_cobS", "cysG_cobA")
@@ -21,45 +17,27 @@ EVALUE_COLORS <- colorRamp2(c(0, 6, 100), c("white", "yellow", "red"))
 TAXA_COLS <- c("Proteobacteria" = "plum", "Actinobacteria" = "cyan3", "Archaea" = 'black', "Chloroflexi" = 'blue',
                "Firmicutes" = 'orange', "Cyanobacteria" = "darkgreen", "Other" = "gray")
 
-HT_COL_W = 0.5
+HT_COL_W = 0.8
+
+# Global heatmap parameters
+# https://jokergoo.github.io/ComplexHeatmap-reference/book/a-list-of-heatmaps.html#change-parameters-globally
+ht_opt(
+#  heatmap_column_title_gp = gpar(fontsize = 10),
+  legend_border = "black",
+  heatmap_border = TRUE)
 
 ###
 
-all_data <- dbGetQuery(con,
-                       "select id AS org_id, name, phylum, kingdom, pathogen,
-                       num_bchlD_minus, num_bchlD_plus,
-                       evalue_cobN, evalue_chlH, evalue_bchH,
-                       evalue_cobT, evalue_chlD, evalue_bchD,
-                       evalue_cobS, evalue_chlI, evalue_bchI
-                       from chel_orgs_v")
-rownames(all_data) <- all_data$org_id
+all_data <- read.delim(paste0(DATA_DIR, "orgs_chel.txt"), header=TRUE, as.is = TRUE)
+rownames(all_data) <- all_data$dir_name
 tail(all_data)
 
-
-# Add evalues from other 
-all_evalue <- read.table(paste0(DATA_DIR, "180802_all_evalue.txt"), header=TRUE, as.is = TRUE, row.names = 1) %>%
-  # remove the cobNST and chlIDH
-  select(-c(CHL_NAMES, BCH_NAMES, COB_NAMES))
-# Add prefix to all colnames
-colnames(all_evalue) <- paste0('evalue_', colnames(all_evalue))
+# Add evalues
+all_evalue <- read.delim(paste0(DATA_DIR, "orgs_evalue.txt"), header=TRUE, as.is = TRUE, row.names=1)
 tail(all_evalue)
 
 all_data <- merge(all_data, all_evalue, by = 'row.names') %>%
   column_to_rownames('Row.names')
-tail(all_data)
-
-# Add the 'Photosynthetic' and 'B12' columns
-photo_b12_df <- read.table(paste0(DATA_DIR, "181024.org_photo_b12.txt"), header=TRUE, sep = "\t", as.is = TRUE, row.names = 1)
-all_data <- merge(all_data, photo_b12_df, by = 'row.names')
-rownames(all_data) <- all_data$org_id
-tail(all_data)
-
-# Get orgs sorting from the tree
-tree <- read.tree(paste0(DATA_DIR, "181010_all_species.rRNA.tree"))
-# "624782022.Actinobacteria.Tomitella"  => "624782022"
-tree$tip.label <- gsub("^(\\d+).+", "\\1", tree$tip.label)
-sorted_orgs <- tree$tip.label[tree$tip.label %in% rownames(all_data)]
-all_data <- all_data[sorted_orgs,]
 tail(all_data)
 
 # evalue => log10_evalue
@@ -69,27 +47,54 @@ all_data <- all_data %>%
   mutate_at(evalue_cols, replace_na, 1) %>%
   mutate_at(evalue_cols, get_log10) %>%
   rename_at(evalue_cols, funs(sub("evalue_", "", .)))
+rownames(all_data) <- all_data$dir_name
 head(all_data)
 
+# Add the 'Photosynthetic' and 'B12' columns
+# photo_b12_df <- read.table(paste0(DATA_DIR, "181024.org_photo_b12.txt"), header=TRUE, sep = "\t", as.is = TRUE, row.names = 1)
+# all_data <- merge(all_data, photo_b12_df, by = 'row.names')
+# rownames(all_data) <- all_data$org_id
+# tail(all_data)
+
+# Get orgs sorting from the tree
+#tree <- read.tree(paste0(DATA_DIR, "181010_all_species.rRNA.tree"))
+tree <- read.tree(paste0(DATA_DIR, "orgs_chel.tree"))
+# "624782022.Actinobacteria.Tomitella"  => "624782022"
+#tree$tip.label <- gsub("^(\\d+).+", "\\1", tree$tip.label)
+common_orgs <- intersect(tree$tip.label, rownames(all_data))
+sorted_orgs <- tree$tip.label[tree$tip.label %in% common_orgs]
+all_data <- all_data[sorted_orgs,]
+head(all_data)
+
+# evalue => log10_evalue
+# evalue_cols <- grep('^evalue_', colnames(all_data))
+# get_log10 <- function(x) ifelse(x < 1e-100, 100, -log10(x))
+# all_data <- all_data %>%
+#   mutate_at(evalue_cols, replace_na, 1) %>%
+#   mutate_at(evalue_cols, get_log10) %>%
+#   rename_at(evalue_cols, funs(sub("evalue_", "", .)))
+# head(all_data)
+
 # Make the bchlI, bchlD, bchlH
-all_data <- all_data %>%
-  mutate(bchlI = pmax(bchI, chlI),
-         bchlD = pmax(bchD, chlD),
-         bchlH = pmax(bchH, chlH))
+# all_data <- all_data %>%
+#   mutate(bchlI = pmax(bchI, chlI),
+#          bchlD = pmax(bchD, chlD),
+#          bchlH = pmax(bchH, chlH))
 
 # Generate 'taxa' column
-most_frequent <- names(TAXA_COLS)
 all_data <- all_data %>%
   mutate(taxa = ifelse(kingdom == 'Archaea', 'Archaea', phylum)) %>%
-  mutate(taxa = ifelse(taxa %in% most_frequent, taxa, 'Other')) %>%
+  mutate(taxa = ifelse(taxa %in% names(TAXA_COLS), taxa, 'Other')) %>%
   # Make it factor for proper sorting
-  mutate(taxa = factor(taxa, levels = most_frequent))
-rownames(all_data) <- all_data$org_id
+  mutate(taxa = factor(taxa, levels = names(TAXA_COLS)))
+rownames(all_data) <- all_data$dir_name
 
 # Generate 'frameshift' column
 all_data <- all_data %>%
-  mutate(frameshift = ifelse(num_bchlD_minus > 0, '-1', 'None')) %>%
-  mutate(frameshift = ifelse(num_bchlD_plus > 0, '+1', frameshift))
+  mutate(frameshift = case_when(
+    num_M_minus > 0 ~ '-1',
+    num_M_plus > 0 ~ '+1',
+    TRUE ~ 'None'))
 
 str(all_data)
 
@@ -107,8 +112,8 @@ taxa_ht <- Heatmap(data.frame(Taxonomy = all_data$taxa),
                    show_heatmap_legend = FALSE,
                    split = all_data$taxa,
                    row_title_rot = 0,
-                   row_title_gp = gpar(col = TAXA_COLS, font = 2),
-                   gap = unit(3, "mm"))
+                   gap = unit(0, "mm"),
+                   row_title_gp = gpar(col = TAXA_COLS, font = 2))
 #taxa_ht
 
 # fs_ha
@@ -120,66 +125,72 @@ fs_ha <- rowAnnotation(Frameshift = all_data$frameshift,
 # taxa_ht + fs_ha
 
 # patho_ha: http://www.bioconductor.org/packages/release/bioc/vignettes/ComplexHeatmap/inst/doc/s4.heatmap_annotation.html#toc_14
-patho_rows <- which(all_data$pathogen == 1)
-patho_names <- all_data[patho_rows, 'name']
-patho_ha <- rowAnnotation(link = anno_mark(at = patho_rows, labels = patho_names),
-                          width = unit(1, "cm") + max_text_width(patho_names))
+# patho_rows <- which(all_data$pathogen == 1)
+# patho_names <- all_data[patho_rows, 'name']
+# patho_ha <- rowAnnotation(link = anno_mark(at = patho_rows, labels = patho_names),
+#                           width = unit(1, "cm") + max_text_width(patho_names))
 # taxa_ht + fs_ha + chlD_ht + patho_ha
 
 # photo_ha
-photo_ha <- rowAnnotation(Chlorophyll = all_data$Photosynthetic,
-                          col = list(Chlorophyll = c('Yes' = 'green4', 'No' = 'white')),
-                          width = unit(1, "cm"),
-                          show_annotation_name = TRUE,
-                          show_legend = FALSE)
+# photo_ha <- rowAnnotation(Chlorophyll = all_data$Photosynthetic,
+#                           col = list(Chlorophyll = c('Yes' = 'green4', 'No' = 'white')),
+#                           width = unit(1, "cm"),
+#                           show_annotation_name = TRUE,
+#                           show_legend = FALSE)
 
 # chlIDH_ht
-chlIDH_ht <- Heatmap(data.frame('chlH' = all_data$bchlH,
-                                'chlD' = all_data$bchlD,
-                                'chlI' = all_data$bchlI),
+chlIDH_ht <- Heatmap(as.matrix(all_data[, MG_CHEL_NAMES]),
+                     column_title = "Magnesium\nchelatase\ngenes",
                      col = EVALUE_COLORS,
                      heatmap_legend_param = list('title' = 'BLAST\n-log10(E-value)'),
                      cluster_columns = FALSE,
                      width = unit(3*HT_COL_W, "cm"))
+# taxa_ht + fs_ha + chlIDH_ht
+
+# chl_path_ht
+chl_path_ht <- Heatmap(as.matrix(all_data[, CHL_PATH_GENES]),
+                       column_title = "Chlorophyll\nbiosynthesis\ngenes",
+                       col = EVALUE_COLORS,
+                       width = unit(6*HT_COL_W, "cm"),
+                       cluster_columns = FALSE,
+                       cluster_rows = FALSE,
+                       show_heatmap_legend = FALSE,
+                       show_row_names = FALSE)
+# taxa_ht + fs_ha + chlIDH_ht + chl_path_ht
 
 # b12_ha
-b12_ha <- rowAnnotation(Cobalamin = all_data$B12,
-                        col = list(Cobalamin = c('Yes' = 'blue', 'No' = 'white')),
-                        width = unit(1, "cm"),
-                        show_annotation_name = TRUE,
-                        show_legend = FALSE)
+# b12_ha <- rowAnnotation(Cobalamin = all_data$B12,
+#                         col = list(Cobalamin = c('Yes' = 'blue', 'No' = 'white')),
+#                         width = unit(1, "cm"),
+#                         show_annotation_name = TRUE,
+#                         show_legend = FALSE)
 
 # cobNST_ht
-cobNST_ht <- Heatmap(all_data[, c('cobN', 'cobT', 'cobS')],
+cobNST_ht <- Heatmap(as.matrix(all_data[, COB_CHEL_NAMES]),
+                     column_title = "Cobalt\nchelatase\ngenes",
                      col = EVALUE_COLORS,
                      cluster_columns = FALSE,
                      show_heatmap_legend = FALSE,
                      width = unit(3*HT_COL_W, "cm"))
+# taxa_ht + fs_ha + chlIDH_ht + chl_path_ht + cobNST_ht
 
-
-# chl_path_ht
-chl_path_ht <- Heatmap(as.matrix(all_data[, CHL_PATH_GENES]),
-                       col = EVALUE_COLORS,
-                       width = unit(6*HT_COL_W, "cm"),
-                       cluster_columns = FALSE,
-                       cluster_rows = FALSE,
-                       show_heatmap_legend = FALSE,
-                       show_row_names = FALSE)
-#taxa_ht + fs_ha + chlIDH_ht + chl_path_ht + photo_ha + b12_ha + cobNST_ht + patho_ha
 
 # b12_path_ht
 b12_path_ht <- Heatmap(as.matrix(all_data[, B12_PATH_GENES]),
+                       column_title = "Vitamin B12\nbiosynthesis\ngenes",
                        col = EVALUE_COLORS,
                        width = unit(6*HT_COL_W, "cm"),
                        cluster_columns = FALSE,
                        cluster_rows = FALSE,
                        show_heatmap_legend = FALSE,
                        show_row_names = FALSE)
+# taxa_ht + fs_ha + chlIDH_ht + chl_path_ht + cobNST_ht + b12_path_ht
 
 ###
 # Save heatmaps ----
-pdf(paste0(OUT_DIR, 'heatmap_full.pdf'), width = 9, height = 8)
-draw(taxa_ht + fs_ha + chlIDH_ht + chl_path_ht + photo_ha + cobNST_ht + b12_path_ht + b12_ha,
-#     show_heatmap_legend = FALSE,
+pdf(paste0(OUT_DIR, 'heatmap_full.pdf'), width = 10, height = 8)
+#draw(taxa_ht + fs_ha + chlIDH_ht + chl_path_ht + photo_ha + cobNST_ht + b12_path_ht + b12_ha,
+draw(taxa_ht + fs_ha + chlIDH_ht + chl_path_ht + cobNST_ht + b12_path_ht,
+     #show_heatmap_legend = FALSE,
      row_title = sprintf('%d prokaryotic genomes', nrow(all_data)))
 dev.off()
