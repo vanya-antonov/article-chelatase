@@ -1,6 +1,6 @@
 
 # Get the con object (DBI::dbConnect)
-source("private.R")
+source("../data_R/private.R")
 
 # Load the DATA_DIR
 source("../images_R/lib.R")
