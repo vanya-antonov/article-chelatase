@@ -19,8 +19,8 @@ ORG_TYPE_COLORS <- c(
   'no_bchlD' = 'grey')
 ORG_TYPE_LABELS <- c(
   'bchlD_fs' = 'Genomes with frameshifted chlD gene(s)',
-  'bchlD_wo_fs' = 'Genomes with normal chlD gene(s)',
-  'no_bchlD' = 'Genomes without chlD gene(s)')
+  'bchlD_wo_fs' = 'Genomes with normal medium subunit gene(s)',
+  'no_bchlD' = 'Genomes without medium subunit gene(s)')
 
 num_fs_genes <- sum(orgs_df$num_bchlD_fs)
 num_fs_orgs <- orgs_df %>% filter(num_bchlD_fs > 0) %>% nrow
