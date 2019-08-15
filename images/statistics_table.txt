@@ -1,0 +1,12 @@
+kingdom	phylum2	total_orgs	orgs_with_M	num_M_genes	orgs_with_bchlD_fs	num_bchlD_fs
+Archaea	Euryarchaeota	220	134	153	25	27
+Archaea	Crenarchaeota	24	3	3	0	0
+Archaea	Thaumarchaeota	2	0	0	0	0
+Bacteria	Proteobacteria	2027	321	504	87	87
+Bacteria	Actinobacteria	1024	539	778	37	37
+Bacteria	Chloroflexi	30	17	22	13	13
+Bacteria	Spirochaetes	67	4	4	2	2
+Bacteria	Firmicutes	1215	56	68	1	1
+Bacteria	Bacteroidetes	569	19	19	1	1
+Bacteria	Cyanobacteria	77	76	78	0	0
+Bacteria	Other	361	38	56	0	0
