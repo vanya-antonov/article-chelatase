@@ -10,7 +10,7 @@ source("lib.R")
 tree <- read.tree(paste0(DATA_DIR, "orgs_chel.tree"))
 length(tree$tip.label)
 
-orgs_df <- read.delim(paste0(DATA_DIR, "org_genotypes.txt"), as.is=TRUE)
+orgs_df <- read.delim(paste0(DATA_DIR, "orgs_chel.txt"), as.is=TRUE)
 rownames(orgs_df) <- orgs_df$dir_name
 head(orgs_df)
 
@@ -41,28 +41,29 @@ Burkholderia_node <- tar_orgs_df %>%
   pull(dir_name) %>%
   findMRCA(tar_tree, .)
 
-title <- paste(nrow(tar_orgs_df), tar_phylum, 'species with exactly 1 chlD gene')
+title <- paste(nrow(tar_orgs_df), tar_phylum, 'genomes with exactly 1 M-subunit gene')
+subT <- sprintf('including %d genomes with fs-chlD genes', sum(tar_orgs_df$num_M_fs > 0))
 
 ggtree(tar_tree) %>%
-  gheatmap(small_genotype, offset=0.3, width=0.5, colnames_offset_y = -1.5) +
+  gheatmap(small_genotype, offset=0.5, width=0.4, colnames_offset_y = -1.5) +
   #    geom_tiplab(size=2, align=TRUE, linesize=.5) +
   scale_fill_manual(values=c("None"="black", "-1"="blue", "+1"="red")) +
   geom_cladelabel(node=Pseudomonas_node, label="Pseudomonas") +
   geom_cladelabel(node=Burkholderia_node, label='Burkholderia &\nParaburkholderia') +
-  ggtitle(title)
+  ggtitle(title, subtitle = subT)
 ggsave('genotype_tree_Proteobacteria.pdf', path = OUT_DIR,
        width = 7, height = 5)
 
 
 # Statistics
 # Frameshift in chlD   |   chlI gene is absent
-# Y | Y = 65
+# Y | Y = 50
 YY <- tar_orgs_df %>% filter(num_M_fs > 0 & num_S == 0) %>% nrow()
-# Y | N = 0
+# Y | N = 2
 YN <- tar_orgs_df %>% filter(num_M_fs > 0 & num_S > 0) %>% nrow()
-# N | Y = 38
+# N | Y = 37
 NY <- tar_orgs_df %>% filter(num_M_fs == 0 & num_S == 0) %>% nrow()
-# N | N = 14
+# N | N = 30
 NN <- tar_orgs_df %>% filter(num_M_fs == 0 & num_S > 0) %>% nrow()
 
 
