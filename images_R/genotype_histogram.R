@@ -4,12 +4,13 @@ source("lib.R")
 ###
 
 # TAR_PHYLA <- c('Proteobacteria', 'Actinobacteria', 'Chloroflexi',  'Euryarchaeota')
-TAR_PHYLA <- c('Proteobacteria', 'Actinobacteria', 'Euryarchaeota')
+# TAR_PHYLA <- c('Proteobacteria', 'Actinobacteria', 'Euryarchaeota')
+TAR_PHYLA <- c('Proteobacteria', 'Actinobacteria', 'Euryarchaeota', 'Cyanobacteria')
 
 ###
 
 all_orgs_df <- read.delim(paste0(DATA_DIR, "orgs_chel.txt"), as.is=TRUE)
-head(orgs_df)
+head(all_orgs_df)
 
 # Generate the genotype column
 orgs_df <- all_orgs_df %>%
@@ -36,7 +37,6 @@ orgs_df %>%
 EXPECTED_G <- c(
   '1xL,1xM,1xS',    # Expected
   '2xL,2xM,2xS',    # Expected
-  '1xL,2xM,2xS',            # Proteobacteria
   
   # with fs_chlD
   '1xL,1xfs_chlD',  # Expected
@@ -49,7 +49,10 @@ NOT_EXPECTED_G <- c(
   # without fs_chlD
   '1xL,1xM',   # Actinobacteria, Euryarchaeota, Proteobacteria
   '1xL,2xM',   # Actinobacteria
+  '1xL,2xM,2xS',            # Proteobacteria
   '1xL,1xM,1xS,1xfs_chlD',  # Proteobacteria (D.a.)
+  '2xL,1xM,1xS',            # Cyanobacteria
+  '3xL,1xM,1xS',            # Cyanobacteria
   'Other'
 )
 
@@ -65,14 +68,10 @@ orgs_df %>%
   geom_bar(col = 'black') +
   ylab('Number of genomes') +
   xlab('Chelatase genotype') +
-#  ggtitle(title, subtitle = subT) +
-  # scale_fill_manual(
-  #   name = 'fs-chlD gene',
-  #   values = c('red', 'gray')) +
   scale_fill_manual(
     name = 'Genotype contains fs-chlD gene: ',
     values = c('No' = 'gray', 'Yes' = 'red')) +
   theme(legend.position="top") +
   coord_flip() +
   facet_wrap(.~phylum, nrow = 1, scales = 'free_x')
-ggsave(paste0('org_genotypes.pdf'), path = OUT_DIR, w=10, h=5)
+ggsave(paste0('genotype_histogram.pdf'), path = OUT_DIR, w=12, h=6)
