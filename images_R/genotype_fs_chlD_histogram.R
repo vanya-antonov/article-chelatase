@@ -1,17 +1,14 @@
 
 source("lib.R")
 
+theme_set(theme_bw(base_size = 25))  # increase the font size: https://stackoverflow.com/a/11955412/310453
+
+
 ###
 
 # TAR_PHYLA <- c('Proteobacteria', 'Actinobacteria', 'Chloroflexi',  'Euryarchaeota')
 # TAR_PHYLA <- c('Proteobacteria', 'Actinobacteria', 'Euryarchaeota')
 TAR_PHYLA <- c('Proteobacteria', 'Actinobacteria', 'Euryarchaeota', 'Cyanobacteria', 'Other phyla')
-
-EXPECTED_GENOTYPES <- c(
-  "1xcobN, 1xcobT, 1xcobS, 1x(b)chlH, 1x(b)chlD, 1x(b)chlI",
-  "1xcobN, 1xfs-chlD",
-  "1x(b)chlH, 1x(b)chlD, 1x(b)chlI",
-  "1xcobN, 1x(b)chlD, 1x(b)chlI")
 
 ###
 
@@ -20,6 +17,7 @@ head(all_orgs_df)
 
 # Generate the genotype column
 orgs_df <- all_orgs_df %>%
+  filter(num_M_fs > 0) %>%
   mutate(phylum = ifelse(phylum %in% TAR_PHYLA, phylum, 'Other phyla')) %>%
   mutate(num_bchlH = num_chlH + num_bchH,
          num_bchlD = num_chlD + num_bchD,
@@ -39,20 +37,19 @@ orgs_df <- all_orgs_df %>%
   # Remove NA from genotypes using regexp:
   mutate(genotype = gsub('(, NA)+', '', genotype)) %>%
   mutate(genotype = gsub('^NA, ', '', genotype)) %>%
-  # Add * to the expected genotypes
-  mutate(genotype = ifelse(genotype %in% EXPECTED_GENOTYPES, paste0(genotype, '*'), genotype))
+  mutate(genotype = ifelse(num_L > 0, paste0(genotype, '*'), genotype))
 head(orgs_df)
-  
+
 TOP_GENOTYPES <- orgs_df %>%
   group_by(genotype) %>%
   summarise(n = n()) %>%
   arrange(-n) %>%
-  pull(genotype) %>%
-  head(n = 8)
-TOP_GENOTYPES <- c(TOP_GENOTYPES, 'Other')
-  
+  pull(genotype)
+
+title <- sprintf('Total number of genomes = %s', nrow(orgs_df))
+subT <- sprintf('Number of fs-chlD genes = %s', sum(orgs_df$num_M_fs))
 orgs_df %>%
-  mutate(genotype = ifelse(genotype %in% TOP_GENOTYPES, genotype, 'Other')) %>%
+#  mutate(genotype = ifelse(genotype %in% TOP_GENOTYPES, genotype, 'Other')) %>%
   # Define the order
   mutate(genotype = factor(genotype, levels = rev(TOP_GENOTYPES))) %>%
   mutate(phylum = factor(phylum, levels = TAR_PHYLA)) %>%
@@ -64,12 +61,23 @@ orgs_df %>%
 #  scale_fill_manual(
 #    name = 'Genotype contains fs-chlD gene: ',
 #    values = c('No' = 'gray', 'Yes' = 'red')) +
-#  theme(legend.position="top") +
-  coord_flip()
-ggsave(paste0('genotype_histogram.pdf'), path = OUT_DIR, w=13, h=6)
+  coord_flip() +
+  ggtitle(title, subtitle = subT) +
+  theme(legend.position="bottom") +
+  guides(fill = guide_legend(ncol = 1))
+ggsave(paste0('genotype_fs_chlD_histogram.pdf'), path = OUT_DIR, w=13, h=15)
 
 
 # Statistics ----
+
+# "the small chelatase subunit gene was absent in 140 out of the 150 fs-chlD containing genomes
+# that had at least one large chelatase subunit gene"
+n_orgs_with_L <- orgs_df %>% filter(num_L > 0) %>% nrow()
+n_orgs_with_L_wo_S <- orgs_df %>% filter(num_L > 0 & num_S == 0) %>% nrow()
+sprintf("the small chelatase subunit gene was absent in %s out of the %s fs-chlD containing genomes (%.0f%%)...",
+        n_orgs_with_L_wo_S, n_orgs_with_L, 100*n_orgs_with_L_wo_S/n_orgs_with_L)
+
+
 orgs_df %>%
   group_by(genotype) %>%
   summarise(n = n()) %>%
