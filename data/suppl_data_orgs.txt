@@ -1,0 +1,1208 @@
+name	kingdom	phylum	tax2	num_fs_chlD	genotype
+Acaryochloris marina MBIC11017	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Acetobacterium bakii	Bacteria	Firmicutes	Clostridia	0	3xcobN, 1xchlH, 2xchlD, 2xchlI
+Acetobacterium woodii DSM 1030	Bacteria	Firmicutes	Clostridia	0	2xcobN, 1xchlH, 1xchlD, 1xchlI
+Acidimicrobium ferrooxidans DSM 10331	Bacteria	Actinobacteria	Acidimicrobiia	0	1xcobN, 2xchlD
+Acidiphilium angustum ATCC 35903	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Acidiphilium multivorum AIU301	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Acidipropionibacterium jensenii DSM 20535	Bacteria	Actinobacteria	Propionibacteriales	0	1xchlH, 1xchlD, 1xchlI
+Acidithrix ferrooxidans	Bacteria	Actinobacteria	Acidimicrobiia	0	1xcobN, 2xchlD
+Acidovorax delafieldii	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Acidovorax valerianellae	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Actinokineospora bangkokensis	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Actinokineospora enzanensis DSM 44649	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xcobS, 2xchlD
+Actinokineospora inagensis DSM 44258	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Actinokineospora spheciospongiae	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Actinokineospora terrae	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Actinomadura atramentaria DSM 43919	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Actinomadura chibensis NBRC 106107	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Actinomadura flavalba DSM 45200	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Actinomadura hibisca NBRC 15177	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Actinomadura kijaniata NBRC 14229	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Actinomadura macra NBRC 14102	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 2xchlD, 1xchlI
+Actinomadura madurae	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 2xchlD, 1xchlI
+Actinomadura mexicana	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Actinomadura oligospora ATCC 43269	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Actinomadura rifamycini DSM 43936	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Actinomadura rubrobrunea NBRC 15275	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Actinomycetospora chiangmaiensis DSM 45062	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Actinoplanes awajinensis subsp. mycoplanecinus	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Actinoplanes derwentensis	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Actinoplanes friuliensis DSM 7358	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Actinoplanes globisporus DSM 43857	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Actinoplanes missouriensis 431	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Actinoplanes philippinensis	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Actinoplanes rectilineatus	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Actinoplanes regularis	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Actinoplanes utahensis	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Actinopolyspora halophila DSM 43834	Bacteria	Actinobacteria	Actinopolysporales	0	1xcobN, 1xchlD
+Actinopolyspora mortivallis DSM 44261	Bacteria	Actinobacteria	Actinopolysporales	0	1xcobN, 1xchlD
+Actinopolyspora righensis	Bacteria	Actinobacteria	Actinopolysporales	0	1xcobN, 1xchlD
+Actinopolyspora xinjiangensis	Bacteria	Actinobacteria	Actinopolysporales	0	1xcobN, 1xchlD
+Actinospica robiniae DSM 44927	Bacteria	Actinobacteria	Catenulisporales	0	1xcobN, 1xchlD
+Actinosynnema mirum DSM 43827	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Aeromicrobium choanae	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Aeromicrobium erythreum	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Aeromicrobium massiliense JC14	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Aestuariimicrobium kwangyangense DSM 21549	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Aestuariivita atlantica	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Aestuariivita boseongensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Afifella marina DSM 2698	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Afifella pfennigii DSM 17143	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Agrobacterium albertimagni AOL15	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 2xchlD, 1xchlI
+Aidingimonas halophila	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Albimonas pacifica	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Algibacter aquaticus	Bacteria	Bacteroidetes	Flavobacteriia	0	1xcobN, 1xchlD
+Aliterella atlantica CENA595	Bacteria	Cyanobacteria	Chroococcidiopsidales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Alkaliphilus oremlandii OhILAs	Bacteria	Firmicutes	Clostridia	0	1xchlH, 1xchlD, 1xchlI
+Allochromatium vinosum DSM 180	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobT, 1xchlH, 1xchlD, 1xchlI
+Allochromatium warmingii	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Allokutzneria albata	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Altererythrobacter ishigakiensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Amantichitinum ursilacus	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xchlI, 1xfs-chlD
+Ammonifex degensii KC4	Bacteria	Firmicutes	Clostridia	0	1xcobN, 1xchlD, 1xchlI
+Amycolatopsis australiensis	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Amycolatopsis balhimycina FH 1894	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Amycolatopsis benzoatilytica AK 16/65	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xcobT, 1xcobS, 2xchlD
+Amycolatopsis halophila YIM 93223	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD
+Amycolatopsis japonica	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xcobT, 2xcobS, 2xchlD
+Amycolatopsis jejuensis	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xcobT, 1xcobS, 2xchlD
+Amycolatopsis marina	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xcobT, 1xcobS, 2xchlD
+Amycolatopsis mediterranei U32	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Amycolatopsis methanolica 239	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Amycolatopsis nigrescens CSC17Ta-90	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xcobT, 1xcobS, 1xchlD
+Amycolatopsis rubida	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xcobT, 1xcobS, 2xchlD
+Amycolatopsis saalfeldensis	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xcobS, 2xchlD
+Amycolatopsis sacchari	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Amycolatopsis xylanica	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Anabaena cylindrica PCC 7122	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Anaerolinea thermolimosa	Bacteria	Chloroflexi	Anaerolineae	1	1xchlI, 1xfs-chlD
+Anaerolinea thermophila UNI-1	Bacteria	Chloroflexi	Anaerolineae	1	1xchlI, 1xfs-chlD
+Anditalea andensis	Bacteria	Bacteroidetes	Cytophagia	0	1xcobN, 1xchlD
+Andreprevotia chitinilytica DSM 18519	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Aphanizomenon flos-aquae NIES-81	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Aquimarina longa SW024	Bacteria	Bacteroidetes	Flavobacteriia	0	1xcobN, 1xchlD
+Aquimarina macrocephali JAMB N27	Bacteria	Bacteroidetes	Flavobacteriia	0	1xcobN, 1xcobS, 1xchlD
+Aquimarina muelleri DSM 19832	Bacteria	Bacteroidetes	Flavobacteriia	0	1xcobN, 1xchlD
+Aquitalea pelogenes	Bacteria	Proteobacteria	Betaproteobacteria	0	1xchlD
+Archaeoglobus profundus DSM 5631	Archaea	Euryarchaeota	Archaeoglobi	0	1xchlH, 2xchlD
+Archaeoglobus veneficus SNP6	Archaea	Euryarchaeota	Archaeoglobi	0	1xcobN, 2xchlD
+Arsenicicoccus bolidensis DSM 15745	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xcobS, 1xchlD
+Arthrospira platensis NIES-39	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Asanoa ishikariensis	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Austwickia chelonae NBRC 105200	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Azotobacter chroococcum NCIMB 8003	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Bacillus caseinilyticus	Bacteria	Firmicutes	Bacilli	0	1xchlH, 1xchlD, 1xchlI
+Bacillus solani	Bacteria	Firmicutes	Bacilli	0	1xchlH, 1xchlD, 1xchlI
+Bellilinea caldifistulae	Bacteria	Chloroflexi	Anaerolineae	1	2xchlI, 1xfs-chlD
+Belnapia moabensis DSM 16746	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Belnapia rosea	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Bilophila wadsworthia ATCC 49260	Bacteria	Proteobacteria	Deltaproteobacteria	0	1xcobN, 1xchlD, 1xchlI
+Blastochloris viridis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Blastococcus endophyticus	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 1xchlD
+Blastococcus saxobsidens DD2	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Bradyrhizobium oligotrophicum S58	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Brevefilum fermentans	Bacteria	Chloroflexi	Anaerolineae	1	1xfs-chlD
+Brevundimonas bacteroides DSM 4726	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Brevundimonas subvibrioides ATCC 15264	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Burkholderia cepacia ATCC 25416	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 2xcobT, 1xcobS, 1xfs-chlD
+Burkholderia gladioli	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xfs-chlD
+Burkholderia pseudomallei K96243	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Burkholderia ubonensis MSMB22	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Caballeronia concitans	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Caballeronia glathei	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Caballeronia glebae	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Caballeronia telluris	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Caballeronia zhejiangensis	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Caenispirillum salinarum AK4	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Caldanaerovirga acetigignens	Bacteria	Firmicutes	Clostridia	0	2xchlD, 1xchlI
+Calderihabitans maritimus	Bacteria	Firmicutes	Clostridia	0	2xcobN, 1xchlH, 1xchlD, 1xchlI
+Caldilinea aerophila DSM 14535 = NBRC 104270	Bacteria	Chloroflexi	Caldilineae	1	1xcobN, 1xfs-chlD
+Caldimicrobium thiodismutans	Bacteria	Thermodesulfobacteria	Thermodesulfobacteriales	0	1xchlH, 1xchlD, 1xchlI
+Calothrix rhizosoleniae SC01	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Calothrix sp. PCC 6303	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Carnimonas nigrificans ATCC BAA-78	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Catelliglobosispora koreensis DSM 44566	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Catenulispora acidiphila DSM 44928	Bacteria	Actinobacteria	Catenulisporales	0	1xcobN, 1xchlD
+Catenuloplanes japonicus	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD, 1xchlI
+Centipeda periodontii DSM 2778	Bacteria	Firmicutes	Negativicutes	0	1xcobN, 1xchlD, 1xchlI
+Chamaesiphon minutus PCC 6605	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Chitinophaga filiformis	Bacteria	Bacteroidetes	Chitinophagia	1	1xcobN, 1xfs-chlD
+Chloracidobacterium thermophilum B	Bacteria	Acidobacteria	Blastocatellia	0	1xcobN, 1xchlH, 2xchlD, 1xchlI
+Chlorobaculum limnaeum	Bacteria	Chlorobi	Chlorobia	0	2xcobN, 3xchlH, 1xchlD, 2xchlI
+Chlorobaculum parvum NCIB 8327	Bacteria	Chlorobi	Chlorobia	0	3xchlH, 1xchlD, 1xchlI
+Chlorobium chlorochromatii CaD3	Bacteria	Chlorobi	Chlorobia	0	2xchlH, 1xchlD, 1xchlI
+Chlorobium ferrooxidans DSM 13031	Bacteria	Chlorobi	Chlorobia	0	3xchlH, 1xchlD, 1xchlI
+Chlorobium limicola DSM 245	Bacteria	Chlorobi	Chlorobia	0	2xcobN, 2xchlH, 2xchlD, 2xchlI
+Chlorobium phaeobacteroides BS1	Bacteria	Chlorobi	Chlorobia	0	3xchlH, 1xchlD, 1xchlI
+Chlorobium phaeobacteroides DSM 266	Bacteria	Chlorobi	Chlorobia	0	2xchlH, 1xchlD, 1xchlI
+Chlorobium phaeovibrioides DSM 265	Bacteria	Chlorobi	Chlorobia	0	3xchlH, 1xchlD, 1xchlI
+Chloroflexus aggregans DSM 9485	Bacteria	Chloroflexi	Chloroflexia	0	1xcobN, 3xchlH, 2xchlD, 2xchlI
+Chloroflexus aurantiacus J-10-fl	Bacteria	Chloroflexi	Chloroflexia	0	1xcobN, 3xchlH, 2xchlD, 2xchlI
+Chloroflexus islandicus	Bacteria	Chloroflexi	Chloroflexia	0	1xcobN, 3xchlH, 2xchlD, 2xchlI
+Chlorogloeopsis fritschii PCC 6912	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Chloroherpeton thalassium ATCC 35110	Bacteria	Chlorobi	Chlorobia	0	2xcobN, 3xchlH, 2xchlD, 2xchlI
+Chromobacterium subtsugae	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Chromobacterium violaceum ATCC 12472	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Chroococcidiopsis thermalis PCC 7203	Bacteria	Cyanobacteria	Chroococcidiopsidales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Chroogloeocystis siderophila 5.2 s.c.1	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Citromicrobium bathyomarinum JL354	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Clostridium algidicarnis	Bacteria	Firmicutes	Clostridia	0	1xchlH, 1xchlD, 1xchlI
+Clostridium collagenovorans DSM 3089	Bacteria	Firmicutes	Clostridia	0	1xcobN, 1xchlD, 1xchlI
+Clostridium ihumii AP5	Bacteria	Firmicutes	Clostridia	0	1xcobN, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Clostridium tetanomorphum DSM 665	Bacteria	Firmicutes	Clostridia	0	1xcobN, 1xchlD, 1xchlI
+Coleofasciculus chthonoplastes PCC 7420	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Comamonas aquatica	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Comamonas composti DSM 21721	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Comamonas serinivorans	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Comamonas terrae	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Comamonas terrigena NBRC 13299	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Comamonas testosteroni TK102	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Conexibacter woesei Iso977N	Bacteria	Actinobacteria	Thermoleophilia	0	1xcobN, 1xchlD
+Congregibacter litoralis KT71	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 2xchlD, 1xchlI
+Corynebacterium aquilae DSM 44791	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium argentoratense DSM 44202	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium atypicum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD, 1xchlI
+Corynebacterium callunae DSM 20147	Bacteria	Actinobacteria	Corynebacteriales	1	1xchlD, 1xfs-chlD
+Corynebacterium ciconiae DSM 44920	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium crudilactis	Bacteria	Actinobacteria	Corynebacteriales	1	1xfs-chlD
+Corynebacterium deserti GIMN1.010	Bacteria	Actinobacteria	Corynebacteriales	1	1xfs-chlD
+Corynebacterium diphtheriae	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium durum F0235	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium efficiens YS-314	Bacteria	Actinobacteria	Corynebacteriales	1	1xchlD, 1xfs-chlD
+Corynebacterium epidermidicanis	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium freiburgense DSM 45254	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium freneyi DNF00450	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium glucuronolyticum	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium glutamicum ATCC 13032	Bacteria	Actinobacteria	Corynebacteriales	1	1xfs-chlD
+Corynebacterium glyciniphilum AJ 3170	Bacteria	Actinobacteria	Corynebacteriales	1	1xfs-chlD
+Corynebacterium halotolerans	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium jeikeium	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium kutscheri	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium lactis RW2-5	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium matruchotii ATCC 14266	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium mustelae	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium pseudotuberculosis C231	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium pyruviciproducens ATCC BAA-1742	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium sphenisci DSM 44792	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium sputi DSM 45148	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium variabile	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Corynebacterium vitaeruminis DSM 20294	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Corynebacterium xerosis NBRC 16721	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Crinalium epipsammum PCC 9333	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Crocosphaera watsonii WH 8501	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Cryptosporangium arvum DSM 44712	Bacteria	Actinobacteria	Frankiales	0	1xcobN, 1xchlD
+Cryptosporangium aurantiacum	Bacteria	Actinobacteria	Frankiales	0	1xcobN, 1xchlD
+Cupriavidus basilensis	Bacteria	Proteobacteria	Betaproteobacteria	1	3xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Cupriavidus pauculus	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Cyanobacterium aponinum PCC 10605	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Cyanobium gracile PCC 6307	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Cylindrospermopsis raciborskii CS-505	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Cylindrospermum stagnale PCC 7417	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Dactylococcopsis salina PCC 8305	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Dactylosporangium aurantiacum	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Deferrisoma camini S3R1	Bacteria	Proteobacteria	Deltaproteobacteria	1	1xchlH, 1xfs-chlD
+Deinococcus deserti VCD115	Bacteria	Deinococcus-Thermus	Deinococci	0	1xcobN, 2xchlD
+Deinococcus ficus DSM 19119	Bacteria	Deinococcus-Thermus	Deinococci	0	1xcobN, 2xchlD
+Deinococcus geothermalis DSM 11300	Bacteria	Deinococcus-Thermus	Deinococci	0	1xcobN, 2xchlD
+Deinococcus gobiensis I-0	Bacteria	Deinococcus-Thermus	Deinococci	0	2xchlD
+Deinococcus hopiensis KR-140	Bacteria	Deinococcus-Thermus	Deinococci	0	1xcobN, 2xchlD, 1xchlI
+Deinococcus maricopensis DSM 21211	Bacteria	Deinococcus-Thermus	Deinococci	0	1xcobN, 2xchlD
+Deinococcus peraridilitoris DSM 19664	Bacteria	Deinococcus-Thermus	Deinococci	0	1xcobN, 2xchlD
+Deinococcus phoenicis	Bacteria	Deinococcus-Thermus	Deinococci	0	1xcobN, 2xchlD
+Delftia acidovorans SPH-1	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Dermacoccus nishinomiyaensis	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Dermatophilus congolensis DSM 44180 = NBRC 105199	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD, 2xchlI
+Desulfacinum hydrothermale DSM 13146	Bacteria	Proteobacteria	Deltaproteobacteria	0	1xchlD
+Desulfacinum infernum DSM 9756	Bacteria	Proteobacteria	Deltaproteobacteria	0	1xchlD
+Desulfarculus baarsii DSM 2075	Bacteria	Proteobacteria	Deltaproteobacteria	0	2xcobN, 1xchlH, 2xchlD, 2xchlI
+Desulfatibacillum aliphaticivorans DSM 15576	Bacteria	Proteobacteria	Deltaproteobacteria	0	2xcobN, 1xchlH, 2xchlD, 1xchlI
+Desulfatiglans anilini DSM 4660	Bacteria	Proteobacteria	Deltaproteobacteria	1	1xfs-chlD
+Desulfobacca acetoxidans DSM 11109	Bacteria	Proteobacteria	Deltaproteobacteria	1	1xcobN, 2xchlH, 1xchlD, 1xchlI, 1xfs-chlD
+Desulfobacterium vacuolatum DSM 3385	Bacteria	Proteobacteria	Deltaproteobacteria	0	3xcobN, 1xcobS, 1xchlH, 2xchlD, 2xchlI
+Desulfobacula toluolica Tol2	Bacteria	Proteobacteria	Deltaproteobacteria	0	1xcobN, 3xchlH, 1xchlD, 1xchlI
+Desulfobulbus elongatus DSM 2908	Bacteria	Proteobacteria	Deltaproteobacteria	0	2xcobN, 1xchlH, 1xchlD, 1xchlI
+Desulfobulbus japonicus DSM 18378	Bacteria	Proteobacteria	Deltaproteobacteria	0	2xcobN, 1xchlH, 1xchlD, 1xchlI
+Desulfobulbus propionicus DSM 2032	Bacteria	Proteobacteria	Deltaproteobacteria	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Desulfocarbo indianensis	Bacteria	Proteobacteria	Deltaproteobacteria	0	2xcobN, 2xchlD, 2xchlI
+Desulfofustis glycolicus DSM 9705	Bacteria	Proteobacteria	Deltaproteobacteria	1	1xfs-chlD
+Desulfomonile tiedjei DSM 6799	Bacteria	Proteobacteria	Deltaproteobacteria	0	2xchlH, 2xchlD, 2xchlI
+Desulfospira joergensenii DSM 10085	Bacteria	Proteobacteria	Deltaproteobacteria	1	2xchlH, 1xfs-chlD
+Desulfotomaculum arcticum	Bacteria	Firmicutes	Clostridia	0	1xchlH, 2xchlD, 1xchlI
+Desulfotomaculum gibsoniae DSM 7213	Bacteria	Firmicutes	Clostridia	0	1xchlH, 1xchlD, 1xchlI
+Desulfotomaculum thermocisternum DSM 10259	Bacteria	Firmicutes	Clostridia	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Desulfotomaculum thermosubterraneum DSM 16057	Bacteria	Firmicutes	Clostridia	0	2xcobN, 1xchlD, 1xchlI
+Desulfovibrio brasiliensis JCM 12178	Bacteria	Proteobacteria	Deltaproteobacteria	0	1xchlD, 1xchlI
+Desulfovibrio fairfieldensis	Bacteria	Proteobacteria	Deltaproteobacteria	0	2xcobN, 2xchlD, 2xchlI
+Desulfovibrio mexicanus	Bacteria	Proteobacteria	Deltaproteobacteria	0	1xcobN, 1xchlD, 1xchlI
+Desulfovirgula thermocuniculi DSM 16036	Bacteria	Firmicutes	Clostridia	0	2xcobN, 1xchlD, 1xchlI
+Desulfuromonas acetexigens	Bacteria	Proteobacteria	Deltaproteobacteria	1	1xfs-chlD
+Dethiosulfatarculus sandiegensis	Bacteria	Proteobacteria	Deltaproteobacteria	0	4xcobN, 2xchlD, 2xchlI
+Dialister invisus DSM 15470	Bacteria	Firmicutes	Negativicutes	0	1xcobN, 1xchlD, 1xchlI
+Dialister succinatiphilus YIT 11850	Bacteria	Firmicutes	Negativicutes	0	2xcobN, 1xchlD, 1xchlI
+Dietzia alimentaria 72	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Dietzia maris	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Dietzia timorensis	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Dinoroseobacter shibae DFL 12 = DSM 16493	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Duganella sacchari	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xchlH, 1xfs-chlD
+Duganella zoogloeoides ATCC 25935	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Dyadobacter crusticola DSM 16708	Bacteria	Bacteroidetes	Cytophagia	0	1xcobN, 1xchlH, 1xchlD
+Dyadobacter fermentans DSM 18053	Bacteria	Bacteroidetes	Cytophagia	0	1xcobN, 1xchlD
+Dyadobacter koreensis	Bacteria	Bacteroidetes	Cytophagia	0	1xcobN, 1xchlD
+Dyadobacter tibetensis Y620-1	Bacteria	Bacteroidetes	Cytophagia	0	1xcobN, 1xchlD
+Ectothiorhodosinus mongolicus	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Ectothiorhodospira haloalkaliphila ATCC 51935	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xchlH, 1xchlD, 1xchlI, 1xfs-chlD
+Ectothiorhodospira magna	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Ectothiorhodospira marina	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xchlH, 1xchlD, 1xchlI, 1xfs-chlD
+Ectothiorhodospira mobilis	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xchlH, 1xchlD, 1xchlI, 1xfs-chlD
+Edaphobacter aggregans DSM 19364	Bacteria	Acidobacteria	Acidobacteriales	0	1xcobN, 3xchlD
+Elioraea tepidiphila DSM 17972	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Erythrobacter litoralis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Erythrobacter longus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Erythrobacter marinus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Ferrimicrobium acidiphilum DSM 19497	Bacteria	Actinobacteria	Acidimicrobiia	0	1xcobN, 2xchlD
+Ferrithrix thermotolerans DSM 19514	Bacteria	Actinobacteria	Acidimicrobiia	0	1xcobN, 1xchlD
+Ferroplasma acidarmanus fer1	Archaea	Euryarchaeota	Thermoplasmata	0	1xchlH, 1xchlD
+Fervidicola ferrireducens	Bacteria	Firmicutes	Clostridia	0	1xchlD, 1xchlI
+Fischerella thermalis PCC 7521	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Flammeovirga pacifica	Bacteria	Bacteroidetes	Cytophagia	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Flavonifractor plautii	Bacteria	Firmicutes	Clostridia	0	1xcobN, 1xchlD, 1xchlI
+Flexilinea flocculi	Bacteria	Chloroflexi	Anaerolineae	1	1xfs-chlD
+Fortiea contorta PCC 7126	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Frankia casuarinae	Bacteria	Actinobacteria	Frankiales	0	1xcobN, 1xchlD
+Frankia discariae	Bacteria	Actinobacteria	Frankiales	0	1xcobN, 1xcobS, 1xchlD
+Frankia elaeagni	Bacteria	Actinobacteria	Frankiales	0	1xcobN, 1xchlD
+Frankia inefficax	Bacteria	Actinobacteria	Frankiales	0	1xcobN, 1xchlD
+Frankia symbiont of Datisca glomerata	Bacteria	Actinobacteria	Frankiales	0	1xcobN, 1xchlD
+Frateuria aurantia DSM 6220	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Friedmanniella flava	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 2xchlD, 1xchlI
+Friedmanniella luteola	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Friedmanniella sagamiharensis	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 2xchlD
+Fulvimarina manganoxydans	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Fulvimarina pelagi HTCC2506	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Fusobacterium necrophorum subsp. funduliforme ATCC 51357	Bacteria	Fusobacteria	Fusobacteriales	0	1xcobN, 1xchlD, 1xchlI
+Fusobacterium russii ATCC 25533	Bacteria	Fusobacteria	Fusobacteriales	0	1xcobN, 1xchlD, 1xchlI
+Geminocystis herdmanii PCC 6308	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Gemmatimonas phototrophica	Bacteria	Gemmatimonadetes	Gemmatimonadales	0	1xcobS, 1xchlH, 1xchlD, 1xchlI
+Geoalkalibacter ferrihydriticus DSM 17813	Bacteria	Proteobacteria	Deltaproteobacteria	1	1xfs-chlD
+Geoalkalibacter subterraneus	Bacteria	Proteobacteria	Deltaproteobacteria	1	1xfs-chlD
+Geodermatophilus africanus	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Geodermatophilus amargosae	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Geodermatophilus nigrescens	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Geodermatophilus obscurus	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Geodermatophilus obscurus DSM 43160	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Geodermatophilus pulveris	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Geodermatophilus ruber	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Geodermatophilus saharensis	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Geodermatophilus siccatus	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Geodermatophilus soli	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Geodermatophilus taihuensis	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Geodermatophilus telluris	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 1xchlD
+Geoglobus ahangari	Archaea	Euryarchaeota	Archaeoglobi	0	1xchlD
+Gloeobacter kilaueensis JS1	Bacteria	Cyanobacteria	Gloeobacteria	0	2xchlH, 1xchlD, 1xchlI
+Gloeobacter violaceus PCC 7421	Bacteria	Cyanobacteria	Gloeobacteria	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Gloeomargarita lithophora Alchichica-D10	Bacteria	Cyanobacteria	Gloeoemargaritales	0	1xchlH, 1xchlD, 1xchlI
+Gordonia aichiensis NBRC 108223	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia amarae NBRC 15530	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia araii NBRC 100433	Bacteria	Actinobacteria	Corynebacteriales	0	2xchlD, 1xchlI
+Gordonia bronchialis DSM 43247	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia desulfuricans NBRC 100010	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xcobS, 2xchlD
+Gordonia effusa NBRC 100432	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xcobS, 2xchlD
+Gordonia hirsuta DSM 44140 = NBRC 16056	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Gordonia hydrophobica NBRC 16057	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Gordonia kroppenstedtii DSM 45133	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia malaquae NBRC 108250	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Gordonia neofelifaecis NRRL B-59395	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia paraffinivorans NBRC 108238	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia polyisoprenivorans VH2	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia rhizosphera NBRC 16068	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia shandongensis DSM 45094	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia sihwensis NBRC 108236	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia soli NBRC 108243	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia sputi NBRC 100414	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xcobS, 2xchlD
+Gordonia terrae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Gordonia westfalica	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Granulicella mallensis MP5ACTX8	Bacteria	Acidobacteria	Acidobacteriales	0	1xcobN, 2xchlD
+Granulicella pectinivorans	Bacteria	Acidobacteria	Acidobacteriales	0	1xcobN, 2xchlD
+Granulicella tundricola MP5ACTX9	Bacteria	Acidobacteria	Acidobacteriales	0	1xcobN, 2xchlD
+Granulicoccus phenolivorans DSM 17626	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Granulosicoccus antarcticus IMCC3135	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 2xcobT, 1xcobS, 1xfs-chlD
+Gynuella sunshinyii YC6258	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Hahella chejuensis KCTC 2396	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Hahella ganghwensis DSM 17046	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD, 1xchlI
+Haloarchaeobius iranensis	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloarcula hispanica ATCC 33960	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloarcula vallismortis ATCC 29715	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halobacterium hubeiense	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halobacterium jilantaiense	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halobacterium salinarum NRC-1	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halobaculum gomorrense	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halobellus clavatus	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halobiforma lacisalsi AJ5	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halobiforma nitratireducens JCM 10879	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halococcus saccharolyticus DSM 5350	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xcobS, 1xchlD
+Halococcus salifodinae DSM 8989	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halococcus sediminicola	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halococcus thailandensis JCM 13552	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halodesulfurarchaeum formicicum	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloechinothrix alba	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD
+Haloferax elongans ATCC BAA-1513	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloferax mediterranei ATCC 33500	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloferax mucosum ATCC BAA-1512	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloferax volcanii DS2	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halogeometricum borinquense DSM 11551	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halogeometricum pallidum JCM 14848	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloglycomyces albus DSM 45210	Bacteria	Actinobacteria	Glycomycetales	0	1xcobN, 1xchlD
+Halohasta litchfieldiae	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halomicrobium mukohataei DSM 12286	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halomicrobium zhouii	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halomicronema hongdechloris C2206	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Halomonas boliviensis LC1	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Halomonas campaniensis	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Halomonas cupida	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlD
+Halomonas desiderata SP1	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD
+Halomonas huangheensis	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlD
+Halomonas lutea DSM 23508	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Halomonas pantelleriensis	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Halomonas smyrnensis AAD6	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Halomonas subterranea	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Halomonas xinjiangensis	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Halopiger djelfimassiliensis	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halopiger goleimassiliensis	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halopiger salifodinae	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halopiger xanaduensis SH-6	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloplanus natans DSM 17983	Archaea	Euryarchaeota	Halobacteria	1	1xfs-chlD
+Haloplanus vescus	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloquadratum walsbyi C23	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halorhodospira halophila SL1	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Halorientalis persicus	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halorientalis regularis	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halorubrum californiensis DSM 19288	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halorubrum coriense DSM 10284	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halorubrum halophilum	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halorubrum lacusprofundi ATCC 49239	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halorubrum tebenquichense DSM 14210	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xcobS, 1xchlD
+Halostagnicola kamekurae	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Halostagnicola larsenii XH-48	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloterrigena daqingensis	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloterrigena limicola JCM 13563	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloterrigena saccharevitans	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Haloterrigena turkmenica DSM 5511	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 2xchlD, 1xchlI
+Halovivax asiaticus JCM 14624	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Hathewaya proteolytica DSM 3090	Bacteria	Firmicutes	Clostridia	0	2xcobN, 2xchlH, 1xchlD, 1xchlI
+Heliobacterium modesticaldum Ice1	Bacteria	Firmicutes	Clostridia	0	1xchlH, 1xchlD, 1xchlI
+Herbaspirillum autotrophicum	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Herbaspirillum frisingense	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Herbaspirillum hiltneri N3	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Herbaspirillum rhizosphaerae	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Herbaspirillum seropedicae	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Herbidospora mongoliensis	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xcobS, 1xchlD
+Herbidospora sakaeratensis	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Herpetosiphon geysericola	Bacteria	Chloroflexi	Chloroflexia	1	1xcobN, 1xchlD, 2xchlI, 1xfs-chlD
+Hoeflea olei	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Hoeflea phototrophica DFL-43	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Holophaga foetida DSM 6591	Bacteria	Acidobacteria	Holophagae	0	1xcobN, 1xchlD, 1xchlI
+Hoyosella subflava DQS3-9A1	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD, 1xchlI
+Hydrogenophaga palleronii NBRC 102513	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Hylemonella gracilis ATCC 19624	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Hyphomicrobium zavarzinii ATCC 27496	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Ideonella sakaiensis	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Imhoffiella purpurea	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Intrasporangium calvum DSM 43043	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Intrasporangium chromatireducens Q5-1	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Janibacter anophelis NBRC 107843	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 2xchlD
+Janibacter corallicola NBRC 107790	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 2xchlD
+Janibacter indicus	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Janibacter melonis	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Janibacter terrae NBRC 107853	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 2xchlD
+Jannaschia aquimarina	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Jannaschia donghaensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Jannaschia faecimaris	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Jannaschia pohangensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Jatrophihabitans endophyticus	Bacteria	Actinobacteria	Frankiales	0	1xcobN, 1xchlD
+Kibdelosporangium aridum	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD
+Kibdelosporangium phytohabitans	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD
+Kineosphaera limosa NBRC 100340	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 2xchlD
+Kitasatospora aureofaciens	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Kitasatospora azatica KCTC 9699	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Kitasatospora cheerisanensis KCTC 2395	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Kitasatospora mediocidica KCTC 9733	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Kitasatospora purpeofusca	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Kitasatospora setae KM-6054	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Knoellia sinensis KCTC 19936	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Knoellia subterranea KCTC 19937	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Kribbella catacumbae DSM 19601	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xcobS, 2xchlD
+Kribbella flavida DSM 17836	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 2xchlD
+Kushneria avicenniae	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Kushneria marisflavi	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Kutzneria albida DSM 43870	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD
+Labrenzia alexandrii DFL-11	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Lamprocystis purpurea DSM 4197	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Legionella rubrilucens	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Lentzea albida	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Lentzea albidocapillata	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Lentzea guizhouensis	Bacteria	Actinobacteria	Pseudonocardiales	1	1xcobN, 1xfs-chlD
+Lentzea kentuckyensis	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Leptolinea tardivitalis	Bacteria	Chloroflexi	Anaerolineae	1	1xfs-chlD
+Leptolyngbya boryana dg5	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Leptolyngbya ohadii IS1	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Leucothrix mucor DSM 2157	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlD
+Levilinea saccharolytica	Bacteria	Chloroflexi	Anaerolineae	1	1xchlI, 1xfs-chlD
+Limnohabitans planktonicus II-D5	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Limnoraphis robusta CS-951	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	2xcobN, 1xchlH, 1xchlD, 1xchlI
+Limnothrix rosea IAM M-220	Bacteria	Cyanobacteria	Synechococcales	0	1xchlH, 1xchlD, 1xchlI
+Loktanella atrilutea	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Loktanella fryxellensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Loktanella koreensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Loktanella litorea	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Loktanella pyoseonensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Loktanella rosea	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Loktanella sediminum	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Loktanella vestfoldensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Longilinea arvoryzae	Bacteria	Chloroflexi	Anaerolineae	1	1xchlI, 1xfs-chlD
+Longispora albida DSM 44784	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Luminiphilus syltensis NOR5-1B	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Luteipulveratus halotolerans	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Luteipulveratus mongoliensis	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Lutibacter agarilyticus	Bacteria	Bacteroidetes	Flavobacteriia	0	1xcobN, 1xchlD
+Lutimaribacter saemankumensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Lutispora thermophila DSM 19022	Bacteria	Firmicutes	Clostridia	0	1xchlH, 2xchlD, 1xchlI
+Lyngbya aestuarii BL J	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Lyngbya confervoides BDU141951	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 1xcobS, 2xchlH, 2xchlD, 1xchlI
+Malonomonas rubra DSM 5091	Bacteria	Proteobacteria	Deltaproteobacteria	1	1xfs-chlD
+Mameliella alba	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Maribius pelagius	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Marichromatium purpuratum 984	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Marinactinospora thermotolerans DSM 45154	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Marinagarivorans algicola	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Marinibacterium profundimaris	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Marinobacter nanhaiticus D15-8W	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Marinobacterium jannaschii DSM 6295	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlD
+Marinobacterium rhizophilum DSM 18822	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlD
+Marinomonas aquimarina	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Marinomonas atlantica	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Marinomonas fungiae	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Marinomonas mediterranea MMB-1	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Marinomonas polaris DSM 16579	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Marinomonas posidonica IVIA-Po-181	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Marinomonas profundimaris	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Marinomonas spartinae	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Marinomonas ushuaiensis DSM 15871	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Marivita cryptomonadis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Marivita geojedonensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Marivita hallyeonensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Marmoricola aequoreus	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Marmoricola scoriae	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Mastigocladopsis repens PCC 10914	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Mastigocladus laminosus UU774	Bacteria	Cyanobacteria	Nostocales	0	2xchlH, 1xchlD
+Mastigocoleus testarum BC008	Bacteria	Cyanobacteria	Nostocales	0	2xcobN, 3xchlH, 1xchlD, 2xchlI
+Metallosphaera cuprina Ar-4	Archaea	Crenarchaeota	Thermoprotei	0	1xcobN, 1xchlD
+Metallosphaera sedula DSM 5348	Archaea	Crenarchaeota	Thermoprotei	0	1xcobN, 1xchlD
+Methanobacterium congolense	Archaea	Euryarchaeota	Methanobacteria	0	2xchlH, 1xchlD
+Methanobacterium formicicum	Archaea	Euryarchaeota	Methanobacteria	1	1xcobN, 2xchlH, 1xfs-chlD
+Methanobacterium formicicum DSM 3637	Archaea	Euryarchaeota	Methanobacteria	1	1xchlH, 1xfs-chlD
+Methanobacterium lacus	Archaea	Euryarchaeota	Methanobacteria	0	1xchlD
+Methanobacterium paludis	Archaea	Euryarchaeota	Methanobacteria	0	1xchlD
+Methanobacterium veterum	Archaea	Euryarchaeota	Methanobacteria	0	1xcobN, 3xchlH, 1xchlD
+Methanobrevibacter arboriphilus ANOR1	Archaea	Euryarchaeota	Methanobacteria	2	1xchlH, 2xfs-chlD
+Methanobrevibacter curvatus	Archaea	Euryarchaeota	Methanobacteria	2	1xcobN, 1xchlD, 2xfs-chlD
+Methanobrevibacter cuticularis	Archaea	Euryarchaeota	Methanobacteria	0	1xcobN, 1xchlD, 1xchlI
+Methanobrevibacter filiformis	Archaea	Euryarchaeota	Methanobacteria	0	1xchlD
+Methanocaldococcus bathoardescens	Archaea	Euryarchaeota	Methanococci	1	2xcobN, 1xchlH, 1xfs-chlD
+Methanocaldococcus fervens AG86	Archaea	Euryarchaeota	Methanococci	1	1xcobN, 1xchlH, 1xfs-chlD
+Methanocaldococcus infernus ME	Archaea	Euryarchaeota	Methanococci	1	1xchlH, 1xfs-chlD
+Methanocaldococcus jannaschii DSM 2661	Archaea	Euryarchaeota	Methanococci	1	2xcobN, 1xfs-chlD
+Methanocaldococcus sp. FS406-22	Archaea	Euryarchaeota	Methanococci	1	2xcobN, 1xchlH, 1xfs-chlD
+Methanocaldococcus villosus KIN24-T80	Archaea	Euryarchaeota	Methanococci	1	1xcobN, 1xchlH, 1xfs-chlD
+Methanocaldococcus vulcanius M7	Archaea	Euryarchaeota	Methanococci	1	1xcobN, 1xchlH, 1xfs-chlD
+Methanocella conradii HZ254	Archaea	Euryarchaeota	Methanomicrobia	1	1xchlH, 1xfs-chlD
+Methanococcoides vulcani	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 2xchlH, 3xchlD, 2xchlI
+Methanococcus aeolicus Nankai-3	Archaea	Euryarchaeota	Methanococci	1	1xcobN, 1xchlH, 1xfs-chlD
+Methanococcus maripaludis X1	Archaea	Euryarchaeota	Methanococci	1	2xchlH, 1xfs-chlD
+Methanococcus vannielii SB	Archaea	Euryarchaeota	Methanococci	1	2xchlH, 1xfs-chlD
+Methanococcus voltae A3	Archaea	Euryarchaeota	Methanococci	1	1xcobN, 1xfs-chlD
+Methanoculleus bourgensis MS2	Archaea	Euryarchaeota	Methanomicrobia	0	2xcobN, 1xchlD
+Methanoculleus chikugoensis	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 1xchlH, 1xchlD
+Methanofollis ethanolicus	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 1xchlD
+Methanofollis liminatans DSM 4140	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 1xchlD
+Methanolacinia petrolearia DSM 11571	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 2xchlH, 2xchlD, 1xchlI
+Methanolinea tarda NOBI-1	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 1xchlD
+Methanolobus vulcani	Archaea	Euryarchaeota	Methanomicrobia	0	2xcobN, 1xchlH, 1xchlD, 1xchlI
+Methanomassiliicoccus luminyensis B10	Archaea	Euryarchaeota	Thermoplasmata	0	3xcobN, 1xchlH, 2xchlD, 2xchlI
+Methanomicrobium mobile BP	Archaea	Euryarchaeota	Methanomicrobia	1	1xchlH, 1xfs-chlD
+Methanoplanus limicola DSM 2279	Archaea	Euryarchaeota	Methanomicrobia	1	1xcobN, 1xchlH, 1xchlD, 1xfs-chlD
+Methanoregula formicica SMSP	Archaea	Euryarchaeota	Methanomicrobia	0	2xchlH, 2xchlD, 1xchlI
+Methanosaeta harundinacea 6Ac	Archaea	Euryarchaeota	Methanomicrobia	0	2xchlH, 1xchlD, 1xchlI
+Methanosarcina acetivorans C2A	Archaea	Euryarchaeota	Methanomicrobia	0	4xcobN, 6xchlH, 1xchlD
+Methanosarcina barkeri 3	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 2xchlH, 1xchlD
+Methanosarcina barkeri MS	Archaea	Euryarchaeota	Methanomicrobia	0	2xcobN, 1xchlH, 1xchlD
+Methanosarcina flavescens	Archaea	Euryarchaeota	Methanomicrobia	0	2xcobN, 3xchlH, 1xchlD
+Methanosarcina horonobensis HB-1 = JCM 15518	Archaea	Euryarchaeota	Methanomicrobia	0	2xcobN, 1xchlH, 1xchlD
+Methanosarcina lacustris Z-7289	Archaea	Euryarchaeota	Methanomicrobia	0	3xcobN, 1xchlD
+Methanosarcina mazei S-6	Archaea	Euryarchaeota	Methanomicrobia	0	2xcobN, 1xchlH, 1xchlD
+Methanosarcina siciliae T4/M	Archaea	Euryarchaeota	Methanomicrobia	0	3xcobN, 3xchlH, 1xchlD
+Methanosarcina thermophila TM-1	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 1xchlH, 1xchlD
+Methanosarcina vacuolata Z-761	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 2xchlH, 1xchlD
+Methanospirillum hungatei JF-1	Archaea	Euryarchaeota	Methanomicrobia	0	2xcobN, 2xchlD, 1xchlI
+Methanothermobacter marburgensis str. Marburg	Archaea	Euryarchaeota	Methanobacteria	0	3xchlH, 1xchlD
+Methanothermobacter thermautotrophicus str. Delta H	Archaea	Euryarchaeota	Methanobacteria	0	3xcobN, 4xchlH, 1xchlD, 1xchlI
+Methanothermobacter wolfeii	Archaea	Euryarchaeota	Methanobacteria	0	1xcobN, 4xchlH, 2xchlD
+Methanothermococcus okinawensis IH1	Archaea	Euryarchaeota	Methanococci	1	2xcobN, 1xfs-chlD
+Methanothermococcus thermolithotrophicus DSM 2095	Archaea	Euryarchaeota	Methanococci	1	1xchlH, 1xfs-chlD
+Methanothermus fervidus DSM 2088	Archaea	Euryarchaeota	Methanobacteria	1	3xcobN, 5xchlH, 1xchlD, 1xfs-chlD
+Methanothrix soehngenii GP6	Archaea	Euryarchaeota	Methanomicrobia	0	2xcobN, 1xchlH, 2xchlD
+Methanotorris formicicus Mc-S-70	Archaea	Euryarchaeota	Methanococci	1	1xcobN, 1xchlH, 1xfs-chlD
+Methanotorris igneus Kol 5	Archaea	Euryarchaeota	Methanococci	1	1xcobN, 1xchlH, 1xfs-chlD
+Methermicoccus shengliensis DSM 18856	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 1xchlH, 1xchlD
+Methylobacter tundripaludum SV96	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Methylobacterium aquaticum	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Methylobacterium gossipiicola	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Methylobacterium phyllostachyos	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Methylobacterium populi BJ001	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Methylobacterium radiotolerans JCM 2831	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Methylocapsa palsarum	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Methylocella silvestris BL2	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Methylocystis rosea SV97	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Methyloversatilis discipulorum	Bacteria	Proteobacteria	Betaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Methyloversatilis thermotolerans	Bacteria	Proteobacteria	Betaproteobacteria	0	3xchlH, 1xchlD, 1xchlI
+Methyloversatilis universalis FAM5	Bacteria	Proteobacteria	Betaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Methylovulum psychrotolerans	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Microbispora rosea	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 2xchlD
+Microcystis aeruginosa NIES-843	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Microlunatus phosphovorus NM-1	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Microlunatus soli	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 2xchlD
+Micromonospora auratinigra	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Micromonospora avicenniae	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Micromonospora carbonacea	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Micromonospora chersina	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Micromonospora coxensis	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Micromonospora cremea	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Micromonospora echinospora	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Micromonospora inyonensis	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Micromonospora krabiensis	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Micromonospora lupini str. Lupac 08	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Micromonospora nigra	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Micromonospora pallida	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Micromonospora pattaloongensis	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Micromonospora peucetia	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Micromonospora purpureochromogenes	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Micromonospora rifamycinica	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Micromonospora rosaria	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 2xchlD
+Microtetraspora glauca	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Microtetraspora malaysiensis	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Microvirgula aerodenitrificans DSM 15089	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Millisia brevis NBRC 105863	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mobilicoccus pelagius NBRC 104925	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Modestobacter caceresii	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Modestobacter marinus	Bacteria	Actinobacteria	Geodermatophilales	0	1xcobN, 2xchlD
+Monashia flava	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Moorea producens PAL-8-15-08-1	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Moorella mulderi DSM 14980	Bacteria	Firmicutes	Clostridia	0	1xcobN, 1xchlD, 1xchlI
+Moritella viscosa	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Mycobacterium abscessus	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium acapulcensis	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium alsense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium aromaticivorans JS19b1 = JCM 16368	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium arosiense ATCC BAA-1401 = DSM 45069	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium asiaticum DSM 44297	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium aurum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium avium subsp. avium Env 77	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium avium subsp. paratuberculosis K-10	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium bacteremicum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium bohemicum DSM 44277	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium bovis AF2122/97	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium brisbanense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium brumae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium celeriflavum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium chelonae CCUG 47445	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium chlorophenolicum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium chubuense NBB4	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium colombiense CECT 3035	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium confluentis	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium conspicuum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium cosmeticum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium diernhoferi	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xcobS, 1xchlD
+Mycobacterium doricum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium elephantis	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium europaeum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium fallax	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobS, 2xchlD
+Mycobacterium flavescens	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xcobS, 2xchlD, 1xchlI
+Mycobacterium fortuitum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium fragae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium franklinii	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xcobS, 1xchlD
+Mycobacterium genavense ATCC 51234	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium gilvum Spyr1	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium goodii	Bacteria	Actinobacteria	Corynebacteriales	0	2xcobN, 3xchlD
+Mycobacterium gordonae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium haemophilum DSM 44634	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium hassiacum DSM 44199	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium heidelbergense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium holsaticum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD, 1xchlI
+Mycobacterium insubricum	Bacteria	Actinobacteria	Corynebacteriales	0	2xchlD
+Mycobacterium intermedium	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium intracellulare ATCC 13950	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium iranicum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium kansasii ATCC 12478	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium komaniense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium koreense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium kubicae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium kyorinense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium lacus	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium lentiflavum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium litorale	Bacteria	Actinobacteria	Corynebacteriales	0	2xchlD
+Mycobacterium longobardum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium mageritense DSM 44476 = CIP 104973	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium malmesburyense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium malmoense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium mantenii	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium marinum E11	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium minnesotense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium moriokaense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium mucogenicum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium neoaurum VKM Ac-1815D	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium noviomagense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium obuense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium palustre	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium parafortuitum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium parascrofulaceum ATCC BAA-614	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium parmense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium peregrinum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium phlei	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD, 1xchlI
+Mycobacterium rhodesiae JS60	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium rhodesiae NBB3	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium riyadhense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium rutilum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium salmoniphilum	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xcobS, 1xchlD
+Mycobacterium saskatchewanense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium senuense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium setense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium simiae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xcobT, 1xcobS, 2xchlD
+Mycobacterium sinense	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium smegmatis str. MC2 155	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium szulgai	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium terrae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium thermoresistibile ATCC 19527	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium triplex	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium triviale	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium tuberculosis H37Rv	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium tuberculosis HN878	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium tusciae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium vaccae 95051	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Mycobacterium vanbaalenii PYR-1	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium wolinskyi	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Mycobacterium xenopi	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nakamurella multipartita DSM 44233	Bacteria	Actinobacteria	Nakamurellales	0	1xcobN, 1xchlD
+Nakamurella panacisegetis	Bacteria	Actinobacteria	Nakamurellales	0	1xcobN, 2xchlD
+Natranaerobius trueperi	Bacteria	Firmicutes	Clostridia	0	2xchlD
+Natrialba asiatica DSM 12278	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natrialbaceae archaeon JW/NM-HA 15	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xcobS, 2xchlD, 1xchlI
+Natrinema altunense	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natrinema pellirubrum DSM 15624	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natrinema salaciae	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natrinema versiforme JCM 10478	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 2xchlD
+Natronobacterium gregoryi	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natronobacterium gregoryi SP2	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natronococcus amylolyticus DSM 10524	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natronococcus jeotgali DSM 18795	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natronococcus occultus SP4	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natronolimnobius innermongolicus JCM 12255	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natronomonas moolapensis 8.8.11	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natronomonas pharaonis DSM 2160	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natronorubrum bangense JCM 10635	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natronorubrum sulfidifaciens JCM 14089	Archaea	Euryarchaeota	Halobacteria	0	1xchlD
+Natronorubrum thiooxidans	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Natronorubrum tibetense GA33	Archaea	Euryarchaeota	Halobacteria	0	1xcobN, 1xchlD
+Negativibacillus massiliensis	Bacteria	Firmicutes	Clostridia	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Negativicoccus massiliensis	Bacteria	Firmicutes	Negativicutes	0	1xcobN, 1xchlD, 1xchlI
+Neptuniibacter caesariensis	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Neptuniibacter marinus	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Nereida ignava	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Nevskia ramosa DSM 11499	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Nitriliruptor alkaliphilus DSM 45188	Bacteria	Actinobacteria	Nitriliruptoria	0	1xcobN, 1xchlD
+Nocardia acidivorans NBRC 108247	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia amikacinitolerans NBRC 108937	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD, 1xchlI
+Nocardia arizonensis	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia arthritidis NBRC 100137	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia asteroides NBRC 15531	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia brasiliensis ATCC 700358	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia brevicatena NBRC 12119	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia carnea NBRC 14403	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia crassostreae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia cummidelens NBRC 100378	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia cyriacigeorgica GUH-2	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia donostiensis	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia farcinica	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xchlD, 1xfs-chlD
+Nocardia harenae NBRC 108248	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia higoensis NBRC 100133	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia inohanensis NBRC 100128	Bacteria	Actinobacteria	Corynebacteriales	0	1xchlD
+Nocardia jejuensis NBRC 103114	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xchlD, 1xfs-chlD
+Nocardia jiangxiensis NBRC 101359	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia mexicana NBRC 108244	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia mikamii NBRC 108933	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia miyunensis NBRC 108239	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia niigatensis NBRC 100131	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia niwae NBRC 108934 = DSM 45340	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia nova SH22a	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia otitidiscaviarum NBRC 14405	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Nocardia paucivorans NBRC 100373	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia pneumoniae NBRC 100136	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia pseudobrasiliensis NBRC 108224	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia puris NBRC 108233	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia rhamnosiphila NBRC 108938	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia seriolae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia soli	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia speluncae NBRC 108251	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia takedensis NBRC 100417	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia terpenica	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia transvalensis NBRC 15921	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Nocardia uniformis NBRC 13702	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD
+Nocardia vermiculata NBRC 100427	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia veterana NBRC 100344	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Nocardia vinacea NBRC 16497	Bacteria	Actinobacteria	Corynebacteriales	0	2xchlD
+Nocardioides alkalitolerans DSM 16699	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Nocardioides dokdonensis FR1436	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Nocardioides exalbidus	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Nocardioides insulae DSM 17944	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Nocardioides lianchengensis	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Nocardioides luteus	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 2xchlD
+Nocardioides psychrotolerans	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Nocardiopsis alba ATCC BAA-2165	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Nocardiopsis baichengensis YIM 90130	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 2xchlD
+Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Nocardiopsis flavescens	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 2xchlD
+Nocardiopsis ganjiahuensis DSM 45031	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Nocardiopsis gilva YIM 90087	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Nocardiopsis halotolerans DSM 44410	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Nocardiopsis kunsanensis DSM 44524	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD, 1xchlI
+Nocardiopsis listeri NBRC 13360	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Nocardiopsis lucentensis DSM 44048	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobS, 1xchlD
+Nocardiopsis potens DSM 45234	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 2xchlD
+Nocardiopsis salina YIM 90010	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Nocardiopsis sinuspersici	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 2xchlD
+Nocardiopsis trehalosi NBRC 14201	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Nocardiopsis xinjiangensis YIM 90004	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD, 1xchlI
+Nodosilinea nodulosa PCC 7104	Bacteria	Cyanobacteria	Synechococcales	0	1xchlH, 1xchlD, 1xchlI
+Nodularia spumigena CCY9414	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Nonomuraea candida	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Nonomuraea jiangxiensis	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xcobS, 1xchlD
+Nonomuraea maritima	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlH, 2xchlD, 1xchlI
+Nonomuraea pusilla	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xcobS, 1xchlD
+Nostoc calcicola FACHB-389	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 1xcobS, 2xchlH, 2xchlD, 2xchlI
+Nostoc piscinale CENA21	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Nostoc punctiforme PCC 73102	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Nostocales cyanobacterium HT-58-2	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Novibacillus thermophilus	Bacteria	Firmicutes	Bacilli	0	1xchlH, 1xchlD, 1xchlI
+Novosphingobium acidiphilum DSM 19966	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Novosphingobium capsulatum NBRC 12533	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Novosphingobium fuchskuhlense	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Novosphingobium subterraneum	Bacteria	Proteobacteria	Alphaproteobacteria	0	2xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Oceanibaculum indicum P24	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 2xchlH, 1xchlD, 1xchlI
+Oceanobacillus sojae	Bacteria	Firmicutes	Bacilli	0	1xchlH, 1xchlD, 1xchlI
+Oceanospirillum beijerinckii DSM 7166	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Oceanospirillum maris DSM 6286	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Oleiphilus messinensis	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlD
+Ornatilinea apprima	Bacteria	Chloroflexi	Anaerolineae	1	1xchlI, 1xfs-chlD
+Oscillatoria acuminata PCC 6304	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Oscillatoria nigro-viridis PCC 7112	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Oscillatoriales cyanobacterium JSC-12	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Oxobacter pfennigii	Bacteria	Firmicutes	Clostridia	0	1xchlH, 1xchlD, 1xchlI
+Paenibacillus antibioticophila	Bacteria	Firmicutes	Bacilli	0	1xchlH, 1xchlD, 1xchlI
+Paenibacillus barengoltzii G22	Bacteria	Firmicutes	Bacilli	0	1xchlH, 1xchlD, 1xchlI
+Paenibacillus ginsengihumi DSM 21568	Bacteria	Firmicutes	Bacilli	0	1xcobN, 1xchlD
+Paenibacillus ihumii	Bacteria	Firmicutes	Bacilli	0	1xchlH, 1xchlD, 1xchlI
+Paenibacillus rhizosphaerae	Bacteria	Firmicutes	Bacilli	0	1xchlH, 1xchlD, 1xchlI
+Paenibacillus senegalensis JC66	Bacteria	Firmicutes	Bacilli	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Paenibacillus yonginensis	Bacteria	Firmicutes	Bacilli	0	1xchlH, 1xchlD, 1xchlI
+Palaeococcus pacificus DY20341	Archaea	Euryarchaeota	Thermococci	0	1xchlH, 1xchlD
+Paludibacterium yongneupense DSM 18731	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Paraburkholderia acidipaludis NBRC 101816	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Paraburkholderia caballeronis	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Paraburkholderia caryophylli	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Paraburkholderia kururiensis subsp. thiooxydans NBRC 107107	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Paraburkholderia megapolitana	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xfs-chlD
+Paraburkholderia phymatum STM815	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Paraburkholderia sacchari	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Paraburkholderia sartisoli	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Paraburkholderia sprentiae WSM5005	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Paraburkholderia xenovorans LB400	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 2xcobT, 1xcobS, 1xfs-chlD
+Patulibacter americanus DSM 16676	Bacteria	Actinobacteria	Thermoleophilia	0	1xcobN, 1xchlD
+Pelobacter propionicus DSM 2379	Bacteria	Proteobacteria	Deltaproteobacteria	0	1xcobN, 2xchlH, 2xchlD, 2xchlI
+Pelodictyon phaeoclathratiforme BU-1	Bacteria	Chlorobi	Chlorobia	0	3xchlH, 1xchlD, 1xchlI
+Pelomonas puraquae	Bacteria	Proteobacteria	Betaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Phaeospirillum molischianum DSM 120	Bacteria	Proteobacteria	Alphaproteobacteria	0	2xcobN, 2xcobT, 2xcobS, 1xchlH, 2xchlD, 2xchlI
+Phascolarctobacterium succinatutens YIT 12067	Bacteria	Firmicutes	Negativicutes	0	1xcobN, 1xchlD, 1xchlI
+Phormidesmis priestleyi ULC007	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 3xchlH, 1xchlD, 1xchlI
+Phormidium ambiguum IAM M-71	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Phormidium tenue NIES-30	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Pimelobacter simplex	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Planktomarina temperata RCA23	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Planktotalea frisia	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Planktothrix agardhii NIVA-CYA 126/8	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Planktothrix paucivesiculata PCC 9631	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Planktothrix serta PCC 8927	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 1xcobS, 2xchlH, 1xchlD, 1xchlI
+Planktothrix tepida PCC 9214	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Planobispora rosea	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Planomonospora sphaerica	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Pleurocapsa sp. PCC 7327	Bacteria	Cyanobacteria	Pleurocapsales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Polynucleobacter duraquae	Bacteria	Proteobacteria	Betaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Porphyrobacter colymbi	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Porphyrobacter cryptus DSM 12079	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Porphyrobacter dokdonensis DSW-74	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Porphyrobacter donghaensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlD, 1xchlI
+Porphyrobacter neustonensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Porphyrobacter sanguineus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Porphyrobacter tepidarius	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Porphyromonas cangingivalis JCM 15983	Bacteria	Bacteroidetes	Bacteroidia	0	1xchlD, 1xchlI
+Porphyromonas somerae	Bacteria	Bacteroidetes	Bacteroidia	0	2xcobN, 1xchlD, 1xchlI
+Prauserella marina	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Prauserella rugosa	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Prochlorococcus marinus str. AS9601	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Prochlorococcus marinus str. MIT 9107	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Prochlorococcus marinus str. MIT 9211	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Prochlorococcus marinus str. MIT 9312	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Prochlorococcus marinus str. MIT 9313	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Prochlorococcus marinus str. MIT 9515	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Prochlorococcus marinus str. NATL2A	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Prochlorococcus marinus subsp. marinus str. CCMP1375	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Prochlorococcus marinus subsp. pastoris str. CCMP1986	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Prochlorothrix hollandica PCC 9006 = CALU 1027	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Prosthecochloris aestuarii DSM 271	Bacteria	Chlorobi	Chlorobia	0	2xcobN, 3xchlH, 2xchlD, 2xchlI
+Prosthecomicrobium hirschii	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Proteiniborus ethanoligenes	Bacteria	Firmicutes	Clostridia	0	1xchlH, 1xchlD, 1xchlI
+Pseudanabaena biceps PCC 7429	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Pseudogulbenkiania subflava DSM 22618	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlD
+Pseudohaliea rubra DSM 19751	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Pseudomonas aeruginosa PAO1	Bacteria	Proteobacteria	Gammaproteobacteria	1	2xcobN, 1xfs-chlD
+Pseudomonas alcaligenes	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas anguilliseptica	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas benzenivorans	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas citronellolis	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobS, 1xfs-chlD
+Pseudomonas fluorescens F113	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xchlI, 1xfs-chlD
+Pseudomonas fulva 12-X	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas fuscovaginae	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas guangdongensis	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas guineae	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas kuykendallii	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Pseudomonas lutea	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas massiliensis	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas mendocina ymp	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas monteilii	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas nitroreducens NBRC 12694	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas oryzae	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas otitidis	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas protegens CHA0	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas psychrotolerans	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas putida	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas putida KT2440	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas resinovorans NBRC 106553	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas rhizosphaerae	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas sagittaria	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas syringae pv. tomato str. DC3000	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudomonas zeshuii	Bacteria	Proteobacteria	Gammaproteobacteria	1	1xcobN, 1xfs-chlD
+Pseudonocardia acaciae DSM 45401	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xcobT, 1xcobS, 2xchlD
+Pseudonocardia ammonioxydans	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Pseudonocardia asaccharolytica DSM 44247 = NBRC 16224	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Pseudonocardia autotrophica	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Pseudonocardia dioxanivorans CB1190	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Pseudonocardia oroxyli	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Pseudonocardia spinosispora DSM 44797	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Pseudonocardia thermophila	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Pseudooctadecabacter jejudonensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Pseudopropionibacterium propionicum F0230a	Bacteria	Actinobacteria	Propionibacteriales	0	1xchlH, 1xchlD, 1xchlI
+Psychromonas arctica DSM 14288	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Psychromonas hadalis ATCC BAA-638	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Pyrococcus yayanosii CH1	Archaea	Euryarchaeota	Thermococci	0	1xchlH, 1xchlD
+Pyrodictium occultum	Archaea	Crenarchaeota	Thermoprotei	0	1xchlH, 1xchlD
+Raineyella antarctica	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Ralstonia solanacearum GMI1000	Bacteria	Proteobacteria	Betaproteobacteria	0	1xcobN, 1xchlD
+Rhizobacter gummiphilus	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Rhodobaca barguzinensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodobacter aestuarii	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodobacter capsulatus SB 1003	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodobacter sphaeroides 2.4.1	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodobacter sphaeroides ATCC 17025	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodobacter vinaykumarii	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodoblastus acidophilus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodococcus aetherivorans	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Rhodococcus coprophilus NBRC 100603	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Rhodococcus corynebacterioides NBRC 14404	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Rhodococcus defluvii	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD, 1xchlI
+Rhodococcus erythropolis CCM2595	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Rhodococcus fascians A44A	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Rhodococcus fascians D188	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Rhodococcus hoagii 103S	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Rhodococcus jostii RHA1	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xcobT, 1xcobS, 1xchlD
+Rhodococcus kyotonensis	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Rhodococcus maanshanensis NBRC 100610	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Rhodococcus marinonascens NBRC 14363	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Rhodococcus pyridinivorans SB3094	Bacteria	Actinobacteria	Corynebacteriales	0	2xcobN, 2xchlD
+Rhodococcus triatomae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 3xchlD, 1xchlI
+Rhodococcus triatomae BKS 15-14	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Rhodococcus tukisamuensis NBRC 100609	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Rhodococcus yunnanensis NBRC 103083	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Rhodococcus zopfii NBRC 100606 = JCM 9919	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Rhodoferax antarcticus	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xchlH, 1xchlD, 1xchlI, 1xfs-chlD
+Rhodoferax fermentans	Bacteria	Proteobacteria	Betaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Rhodoferax saidenbachensis	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xchlH, 1xfs-chlD
+Rhodomicrobium sp. R_RK_3	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodomicrobium vannielii ATCC 17100	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodopseudomonas palustris	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodopseudomonas palustris BisA53	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodopseudomonas palustris BisB18	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodopseudomonas palustris CGA009	Bacteria	Proteobacteria	Alphaproteobacteria	0	2xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodopseudomonas palustris HaA2	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodopseudomonas palustris JSC-3b	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodospira trueperi	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodospirillum centenum SW	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodospirillum rubrum ATCC 11170	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodovibrio salinarum DSM 9154	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodovulum sulfidophilum	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rhodovulum sulfidophilum DSM 1374	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Richelia intracellularis HH01	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Robbsia andropogonis	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xfs-chlD
+Roseibaca calidilacus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseibacterium elongatum DSM 19469	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseicitreum antarcticum	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseiflexus castenholzii DSM 13941	Bacteria	Chloroflexi	Chloroflexia	1	1xcobN, 2xchlH, 1xchlD, 2xchlI, 1xfs-chlD
+Roseinatronobacter thiooxidans	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseisalinus antarcticus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseivivax atlanticus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseivivax halodurans JCM 10272	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseivivax halotolerans	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseivivax isoporae LMG 25204	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseivivax jejudonensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseivivax lentus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseivivax roseus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseobacter denitrificans OCh 114	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseobacter litoralis Och 149	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseomonas stagni DSM 19981	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseospirillum parvum	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseovarius atlanticus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseovarius azorensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseovarius indicus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseovarius mucosus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseovarius nanhaiticus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Roseovarius tolerans	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rubidibacter lacunae KORDI 51-2	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Rubritepida flocculans DSM 14296	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Rubrivivax gelatinosus IL144	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 2xchlH, 1xchlD, 1xchlI, 1xfs-chlD
+Rubrobacter aplysinae	Bacteria	Actinobacteria	Rubrobacteria	0	1xcobN, 1xchlD
+Rubrobacter radiotolerans	Bacteria	Actinobacteria	Rubrobacteria	0	1xcobN, 1xchlD
+Rubrobacter xylanophilus DSM 9941	Bacteria	Actinobacteria	Rubrobacteria	0	1xcobN, 1xchlD
+Rugamonas rubra	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD
+Saccharomonospora azurea NA-128	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD
+Saccharomonospora marina XMU15	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Saccharomonospora viridis DSM 43017	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Saccharopolyspora erythraea NRRL 2338	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Saccharopolyspora flava	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Saccharopolyspora jiangxiensis	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Saccharopolyspora rectivirgula DSM 43747	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Saccharothrix espanaensis DSM 44229	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD
+Saccharothrix syringae	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 2xchlD
+Salinarimonas rosea DSM 21201	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Salinispora arenicola CNS-205	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Salinispora tropica CNB-440	Bacteria	Actinobacteria	Micromonosporales	0	1xcobN, 1xchlD
+Sandarakinorhabdus limnophila DSM 17366	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Sciscionella marina DSM 45152	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xcobT, 1xcobS, 2xchlD
+Scytonema hofmannii PCC 7110	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Scytonema tolypothrichoides VB-61278	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Sediminispirochaeta smaragdinae DSM 11293	Bacteria	Spirochaetes	Spirochaetales	1	1xfs-chlD
+Selenomonas artemidis DSM 19719	Bacteria	Firmicutes	Negativicutes	0	1xcobN, 1xchlD, 1xchlI
+Selenomonas sputigena ATCC 35185	Bacteria	Firmicutes	Negativicutes	0	1xcobN, 1xchlD, 1xchlI
+Silvibacterium bohemicum	Bacteria	Acidobacteria	Acidobacteriales	0	1xcobN, 2xchlD
+Simplicispira psychrophila DSM 11588	Bacteria	Proteobacteria	Betaproteobacteria	1	2xcobN, 1xfs-chlD
+Singulisphaera acidiphila DSM 18658	Bacteria	Planctomycetes	Planctomycetia	0	1xcobN, 1xchlH, 1xchlD
+Sinosporangium album	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 2xchlD
+Siphonobacter aquaeclarae	Bacteria	Bacteroidetes	Cytophagia	0	1xcobN, 1xchlD
+Skermanella aerolata KACC 11604	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Skermania piniformis NBRC 15059	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Slackia heliotrinireducens DSM 20476	Bacteria	Actinobacteria	Coriobacteriia	1	1xfs-chlD
+Smaragdicoccus niigatensis DSM 44881 = NBRC 103563	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Solirubrobacter soli DSM 22325	Bacteria	Actinobacteria	Thermoleophilia	0	1xcobN, 1xchlD
+Sphingomonas astaxanthinifaciens DSM 22298	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Sphingomonas echinoides ATCC 14820	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Sphingomonas hengshuiensis	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 2xchlH, 1xchlD, 1xchlI
+Sphingomonas jaspsi DSM 18422	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Sphingomonas sanxanigenens DSM 19645 = NX02	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Spirillospora albida	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Spirochaeta thermophila DSM 6578	Bacteria	Spirochaetes	Spirochaetales	1	1xfs-chlD
+Spirosoma endophyticum	Bacteria	Bacteroidetes	Cytophagia	0	1xcobN, 1xchlD
+Spirulina major PCC 6313	Bacteria	Cyanobacteria	Spirulinales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Spirulina subsalsa PCC 9445	Bacteria	Cyanobacteria	Spirulinales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Sporanaerobacter acetigenes DSM 13106	Bacteria	Firmicutes	Tissierellia	0	1xchlH, 1xchlD, 1xchlI
+Sporichthya polymorpha DSM 43042	Bacteria	Actinobacteria	Frankiales	0	1xcobN, 1xchlD
+Sporomusa ovata DSM 2662	Bacteria	Firmicutes	Negativicutes	0	2xcobN, 2xchlD, 2xchlI
+Sporomusa sphaeroides DSM 2875	Bacteria	Firmicutes	Negativicutes	0	2xcobN, 2xchlD, 1xchlI
+Stanieria cyanosphaera PCC 7437	Bacteria	Cyanobacteria	Pleurocapsales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Stappia stellulata DSM 5886	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Streptacidiphilus albus JL83	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xfs-chlD
+Streptacidiphilus melanogenes	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptacidiphilus oryzae TH49	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xfs-chlD
+Streptacidiphilus rugosus AM-16	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xfs-chlD
+Streptoalloteichus hindustanus	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD
+Streptomonospora alba	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Streptomyces acidiscabies 84-104	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces aidingensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces albidoflavus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces albireticuli	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces alboflavus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces albus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces albus subsp. albus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces alni	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces atratus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xcobS, 1xchlD
+Streptomyces atroolivaceus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces aurantiacus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces autolyticus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces avermitilis MA-4680 = NBRC 14893	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces azureus	Bacteria	Actinobacteria	Streptomycetales	0	2xcobN, 1xchlD
+Streptomyces bingchenggensis BCW-1	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces caatingaensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces cacaoi subsp. cacaoi	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xcobS, 1xchlD
+Streptomyces canus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces catenulae	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces cattleya NRRL 8057 = DSM 46488	Bacteria	Actinobacteria	Streptomycetales	0	2xcobN, 1xchlD
+Streptomyces clavuligerus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces coelicolor A3(2)	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD, 1xchlI
+Streptomyces collinus Tu 365	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces davaonensis JCM 4913	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD, 1xchlI
+Streptomyces flavidovirens DSM 40150	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces flavovariabilis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces fulvoviolaceus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces glaucescens	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces glauciniger	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces griseoaurantiacus M045	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xcobS, 1xchlD
+Streptomyces griseochromogenes	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces griseofuscus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces griseoruber	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces griseus subsp. griseus NBRC 13350	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces guanduensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces hokutonensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces indicus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces jeddahensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces katrae	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xfs-chlD
+Streptomyces kebangsaanensis	Bacteria	Actinobacteria	Streptomycetales	0	1xchlD
+Streptomyces leeuwenhoekii	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces lincolnensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD, 1xchlI
+Streptomyces lydicus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces megasporus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces melanosporofaciens	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces mobaraensis NBRC 13819 = DSM 40847	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces monomycini	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces niveus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces nodosus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces noursei ATCC 11455	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces olivaceus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces olivochromogenes	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces ossamyceticus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces pathocidini	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces paucisporeus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces phaeochromogenes	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xcobS, 1xchlD
+Streptomyces pluripotens	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces prasinopilosus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces pristinaespiralis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces puniciscabiei	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces purpureus KA281	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces qinglanensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces radiopugnans	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces rimosus subsp. rimosus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces rochei	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces roseoverticillatus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces rubidus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces scabiei 87.22	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces scabrisporus DSM 41855	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces scopuliridis RB72	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces silaceus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces sparsogenes	Bacteria	Actinobacteria	Streptomycetales	0	1xchlD
+Streptomyces sulphureus DSM 40104	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces thermoautotrophicus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces thermolilacinus SPC6	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces thermovulgaris	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces tsukubensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces turgidiscabies Car8	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces uncialis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces varsoviensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces venezuelae	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces vietnamensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces violens	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xcobT, 1xcobS, 1xchlD
+Streptomyces virginiae	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces wuyuanensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces yerevanensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptomyces zinciresistens K42	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD
+Streptosporangium amethystogenes	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Streptosporangium roseum DSM 43021	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Streptosporangium subroseum	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 2xchlD
+Succiniclasticum ruminis DSM 9236	Bacteria	Firmicutes	Negativicutes	0	3xcobN, 2xchlD, 2xchlI
+Succinispira mobilis DSM 6222	Bacteria	Firmicutes	Negativicutes	0	2xcobN, 1xchlD, 1xchlI
+Sulfitobacter guttiformis KCTC 32187	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Sulfitobacter noctilucicola	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Sulfobacillus thermosulfidooxidans DSM 9293	Bacteria	Firmicutes	Clostridia	0	1xcobN, 1xchlD
+Synechococcus elongatus PCC 6301	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Syntrophobacter fumaroxidans MPOB	Bacteria	Proteobacteria	Deltaproteobacteria	0	1xcobN, 1xchlD, 1xchlI
+Syntrophorhabdus aromaticivorans UI	Bacteria	Proteobacteria	Deltaproteobacteria	0	1xcobN, 1xchlD, 1xchlI
+Tenacibaculum dicentrarchi	Bacteria	Bacteroidetes	Flavobacteriia	0	1xcobN, 1xchlD
+Tenacibaculum ovolyticum DSM 18103	Bacteria	Bacteroidetes	Flavobacteriia	0	1xcobN, 1xchlD
+Tenacibaculum soleae	Bacteria	Bacteroidetes	Flavobacteriia	0	1xcobN, 1xchlD
+Tepidimonas fonticaldi	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Tepidimonas taiwanensis	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Tessaracoccus lapidicaptus	Bacteria	Actinobacteria	Propionibacteriales	0	1xcobN, 1xchlD
+Tetrasphaera japonica T1-X7	Bacteria	Actinobacteria	Micrococcales	0	1xcobN, 1xchlD
+Thalassobacter stenotrophicus	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Thalassobaculum salexigens DSM 19539	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Thauera terpenica 58Eu	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xfs-chlD
+Thermacetogenium phaeum DSM 12270	Bacteria	Firmicutes	Clostridia	0	1xcobN, 2xchlD, 3xchlI
+Thermanaeromonas toyohensis ToBE	Bacteria	Firmicutes	Clostridia	0	2xcobN, 2xchlD, 1xchlI
+Thermanaerothrix daxensis	Bacteria	Chloroflexi	Anaerolineae	1	1xfs-chlD
+Thermoactinospora rubra	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Thermoanaerobacter kivui	Bacteria	Firmicutes	Clostridia	1	3xcobN, 2xchlH, 1xfs-chlD
+Thermobifida cellulosilytica TB100	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Thermobifida fusca YX	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Thermobifida halotolerans	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Thermobispora bispora DSM 43833	Bacteria	Actinobacteria	Actinobacteria incertae sedis	0	1xcobN, 2xchlD
+Thermococcus barophilus MP	Archaea	Euryarchaeota	Thermococci	0	1xchlH, 1xchlD
+Thermococcus celericrescens	Archaea	Euryarchaeota	Thermococci	0	1xchlH, 1xchlD, 1xchlI
+Thermococcus onnurineus NA1	Archaea	Euryarchaeota	Thermococci	0	1xchlH, 1xchlD
+Thermococcus paralvinellae	Archaea	Euryarchaeota	Thermococci	0	1xchlH, 1xchlD
+Thermococcus piezophilus	Archaea	Euryarchaeota	Thermococci	0	1xchlH, 1xchlD
+Thermococcus zilligii AN1	Archaea	Euryarchaeota	Thermococci	1	1xchlH, 1xfs-chlD
+Thermocrispum municipale DSM 44069	Bacteria	Actinobacteria	Pseudonocardiales	0	2xcobN, 2xchlD
+Thermodesulfatator atlanticus DSM 21156	Bacteria	Thermodesulfobacteria	Thermodesulfobacteriales	0	1xcobN, 1xchlD, 1xchlI
+Thermodesulfatator autotrophicus	Bacteria	Thermodesulfobacteria	Thermodesulfobacteriales	0	1xcobN, 1xchlD, 1xchlI
+Thermodesulfatator indicus DSM 15286	Bacteria	Thermodesulfobacteria	Thermodesulfobacteriales	0	1xcobN, 1xchlD, 1xchlI
+Thermodesulfobacterium commune DSM 2178	Bacteria	Thermodesulfobacteria	Thermodesulfobacteriales	0	1xchlD, 1xchlI
+Thermodesulfobacterium hydrogeniphilum	Bacteria	Thermodesulfobacteria	Thermodesulfobacteriales	0	1xcobN, 1xchlD, 1xchlI
+Thermodesulforhabdus norvegica	Bacteria	Proteobacteria	Deltaproteobacteria	0	1xchlH, 2xchlD, 1xchlI
+Thermodesulfovibrio yellowstonii DSM 11347	Bacteria	Nitrospirae	Nitrospirales	0	1xchlD, 1xchlI
+Thermoflexus hugenholtzii JAD2	Bacteria	Chloroflexi	Thermoflexia	0	1xchlD
+Thermoleophilum album	Bacteria	Actinobacteria	Thermoleophilia	0	1xcobN, 1xchlD
+Thermomonospora curvata DSM 43183	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD
+Thermoplasma acidophilum DSM 1728	Archaea	Euryarchaeota	Thermoplasmata	0	1xchlD
+Thermoplasma volcanium GSS1	Archaea	Euryarchaeota	Thermoplasmata	0	1xchlD
+Thermoplasmatales archaeon BRNA1	Archaea	Euryarchaeota	Thermoplasmata	0	2xcobN, 2xchlD, 2xchlI
+Thermosediminibacter oceani DSM 16646	Bacteria	Firmicutes	Clostridia	0	2xchlD
+Thermosulfurimonas dismutans	Bacteria	Thermodesulfobacteria	Thermodesulfobacteriales	0	1xchlH, 1xchlD, 1xchlI
+Thermosynechococcus elongatus BP-1	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Thermovenabulum gondwanense	Bacteria	Firmicutes	Clostridia	0	2xchlD, 1xchlI
+Thiocapsa marina 5811	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Thiocystis violascens DSM 198	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Thioflavicoccus mobilis 8321	Bacteria	Proteobacteria	Gammaproteobacteria	0	2xchlH, 1xchlD, 1xchlI
+Thiorhodococcus drewsii AZ1	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI
+Thiorhodospira sibirica ATCC 700588	Bacteria	Proteobacteria	Gammaproteobacteria	0	2xchlH, 1xchlD, 1xchlI
+Tolypothrix bouteillei VB521301	Bacteria	Cyanobacteria	Nostocales	0	1xcobN, 1xchlH, 1xchlD, 1xchlI
+Tomitella biformata AHU 1821	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Tranquillimonas alkanivorans	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI
+Treponema denticola ATCC 35405	Bacteria	Spirochaetes	Spirochaetales	0	1xcobN, 1xchlD, 1xchlI
+Treponema putidum	Bacteria	Spirochaetes	Spirochaetales	0	1xchlD, 1xchlI
+Trichodesmium erythraeum IMS101	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI
+Tsukamurella paurometabola DSM 20162	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Tsukamurella pseudospumae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Tsukamurella pulmonis	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Tsukamurella tyrosinosolvens	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
+Variovorax paradoxus 110B	Bacteria	Proteobacteria	Betaproteobacteria	1	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xfs-chlD
+Variovorax paradoxus EPS	Bacteria	Proteobacteria	Betaproteobacteria	1	2xcobN, 1xcobT, 1xcobS, 1xfs-chlD
+Veillonella magna DSM 19857	Bacteria	Firmicutes	Negativicutes	0	1xcobN, 1xchlD, 1xchlI
+Veillonella parvula DSM 2008	Bacteria	Firmicutes	Negativicutes	0	1xcobN, 1xchlD, 1xchlI
+Williamsia herbipolensis	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Williamsia muralis NBRC 105860	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Williamsia sterculiae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 2xchlD
+Yuhushiella deserti	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD
+Zymobacter palmae DSM 10491	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD

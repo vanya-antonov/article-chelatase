@@ -16,27 +16,9 @@ all_orgs_df <- read.delim(paste0(DATA_DIR, "orgs_chel.txt"), as.is=TRUE)
 head(all_orgs_df)
 
 # Generate the genotype column
-orgs_df <- all_orgs_df %>%
+orgs_df <- make_genotype_column(all_orgs_df) %>%
   filter(num_M_fs > 0) %>%
   mutate(phylum = ifelse(phylum %in% TAR_PHYLA, phylum, 'Other phyla')) %>%
-  mutate(num_bchlH = num_chlH + num_bchH,
-         num_bchlD = num_chlD + num_bchD,
-         num_bchlD_fs = num_chlD_fs + num_bchD_fs, 
-         num_bchlD_zero = num_bchlD - num_bchlD_fs,
-         num_bchlI = num_chlI + num_bchI) %>%
-  mutate(cobN_str = ifelse(num_cobN == 0, NA, paste0(num_cobN, 'xcobN')),
-         cobT_str = ifelse(num_cobT == 0, NA, paste0(num_cobT, 'xcobT')),
-         cobS_str = ifelse(num_cobS == 0, NA, paste0(num_cobS, 'xcobS')),
-         
-         bchlH_str = ifelse(num_bchlH == 0, NA, paste0(num_bchlH, 'x(b)chlH')),
-         bchlD_0_str = ifelse(num_bchlD_zero == 0, NA, paste0(num_bchlD_zero, 'x(b)chlD')),
-         bchlD_fs_str = ifelse(num_bchlD_fs == 0, NA, paste0(num_bchlD_fs, 'xfs-chlD')),
-         bchlI_str = ifelse(num_bchlI == 0, NA, paste0(num_bchlI, 'x(b)chlI'))) %>%
-  unite(cobN_str, cobT_str, cobS_str, bchlH_str, bchlD_0_str, bchlI_str, bchlD_fs_str,
-        sep = ', ', col="genotype") %>%
-  # Remove NA from genotypes using regexp:
-  mutate(genotype = gsub('(, NA)+', '', genotype)) %>%
-  mutate(genotype = gsub('^NA, ', '', genotype)) %>%
   mutate(genotype = ifelse(num_L > 0, paste0(genotype, '*'), genotype))
 head(orgs_df)
 
