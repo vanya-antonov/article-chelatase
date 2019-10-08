@@ -9,7 +9,7 @@ source("../images_R/lib.R")
 
 
 SQL <- "
-select name, descr, gene, fs_len, org_name, kingdom, phylum, genus
+select name, descr, gene, prot_len, fs_len, org_name, kingdom, phylum, genus
 from chel_feats_v
 where chel_subunit is not NULL"
 data_df <- dbGetQuery(con, SQL)
