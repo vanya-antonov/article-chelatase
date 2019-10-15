@@ -41,7 +41,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 123	Pseudomonas syringae pv. tomato str. DC3000	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1
 124	Bacillus cereus ATCC 14579	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 125	Bacillus anthracis str. Ames	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
-126	Mycobacterium avium subsp. paratuberculosis K-10	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+126	Mycobacterium avium subsp. paratuberculosis K-10	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 127	Helicobacter hepaticus ATCC 51449	Helicobacter	Proteobacteria	Bacteria	Epsilonproteobacteria	0	0	0
 128	Prochlorococcus marinus subsp. marinus str. CCMP1375	Prochlorococcus	Cyanobacteria	Bacteria	Synechococcales	1	1	0
 129	Haemophilus ducreyi 35000HP	Haemophilus	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -110,7 +110,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 194	Sulfolobus tokodaii str. 7	Sulfolobus	Crenarchaeota	Archaea	Thermoprotei	0	0	0
 195	Mycoplasma penetrans HF-2	Mycoplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
 196	Oceanobacillus iheyensis HTE831	Oceanobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
-197	Corynebacterium efficiens YS-314	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	1
+197	Corynebacterium efficiens YS-314	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	1
 198	Corynebacterium glutamicum ATCC 13032	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	1
 199	Thermosynechococcus elongatus BP-1	Thermosynechococcus	Cyanobacteria	Bacteria	Synechococcales	1	1	0
 200	Bradyrhizobium diazoefficiens USDA 110	Bradyrhizobium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -205,14 +205,14 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 290	Shewanella piezotolerans WP3	Shewanella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 291	Paenarthrobacter aurescens TC1	Paenarthrobacter	Actinobacteria	Bacteria	Micrococcales	0	0	0
 292	Syntrophobacter fumaroxidans MPOB	Syntrophobacter	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	0
-293	Mycobacterium smegmatis str. MC2 155	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+293	Mycobacterium smegmatis str. MC2 155	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 294	Acidothermus cellulolyticus 11B	Acidothermus	Actinobacteria	Bacteria	Acidothermales	0	0	0
 295	Pelobacter propionicus DSM 2379	Pelobacter	Proteobacteria	Bacteria	Deltaproteobacteria	2	2	0
 296	Chlorobium phaeobacteroides DSM 266	Chlorobium	Chlorobi	Bacteria	Chlorobia	1	1	0
 297	Hyperthermus butylicus DSM 5456	Hyperthermus	Crenarchaeota	Archaea	Thermoprotei	0	0	0
 298	Shewanella amazonensis SB2B	Shewanella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 299	Psychromonas ingrahamii 37	Psychromonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-300	Mycobacterium vanbaalenii PYR-1	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+300	Mycobacterium vanbaalenii PYR-1	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 301	Dichelobacter nodosus VCS1703A	Dichelobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 302	Bartonella bacilliformis KC583	Bartonella	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 303	Polaromonas naphthalenivorans CJ2	Polaromonas	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
@@ -315,7 +315,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 401	Chlorobium phaeobacteroides BS1	Chlorobium	Chlorobi	Bacteria	Chlorobia	1	1	0
 402	Prosthecochloris aestuarii DSM 271	Prosthecochloris	Chlorobi	Bacteria	Chlorobia	2	2	0
 403	Pelodictyon phaeoclathratiforme BU-1	Pelodictyon	Chlorobi	Bacteria	Chlorobia	1	1	0
-404	Deinococcus deserti VCD115	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	2	2	0
+404	Deinococcus deserti VCD115	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	1	1	0
 405	Geobacter bemidjiensis Bem	Geobacter	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
 406	Desulfurococcus amylolyticus 1221n	Desulfurococcus	Crenarchaeota	Archaea	Thermoprotei	0	0	0
 407	Coprothermobacter proteolyticus DSM 5265	Coprothermobacter	Firmicutes	Bacteria	Clostridia	0	0	0
@@ -357,12 +357,12 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 443	Teredinibacter turnerae T7901	Teredinibacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 444	Tolumonas auensis DSM 9187	Tolumonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 445	Beutenbergia cavernae DSM 12333	Beutenbergia	Actinobacteria	Bacteria	Micrococcales	0	0	0
-446	Dyadobacter fermentans DSM 18053	Dyadobacter	Bacteroidetes	Bacteria	Cytophagia	1	1	0
-447	Corynebacterium kroppenstedtii DSM 44385	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
+446	Dyadobacter fermentans DSM 18053	Dyadobacter	Bacteroidetes	Bacteria	Cytophagia	2	2	0
+447	Corynebacterium kroppenstedtii DSM 44385	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	1
 448	Micrococcus luteus NCTC 2665	Micrococcus	Actinobacteria	Bacteria	Micrococcales	0	0	0
 449	Desulfomicrobium baculatum DSM 4028	Desulfomicrobium	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
-450	Actinosynnema mirum DSM 43827	Actinosynnema	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
-451	Acidimicrobium ferrooxidans DSM 10331	Acidimicrobium	Actinobacteria	Bacteria	Acidimicrobiia	2	2	0
+450	Actinosynnema mirum DSM 43827	Actinosynnema	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
+451	Acidimicrobium ferrooxidans DSM 10331	Acidimicrobium	Actinobacteria	Bacteria	Acidimicrobiia	1	1	0
 452	Capnocytophaga ochracea DSM 7271	Capnocytophaga	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 453	Kosmotoga olearia TBF 19.5.1	Kosmotoga	Thermotogae	Bacteria	Kosmotogales	0	0	0
 454	Brachybacterium faecium DSM 4810	Brachybacterium	Actinobacteria	Bacteria	Micrococcales	0	0	0
@@ -374,7 +374,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 460	Hirschia baltica ATCC 49814	Hirschia	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 461	Pedobacter heparinus DSM 2366	Pedobacter	Bacteroidetes	Bacteria	Sphingobacteriia	0	0	0
 462	Cryptobacterium curtum DSM 15641	Cryptobacterium	Actinobacteria	Bacteria	Coriobacteriia	0	0	0
-463	Saccharomonospora viridis DSM 43017	Saccharomonospora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+463	Saccharomonospora viridis DSM 43017	Saccharomonospora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 464	Slackia heliotrinireducens DSM 20476	Slackia	Actinobacteria	Bacteria	Coriobacteriia	1	1	1
 465	Leptotrichia buccalis C-1013-b	Leptotrichia	Fusobacteria	Bacteria	Fusobacteriales	0	0	0
 466	Kytococcus sedentarius DSM 20547	Kytococcus	Actinobacteria	Bacteria	Micrococcales	0	0	0
@@ -392,7 +392,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 478	Eggerthella lenta DSM 2243	Eggerthella	Actinobacteria	Bacteria	Coriobacteriia	0	0	0
 479	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446	Alicyclobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 480	Desulfohalobium retbaense DSM 5692	Desulfohalobium	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
-481	Kribbella flavida DSM 17836	Kribbella	Actinobacteria	Bacteria	Propionibacteriales	2	2	0
+481	Kribbella flavida DSM 17836	Kribbella	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
 482	Nakamurella multipartita DSM 44233	Nakamurella	Actinobacteria	Bacteria	Nakamurellales	1	1	0
 483	Thermomonospora curvata DSM 43183	Thermomonospora	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 484	Sebaldella termitidis ATCC 33386	Sebaldella	Fusobacteria	Bacteria	Fusobacteriales	0	0	0
@@ -404,7 +404,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 490	Methanocaldococcus vulcanius M7	Methanocaldococcus	Euryarchaeota	Archaea	Methanococci	1	1	1
 491	Nitrosococcus halophilus Nc 4	Nitrosococcus	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 492	Halothiobacillus neapolitanus c2	Halothiobacillus	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-493	Gordonia bronchialis DSM 43247	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+493	Gordonia bronchialis DSM 43247	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 494	Rhodothermus marinus DSM 4252	Rhodothermus	Bacteroidetes	Bacteria	Bacteroidetes Order II. Incertae sedis	0	0	0
 495	Streptosporangium roseum DSM 43021	Streptosporangium	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 496	Sulfurospirillum deleyianum DSM 6946	Sulfurospirillum	Proteobacteria	Bacteria	Epsilonproteobacteria	0	0	0
@@ -419,7 +419,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 505	Gardnerella vaginalis 409-05	Gardnerella	Actinobacteria	Bacteria	Bifidobacteriales	0	0	0
 506	Mageeibacillus indolicus UPII9-5	Mageeibacillus	Firmicutes	Bacteria	Clostridia	0	0	0
 507	Conexibacter woesei DSM 14684	Conexibacter	Actinobacteria	Bacteria	Thermoleophilia	0	0	0
-508	Archaeoglobus profundus DSM 5631	Archaeoglobus	Euryarchaeota	Archaea	Archaeoglobi	2	2	0
+508	Archaeoglobus profundus DSM 5631	Archaeoglobus	Euryarchaeota	Archaea	Archaeoglobi	1	1	0
 509	Acidaminococcus fermentans DSM 20731	Acidaminococcus	Firmicutes	Bacteria	Negativicutes	0	0	0
 510	Haloterrigena turkmenica DSM 5511	Haloterrigena	Euryarchaeota	Archaea	Halobacteria	2	2	0
 511	Geodermatophilus obscurus DSM 43160	Geodermatophilus	Actinobacteria	Bacteria	Geodermatophilales	2	2	0
@@ -463,7 +463,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 549	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002	Lactobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 550	Frankia alni ACN14a	Frankia	Actinobacteria	Bacteria	Frankiales	0	0	0
 551	Gramella forsetii KT0803	Gramella	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-552	Saccharopolyspora erythraea NRRL 2338	Saccharopolyspora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+552	Saccharopolyspora erythraea NRRL 2338	Saccharopolyspora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 553	Methanocella arvoryzae MRE50	Methanocella	Euryarchaeota	Archaea	Methanomicrobia	0	0	0
 554	Orientia tsutsugamushi str. Boryong	Orientia	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 555	Clostridium botulinum A str. ATCC 3502	Clostridium	Firmicutes	Bacteria	Clostridia	0	0	0
@@ -507,7 +507,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 593	Leuconostoc kimchii IMSNU 11154	Leuconostoc	Firmicutes	Bacteria	Bacilli	0	0	0
 594	Leptospira interrogans serovar Lai str. 56601	Leptospira	Spirochaetes	Bacteria	Leptospirales	0	0	0
 595	Mycoplasma gallisepticum str. R(low)	Mycoplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
-596	Thermobispora bispora DSM 43833	Thermobispora	Actinobacteria	Bacteria	Actinobacteria incertae sedis	2	2	0
+596	Thermobispora bispora DSM 43833	Thermobispora	Actinobacteria	Bacteria	Actinobacteria incertae sedis	1	1	0
 597	Waddlia chondrophila WSU 86-1044	Waddlia	Chlamydiae	Bacteria	Parachlamydiales	0	0	0
 598	Segniliparus rotundus DSM 44985	Segniliparus	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
 599	Brachyspira murdochii DSM 12563	Brachyspira	Spirochaetes	Bacteria	Brachyspirales	0	0	0
@@ -525,7 +525,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 611	Desulfarculus baarsii DSM 2075	Desulfarculus	Proteobacteria	Bacteria	Deltaproteobacteria	2	2	0
 612	Sediminispirochaeta smaragdinae DSM 11293	Sediminispirochaeta	Spirochaetes	Bacteria	Spirochaetales	1	1	1
 613	Brevundimonas subvibrioides ATCC 15264	Brevundimonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
-614	Thermosediminibacter oceani DSM 16646	Thermosediminibacter	Firmicutes	Bacteria	Clostridia	2	2	0
+614	Thermosediminibacter oceani DSM 16646	Thermosediminibacter	Firmicutes	Bacteria	Clostridia	1	1	0
 615	Corynebacterium pseudotuberculosis C231	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	1
 616	Acetohalobium arabaticum DSM 5501	Acetohalobium	Firmicutes	Bacteria	Clostridia	0	0	0
 617	Acidilobus saccharovorans 345-15	Acidilobus	Crenarchaeota	Archaea	Thermoprotei	0	0	0
@@ -557,7 +557,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 644	Idiomarina baltica OS145	Idiomarina	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 645	Leeuwenhoekiella blandensis MED217	Leeuwenhoekiella	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 646	Blastopirellula marina DSM 3645	Blastopirellula	Planctomycetes	Bacteria	Planctomycetia	0	0	0
-647	Congregibacter litoralis KT71	Congregibacter	Proteobacteria	Bacteria	Gammaproteobacteria	2	2	0
+647	Congregibacter litoralis KT71	Congregibacter	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0
 648	Reinekea blandensis MED297	Reinekea	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 649	Nitrococcus mobilis Nb-231	Nitrococcus	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 650	Polaribacter irgensii 23-P	Polaribacter	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
@@ -605,7 +605,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 692	Holdemanella biformis DSM 3989	Holdemanella	Firmicutes	Bacteria	Erysipelotrichia	0	0	0
 693	Blautia hansenii DSM 20583	Blautia	Firmicutes	Bacteria	Clostridia	0	0	0
 694	Enterococcus casseliflavus EC20	Enterococcus	Firmicutes	Bacteria	Bacilli	0	0	0
-695	Mycobacterium kansasii ATCC 12478	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+695	Mycobacterium kansasii ATCC 12478	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 696	Bacteroides coprophilus DSM 18228 = JCM 13818	Bacteroides	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 697	Prevotella copri DSM 18205	Prevotella	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 698	Subdoligranulum variabile DSM 15176	Subdoligranulum	Firmicutes	Bacteria	Clostridia	0	0	0
@@ -655,7 +655,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 743	Slackia exigua ATCC 700122	Slackia	Actinobacteria	Bacteria	Coriobacteriia	0	0	0
 744	Simonsiella muelleri ATCC 29453	Simonsiella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 745	Filifactor alocis ATCC 35896	Filifactor	Firmicutes	Bacteria	Clostridia	0	0	0
-746	Mycobacterium parascrofulaceum ATCC BAA-614	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+746	Mycobacterium parascrofulaceum ATCC BAA-614	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 747	Komagataeibacter hansenii ATCC 23769	Komagataeibacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 748	Roseomonas cervicalis ATCC 49957	Roseomonas	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 749	Streptococcus parasanguinis ATCC 15912	Streptococcus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -785,7 +785,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 874	Cellulophaga algicola DSM 14237	Cellulophaga	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 875	Isosphaera pallida ATCC 43644	Isosphaera	Planctomycetes	Bacteria	Planctomycetia	0	0	0
 876	Desulfurococcus mucosus DSM 2162	Desulfurococcus	Crenarchaeota	Archaea	Thermoprotei	0	0	0
-877	Deinococcus maricopensis DSM 21211	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	2	2	0
+877	Deinococcus maricopensis DSM 21211	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	1	1	0
 878	Lautropia mirabilis ATCC 51599	Lautropia	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 879	Desulfobulbus propionicus DSM 2032	Desulfobulbus	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	0
 880	Thermus scotoductus SA-01	Thermus	Deinococcus-Thermus	Bacteria	Deinococci	0	0	0
@@ -820,7 +820,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 909	Methanobacterium lacus	Methanobacterium	Euryarchaeota	Archaea	Methanobacteria	1	1	0
 910	Anaerococcus prevotii ACS-065-V-Col13	Anaerococcus	Firmicutes	Bacteria	Tissierellia	0	0	0
 911	Anaerophaga thermohalophila DSM 12881	Anaerophaga	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
-912	Gordonia neofelifaecis NRRL B-59395	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+912	Gordonia neofelifaecis NRRL B-59395	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 913	Ruegeria conchae	Ruegeria	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 914	Novosphingobium nitrogenifigens DSM 19370	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 915	Polymorphum gilvum SL003B-26A1	Polymorphum	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -830,7 +830,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 919	Hippea maritima DSM 10411	Hippea	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
 920	Saccharopolyspora spinosa NRRL 18395	Saccharopolyspora	Actinobacteria	Bacteria	Pseudonocardiales	0	0	0
 921	Fluviicola taffensis DSM 16823	Fluviicola	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-922	Archaeoglobus veneficus SNP6	Archaeoglobus	Euryarchaeota	Archaea	Archaeoglobi	2	2	0
+922	Archaeoglobus veneficus SNP6	Archaeoglobus	Euryarchaeota	Archaea	Archaeoglobi	1	1	0
 923	Neisseria bacilliformis ATCC BAA-1200	Neisseria	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 924	Dialister micraerophilus DSM 19965	Dialister	Firmicutes	Bacteria	Negativicutes	0	0	0
 925	Treponema succinifaciens DSM 2489	Treponema	Spirochaetes	Bacteria	Spirochaetales	0	0	0
@@ -856,7 +856,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 945	Wolinella succinogenes DSM 1740	Wolinella	Proteobacteria	Bacteria	Epsilonproteobacteria	0	0	0
 946	Bdellovibrio bacteriovorus HD100	Bdellovibrio	Proteobacteria	Bacteria	Oligoflexia	0	0	0
 947	Photobacterium profundum SS9	Photobacterium	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-948	Deinococcus geothermalis DSM 11300	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	2	2	0
+948	Deinococcus geothermalis DSM 11300	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	1	1	0
 949	Neisseria lactamica 020-06	Neisseria	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 950	Croceibacter atlanticus HTCC2559	Croceibacter	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 951	Nitrosospira multiformis ATCC 25196	Nitrosospira	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
@@ -867,11 +867,11 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 956	Mobiluncus curtisii ATCC 43063	Mobiluncus	Actinobacteria	Bacteria	Actinomycetales	0	0	0
 957	Erwinia billingiae Eb661	Erwinia	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 958	Methanohalobium evestigatum Z-7303	Methanohalobium	Euryarchaeota	Archaea	Methanomicrobia	0	0	0
-959	Pseudonocardia dioxanivorans CB1190	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+959	Pseudonocardia dioxanivorans CB1190	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 960	Rhodococcus hoagii 103S	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 961	Bacillus amyloliquefaciens DSM 7	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 962	Nitrospira defluvii	Nitrospira	Nitrospirae	Bacteria	Nitrospirales	0	0	0
-963	Amycolatopsis mediterranei U32	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+963	Amycolatopsis mediterranei U32	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 964	Leuconostoc gelidum subsp. gasicomitatum LMG 18811	Leuconostoc	Firmicutes	Bacteria	Bacilli	0	0	0
 965	Halalkalicoccus jeotgali B3	Halalkalicoccus	Euryarchaeota	Archaea	Halobacteria	0	0	0
 966	Glutamicibacter arilaitensis Re117	Glutamicibacter	Actinobacteria	Bacteria	Micrococcales	0	0	0
@@ -921,7 +921,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1010	Centipeda periodontii DSM 2778	Centipeda	Firmicutes	Bacteria	Negativicutes	1	1	0
 1011	Methyloversatilis universalis FAM5	Methyloversatilis	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0
 1012	Acidithiobacillus ferrivorans SS3	Acidithiobacillus	Proteobacteria	Bacteria	Acidithiobacillia	0	0	0
-1013	Mycobacterium sinense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1013	Mycobacterium sinense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1014	Hoyosella subflava DQS3-9A1	Hoyosella	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
 1015	Marinomonas posidonica IVIA-Po-181	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0
 1016	Treponema azotonutricium ZAS-9	Treponema	Spirochaetes	Bacteria	Spirochaetales	0	0	0
@@ -992,7 +992,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1082	Collinsella tanakaei YIT 12063	Collinsella	Actinobacteria	Bacteria	Coriobacteriia	0	0	0
 1083	Brachybacterium squillarum M-6-3	Brachybacterium	Actinobacteria	Bacteria	Micrococcales	0	0	0
 1084	Dietzia alimentaria 72	Dietzia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
-1085	Chloracidobacterium thermophilum B	Chloracidobacterium	Acidobacteria	Bacteria	Blastocatellia	2	2	0
+1085	Chloracidobacterium thermophilum B	Chloracidobacterium	Acidobacteria	Bacteria	Blastocatellia	1	1	0
 1086	Micavibrio aeruginosavorus ARL-13	Micavibrio	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 1087	Glaciecola nitratireducens FR1064	Glaciecola	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1088	Taylorella asinigenitalis MCE3	Taylorella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
@@ -1012,8 +1012,8 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1102	Rhodanobacter denitrificans	Rhodanobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1103	Natronobacterium gregoryi SP2	Natronobacterium	Euryarchaeota	Archaea	Halobacteria	1	1	0
 1104	Natrinema pellirubrum DSM 15624	Natrinema	Euryarchaeota	Archaea	Halobacteria	1	1	0
-1105	Mycobacterium rhodesiae NBB3	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-1106	Mycobacterium rhodesiae JS60	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1105	Mycobacterium rhodesiae NBB3	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+1106	Mycobacterium rhodesiae JS60	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1107	Saccharomonospora paurometabolica YIM 90007	Saccharomonospora	Actinobacteria	Bacteria	Pseudonocardiales	0	0	0
 1108	Saccharomonospora azurea NA-128	Saccharomonospora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 1109	Alistipes indistinctus YIT 12060	Alistipes	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
@@ -1027,7 +1027,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1117	Pseudoxanthomonas spadix BD-a59	Pseudoxanthomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1118	Alloprevotella rava F0323	Alloprevotella	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 1119	Gluconobacter morbifer G707	Gluconobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-1120	Mycobacterium thermoresistibile ATCC 19527	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1120	Mycobacterium thermoresistibile ATCC 19527	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1121	Fervidobacterium pennivorans DSM 9078	Fervidobacterium	Thermotogae	Bacteria	Thermotogales	0	0	0
 1122	Johnsonella ignava ATCC 51276	Johnsonella	Firmicutes	Bacteria	Clostridia	0	0	0
 1123	Hungatella hathewayi WAL-18680	Hungatella	Firmicutes	Bacteria	Clostridia	0	0	0
@@ -1064,11 +1064,11 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1154	Streptomyces cattleya NRRL 8057 = DSM 46488	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 1155	Klebsiella pneumoniae subsp. pneumoniae HS11286	Klebsiella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1156	Patulibacter medicamentivorans	Patulibacter	Actinobacteria	Bacteria	Thermoleophilia	0	0	0
-1157	Mycobacterium avium subsp. avium Env 77	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1157	Mycobacterium avium subsp. avium Env 77	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1158	Oenococcus kitaharae DSM 17330	Oenococcus	Firmicutes	Bacteria	Bacilli	0	0	0
-1159	Gordonia araii NBRC 100433	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-1160	Gordonia effusa NBRC 100432	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-1161	Gordonia amarae NBRC 15530	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1159	Gordonia araii NBRC 100433	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+1160	Gordonia effusa NBRC 100432	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+1161	Gordonia amarae NBRC 15530	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1162	Sphingomonas echinoides ATCC 14820	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 1163	Stomatobaculum longum	Stomatobaculum	Firmicutes	Bacteria	Clostridia	0	0	0
 1164	Frateuria aurantia DSM 6220	Frateuria	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1
@@ -1097,7 +1097,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1187	Leptospira licerasiae serovar Varillal str. VAR 010	Leptospira	Spirochaetes	Bacteria	Leptospirales	0	0	0
 1188	Leptospira weilii serovar Topaz str. LT2116	Leptospira	Spirochaetes	Bacteria	Leptospirales	0	0	0
 1189	Desulfosporosinus youngiae DSM 17734	Desulfosporosinus	Firmicutes	Bacteria	Clostridia	0	0	0
-1190	Saccharomonospora marina XMU15	Saccharomonospora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+1190	Saccharomonospora marina XMU15	Saccharomonospora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 1191	Saccharomonospora cyanea NA-134	Saccharomonospora	Actinobacteria	Bacteria	Pseudonocardiales	0	0	0
 1192	Beggiatoa alba B18LD	Beggiatoa	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1193	Paenibacillus dendritiformis C454	Paenibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -1112,10 +1112,10 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1202	Thermococcus litoralis DSM 5473	Thermococcus	Euryarchaeota	Archaea	Thermococci	0	0	0
 1203	Wigglesworthia glossinidia endosymbiont of Glossina morsitans morsitans (Yale colony)	Wigglesworthia	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1204	Acetobacterium woodii DSM 1030	Acetobacterium	Firmicutes	Bacteria	Clostridia	1	1	0
-1205	Gordonia polyisoprenivorans VH2	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1205	Gordonia polyisoprenivorans VH2	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1206	Mobilicoccus pelagius NBRC 104925	Mobilicoccus	Actinobacteria	Bacteria	Micrococcales	1	1	0
 1207	Atlantibacter hermannii NBRC 105704	Atlantibacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-1208	Gordonia sputi NBRC 100414	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1208	Gordonia sputi NBRC 100414	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1209	Lactobacillus mucosae LM1	Lactobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 1210	Saprospira grandis str. Lewin	Saprospira	Bacteroidetes	Bacteria	Saprospiria	0	0	0
 1211	Paenibacillus mucilaginosus 3016	Paenibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -1123,7 +1123,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1213	Sutterella parvirubra YIT 11816	Sutterella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 1214	Methanocella conradii HZ254	Methanocella	Euryarchaeota	Archaea	Methanomicrobia	1	1	1
 1215	Glaciecola punicea ACAM 611	Glaciecola	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-1216	Deinococcus gobiensis I-0	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	2	2	0
+1216	Deinococcus gobiensis I-0	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	1	1	0
 1217	Listeria fleischmannii subsp. coloradonensis	Listeria	Firmicutes	Bacteria	Bacilli	0	0	0
 1218	Riemerella anatipestifer ATCC 11845 = DSM 15868	Riemerella	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 1219	Bartonella clarridgeiae 73	Bartonella	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -1177,7 +1177,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1267	Bernardetia litoralis DSM 6794	Bernardetia	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 1268	Thermococcus cleftensis	Thermococcus	Euryarchaeota	Archaea	Thermococci	0	0	0
 1269	Turneriella parva DSM 21527	Turneriella	Spirochaetes	Bacteria	Leptospirales	0	0	0
-1270	Mycobacterium chubuense NBB4	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1270	Mycobacterium chubuense NBB4	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1271	Acetomicrobium mobile DSM 13181	Acetomicrobium	Synergistetes	Bacteria	Synergistia	0	0	0
 1272	Desulfomonile tiedjei DSM 6799	Desulfomonile	Proteobacteria	Bacteria	Deltaproteobacteria	2	2	0
 1273	Scardovia wiggsiae F0424	Scardovia	Actinobacteria	Bacteria	Bifidobacteriales	0	0	0
@@ -1198,7 +1198,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1288	Methanofollis liminatans DSM 4140	Methanofollis	Euryarchaeota	Archaea	Methanomicrobia	1	1	0
 1289	Taylorella equigenitalis ATCC 35865	Taylorella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 1290	Moritella dasanensis ArB 0140	Moritella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-1291	Mycobacterium intracellulare ATCC 13950	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1291	Mycobacterium intracellulare ATCC 13950	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1292	Pseudopropionibacterium propionicum F0230a	Pseudopropionibacterium	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
 1293	Mycoplasma wenyonii str. Massachusetts	Mycoplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
 1294	Bartonella washoeensis Sb944nv	Bartonella	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -1271,8 +1271,8 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1361	Staphylococcus massiliensis CCUG 55927	Staphylococcus	Firmicutes	Bacteria	Bacilli	0	0	0
 1362	Lactobacillus buchneri CD034	Lactobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 1363	Austwickia chelonae NBRC 105200	Austwickia	Actinobacteria	Bacteria	Micrococcales	1	1	0
-1364	Gordonia rhizosphera NBRC 16068	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-1365	Kineosphaera limosa NBRC 100340	Kineosphaera	Actinobacteria	Bacteria	Micrococcales	2	2	0
+1364	Gordonia rhizosphera NBRC 16068	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+1365	Kineosphaera limosa NBRC 100340	Kineosphaera	Actinobacteria	Bacteria	Micrococcales	1	1	0
 1366	Cecembia lonarensis LW9	Cecembia	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 1367	Leptospirillum ferriphilum ML-04	Leptospirillum	Nitrospirae	Bacteria	Nitrospirales	0	0	0
 1368	Microbacterium barkeri 2011-R4	Microbacterium	Actinobacteria	Bacteria	Micrococcales	0	0	0
@@ -1292,7 +1292,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1382	Kosakonia sacchari SP1	Kosakonia	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1383	Nitratireductor indicus C115	Nitratireductor	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 1384	Gayadomonas joobiniege G7	Gayadomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-1385	Agrobacterium albertimagni AOL15	Agrobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	3	2	0
+1385	Agrobacterium albertimagni AOL15	Agrobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 1386	Galbibacter marinus	Galbibacter	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 1387	Alcanivorax hongdengensis A-11-3	Alcanivorax	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1388	Facklamia hominis CCUG 36813	Facklamia	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -1329,19 +1329,19 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1419	Afipia birgiae 34632	Afipia	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 1420	Legionella tunisiensis	Legionella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1421	Nocardia asteroides NBRC 15531	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
-1422	Nocardia brevicatena NBRC 12119	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-1423	Nocardia carnea NBRC 14403	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-1424	Nocardia higoensis NBRC 100133	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-1425	Nocardia jiangxiensis NBRC 101359	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1422	Nocardia brevicatena NBRC 12119	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+1423	Nocardia carnea NBRC 14403	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+1424	Nocardia higoensis NBRC 100133	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+1425	Nocardia jiangxiensis NBRC 101359	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1426	Nocardia otitidiscaviarum NBRC 14405	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	1
 1427	Nocardia niigatensis NBRC 100131	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
-1428	Nocardia paucivorans NBRC 100373	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1428	Nocardia paucivorans NBRC 100373	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1429	Nocardia takedensis NBRC 100417	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1430	Nocardia tenerifensis NBRC 101015	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
-1431	Nocardia pneumoniae NBRC 100136	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1431	Nocardia pneumoniae NBRC 100136	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1432	Nocardia thailandica NBRC 100428	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
-1433	Nocardia vinacea NBRC 16497	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-1434	Nocardia veterana NBRC 100344	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1433	Nocardia vinacea NBRC 16497	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+1434	Nocardia veterana NBRC 100344	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1435	Nocardia transvalensis NBRC 15921	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1436	Occidentia massiliensis	Occidentia	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 1437	Nodosilinea nodulosa PCC 7104	Nodosilinea	Cyanobacteria	Bacteria	Synechococcales	1	1	0
@@ -1410,7 +1410,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1500	Cyanobacterium aponinum PCC 10605	Cyanobacterium	Cyanobacteria	Bacteria	Oscillatoriophycideae	1	1	0
 1501	Anabaena cylindrica PCC 7122	Anabaena	Cyanobacteria	Bacteria	Nostocales	1	1	0
 1502	Caldisphaera lagunensis DSM 15908	Caldisphaera	Crenarchaeota	Archaea	Thermoprotei	0	0	0
-1503	Deinococcus peraridilitoris DSM 19664	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	2	2	0
+1503	Deinococcus peraridilitoris DSM 19664	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	1	1	0
 1504	Streptococcus dysgalactiae subsp. equisimilis AC-2713	Streptococcus	Firmicutes	Bacteria	Bacilli	0	0	0
 1505	Bordetella parapertussis Bpp5	Bordetella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 1506	Carnobacterium maltaromaticum LMA28	Carnobacterium	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -1457,13 +1457,13 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1548	Leptospira wolbachii serovar Codice str. CDC	Leptospira	Spirochaetes	Bacteria	Leptospirales	0	0	0
 1549	Staphylococcus warneri SG1	Staphylococcus	Firmicutes	Bacteria	Bacilli	0	0	0
 1550	Arthrobacter nitrophenolicus	Arthrobacter	Actinobacteria	Bacteria	Micrococcales	0	0	0
-1551	Gordonia aichiensis NBRC 108223	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1551	Gordonia aichiensis NBRC 108223	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1552	Gordonia hirsuta DSM 44140 = NBRC 16056	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
-1553	Gordonia sihwensis NBRC 108236	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1553	Gordonia sihwensis NBRC 108236	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1554	Grimontia indica	Grimontia	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1555	Bacillus ligniniphilus	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 1556	Halomonas jeotgali Hwa	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-1557	Gordonia soli NBRC 108243	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1557	Gordonia soli NBRC 108243	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1558	Halococcus agarilyticus	Halococcus	Euryarchaeota	Archaea	Halobacteria	0	0	0
 1559	Cystobacter fuscus DSM 2262	Cystobacter	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
 1560	Erwinia toletana DAPP-PG 735	Erwinia	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -1498,7 +1498,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1589	Halobiforma nitratireducens JCM 10879	Halobiforma	Euryarchaeota	Archaea	Halobacteria	1	1	0
 1590	Brachybacterium muris UCD-AY4	Brachybacterium	Actinobacteria	Bacteria	Micrococcales	0	0	0
 1591	Eggerthia catenaformis OT 569 = DSM 20559	Eggerthia	Firmicutes	Bacteria	Erysipelotrichia	0	0	0
-1592	Mycobacterium haemophilum DSM 44634	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1592	Mycobacterium haemophilum DSM 44634	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1593	Nodularia spumigena CCY9414	Nodularia	Cyanobacteria	Bacteria	Nostocales	1	1	0
 1594	Clostridium saccharoperbutylacetonicum N1-4(HMT)	Clostridium	Firmicutes	Bacteria	Clostridia	0	0	0
 1595	Nocardiopsis kunsanensis DSM 44524	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
@@ -1506,7 +1506,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1597	Nocardiopsis salina YIM 90010	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 1598	Nocardiopsis halotolerans DSM 44410	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 1599	Nocardiopsis ganjiahuensis DSM 45031	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
-1600	Nocardiopsis potens DSM 45234	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	2	2	0
+1600	Nocardiopsis potens DSM 45234	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 1601	Nocardiopsis lucentensis DSM 44048	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 1602	Nocardiopsis xinjiangensis YIM 90004	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 1603	Nocardiopsis gilva YIM 90087	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
@@ -1518,13 +1518,13 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1609	Desulfocapsa sulfexigens DSM 10523	Desulfocapsa	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
 1610	Nitrospina gracilis 3/211	Nitrospina	Nitrospinae/Tectomicrobia group	Bacteria	Nitrospinae	0	0	0
 1611	Methylomicrobium buryatense 5G	Methylomicrobium	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-1612	Rhodococcus triatomae BKS 15-14	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1612	Rhodococcus triatomae BKS 15-14	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1613	Magnetospirillum caucaseum	Magnetospirillum	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 1614	Streptomyces mobaraensis NBRC 13819 = DSM 40847	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 1615	Pacificimonas flava	Pacificimonas	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 1616	Gordonia malaquae NBRC 108250	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
-1617	Gordonia paraffinivorans NBRC 108238	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-1618	Corynebacterium callunae DSM 20147	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	1
+1617	Gordonia paraffinivorans NBRC 108238	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+1618	Corynebacterium callunae DSM 20147	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	1
 1619	Bradyrhizobium oligotrophicum S58	Bradyrhizobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 1620	Rhodopirellula maiorica SM1	Rhodopirellula	Planctomycetes	Bacteria	Planctomycetia	0	0	0
 1621	Scytonema hofmannii PCC 7110	Scytonema	Cyanobacteria	Bacteria	Nostocales	1	1	0
@@ -1585,7 +1585,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1677	Porphyromonas somerae DSM 23386	Porphyromonas	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 1678	Streptococcus ferus DSM 20646	Streptococcus	Firmicutes	Bacteria	Bacilli	0	0	0
 1679	Corynebacterium ulceribovis DSM 45146	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
-1680	Kribbella catacumbae DSM 19601	Kribbella	Actinobacteria	Bacteria	Propionibacteriales	2	2	0
+1680	Kribbella catacumbae DSM 19601	Kribbella	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
 1681	Streptomyces scabrisporus DSM 41855	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 1682	Methylocystis rosea SV97	Methylocystis	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 1683	Methylosarcina fibrata AML-C10	Methylosarcina	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -1596,7 +1596,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1688	Echinicola pacifica DSM 19836	Echinicola	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 1689	Pontibacter roseus DSM 17521	Pontibacter	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 1690	Leptotrichia wadei DSM 19758	Leptotrichia	Fusobacteria	Bacteria	Fusobacteriales	0	0	0
-1691	Frankia discariae	Frankia	Actinobacteria	Bacteria	Frankiales	1	1	0
+1691	Frankia discariae	Frankia	Actinobacteria	Bacteria	Frankiales	2	2	0
 1692	Thiobacillus thioparus DSM 505	Thiobacillus	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 1693	Dasania marina DSM 21967	Dasania	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1694	Alkalispirochaeta alkalica DSM 8900	Alkalispirochaeta	Spirochaetes	Bacteria	Spirochaetales	0	0	0
@@ -1612,12 +1612,12 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1704	Spirosoma luteum DSM 19990	Spirosoma	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 1705	Niabella aurantiaca DSM 17617	Niabella	Bacteroidetes	Bacteria	Chitinophagia	0	0	0
 1706	Neomegalonema perideroedes DSM 15528	Neomegalonema	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-1707	Frankia elaeagni	Frankia	Actinobacteria	Bacteria	Frankiales	1	1	0
+1707	Frankia elaeagni	Frankia	Actinobacteria	Bacteria	Frankiales	2	2	0
 1708	Actinomadura flavalba DSM 45200	Actinomadura	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 1709	Allofustis seminis DSM 15817	Allofustis	Firmicutes	Bacteria	Bacilli	0	0	0
 1710	Bacillus acidiproducens DSM 23148	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 1711	Riemerella columbina DSM 16469	Riemerella	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-1712	Actinokineospora enzanensis DSM 44649	Actinokineospora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+1712	Actinokineospora enzanensis DSM 44649	Actinokineospora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 1713	Ahrensia kielensis DSM 5890	Ahrensia	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 1714	Algicola sagamiensis DSM 14643	Algicola	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1715	Amorphus coralli DSM 19760	Amorphus	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -1686,10 +1686,10 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1778	Capnocytophaga cynodegmi DSM 19736	Capnocytophaga	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 1779	Corynebacterium lubricantis DSM 45231	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
 1780	Fangia hongkongensis FSC776 = DSM 21703	Fangia	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-1781	Sciscionella marina DSM 45152	Sciscionella	Actinobacteria	Bacteria	Pseudonocardiales	3	2	0
+1781	Sciscionella marina DSM 45152	Sciscionella	Actinobacteria	Bacteria	Pseudonocardiales	2	1	0
 1782	Wenxinia marina DSM 24838	Wenxinia	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 1783	Lamprocystis purpurea DSM 4197	Lamprocystis	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0
-1784	Actinomycetospora chiangmaiensis DSM 45062	Actinomycetospora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+1784	Actinomycetospora chiangmaiensis DSM 45062	Actinomycetospora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 1785	Actinoplanes globisporus DSM 43857	Actinoplanes	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 1786	Butyricimonas synergistica DSM 23225	Butyricimonas	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 1787	Catelliglobosispora koreensis DSM 44566	Catelliglobosispora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
@@ -1699,7 +1699,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1791	Lewinella cohaerens DSM 23179	Lewinella	Bacteroidetes	Bacteria	Saprospiria	0	0	0
 1792	Longispora albida DSM 44784	Longispora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 1793	Moraxella boevrei DSM 14165	Moraxella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-1794	Mycobacterium hassiacum DSM 44199	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1794	Mycobacterium hassiacum DSM 44199	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1795	Nonomuraea coxensis DSM 45129	Nonomuraea	Actinobacteria	Bacteria	Streptosporangiales	0	0	0
 1796	Rodentibacter pneumotropicus DSM 21403	Rodentibacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1797	Porphyromonas levii DSM 23370	Porphyromonas	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
@@ -1717,7 +1717,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1809	Thiothrix flexilis DSM 14609	Thiothrix	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1810	Bacillus massiliogorillae	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 1811	Azotobacter vinelandii CA	Azotobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-1812	Gordonia kroppenstedtii DSM 45133	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+1812	Gordonia kroppenstedtii DSM 45133	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 1813	Kaistia granuli DSM 23481	Kaistia	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 1814	Microbulbifer variabilis ATCC 700307	Microbulbifer	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1815	Smaragdicoccus niigatensis DSM 44881 = NBRC 103563	Smaragdicoccus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
@@ -1756,7 +1756,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1848	Methylobacter marinus A45	Methylobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 1849	Caldibacillus debilis DSM 16016	Caldibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 1850	Duganella zoogloeoides ATCC 25935	Duganella	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0
-1851	Amycolatopsis benzoatilytica AK 16/65	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	3	2	0
+1851	Amycolatopsis benzoatilytica AK 16/65	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	1	0
 1852	Rudanella lutea DSM 19387	Rudanella	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 1853	Natronorubrum tibetense GA33	Natronorubrum	Euryarchaeota	Archaea	Halobacteria	1	1	0
 1854	Actinopolyspora mortivallis DSM 44261	Actinopolyspora	Actinobacteria	Bacteria	Actinopolysporales	1	1	0
@@ -1766,7 +1766,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 1858	Streptomyces purpureus KA281	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 1859	Allobaculum stercoricanis DSM 13633	Allobaculum	Firmicutes	Bacteria	Erysipelotrichia	0	0	0
 1860	Hydrogenovibrio halophilus DSM 15072	Hydrogenovibrio	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-1861	Amycolatopsis balhimycina FH 1894	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+1861	Amycolatopsis balhimycina FH 1894	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 1862	Amycolatopsis nigrescens CSC17Ta-90	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	1	0
 1863	Methylotenera versatilis 79	Methylotenera	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 1864	Geopsychrobacter electrodiphilus DSM 16401	Geopsychrobacter	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
@@ -1913,7 +1913,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2005	Pleomorphomonas oryzae DSM 16300	Pleomorphomonas	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 2006	Porphyrobacter cryptus DSM 12079	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 2007	Gelidibacter mesophilus DSM 14095	Gelidibacter	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-2008	Gordonia shandongensis DSM 45094	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+2008	Gordonia shandongensis DSM 45094	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2009	Gramella portivictoriae DSM 23547	Gramella	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 2010	Granulicoccus phenolivorans DSM 17626	Granulicoccus	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
 2011	Halalkalibacillus halophilus DSM 18494	Halalkalibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -1940,7 +1940,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2032	Runella zeae DSM 19591	Runella	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 2033	Salinimicrobium xinjiangense DSM 19287	Salinimicrobium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 2034	Saccharospirillum impatiens DSM 12546	Saccharospirillum	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-2035	Pseudonocardia asaccharolytica DSM 44247 = NBRC 16224	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+2035	Pseudonocardia asaccharolytica DSM 44247 = NBRC 16224	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 2036	Sediminimonas qiaohouensis DSM 21189	Sediminimonas	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 2037	Solirubrobacter soli DSM 22325	Solirubrobacter	Actinobacteria	Bacteria	Thermoleophilia	1	1	0
 2038	Stappia stellulata DSM 5886	Stappia	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
@@ -2053,7 +2053,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2146	Hamadaea tsunoensis DSM 44101	Hamadaea	Actinobacteria	Bacteria	Micromonosporales	0	0	0
 2147	Marinobacterium litorale DSM 23545	Marinobacterium	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2148	Novosphingobium acidiphilum DSM 19966	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
-2149	Pseudonocardia spinosispora DSM 44797	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+2149	Pseudonocardia spinosispora DSM 44797	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 2150	Salinarimonas rosea DSM 21201	Salinarimonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 2151	Silanimonas lenta DSM 16282	Silanimonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2152	Streptomyces flavidovirens DSM 40150	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
@@ -2113,7 +2113,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2206	Chitinilyticum aquatile DSM 21506	Chitinilyticum	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 2207	Chryseobacterium daeguense DSM 19388	Chryseobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 2208	Chryseobacterium gregarium DSM 19109	Chryseobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-2209	Deinococcus ficus DSM 19119	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	2	2	0
+2209	Deinococcus ficus DSM 19119	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	1	1	0
 2210	Desulfotomaculum alcoholivorax DSM 16058	Desulfotomaculum	Firmicutes	Bacteria	Clostridia	0	0	0
 2211	Methanocorpusculum bavaricum DSM 4179	Methanocorpusculum	Euryarchaeota	Archaea	Methanomicrobia	0	0	0
 2212	Thermobrachium celere DSM 8682	Thermobrachium	Firmicutes	Bacteria	Clostridia	0	0	0
@@ -2210,7 +2210,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2304	Derxia gummosa DSM 723	Derxia	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 2305	Deinococcus murrayi DSM 11303	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	0	0	0
 2306	Anaerobiospirillum succiniciproducens DSM 6400	Anaerobiospirillum	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-2307	Actinokineospora inagensis DSM 44258	Actinokineospora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+2307	Actinokineospora inagensis DSM 44258	Actinokineospora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 2308	Atopobium fossor DSM 15642	Atopobium	Actinobacteria	Bacteria	Coriobacteriia	0	0	0
 2309	Acholeplasma multilocale ATCC 49900	Acholeplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
 2310	Thiomicrorhabdus chilensis DSM 12352	Thiomicrorhabdus	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -2232,7 +2232,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2326	Lutibaculum baratangense AMV1	Lutibaculum	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 2327	Methyloglobulus morosus KoM1	Methyloglobulus	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2328	Thalassobacillus devorans MSP14	Thalassobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
-2329	Saccharopolyspora rectivirgula DSM 43747	Saccharopolyspora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+2329	Saccharopolyspora rectivirgula DSM 43747	Saccharopolyspora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 2330	Sporolactobacillus laevolacticus DSM 442	Sporolactobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 2331	Bacillus thuringiensis YBT-1518	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 2332	Vagococcus lutrae LBD1	Vagococcus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -2353,7 +2353,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2448	Hydrogenovibrio kuenenii DSM 12350	Hydrogenovibrio	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2449	Entomoplasma somnilux ATCC 49194	Entomoplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
 2450	Entomoplasma luminosum ATCC 49195	Entomoplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
-2451	Mycobacterium genavense ATCC 51234	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+2451	Mycobacterium genavense ATCC 51234	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2452	Mycoplasma cricetuli ATCC 35279	Mycoplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
 2453	Methylosarcina lacus LW14	Methylosarcina	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2454	Methyloversatilis discipulorum	Methyloversatilis	Proteobacteria	Bacteria	Betaproteobacteria	1	1	0
@@ -2363,14 +2363,14 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2458	Corynebacterium casei LMG S-19264	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
 2459	Corynebacterium vitaeruminis DSM 20294	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	1
 2460	Luteimonas huabeiensis HB2	Luteimonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-2461	Mycobacterium aromaticivorans JS19b1 = JCM 16368	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-2462	Actinokineospora spheciospongiae	Actinokineospora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+2461	Mycobacterium aromaticivorans JS19b1 = JCM 16368	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+2462	Actinokineospora spheciospongiae	Actinokineospora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 2463	Porphyromonas catoniae ATCC 51270	Porphyromonas	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 2464	Spiroplasma culicicola AES-1	Spiroplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
 2465	Spiroplasma mirum ATCC 29335	Spiroplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
 2466	Spiroplasma sabaudiense Ar-1343	Spiroplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
 2467	Salinivibrio costicola subsp. costicola ATCC 33508 = LMG 11651	Salinivibrio	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-2468	Dyadobacter tibetensis Y620-1	Dyadobacter	Bacteroidetes	Bacteria	Cytophagia	1	1	0
+2468	Dyadobacter tibetensis Y620-1	Dyadobacter	Bacteroidetes	Bacteria	Cytophagia	2	2	0
 2469	Borrelia coriaceae Co53	Borrelia	Spirochaetes	Bacteria	Spirochaetales	0	0	0
 2470	Sulfurospirillum multivorans DSM 12446	Sulfurospirillum	Proteobacteria	Bacteria	Epsilonproteobacteria	0	0	0
 2471	Paenibacillus pini JCM 16418	Paenibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -2406,7 +2406,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2501	Campylobacter corcagiensis	Campylobacter	Proteobacteria	Bacteria	Epsilonproteobacteria	0	0	0
 2502	Peptoclostridium acidaminophilum DSM 3953	Peptoclostridium	Firmicutes	Bacteria	Clostridia	0	0	0
 2503	Paenibacillus darwinianus	Paenibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
-2504	Deinococcus phoenicis	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	2	2	0
+2504	Deinococcus phoenicis	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	1	1	0
 2505	Gilliamella apicola	Gilliamella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2506	Snodgrassella alvi wkB2	Snodgrassella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 2507	Rubellimicrobium mesophilum DSM 19309	Rubellimicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -2424,11 +2424,11 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2519	Bacillus dielmoensis	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 2520	Castellaniella defragrans 65Phen	Castellaniella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 2521	Bacillus ndiopicus	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
-2522	Mycobacterium mageritense DSM 44476 = CIP 104973	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+2522	Mycobacterium mageritense DSM 44476 = CIP 104973	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2523	Clostridium ihumii AP5	Clostridium	Firmicutes	Bacteria	Clostridia	1	1	0
 2524	Oceanobacillus picturae	Oceanobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 2525	Mycobacterium cosmeticum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
-2526	Mycobacterium asiaticum DSM 44297	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+2526	Mycobacterium asiaticum DSM 44297	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2527	Acetobacter papayae JCM 25143	Acetobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 2528	Prevotella disiens JCM 6334 = ATCC 29426	Prevotella	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 2529	Prevotella shahii DSM 15611 = JCM 12083	Prevotella	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
@@ -2474,7 +2474,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2569	Desulfitibacter alkalitolerans DSM 16504	Desulfitibacter	Firmicutes	Bacteria	Clostridia	0	0	0
 2570	Dyella japonica UNC79MFTsu3.2	Dyella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2571	Desulfovermiculus halophilus DSM 18834	Desulfovermiculus	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
-2572	Pseudonocardia acaciae DSM 45401	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	3	2	0
+2572	Pseudonocardia acaciae DSM 45401	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	2	1	0
 2573	Conchiformibius steedae DSM 2580	Conchiformibius	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 2574	Campylobacter upsaliensis DSM 5365	Campylobacter	Proteobacteria	Bacteria	Epsilonproteobacteria	0	0	0
 2575	Brochothrix thermosphacta DSM 20171 = FSL F6-1036	Brochothrix	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -2558,7 +2558,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2653	Afifella pfennigii DSM 17143	Afifella	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 2654	Lonsdalea quercina subsp. quercina	Lonsdalea	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2655	Sphaerotilus natans subsp. natans DSM 6575	Sphaerotilus	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
-2656	Mycobacterium triplex	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+2656	Mycobacterium triplex	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2657	Nitrincola lacisaponensis	Nitrincola	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2658	Mycoplasma hyosynoviae	Mycoplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
 2659	Weissella oryzae SG25	Weissella	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -2581,7 +2581,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2676	Brevundimonas bacteroides DSM 4726	Brevundimonas	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 2677	Paraoerskovia marina DSM 21750	Paraoerskovia	Actinobacteria	Bacteria	Micrococcales	0	0	0
 2678	Mycoplasma sturni DSM 22021	Mycoplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
-2679	Dyadobacter crusticola DSM 16708	Dyadobacter	Bacteroidetes	Bacteria	Cytophagia	1	1	0
+2679	Dyadobacter crusticola DSM 16708	Dyadobacter	Bacteroidetes	Bacteria	Cytophagia	2	2	0
 2680	Acidiphilium angustum ATCC 35903	Acidiphilium	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 2681	Agathobaculum desmolans ATCC 43058	Agathobaculum	Firmicutes	Bacteria	Clostridia	0	0	0
 2682	Gemella sanguinis ATCC 700632	Gemella	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -2645,19 +2645,19 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2740	Synergistes jonesii	Synergistes	Synergistetes	Bacteria	Synergistia	0	0	0
 2741	Bacillus manliponensis	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 2742	Thioclava indica	Thioclava	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-2743	Anditalea andensis	Anditalea	Bacteroidetes	Bacteria	Cytophagia	1	1	0
+2743	Anditalea andensis	Anditalea	Bacteroidetes	Bacteria	Cytophagia	2	2	0
 2744	Tumebacillus flagellatus	Tumebacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 2745	Erythrobacter longus	Erythrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 2746	Thioclava dalianensis	Thioclava	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 2747	Streptomyces monomycini	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 2748	Dactylosporangium aurantiacum	Dactylosporangium	Actinobacteria	Bacteria	Micromonosporales	1	1	0
-2749	Saccharothrix syringae	Saccharothrix	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+2749	Saccharothrix syringae	Saccharothrix	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 2750	Streptomyces yerevanensis	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 2751	Streptomyces atroolivaceus	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 2752	Catenuloplanes japonicus	Catenuloplanes	Actinobacteria	Bacteria	Micromonosporales	1	1	0
-2753	Pseudonocardia autotrophica	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+2753	Pseudonocardia autotrophica	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 2754	Streptomyces rimosus subsp. rimosus	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
-2755	Amycolatopsis jejuensis	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	3	2	0
+2755	Amycolatopsis jejuensis	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	1	0
 2756	Streptomyces violens	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	2	1	0
 2757	Actinoalloteichus cyanogriseus	Actinoalloteichus	Actinobacteria	Bacteria	Pseudonocardiales	0	0	0
 2758	Streptomyces catenulae	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
@@ -2670,14 +2670,14 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2765	Oerskovia turbata	Oerskovia	Actinobacteria	Bacteria	Micrococcales	0	0	0
 2766	Streptomyces varsoviensis	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 2767	Streptomyces megasporus	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
-2768	Lentzea albidocapillata	Lentzea	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+2768	Lentzea albidocapillata	Lentzea	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 2769	Streptomyces roseoverticillatus	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 2770	Streptomyces albus subsp. albus	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 2771	Streptomyces albidoflavus	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
-2772	Prauserella rugosa	Prauserella	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+2772	Prauserella rugosa	Prauserella	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 2773	Corynebacterium variabile	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2774	Marmoricola aequoreus	Marmoricola	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
-2775	Nocardia rhamnosiphila NBRC 108938	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+2775	Nocardia rhamnosiphila NBRC 108938	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2776	Streptomyces virginiae	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 2777	Phycicoccus jejuensis	Phycicoccus	Actinobacteria	Bacteria	Micrococcales	0	0	0
 2778	Actinocatenispora sera	Actinocatenispora	Actinobacteria	Bacteria	Micromonosporales	0	0	0
@@ -2690,7 +2690,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2785	Thaumarchaeota archaeon N4	Thaumarchaeota	Thaumarchaeota	Archaea	unclassified Thaumarchaeota	0	0	0
 2786	Formosa agariphila KMM 3901	Formosa	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 2787	Hydrogenophaga intermedia	Hydrogenophaga	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
-2788	Mycobacterium marinum E11	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+2788	Mycobacterium marinum E11	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2789	Ruminococcus bicirculans	Ruminococcus	Firmicutes	Bacteria	Clostridia	0	0	0
 2790	Mucinivorans hirudinis	Mucinivorans	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 2791	Virgibacillus massiliensis	Virgibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -2714,7 +2714,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2809	Salinisphaera hydrothermalis C41B8	Salinisphaera	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2810	Nonlabens ulvanivorans	Nonlabens	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 2811	Clostridium sulfidigenes	Clostridium	Firmicutes	Bacteria	Clostridia	0	0	0
-2812	Amycolatopsis japonica	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	3	2	0
+2812	Amycolatopsis japonica	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	1	0
 2813	Corynebacterium atypicum	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2814	Parvularcula oceani	Parvularcula	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 2815	Mangrovimonas yunxiaonensis	Mangrovimonas	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
@@ -2745,7 +2745,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2840	Planktomarina temperata RCA23	Planktomarina	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 2841	Rhodococcus defluvii	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2842	Methanocaldococcus bathoardescens	Methanocaldococcus	Euryarchaeota	Archaea	Methanococci	1	1	1
-2843	Amycolatopsis methanolica 239	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+2843	Amycolatopsis methanolica 239	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 2844	Comamonas testosteroni TK102	Comamonas	Proteobacteria	Bacteria	Betaproteobacteria	2	1	1
 2845	Actinobacillus suis ATCC 33415	Actinobacillus	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2846	Corynebacterium imitans	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
@@ -2814,10 +2814,10 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2910	Belnapia moabensis DSM 16746	Belnapia	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 2911	Xenophilus azovorans DSM 13620	Xenophilus	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 2912	Stenoxybacter acetivorans DSM 19021	Stenoxybacter	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
-2913	Ferrimicrobium acidiphilum DSM 19497	Ferrimicrobium	Actinobacteria	Bacteria	Acidimicrobiia	2	2	0
+2913	Ferrimicrobium acidiphilum DSM 19497	Ferrimicrobium	Actinobacteria	Bacteria	Acidimicrobiia	1	1	0
 2914	Deinococcus misasensis DSM 22328	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	0	0	0
 2915	Alysiella crassa DSM 2578	Alysiella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
-2916	Edaphobacter aggregans DSM 19364	Edaphobacter	Acidobacteria	Bacteria	Acidobacteriales	3	3	0
+2916	Edaphobacter aggregans DSM 19364	Edaphobacter	Acidobacteria	Bacteria	Acidobacteriales	2	2	0
 2917	Desulfobacter vibrioformis DSM 8776	Desulfobacter	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
 2918	Methylocapsa aurea	Methylocapsa	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 2919	Thermodesulfobacterium hydrogeniphilum	Thermodesulfobacterium	Thermodesulfobacteria	Bacteria	Thermodesulfobacteriales	1	1	0
@@ -2870,12 +2870,12 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2966	Halomonas xinjiangensis	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0
 2967	Pseudomonas lutea	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1
 2968	Pantoea rwandensis	Pantoea	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-2969	Mycobacterium kyorinense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+2969	Mycobacterium kyorinense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2970	Lysinimicrobium mangrovi	Lysinimicrobium	Actinobacteria	Bacteria	Micrococcales	0	0	0
 2971	Pseudescherichia vulneris NBRC 102420	Pseudescherichia	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 2972	Prochlorococcus marinus str. MIT 9107	Prochlorococcus	Cyanobacteria	Bacteria	Synechococcales	1	1	0
 2973	Tolypothrix bouteillei VB521301	Tolypothrix	Cyanobacteria	Bacteria	Nostocales	1	1	0
-2974	Rhodococcus fascians A44A	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+2974	Rhodococcus fascians A44A	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 2975	Pseudomonas rhizosphaerae	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1
 2976	Streptomyces glaucescens	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 2977	Oleiagrimonas soli	Oleiagrimonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -2941,7 +2941,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3038	Pimelobacter simplex	Pimelobacter	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
 3039	Streptococcus salivarius	Streptococcus	Firmicutes	Bacteria	Bacilli	0	0	0
 3040	Methylomonas denitrificans	Methylomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-3041	Actinoplanes utahensis	Actinoplanes	Actinobacteria	Bacteria	Micromonosporales	2	2	0
+3041	Actinoplanes utahensis	Actinoplanes	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 3042	Kocuria polaris	Kocuria	Actinobacteria	Bacteria	Micrococcales	0	0	0
 3043	Alistipes inops	Alistipes	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 3044	Streptacidiphilus melanogenes	Streptacidiphilus	Actinobacteria	Bacteria	Streptomycetales	1	1	0
@@ -2963,13 +2963,13 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3060	Porphyrobacter mercurialis	Porphyrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3061	Coprobacter secundus	Coprobacter	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 3062	Sphingopyxis fribergensis	Sphingopyxis	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-3063	Mycobacterium setense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3063	Mycobacterium setense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3064	Pseudomonas flexibilis	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3065	Tepidimonas taiwanensis	Tepidimonas	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1
 3066	Clostridium pasteurianum DSM 525 = ATCC 6013	Clostridium	Firmicutes	Bacteria	Clostridia	0	0	0
 3067	Frischella perrara	Frischella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3068	Eubacterium limosum	Eubacterium	Firmicutes	Bacteria	Clostridia	0	0	0
-3069	Flammeovirga pacifica	Flammeovirga	Bacteroidetes	Bacteria	Cytophagia	1	1	0
+3069	Flammeovirga pacifica	Flammeovirga	Bacteroidetes	Bacteria	Cytophagia	2	2	0
 3070	Novosphingobium subterraneum	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 3071	Quasibacillus thermotolerans	Quasibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3072	Halocynthiibacter arcticus	Halocynthiibacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -3088,7 +3088,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3185	Syntrophaceticus schinkii	Syntrophaceticus	Firmicutes	Bacteria	Clostridia	0	0	0
 3186	Shewanella algae	Shewanella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3187	Thalassomonas actiniarum	Thalassomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-3188	Acidithrix ferrooxidans	Acidithrix	Actinobacteria	Bacteria	Acidimicrobiia	2	2	0
+3188	Acidithrix ferrooxidans	Acidithrix	Actinobacteria	Bacteria	Acidimicrobiia	1	1	0
 3189	Ruthenibacterium lactatiformans	Ruthenibacterium	Firmicutes	Bacteria	Clostridia	0	0	0
 3190	Photobacterium kishitanii	Photobacterium	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3191	Photobacterium leiognathi	Photobacterium	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -3116,17 +3116,17 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3213	Microbacterium ketosireducens	Microbacterium	Actinobacteria	Bacteria	Micrococcales	0	0	0
 3214	Burkholderia ubonensis MSMB22	Burkholderia	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1
 3215	Burkholderia gladioli	Burkholderia	Proteobacteria	Bacteria	Betaproteobacteria	2	1	1
-3216	Nocardioides luteus	Nocardioides	Actinobacteria	Bacteria	Propionibacteriales	2	2	0
+3216	Nocardioides luteus	Nocardioides	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
 3217	Martelella endophytica	Martelella	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3218	Paenibacillus beijingensis	Paenibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
-3219	Actinoplanes rectilineatus	Actinoplanes	Actinobacteria	Bacteria	Micromonosporales	2	2	0
+3219	Actinoplanes rectilineatus	Actinoplanes	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 3220	Elstera litoralis	Elstera	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3221	Muricauda lutaonensis	Muricauda	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 3222	Tanticharoenia sakaeratensis NBRC 103193	Tanticharoenia	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3223	Acetobacter cibinongensis 4H-1	Acetobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3224	Acetobacter indonesiensis 5H-1	Acetobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3225	Acetobacter orientalis 21F-2	Acetobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-3226	Williamsia herbipolensis	Williamsia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3226	Williamsia herbipolensis	Williamsia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3227	Luteibacter yeojuensis	Luteibacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3228	Streptococcus equinus	Streptococcus	Firmicutes	Bacteria	Bacilli	0	0	0
 3229	Acidisphaera rubrifaciens HS-AP3	Acidisphaera	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -3207,7 +3207,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3304	Sulfurovum lithotrophicum	Sulfurovum	Proteobacteria	Bacteria	Epsilonproteobacteria	0	0	0
 3305	Kerstersia gyiorum	Kerstersia	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 3306	Streptomyces xiamenensis	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	0	0	0
-3307	Mycobacterium elephantis	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3307	Mycobacterium elephantis	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3308	Lampropedia cohaerens	Lampropedia	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 3309	Kordia zhangzhouensis	Kordia	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 3310	Kordia jejudonensis	Kordia	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
@@ -3273,8 +3273,8 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3370	Clostridium aceticum	Clostridium	Firmicutes	Bacteria	Clostridia	0	0	0
 3371	Marinobacter psychrophilus	Marinobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3372	Corynebacterium renale	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
-3373	Mycobacterium chlorophenolicum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-3374	Mycobacterium obuense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3373	Mycobacterium chlorophenolicum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+3374	Mycobacterium obuense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3375	Chryseobacterium koreense CCUG 49689	Chryseobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 3376	Chryseobacterium angstadtii	Chryseobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 3377	Marinobacter subterrani	Marinobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -3287,11 +3287,11 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3384	Fructobacillus ficulneus	Fructobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3385	Clostridium cylindrosporum DSM 605	Clostridium	Firmicutes	Bacteria	Clostridia	0	0	0
 3386	Brenneria goodwinii	Brenneria	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-3387	Mycobacterium aurum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3387	Mycobacterium aurum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3388	Nereida ignava	Nereida	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 3389	Rubeoparvulum massiliense	Rubeoparvulum	Firmicutes	Bacteria	Bacilli	0	0	0
-3390	Mycobacterium malmesburyense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-3391	Mycobacterium komaniense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3390	Mycobacterium malmesburyense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+3391	Mycobacterium komaniense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3392	Enterococcus massiliensis	Enterococcus	Firmicutes	Bacteria	Bacilli	0	0	0
 3393	Bacillus smithii	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3394	Nitratireductor soli	Nitratireductor	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -3303,7 +3303,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3400	Lactobacillus ginsenosidimutans	Lactobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3401	Tetrasphaera australiensis Ben110	Tetrasphaera	Actinobacteria	Bacteria	Micrococcales	0	0	0
 3402	Thauera humireducens	Thauera	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
-3403	Mycobacterium bohemicum DSM 44277	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3403	Mycobacterium bohemicum DSM 44277	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3404	Corynebacterium aurimucosum	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
 3405	Corynebacterium falsenii	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
 3406	Corynebacterium halotolerans	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	1
@@ -3313,10 +3313,10 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3410	Photobacterium swingsii	Photobacterium	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3411	Bordetella hinzii	Bordetella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 3412	Dakarella massiliensis	Dakarella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
-3413	Nocardia farcinica	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	1
+3413	Nocardia farcinica	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	1
 3414	Desulfocarbo indianensis	Desulfocarbo	Proteobacteria	Bacteria	Deltaproteobacteria	2	2	0
 3415	Streptomyces caatingaensis	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
-3416	Mycobacterium goodii	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	3	3	0
+3416	Mycobacterium goodii	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
 3417	Gilvimarinus polysaccharolyticus	Gilvimarinus	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3418	Anoxybacillus gonensis	Anoxybacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3419	Wenzhouxiangella marina	Wenzhouxiangella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -3426,11 +3426,11 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3524	Levilinea saccharolytica	Levilinea	Chloroflexi	Bacteria	Anaerolineae	1	1	1
 3525	Bellilinea caldifistulae	Bellilinea	Chloroflexi	Bacteria	Anaerolineae	1	1	1
 3526	Ornatilinea apprima	Ornatilinea	Chloroflexi	Bacteria	Anaerolineae	1	1	1
-3527	Herpetosiphon geysericola	Herpetosiphon	Chloroflexi	Bacteria	Chloroflexia	2	2	1
+3527	Herpetosiphon geysericola	Herpetosiphon	Chloroflexi	Bacteria	Chloroflexia	1	1	1
 3528	Thermanaerothrix daxensis	Thermanaerothrix	Chloroflexi	Bacteria	Anaerolineae	1	1	1
 3529	Croceitalea dokdonensis DOKDO 023	Croceitalea	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 3530	Acinetobacter equi	Acinetobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-3531	Mycobacterium fortuitum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3531	Mycobacterium fortuitum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3532	Aliiroseovarius crassostreae	Aliiroseovarius	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3533	Lentibacillus amyloliquefaciens	Lentibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3534	Weissella cibaria	Weissella	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -3466,8 +3466,8 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3565	Oxobacter pfennigii	Oxobacter	Firmicutes	Bacteria	Clostridia	1	1	0
 3566	Bacteroides cellulosilyticus	Bacteroides	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 3567	Enterococcus cecorum	Enterococcus	Firmicutes	Bacteria	Bacilli	0	0	0
-3568	Mycobacterium lentiflavum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-3569	Mycobacterium europaeum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3568	Mycobacterium lentiflavum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+3569	Mycobacterium europaeum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3570	Flaviflexus massiliensis	Flaviflexus	Actinobacteria	Bacteria	Actinomycetales	0	0	0
 3571	Bacillus kwashiorkori	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3572	Bacillus niameyensis	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -3482,7 +3482,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3581	Blastochloris viridis	Blastochloris	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 3582	Acidiplasma aeolicum	Acidiplasma	Euryarchaeota	Archaea	Thermoplasmata	0	0	0
 3583	Desnuesiella massiliensis	Desnuesiella	Firmicutes	Bacteria	Clostridia	0	0	0
-3584	Mycobacterium peregrinum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3584	Mycobacterium peregrinum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3585	Jannaschia rubra	Jannaschia	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3586	Jannaschia donghaensis	Jannaschia	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 3587	Paenibacillus ihumii	Paenibacillus	Firmicutes	Bacteria	Bacilli	1	1	0
@@ -3696,7 +3696,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3796	Acinetobacter johnsonii XBB1	Acinetobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3797	Bacillus shacheensis	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3798	Tepidanaerobacter syntrophicus	Tepidanaerobacter	Firmicutes	Bacteria	Clostridia	0	0	0
-3799	Gordonia desulfuricans NBRC 100010	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3799	Gordonia desulfuricans NBRC 100010	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3800	Bittarella massiliensis	Bittarella	Firmicutes	Bacteria	Clostridia	0	0	0
 3801	Fournierella massiliensis	Fournierella	Firmicutes	Bacteria	Clostridia	0	0	0
 3802	Halobacterium hubeiense	Halobacterium	Euryarchaeota	Archaea	Halobacteria	1	1	0
@@ -3707,7 +3707,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3807	Staphylococcus auricularis	Staphylococcus	Firmicutes	Bacteria	Bacilli	0	0	0
 3808	Hymenobacter sedentarius	Hymenobacter	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 3809	Aeromicrobium erythreum	Aeromicrobium	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
-3810	Actinoplanes awajinensis subsp. mycoplanecinus	Actinoplanes	Actinobacteria	Bacteria	Micromonosporales	2	2	0
+3810	Actinoplanes awajinensis subsp. mycoplanecinus	Actinoplanes	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 3811	Pseudoruegeria marinistellae	Pseudoruegeria	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3812	Streptomyces canus	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 3813	Streptomyces olivochromogenes	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
@@ -3778,12 +3778,12 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3878	Microbacterium oleivorans NBRC 103075	Microbacterium	Actinobacteria	Bacteria	Micrococcales	0	0	0
 3879	Nocardioides jensenii JCM 1364 = NBRC 14755	Nocardioides	Actinobacteria	Bacteria	Propionibacteriales	0	0	0
 3880	Nocardiopsis trehalosi NBRC 14201	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
-3881	Millisia brevis NBRC 105863	Millisia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3881	Millisia brevis NBRC 105863	Millisia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3882	Actinomadura hibisca NBRC 15177	Actinomadura	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 3883	Alicyclobacillus kakegawensis NBRC 103104	Alicyclobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3884	Sanguibacter suarezii NBRC 16159	Sanguibacter	Actinobacteria	Bacteria	Micrococcales	0	0	0
 3885	Atopobium deltae	Atopobium	Actinobacteria	Bacteria	Coriobacteriia	0	0	0
-3886	Skermania piniformis NBRC 15059	Skermania	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3886	Skermania piniformis NBRC 15059	Skermania	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3887	Lachnoanaerobaculum saburreum	Lachnoanaerobaculum	Firmicutes	Bacteria	Clostridia	0	0	0
 3888	Gemella asaccharolytica	Gemella	Firmicutes	Bacteria	Bacilli	0	0	0
 3889	Peptoniphilus coxii	Peptoniphilus	Firmicutes	Bacteria	Tissierellia	0	0	0
@@ -3814,19 +3814,19 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3914	Pseudovibrio stylochi	Pseudovibrio	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3915	Alteromonas stellipolaris	Alteromonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3916	Thermotalea metallivorans	Thermotalea	Firmicutes	Bacteria	Clostridia	0	0	0
-3917	Fervidicola ferrireducens	Fervidicola	Firmicutes	Bacteria	Clostridia	1	1	0
+3917	Fervidicola ferrireducens	Fervidicola	Firmicutes	Bacteria	Clostridia	0	0	0
 3918	Methanobrevibacter olleyae	Methanobrevibacter	Euryarchaeota	Archaea	Methanobacteria	0	0	0
 3919	Faecalibaculum rodentium	Faecalibaculum	Firmicutes	Bacteria	Erysipelotrichia	0	0	0
-3920	Micromonospora rosaria	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	2	2	0
-3921	Mycobacterium brisbanense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3920	Micromonospora rosaria	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
+3921	Mycobacterium brisbanense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3922	Herbidospora sakaeratensis	Herbidospora	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 3923	Herbidospora mongoliensis	Herbidospora	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 3924	Alicyclobacillus mali NBRC 102425	Alicyclobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3925	Nocardiopsis listeri NBRC 13360	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 3926	Kocuria kristinae NBRC 15354	Kocuria	Actinobacteria	Bacteria	Micrococcales	0	0	0
 3927	Micrococcus lylae NBRC 15355	Micrococcus	Actinobacteria	Bacteria	Micrococcales	0	0	0
-3928	Janibacter anophelis NBRC 107843	Janibacter	Actinobacteria	Bacteria	Micrococcales	2	2	0
-3929	Janibacter corallicola NBRC 107790	Janibacter	Actinobacteria	Bacteria	Micrococcales	2	2	0
+3928	Janibacter anophelis NBRC 107843	Janibacter	Actinobacteria	Bacteria	Micrococcales	1	1	0
+3929	Janibacter corallicola NBRC 107790	Janibacter	Actinobacteria	Bacteria	Micrococcales	1	1	0
 3930	Janibacter limosus NBRC 16128	Janibacter	Actinobacteria	Bacteria	Micrococcales	0	0	0
 3931	Herbiconiux solani NBRC 106740	Herbiconiux	Actinobacteria	Bacteria	Micrococcales	0	0	0
 3932	Curtobacterium ammoniigenes NBRC 101786	Curtobacterium	Actinobacteria	Bacteria	Micrococcales	0	0	0
@@ -3850,10 +3850,10 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3950	Ventosimonas gracilis	Ventosimonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3951	Cephaloticoccus capnophilus	Cephaloticoccus	Verrucomicrobia	Bacteria	Opitutae	0	0	0
 3952	Ramlibacter tataouinensis	Ramlibacter	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
-3953	Mycobacterium phlei	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+3953	Mycobacterium phlei	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 3954	Endozoicomonas montiporae CL-33	Endozoicomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3955	Collimonas pratensis	Collimonas	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
-3956	Mycobacterium simiae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	3	2	0
+3956	Mycobacterium simiae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	1	0
 3957	Obesumbacterium proteus	Obesumbacterium	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 3958	Solibacillus silvestris	Solibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3959	Corynebacterium simulans	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
@@ -3870,7 +3870,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 3970	Sphingobium cloacae NBRC 102517	Sphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3971	Sphingobium amiense NBRC 102518	Sphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 3972	Variovorax soli NBRC 106424	Variovorax	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
-3973	Janibacter terrae NBRC 107853	Janibacter	Actinobacteria	Bacteria	Micrococcales	2	2	0
+3973	Janibacter terrae NBRC 107853	Janibacter	Actinobacteria	Bacteria	Micrococcales	1	1	0
 3974	Bacillus cohnii NBRC 15565	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3975	Bacillus fumarioli NBRC 102428	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 3976	Bacillus niacini NBRC 15566	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -3912,9 +3912,9 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4012	Sphingomonas pruni NBRC 15498	Sphingomonas	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4013	Neokomagataea thailandica NBRC 106555	Neokomagataea	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4014	Novosphingobium rosa NBRC 15208	Novosphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-4015	Williamsia muralis NBRC 105860	Williamsia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4015	Williamsia muralis NBRC 105860	Williamsia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4016	Parageobacillus toebii NBRC 107807	Parageobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
-4017	Thermovenabulum gondwanense	Thermovenabulum	Firmicutes	Bacteria	Clostridia	2	2	0
+4017	Thermovenabulum gondwanense	Thermovenabulum	Firmicutes	Bacteria	Clostridia	1	1	0
 4018	Helicobacter himalayensis	Helicobacter	Proteobacteria	Bacteria	Epsilonproteobacteria	0	0	0
 4019	Methanoculleus horonobensis	Methanoculleus	Euryarchaeota	Archaea	Methanomicrobia	0	0	0
 4020	Aminobacter aminovorans	Aminobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -3926,22 +3926,22 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4027	Pontibacter akesuensis	Pontibacter	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 4028	Haematospirillum jordaniae	Haematospirillum	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4029	Nocardia amikacinitolerans NBRC 108937	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
-4030	Nocardia arthritidis NBRC 100137	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4030	Nocardia arthritidis NBRC 100137	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4031	Nocardia cummidelens NBRC 100378	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4032	Nocardia harenae NBRC 108248	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4033	Nocardia inohanensis NBRC 100128	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4034	Nocardia lijiangensis NBRC 108240	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
-4035	Nocardia miyunensis NBRC 108239	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4036	Nocardia pseudobrasiliensis NBRC 108224	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4035	Nocardia miyunensis NBRC 108239	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4036	Nocardia pseudobrasiliensis NBRC 108224	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4037	Nocardia jejuensis NBRC 103114	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	1
-4038	Nocardia mexicana NBRC 108244	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4038	Nocardia mexicana NBRC 108244	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4039	Nocardia puris NBRC 108233	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
-4040	Nocardia speluncae NBRC 108251	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4041	Nocardia vermiculata NBRC 100427	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4040	Nocardia speluncae NBRC 108251	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4041	Nocardia vermiculata NBRC 100427	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4042	Nocardia uniformis NBRC 13702	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	1
 4043	Nocardia crassostreae	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
-4044	Nocardia niwae NBRC 108934 = DSM 45340	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4045	Nocardia mikamii NBRC 108933	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4044	Nocardia niwae NBRC 108934 = DSM 45340	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4045	Nocardia mikamii NBRC 108933	Nocardia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4046	Terrimicrobium sacchariphilum	Terrimicrobium	Verrucomicrobia	Bacteria	Spartobacteria	0	0	0
 4047	Halofilum ochraceum	Halofilum	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4048	Rummeliibacillus stabekisii	Rummeliibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -3986,7 +3986,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4087	Methanobrevibacter filiformis	Methanobrevibacter	Euryarchaeota	Archaea	Methanobacteria	1	1	0
 4088	Methanobrevibacter oralis	Methanobrevibacter	Euryarchaeota	Archaea	Methanobacteria	0	0	0
 4089	Methanobrevibacter cuticularis	Methanobrevibacter	Euryarchaeota	Archaea	Methanobacteria	1	1	0
-4090	Methanobrevibacter curvatus	Methanobrevibacter	Euryarchaeota	Archaea	Methanobacteria	3	3	2
+4090	Methanobrevibacter curvatus	Methanobrevibacter	Euryarchaeota	Archaea	Methanobacteria	2	2	2
 4091	Marinomonas atlantica	Marinomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0
 4092	Polaribacter atrinae	Polaribacter	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 4093	Rathayibacter tritici	Rathayibacter	Actinobacteria	Bacteria	Micrococcales	0	0	0
@@ -4011,7 +4011,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4112	Deinococcus puniceus	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	0	0	0
 4113	Paenibacillus swuensis	Paenibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 4114	Dickeya solani IPO 2222	Dickeya	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-4115	Rhodococcus kyotonensis	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4115	Rhodococcus kyotonensis	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4116	Rhodococcus kunmingensis	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
 4117	Endozoicomonas atrinae	Endozoicomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4118	Thermococcus piezophilus	Thermococcus	Euryarchaeota	Archaea	Thermococci	1	1	0
@@ -4100,7 +4100,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4201	Immundisolibacter cernigliae	Immundisolibacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4202	Leuconostoc lactis	Leuconostoc	Firmicutes	Bacteria	Bacilli	0	0	0
 4203	Altererythrobacter dongtanensis	Altererythrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-4204	Gordonia terrae	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4204	Gordonia terrae	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4205	Caryophanon tenue	Caryophanon	Firmicutes	Bacteria	Bacilli	0	0	0
 4206	Caryophanon latum	Caryophanon	Firmicutes	Bacteria	Bacilli	0	0	0
 4207	Buchnera aphidicola (Diuraphis noxia)	Buchnera	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -4139,8 +4139,8 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4240	Xenorhabdus hominickii	Xenorhabdus	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4241	Pedobacter steynii	Pedobacter	Bacteroidetes	Bacteria	Sphingobacteriia	0	0	0
 4242	Bacillus beveridgei	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
-4243	Mycobacterium flavescens	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4244	Mycobacterium holsaticum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4243	Mycobacterium flavescens	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4244	Mycobacterium holsaticum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4245	Cellulosimicrobium cellulans	Cellulosimicrobium	Actinobacteria	Bacteria	Micrococcales	0	0	0
 4246	Dietzia alimentaria	Dietzia	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
 4247	Methyloceanibacter methanicus	Methyloceanibacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -4246,13 +4246,13 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4348	Spirulina major PCC 6313	Spirulina	Cyanobacteria	Bacteria	Spirulinales	1	1	0
 4349	Planktotalea frisia	Planktotalea	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 4350	Rhodococcus corynebacterioides NBRC 14404	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
-4351	Rhodococcus maanshanensis NBRC 100610	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4352	Rhodococcus marinonascens NBRC 14363	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4351	Rhodococcus maanshanensis NBRC 100610	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4352	Rhodococcus marinonascens NBRC 14363	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4353	Rhodococcus rhodnii NBRC 100604	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
-4354	Rhodococcus tukisamuensis NBRC 100609	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4355	Rhodococcus yunnanensis NBRC 103083	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4356	Rhodococcus zopfii NBRC 100606 = JCM 9919	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4357	Rhodococcus coprophilus NBRC 100603	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4354	Rhodococcus tukisamuensis NBRC 100609	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4355	Rhodococcus yunnanensis NBRC 103083	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4356	Rhodococcus zopfii NBRC 100606 = JCM 9919	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4357	Rhodococcus coprophilus NBRC 100603	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4358	Mariprofundus micogutta	Mariprofundus	Proteobacteria	Bacteria	Zetaproteobacteria	0	0	0
 4359	Bifidobacterium lemurum	Bifidobacterium	Actinobacteria	Bacteria	Bifidobacteriales	0	0	0
 4360	Phormidesmis priestleyi ULC007	Phormidesmis	Cyanobacteria	Bacteria	Synechococcales	1	1	0
@@ -4295,7 +4295,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4397	Vibrio panuliri	Vibrio	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4398	Photobacterium proteolyticum	Photobacterium	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4399	Peptoniphilus grossensis	Peptoniphilus	Firmicutes	Bacteria	Tissierellia	0	0	0
-4400	Actinokineospora bangkokensis	Actinokineospora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+4400	Actinokineospora bangkokensis	Actinokineospora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 4401	Thioclava nitratireducens	Thioclava	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4402	Tissierella creatinophila DSM 6911	Tissierella	Firmicutes	Bacteria	Tissierellia	0	0	0
 4403	Corynebacterium stationis	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
@@ -4309,7 +4309,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4411	Acinetobacter junii	Acinetobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4412	Massilia putida	Massilia	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 4413	Roseomonas gilardii	Roseomonas	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-4414	Sporomusa sphaeroides DSM 2875	Sporomusa	Firmicutes	Bacteria	Negativicutes	2	2	0
+4414	Sporomusa sphaeroides DSM 2875	Sporomusa	Firmicutes	Bacteria	Negativicutes	1	1	0
 4415	Ileibacterium valens	Ileibacterium	Firmicutes	Bacteria	Erysipelotrichia	0	0	0
 4416	Dubosiella newyorkensis	Dubosiella	Firmicutes	Bacteria	Erysipelotrichia	0	0	0
 4417	Paeniclostridium sordellii	Paeniclostridium	Firmicutes	Bacteria	Clostridia	0	0	0
@@ -4352,7 +4352,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4454	Thioalkalivibrio halophilus	Thioalkalivibrio	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4455	Salinivibrio proteolyticus	Salinivibrio	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4456	Tessaracoccus flavus	Tessaracoccus	Actinobacteria	Bacteria	Propionibacteriales	0	0	0
-4457	Nocardiopsis sinuspersici	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	2	2	0
+4457	Nocardiopsis sinuspersici	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 4458	Anaerostipes hadrus	Anaerostipes	Firmicutes	Bacteria	Clostridia	0	0	0
 4459	Tessaracoccus flavescens	Tessaracoccus	Actinobacteria	Bacteria	Propionibacteriales	0	0	0
 4460	Vagococcus penaei	Vagococcus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -4382,7 +4382,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4484	Wohlfahrtiimonas larvae	Wohlfahrtiimonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4485	Streptomyces tsukubensis	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 4486	Bartonella apis	Bartonella	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-4487	Mycobacterium litorale	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4487	Mycobacterium litorale	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4488	Clostridium tepidum	Clostridium	Firmicutes	Bacteria	Clostridia	0	0	0
 4489	Microbulbifer mangrovi	Microbulbifer	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4490	Streptomyces niveus	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
@@ -4439,20 +4439,20 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4541	Kitasatospora aureofaciens	Kitasatospora	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 4542	Legionella anisa	Legionella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4543	Mycobacterium bacteremicum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
-4544	Mycobacterium arosiense ATCC BAA-1401 = DSM 45069	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4545	Mycobacterium celeriflavum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4546	Mycobacterium heidelbergense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4547	Mycobacterium insubricum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4548	Mycobacterium intermedium	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4549	Mycobacterium malmoense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4550	Mycobacterium mantenii	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4551	Mycobacterium moriokaense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4552	Mycobacterium minnesotense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4553	Mycobacterium noviomagense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4554	Mycobacterium alsense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4544	Mycobacterium arosiense ATCC BAA-1401 = DSM 45069	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4545	Mycobacterium celeriflavum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4546	Mycobacterium heidelbergense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4547	Mycobacterium insubricum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4548	Mycobacterium intermedium	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4549	Mycobacterium malmoense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4550	Mycobacterium mantenii	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4551	Mycobacterium moriokaense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4552	Mycobacterium minnesotense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4553	Mycobacterium noviomagense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4554	Mycobacterium alsense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4555	Mycobacterium shinjukuense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
-4556	Mycobacterium tusciae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4557	Mycobacterium parafortuitum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4556	Mycobacterium tusciae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4557	Mycobacterium parafortuitum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4558	Rothia nasimurium	Rothia	Actinobacteria	Bacteria	Micrococcales	0	0	0
 4559	Pseudophaeobacter leonis	Pseudophaeobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4560	Oceanococcus atlanticus	Oceanococcus	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -4469,33 +4469,33 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4571	Staphylococcus lutrae	Staphylococcus	Firmicutes	Bacteria	Bacilli	0	0	0
 4572	Pantoea alhagi	Pantoea	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4573	Mycobacterium hiberniae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
-4574	Mycobacterium gordonae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4575	Mycobacterium iranicum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4576	Mycobacterium kubicae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4577	Mycobacterium palustre	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4578	Mycobacterium riyadhense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4579	Mycobacterium saskatchewanense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4580	Mycobacterium senuense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4574	Mycobacterium gordonae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4575	Mycobacterium iranicum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4576	Mycobacterium kubicae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4577	Mycobacterium palustre	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4578	Mycobacterium riyadhense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4579	Mycobacterium saskatchewanense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4580	Mycobacterium senuense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4581	Mycobacterium shimoidei	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
-4582	Mycobacterium terrae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4583	Mycobacterium wolinskyi	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4584	Mycobacterium fallax	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4585	Mycobacterium xenopi	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4586	Mycobacterium conspicuum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4587	Mycobacterium confluentis	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4588	Mycobacterium doricum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4589	Mycobacterium fragae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4590	Mycobacterium lacus	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4591	Mycobacterium longobardum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
-4592	Mycobacterium parmense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4582	Mycobacterium terrae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4583	Mycobacterium wolinskyi	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4584	Mycobacterium fallax	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4585	Mycobacterium xenopi	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4586	Mycobacterium conspicuum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4587	Mycobacterium confluentis	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4588	Mycobacterium doricum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4589	Mycobacterium fragae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4590	Mycobacterium lacus	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4591	Mycobacterium longobardum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
+4592	Mycobacterium parmense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4593	Mycobacterium triviale	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4594	Campylobacter cuniculorum DSM 23162 = LMG 24588	Campylobacter	Proteobacteria	Bacteria	Epsilonproteobacteria	0	0	0
 4595	Colwellia chukchiensis	Colwellia	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4596	Colwellia mytili	Colwellia	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-4597	Mycobacterium koreense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4597	Mycobacterium koreense	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4598	Derxia lacustris	Derxia	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 4599	Paracoccus contaminans	Paracoccus	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-4600	Mycobacterium colombiense CECT 3035	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4600	Mycobacterium colombiense CECT 3035	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4601	Neisseria canis	Neisseria	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 4602	Neisseria zoodegmatis	Neisseria	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 4603	Neisseria animaloris	Neisseria	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
@@ -4505,7 +4505,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4607	Thalassospira alkalitolerans	Thalassospira	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4608	Thalassospira mesophila	Thalassospira	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4609	Marivita geojedonensis	Marivita	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
-4610	Mycobacterium szulgai	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4610	Mycobacterium szulgai	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4611	Rhizobacter gummiphilus	Rhizobacter	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1
 4612	Nonlabens sediminis	Nonlabens	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 4613	Oceanicoccus sagamiensis	Oceanicoccus	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -4525,7 +4525,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4627	Thioflexothrix psekupsii	Thioflexothrix	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4628	Algoriphagus ratkowskyi	Algoriphagus	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 4629	Algoriphagus antarcticus	Algoriphagus	Bacteroidetes	Bacteria	Cytophagia	0	0	0
-4630	Lentzea kentuckyensis	Lentzea	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+4630	Lentzea kentuckyensis	Lentzea	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 4631	Halomonas desiderata SP1	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0
 4632	Oceanobacillus rekensis	Oceanobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 4633	Methanonatronarchaeum thermophilum	Methanonatronarchaeum	Euryarchaeota	Archaea	Methanonatronarchaeia	0	0	0
@@ -4596,7 +4596,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4699	Leptolyngbya ohadii IS1	Leptolyngbya	Cyanobacteria	Bacteria	Synechococcales	1	1	0
 4700	Vibrio vulnificus	Vibrio	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4701	Granulosicoccus antarcticus IMCC3135	Granulosicoccus	Proteobacteria	Bacteria	Gammaproteobacteria	3	1	1
-4702	Natranaerobius trueperi	Natranaerobius	Firmicutes	Bacteria	Clostridia	2	2	0
+4702	Natranaerobius trueperi	Natranaerobius	Firmicutes	Bacteria	Clostridia	1	1	0
 4703	Lactobacillus mixtipabuli	Lactobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 4704	Lactobacillus silagei JCM 19001	Lactobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 4705	Sphingorhabdus flavimaris	Sphingorhabdus	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -4618,7 +4618,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4721	Actinoalloteichus hoggarensis	Actinoalloteichus	Actinobacteria	Bacteria	Pseudonocardiales	0	0	0
 4722	Erythrobacter flavus	Erythrobacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4723	Legionella clemsonensis	Legionella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-4724	Prauserella marina	Prauserella	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+4724	Prauserella marina	Prauserella	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 4725	Lactobacillus agilis	Lactobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 4726	Planktothrix tepida PCC 9214	Planktothrix	Cyanobacteria	Bacteria	Oscillatoriophycideae	1	1	0
 4727	Planktothrix paucivesiculata PCC 9631	Planktothrix	Cyanobacteria	Bacteria	Oscillatoriophycideae	1	1	0
@@ -4637,7 +4637,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4740	Trichococcus collinsii	Trichococcus	Firmicutes	Bacteria	Bacilli	0	0	0
 4741	Trichococcus ilyis	Trichococcus	Firmicutes	Bacteria	Bacilli	0	0	0
 4742	Devriesea agamarum	Devriesea	Actinobacteria	Bacteria	Micrococcales	0	0	0
-4743	Mycobacterium brumae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4743	Mycobacterium brumae	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4744	Corynebacterium bouchesdurhonense	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
 4745	Anaerotruncus rubiinfantis	Anaerotruncus	Firmicutes	Bacteria	Clostridia	0	0	0
 4746	Nitrospira cf. moscoviensis SBR1015	Nitrospira	Nitrospirae	Bacteria	Nitrospirales	0	0	0
@@ -4653,7 +4653,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4757	Bariatricus massiliensis	Bariatricus	Firmicutes	Bacteria	Clostridia	0	0	0
 4758	Christensenella timonensis	Christensenella	Firmicutes	Bacteria	Clostridia	0	0	0
 4759	Plesiomonas shigelloides	Plesiomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
-4760	Mycobacterium acapulcensis	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4760	Mycobacterium acapulcensis	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4761	Orrella dioscoreae	Orrella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 4762	Hydrotalea flava	Hydrotalea	Bacteroidetes	Bacteria	Chitinophagia	0	0	0
 4763	Micromonospora sediminicola	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	0	0	0
@@ -4665,19 +4665,19 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4769	Cuniculiplasma divulgatum	Cuniculiplasma	Euryarchaeota	Archaea	Thermoplasmata	0	0	0
 4770	Micromonospora rifamycinica	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	2	2	0
 4771	Micromonospora inositola	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	0	0	0
-4772	Micromonospora coxensis	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	2	2	0
+4772	Micromonospora coxensis	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 4773	Micromonospora siamensis	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	0	0	0
-4774	Micromonospora pallida	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
-4775	Micromonospora inyonensis	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
+4774	Micromonospora pallida	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	2	2	0
+4775	Micromonospora inyonensis	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	2	2	0
 4776	Micromonospora krabiensis	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 4777	Micromonospora rhizosphaerae	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	0	0	0
 4778	Micromonospora chersina	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
-4779	Micromonospora echinospora	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
-4780	Micromonospora purpureochromogenes	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	2	2	0
-4781	Micromonospora carbonacea	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	2	2	0
+4779	Micromonospora echinospora	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	2	2	0
+4780	Micromonospora purpureochromogenes	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
+4781	Micromonospora carbonacea	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 4782	Micromonospora nigra	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 4783	Micromonospora yangpuensis	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	0	0	0
-4784	Micromonospora peucetia	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
+4784	Micromonospora peucetia	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	2	2	0
 4785	Culturomica massiliensis	Culturomica	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 4786	Raineyella antarctica	Raineyella	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
 4787	Corynebacterium phoceense	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
@@ -4713,7 +4713,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4817	Myroides phaeus	Myroides	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 4818	Propionivibrio dicarboxylicus	Propionivibrio	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 4819	Agrococcus jejuensis	Agrococcus	Actinobacteria	Bacteria	Micrococcales	0	0	0
-4820	Rhodococcus triatomae	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	3	3	0
+4820	Rhodococcus triatomae	Rhodococcus	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4821	Arthrobacter subterraneus	Arthrobacter	Actinobacteria	Bacteria	Micrococcales	0	0	0
 4822	Alteribacillus bidgolensis	Alteribacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 4823	Psychroflexus sediminis	Psychroflexus	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
@@ -4742,7 +4742,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4846	Sphingobium faniae	Sphingobium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4847	Pseudomonas benzenivorans	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1
 4848	Fervidobacterium changbaicum	Fervidobacterium	Thermotogae	Bacteria	Thermotogales	0	0	0
-4849	Sinosporangium album	Sinosporangium	Actinobacteria	Bacteria	Streptosporangiales	2	2	0
+4849	Sinosporangium album	Sinosporangium	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 4850	Limimonas halophila	Limimonas	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4851	Pelagibacterium luteolum	Pelagibacterium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4852	Methanolobus vulcani	Methanolobus	Euryarchaeota	Archaea	Methanomicrobia	1	1	0
@@ -4787,7 +4787,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4892	Microvirga guangxiensis	Microvirga	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4893	Thermus arciformis	Thermus	Deinococcus-Thermus	Bacteria	Deinococci	0	0	0
 4894	Terriglobus roseus	Terriglobus	Acidobacteria	Bacteria	Acidobacteriales	0	0	0
-4895	Pseudonocardia oroxyli	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+4895	Pseudonocardia oroxyli	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 4896	Fontibacillus panacisegetis	Fontibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 4897	Eubacterium pyruvativorans	Eubacterium	Firmicutes	Bacteria	Clostridia	0	0	0
 4898	Halorientalis regularis	Halorientalis	Euryarchaeota	Archaea	Halobacteria	1	1	0
@@ -4820,7 +4820,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4925	Tsukamurella pulmonis	Tsukamurella	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4926	Kriegella aquimaris	Kriegella	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 4927	Tessaracoccus oleiagri	Tessaracoccus	Actinobacteria	Bacteria	Propionibacteriales	0	0	0
-4928	Siphonobacter aquaeclarae	Siphonobacter	Bacteroidetes	Bacteria	Cytophagia	1	1	0
+4928	Siphonobacter aquaeclarae	Siphonobacter	Bacteroidetes	Bacteria	Cytophagia	2	2	0
 4929	Allisonella histaminiformans	Allisonella	Firmicutes	Bacteria	Negativicutes	0	0	0
 4930	Methylobacterium phyllostachyos	Methylobacterium	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 4931	Streptomyces wuyuanensis	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
@@ -4834,7 +4834,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4939	Sediminibacillus halophilus	Sediminibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 4940	Algoriphagus alkaliphilus	Algoriphagus	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 4941	Chryseobacterium taihuense	Chryseobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-4942	Allokutzneria albata	Allokutzneria	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+4942	Allokutzneria albata	Allokutzneria	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 4943	Geodermatophilus siccatus	Geodermatophilus	Actinobacteria	Bacteria	Geodermatophilales	2	2	0
 4944	Cryobacterium flavum	Cryobacterium	Actinobacteria	Bacteria	Micrococcales	0	0	0
 4945	Acetanaerobacterium elongatum	Acetanaerobacterium	Firmicutes	Bacteria	Clostridia	0	0	0
@@ -4857,7 +4857,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4962	Actinopolyspora xinjiangensis	Actinopolyspora	Actinobacteria	Bacteria	Actinopolysporales	1	1	0
 4963	Bauldia litoralis	Bauldia	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 4964	Phycicoccus dokdonensis	Phycicoccus	Actinobacteria	Bacteria	Micrococcales	0	0	0
-4965	Nakamurella panacisegetis	Nakamurella	Actinobacteria	Bacteria	Nakamurellales	2	2	0
+4965	Nakamurella panacisegetis	Nakamurella	Actinobacteria	Bacteria	Nakamurellales	1	1	0
 4966	Bacillus salsus	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 4967	Bacillus tuaregi	Bacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 4968	Bacteroides ihuae	Bacteroides	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
@@ -4868,7 +4868,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4973	Angelakisella massiliensis	Angelakisella	Firmicutes	Bacteria	Clostridia	0	0	0
 4974	Agromyces flavus	Agromyces	Actinobacteria	Bacteria	Micrococcales	0	0	0
 4975	Agrococcus carbonis	Agrococcus	Actinobacteria	Bacteria	Micrococcales	0	0	0
-4976	Actinoplanes derwentensis	Actinoplanes	Actinobacteria	Bacteria	Micromonosporales	2	2	0
+4976	Actinoplanes derwentensis	Actinoplanes	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 4977	Actinopolymorpha singaporensis	Actinopolymorpha	Actinobacteria	Bacteria	Propionibacteriales	0	0	0
 4978	Tsukamurella tyrosinosolvens	Tsukamurella	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4979	Pseudomonas oryzae	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1
@@ -4884,15 +4884,15 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 4989	Microbacterium paraoxydans	Microbacterium	Actinobacteria	Bacteria	Micrococcales	0	0	0
 4990	Arthrobacter woluwensis	Arthrobacter	Actinobacteria	Bacteria	Micrococcales	0	0	0
 4991	Pseudomonas anguilliseptica	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1
-4992	Microlunatus soli	Microlunatus	Actinobacteria	Bacteria	Propionibacteriales	2	2	0
+4992	Microlunatus soli	Microlunatus	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
 4993	Corynebacterium coyleae	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
 4994	Nocardioides exalbidus	Nocardioides	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
 4995	Pseudomonas salegens	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 4996	Streptomyces melanosporofaciens	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 4997	Microbacterium humi	Microbacterium	Actinobacteria	Bacteria	Micrococcales	0	0	0
-4998	Gordonia westfalica	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+4998	Gordonia westfalica	Gordonia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 4999	Haloactinobacterium album	Haloactinobacterium	Actinobacteria	Bacteria	Micrococcales	0	0	0
-5000	Friedmanniella sagamiharensis	Friedmanniella	Actinobacteria	Bacteria	Propionibacteriales	2	2	0
+5000	Friedmanniella sagamiharensis	Friedmanniella	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
 5001	Bradyrhizobium erythrophlei	Bradyrhizobium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5002	Arcanobacterium phocae	Arcanobacterium	Actinobacteria	Bacteria	Actinomycetales	0	0	0
 5003	Pseudomonas guangdongensis	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1
@@ -4919,7 +4919,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5024	Litoreibacter albidus	Litoreibacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5025	Roseicitreum antarcticum	Roseicitreum	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 5026	Alicyclobacillus hesperidum	Alicyclobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
-5027	Amycolatopsis xylanica	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+5027	Amycolatopsis xylanica	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 5028	Geodermatophilus africanus	Geodermatophilus	Actinobacteria	Bacteria	Geodermatophilales	2	2	0
 5029	Hymenobacter psychrophilus	Hymenobacter	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 5030	Allochromatium warmingii	Allochromatium	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0
@@ -4958,9 +4958,9 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5063	Halopenitus malekzadehii	Halopenitus	Euryarchaeota	Archaea	Halobacteria	0	0	0
 5064	Halobacillus karajensis	Halobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 5065	Chryseobacterium hominis	Chryseobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-5066	Mycobacterium rutilum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+5066	Mycobacterium rutilum	Mycobacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 5067	Pseudomonas fuscovaginae	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1
-5068	Dyadobacter koreensis	Dyadobacter	Bacteroidetes	Bacteria	Cytophagia	1	1	0
+5068	Dyadobacter koreensis	Dyadobacter	Bacteroidetes	Bacteria	Cytophagia	2	2	0
 5069	Pseudospirillum japonicum	Pseudospirillum	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 5070	Flavobacterium terrigena	Flavobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5071	Cribrihabitans marinus	Cribrihabitans	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -5010,7 +5010,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5115	Salinihabitans flavidus	Salinihabitans	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5117	Halobacterium jilantaiense	Halobacterium	Euryarchaeota	Archaea	Halobacteria	1	1	0
 5118	Blastococcus endophyticus	Blastococcus	Actinobacteria	Bacteria	Geodermatophilales	1	1	0
-5119	Amycolatopsis saalfeldensis	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+5119	Amycolatopsis saalfeldensis	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 5120	Aquisalimonas asiatica	Aquisalimonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 5121	Flavobacterium urocaniciphilum	Flavobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5122	Lewinella agarilytica	Lewinella	Bacteroidetes	Bacteria	Saprospiria	0	0	0
@@ -5021,12 +5021,12 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5127	Litorimicrobium taeanense	Litorimicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5128	Aliicoccus persicus	Aliicoccus	Firmicutes	Bacteria	Bacilli	0	0	0
 5129	Chitinophaga arvensicola	Chitinophaga	Bacteroidetes	Bacteria	Chitinophagia	0	0	0
-5130	Friedmanniella flava	Friedmanniella	Actinobacteria	Bacteria	Propionibacteriales	2	2	0
+5130	Friedmanniella flava	Friedmanniella	Actinobacteria	Bacteria	Propionibacteriales	1	1	0
 5131	Natrinema salaciae	Natrinema	Euryarchaeota	Archaea	Halobacteria	1	1	0
 5132	Pseudovibrio axinellae	Pseudovibrio	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5133	Prevotella aff. ruminicola Tc2-24	Prevotella	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
 5134	Ectothiorhodospira magna	Ectothiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0
-5135	Lentzea albida	Lentzea	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+5135	Lentzea albida	Lentzea	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 5136	Solimonas aquatica	Solimonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 5137	Flavobacterium frigoris	Flavobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5138	Amphritea atlantica	Amphritea	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -5035,7 +5035,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5141	Granulicatella balaenopterae	Granulicatella	Firmicutes	Bacteria	Bacilli	0	0	0
 5142	Fabibacter pacificus	Fabibacter	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 5143	Pedobacter rhizosphaerae	Pedobacter	Bacteroidetes	Bacteria	Sphingobacteriia	0	0	0
-5144	Actinokineospora terrae	Actinokineospora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+5144	Actinokineospora terrae	Actinokineospora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 5145	Gracilibacillus ureilyticus	Gracilibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 5146	Streptomyces qinglanensis	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
 5147	Corynebacterium cystitidis DSM 20524	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	0	0	0
@@ -5059,7 +5059,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5165	Pedobacter suwonensis	Pedobacter	Bacteroidetes	Bacteria	Sphingobacteriia	0	0	0
 5166	Pseudomonas otitidis	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1
 5167	Poseidonocella pacifica	Poseidonocella	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-5168	Amycolatopsis marina	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	3	2	0
+5168	Amycolatopsis marina	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	1	0
 5169	Cellulomonas marina	Cellulomonas	Actinobacteria	Bacteria	Micrococcales	0	0	0
 5170	Halorubrum sodomense	Halorubrum	Euryarchaeota	Archaea	Halobacteria	0	0	0
 5171	Litoreibacter janthinus	Litoreibacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -5081,14 +5081,14 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5187	Tropicimonas isoalkanivorans	Tropicimonas	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5188	Nocardioides terrae	Nocardioides	Actinobacteria	Bacteria	Propionibacteriales	0	0	0
 5189	Streptomyces aidingensis	Streptomyces	Actinobacteria	Bacteria	Streptomycetales	1	1	0
-5190	Spirosoma endophyticum	Spirosoma	Bacteroidetes	Bacteria	Cytophagia	1	1	0
+5190	Spirosoma endophyticum	Spirosoma	Bacteroidetes	Bacteria	Cytophagia	2	2	0
 5191	Algibacter lectus	Algibacter	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5192	Fructobacillus durionis	Fructobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 5193	Alkalibacterium subtropicum	Alkalibacterium	Firmicutes	Bacteria	Bacilli	0	0	0
 5194	Clostridium uliginosum	Clostridium	Firmicutes	Bacteria	Clostridia	0	0	0
 5195	Geodermatophilus taihuensis	Geodermatophilus	Actinobacteria	Bacteria	Geodermatophilales	2	2	0
 5196	Pseudooceanicola nitratireducens	Pseudooceanicola	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-5197	Saccharopolyspora jiangxiensis	Saccharopolyspora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+5197	Saccharopolyspora jiangxiensis	Saccharopolyspora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 5198	Kushneria avicenniae	Kushneria	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0
 5199	Algibacter pectinivorans	Algibacter	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5200	Thiohalospira halophila DSM 15071	Thiohalospira	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
@@ -5103,7 +5103,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5209	Flavobacterium xueshanense	Flavobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5210	Lactobacillus rogosae	Lactobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 5211	Sunxiuqinia elliptica	Sunxiuqinia	Bacteroidetes	Bacteria	Bacteroidia	0	0	0
-5212	Actinoplanes philippinensis	Actinoplanes	Actinobacteria	Bacteria	Micromonosporales	2	2	0
+5212	Actinoplanes philippinensis	Actinoplanes	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 5213	Alteribacillus iranensis	Alteribacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 5214	Acidovorax wautersii	Acidovorax	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 5215	Thermoflexibacter ruber	Thermoflexibacter	Bacteroidetes	Bacteria	Cytophagia	0	0	0
@@ -5130,7 +5130,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5236	Aquamicrobium aerolatum DSM 21857	Aquamicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5237	Celeribacter neptunius	Celeribacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5238	Natronobacterium gregoryi	Natronobacterium	Euryarchaeota	Archaea	Halobacteria	1	1	0
-5239	Amycolatopsis sacchari	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+5239	Amycolatopsis sacchari	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 5240	Thermoflavimicrobium dichotomicum	Thermoflavimicrobium	Firmicutes	Bacteria	Bacilli	0	0	0
 5241	Myroides guanonis	Myroides	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5242	Celeribacter halophilus	Celeribacter	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -5158,7 +5158,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5264	Methanolobus profundi	Methanolobus	Euryarchaeota	Archaea	Methanomicrobia	0	0	0
 5265	Ectothiorhodospira mobilis	Ectothiorhodospira	Proteobacteria	Bacteria	Gammaproteobacteria	2	2	1
 5266	Thermodesulforhabdus norvegica	Thermodesulforhabdus	Proteobacteria	Bacteria	Deltaproteobacteria	2	2	0
-5267	Pseudonocardia ammonioxydans	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+5267	Pseudonocardia ammonioxydans	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 5268	Algoriella xinjiangensis	Algoriella	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5269	Izhakiella capsodis	Izhakiella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 5270	Formivibrio citricus	Formivibrio	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
@@ -5175,7 +5175,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5281	Robiginitalea myxolifaciens	Robiginitalea	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5282	Marinobacter daqiaonensis	Marinobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 5283	Algoriphagus ornithinivorans	Algoriphagus	Bacteroidetes	Bacteria	Cytophagia	0	0	0
-5284	Amycolatopsis rubida	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	3	2	0
+5284	Amycolatopsis rubida	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	1	0
 5285	Anaerocolumna aminovalerica	Anaerocolumna	Firmicutes	Bacteria	Clostridia	0	0	0
 5286	Geodermatophilus obscurus	Geodermatophilus	Actinobacteria	Bacteria	Geodermatophilales	2	2	0
 5287	Halolactibacillus alkaliphilus	Halolactibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
@@ -5202,7 +5202,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5308	Desulfovibrio piger	Desulfovibrio	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
 5309	Brevundimonas viscosa	Brevundimonas	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5310	Lutibacter maritimus	Lutibacter	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-5311	Saccharopolyspora flava	Saccharopolyspora	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+5311	Saccharopolyspora flava	Saccharopolyspora	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 5312	Hyphomicrobium facile	Hyphomicrobium	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5313	Yangia pacifica	Yangia	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5314	Halostagnicola kamekurae	Halostagnicola	Euryarchaeota	Archaea	Halobacteria	1	1	0
@@ -5226,7 +5226,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5332	Lactobacillus acidipiscis	Lactobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 5333	Chitinophaga sancti	Chitinophaga	Bacteroidetes	Bacteria	Chitinophagia	0	0	0
 5334	Cellulophaga fucicola	Cellulophaga	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-5335	Amycolatopsis australiensis	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+5335	Amycolatopsis australiensis	Amycolatopsis	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 5336	Sinomicrobium oceani	Sinomicrobium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5337	Arcanobacterium urinimassiliense	Arcanobacterium	Actinobacteria	Bacteria	Actinomycetales	0	0	0
 5338	Ruminococcus flavefaciens	Ruminococcus	Firmicutes	Bacteria	Clostridia	0	0	0
@@ -5329,14 +5329,14 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5435	Tessaracoccus bendigoensis DSM 12906	Tessaracoccus	Actinobacteria	Bacteria	Propionibacteriales	0	0	0
 5436	Pseudomonas zeshuii	Pseudomonas	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	1
 5437	Arenibacter nanhaiticus	Arenibacter	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-5438	Nocardiopsis flavescens	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	2	2	0
+5438	Nocardiopsis flavescens	Nocardiopsis	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 5439	Desulfotomaculum thermosubterraneum DSM 16057	Desulfotomaculum	Firmicutes	Bacteria	Clostridia	1	1	0
 5440	Flavobacterium terrae	Flavobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5441	Flavobacterium haoranii	Flavobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5442	Agromyces cerinus subsp. cerinus	Agromyces	Actinobacteria	Bacteria	Micrococcales	0	0	0
 5443	Clostridium amylolyticum	Clostridium	Firmicutes	Bacteria	Clostridia	0	0	0
 5444	Pseudopelagicola gijangensis	Pseudopelagicola	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-5445	Lutispora thermophila DSM 19022	Lutispora	Firmicutes	Bacteria	Clostridia	2	2	0
+5445	Lutispora thermophila DSM 19022	Lutispora	Firmicutes	Bacteria	Clostridia	1	1	0
 5446	Malonomonas rubra DSM 5091	Malonomonas	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	1
 5447	Hespellia stercorisuis DSM 15480	Hespellia	Firmicutes	Bacteria	Clostridia	0	0	0
 5448	Reichenbachiella agariperforans	Reichenbachiella	Bacteroidetes	Bacteria	Cytophagia	0	0	0
@@ -5348,7 +5348,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5454	Anaerobranca californiensis DSM 14826	Anaerobranca	Firmicutes	Bacteria	Clostridia	0	0	0
 5455	Oceanicola litoreus	Oceanicola	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5456	Chryseobacterium molle	Chryseobacterium	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-5457	Pseudonocardia thermophila	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	2	2	0
+5457	Pseudonocardia thermophila	Pseudonocardia	Actinobacteria	Bacteria	Pseudonocardiales	1	1	0
 5458	Desulfotomaculum aeronauticum DSM 10349	Desulfotomaculum	Firmicutes	Bacteria	Clostridia	0	0	0
 5459	Marinobacter antarcticus	Marinobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 5460	Hymenobacter psychrotolerans DSM 18569	Hymenobacter	Bacteroidetes	Bacteria	Cytophagia	0	0	0
@@ -5368,7 +5368,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5474	Halomonas subglaciescola	Halomonas	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 5475	Anaerosporobacter mobilis DSM 15930	Anaerosporobacter	Firmicutes	Bacteria	Clostridia	0	0	0
 5476	Salegentibacter salegens	Salegentibacter	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
-5477	Caldanaerovirga acetigignens	Caldanaerovirga	Firmicutes	Bacteria	Clostridia	2	2	0
+5477	Caldanaerovirga acetigignens	Caldanaerovirga	Firmicutes	Bacteria	Clostridia	1	1	0
 5478	Cryptosporangium aurantiacum	Cryptosporangium	Actinobacteria	Bacteria	Frankiales	1	1	0
 5479	Duganella sacchari	Duganella	Proteobacteria	Bacteria	Betaproteobacteria	1	1	1
 5480	Cyclobacterium lianum	Cyclobacterium	Bacteroidetes	Bacteria	Cytophagia	0	0	0
@@ -5379,7 +5379,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5485	Desulfovibrio litoralis DSM 11393	Desulfovibrio	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
 5486	Fervidobacterium gondwanense DSM 13020	Fervidobacterium	Thermotogae	Bacteria	Thermotogales	0	0	0
 5487	Nitrosomonas cryotolerans ATCC 49181	Nitrosomonas	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
-5488	Micromonospora cremea	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	2	2	0
+5488	Micromonospora cremea	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 5489	Anaerocolumna xylanovorans DSM 12503	Anaerocolumna	Firmicutes	Bacteria	Clostridia	0	0	0
 5490	Libanicoccus massiliensis	Libanicoccus	Actinobacteria	Bacteria	Coriobacteriia	0	0	0
 5491	Desulfopila aestuarii DSM 18488	Desulfopila	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
@@ -5403,17 +5403,17 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5509	Lysobacter tolerans	Lysobacter	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 5510	Marinobacterium stanieri	Marinobacterium	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 5511	Mucilaginibacter lappiensis	Mucilaginibacter	Bacteroidetes	Bacteria	Sphingobacteriia	0	0	0
-5512	Micromonospora avicenniae	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	2	2	0
+5512	Micromonospora avicenniae	Micromonospora	Actinobacteria	Bacteria	Micromonosporales	1	1	0
 5513	Alkalispirochaeta americana	Alkalispirochaeta	Spirochaetes	Bacteria	Spirochaetales	0	0	0
 5514	Domibacillus enclensis	Domibacillus	Firmicutes	Bacteria	Bacilli	0	0	0
 5515	Ectothiorhodosinus mongolicus	Ectothiorhodosinus	Proteobacteria	Bacteria	Gammaproteobacteria	1	1	0
 5516	Halanaerobium kushneri	Halanaerobium	Firmicutes	Bacteria	Clostridia	0	0	0
 5517	Edaphobacillus lindanitolerans	Edaphobacillus	Firmicutes	Bacteria	Bacilli	0	0	0
-5518	Microbispora rosea	Microbispora	Actinobacteria	Bacteria	Streptosporangiales	2	2	0
+5518	Microbispora rosea	Microbispora	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 5519	Pontibacter indicus	Pontibacter	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 5520	Pontibacter lucknowensis	Pontibacter	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 5521	Natronorubrum thiooxidans	Natronorubrum	Euryarchaeota	Archaea	Halobacteria	1	1	0
-5522	Williamsia sterculiae	Williamsia	Actinobacteria	Bacteria	Corynebacteriales	2	2	0
+5522	Williamsia sterculiae	Williamsia	Actinobacteria	Bacteria	Corynebacteriales	1	1	0
 5523	Loktanella rosea	Loktanella	Proteobacteria	Bacteria	Alphaproteobacteria	2	1	0
 5524	Moraxella cuniculi DSM 21768	Moraxella	Proteobacteria	Bacteria	Gammaproteobacteria	0	0	0
 5525	Pontibaca methylaminivorans	Pontibaca	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
@@ -5532,7 +5532,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5638	Hymenobacter roseosalivarius DSM 11622	Hymenobacter	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 5639	Sulfobacillus thermosulfidooxidans DSM 9293	Sulfobacillus	Firmicutes	Bacteria	Clostridia	1	1	0
 5640	Corynebacterium glucuronolyticum	Corynebacterium	Actinobacteria	Bacteria	Corynebacteriales	1	1	1
-5641	Deinococcus hopiensis KR-140	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	2	2	0
+5641	Deinococcus hopiensis KR-140	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	1	1	0
 5642	Mycoplasma agassizii	Mycoplasma	Tenericutes	Bacteria	Mollicutes	0	0	0
 5643	Andreprevotia lacus DSM 23236	Andreprevotia	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
 5644	Desulfacinum hydrothermale DSM 13146	Desulfacinum	Proteobacteria	Bacteria	Deltaproteobacteria	1	1	0
@@ -5602,7 +5602,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 5708	Paracoccus sediminis	Paracoccus	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 5709	Ekhidna lutea	Ekhidna	Bacteroidetes	Bacteria	Cytophagia	0	0	0
 5710	Tropicimonas sediminicola	Tropicimonas	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
-5711	Streptosporangium subroseum	Streptosporangium	Actinobacteria	Bacteria	Streptosporangiales	2	2	0
+5711	Streptosporangium subroseum	Streptosporangium	Actinobacteria	Bacteria	Streptosporangiales	1	1	0
 5712	Lutibacter flavus	Lutibacter	Bacteroidetes	Bacteria	Flavobacteriia	0	0	0
 5713	Geodermatophilus pulveris	Geodermatophilus	Actinobacteria	Bacteria	Geodermatophilales	2	2	0
 5714	Desulfurobacterium atlanticum	Desulfurobacterium	Aquificae	Bacteria	Desulfurobacteriales	0	0	0

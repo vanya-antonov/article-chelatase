@@ -30,7 +30,7 @@ TOP_GENOTYPES <- orgs_df %>%
   summarise(n = n()) %>%
   arrange(-n) %>%
   pull(genotype) %>%
-  head(n = 8)
+  head(n = 9)
 TOP_GENOTYPES <- c(TOP_GENOTYPES, 'Other')
   
 orgs_df %>%
