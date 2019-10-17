@@ -68,6 +68,11 @@ GGCGGGCCAGCAGGCGACCGGCCAGCCCCGGCTGGCCCAGGC
 |
 [FORNA view](http://rna.tbi.univie.ac.at/forna/forna.html?id=RNAfold/JMUzga3Ti8&file=mfe.json)
   * FORNA custom colors: `4-10:red`
+* Proteobacteria_Bp:
+[sequence from NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_006350.1?report=fasta&from=2082000&to=2082167&strand=true)
+|
+[RNAfold view](http://rna.tbi.univie.ac.at/forna/forna.html?id=RNAfold/Vdk1LOkt4L&file=mfe.json)
+  * FORNA custom colors: `3-9:red 13-15:blue`
 * Actinobacteria_Sh:
 [sequence from NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_013165.1?report=fasta&from=1584874&to=1584991&strand=true)
 |
