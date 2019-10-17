@@ -13,3 +13,17 @@ select * from chel_orgs_v where genus = 'Streptomyces' and genotype = '1xcobN, 1
 select * from chel_orgs_v where kingdom = 'Archaea' and num_M_fs > 0;
 select * from chel_orgs_v where kingdom = 'Archaea' and num_M_fs > 0 and num_L > 0 and num_S=0;
 
+
+###
+# Cyanobacteria
+
+# "In 75 out of the 76 analyzed genomes the subunits of the magnesium chelatase were encoded by the full set of genes"
+select * from chel_orgs_v where phylum = 'Cyanobacteria';
+
+select * from chel_orgs_v where phylum = 'Cyanobacteria'
+and num_chlH+num_bchH > 0 and num_chlD+num_bchD > 0 and num_chlI+num_bchI > 0;
+
+# "Interestingly, more than half of the cyanobacterial genomes (43 out of 76) contained two chlH genes"
+select * from chel_orgs_v where phylum = 'Cyanobacteria'
+and num_chlH+num_bchH = 2 and num_chlD+num_bchD = 1 and num_chlI+num_bchI = 1;
+
