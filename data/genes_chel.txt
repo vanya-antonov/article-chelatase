@@ -86,7 +86,6 @@ tll1413	magnesium-chelatase subunit	chlD	chlD	M	668	NA	Thermosynechococcus elong
 tlr0900	cobaltochelatase subunit CobN	cobN	cobN	L	1227	NA	Thermosynechococcus elongatus BP-1	Bacteria	Cyanobacteria	Thermosynechococcus
 tlr0271	magnesium chelatase subunit H	chlH	chlH	L	1326	NA	Thermosynechococcus elongatus BP-1	Bacteria	Cyanobacteria	Thermosynechococcus
 tll1511	magnesium-chelatase subunit	chlI	chlI	S	367	NA	Thermosynechococcus elongatus BP-1	Bacteria	Cyanobacteria	Thermosynechococcus
-tll1555	methanol dehydrogenase regulatory protein	NA	bchI	S	302	NA	Thermosynechococcus elongatus BP-1	Bacteria	Cyanobacteria	Thermosynechococcus
 gvip115	Mg chelatase subunit	chlD	chlD	M	669	NA	Gloeobacter violaceus PCC 7421	Bacteria	Cyanobacteria	Gloeobacter
 gvip423	cobaltochelatase subunit CobN	cobN	cobN	L	1234	NA	Gloeobacter violaceus PCC 7421	Bacteria	Cyanobacteria	Gloeobacter
 gvip363	magnesium chelatase subunit H	chlH	chlH	L	1327	NA	Gloeobacter violaceus PCC 7421	Bacteria	Cyanobacteria	Gloeobacter
@@ -193,7 +192,6 @@ CPHA266_RS08445	magnesium chelatase ATPase subunit D	NA	chlD	M	619	NA	Chlorobium
 CPHA266_RS11980	magnesium chelatase subunit H	NA	chlH	L	1280	NA	Chlorobium phaeobacteroides DSM 266	Bacteria	Chlorobi	Chlorobium
 CPHA266_RS11965	magnesium chelatase subunit H	NA	chlH	L	1267	NA	Chlorobium phaeobacteroides DSM 266	Bacteria	Chlorobi	Chlorobium
 CPHA266_RS08450	magnesium chelatase ATPase subunit I	NA	chlI	S	386	NA	Chlorobium phaeobacteroides DSM 266	Bacteria	Chlorobi	Chlorobium
-CPHA266_RS12720	MoxR family ATPase	NA	bchI	S	332	NA	Chlorobium phaeobacteroides DSM 266	Bacteria	Chlorobi	Chlorobium
 MVAN_RS11540	VWA domain-containing protein	NA	chlD	M	638	NA	Mycobacterium vanbaalenii PYR-1	Bacteria	Actinobacteria	Mycobacterium
 MVAN_RS24390	magnesium chelatase	NA	bchI	S	463	NA	Mycobacterium vanbaalenii PYR-1	Bacteria	Actinobacteria	Mycobacterium
 MVAN_RS17205	cobaltochelatase subunit CobN	NA	cobN	L	1205	NA	Mycobacterium vanbaalenii PYR-1	Bacteria	Actinobacteria	Mycobacterium
@@ -425,7 +423,6 @@ ARCPR_RS05360	cobaltochelatase	NA	chlH	L	1250	NA	Archaeoglobus profundus DSM 563
 ARCPR_RS01455	ATPase	NA	bchI	S	476	NA	Archaeoglobus profundus DSM 5631	Archaea	Euryarchaeota	Archaeoglobus
 HTUR_RS04975	VWA domain-containing protein	NA	chlD	M	749	NA	Haloterrigena turkmenica DSM 5511	Archaea	Euryarchaeota	Haloterrigena
 HTUR_RS04970	cobaltochelatase subunit CobN	cobN	cobN	L	1298	NA	Haloterrigena turkmenica DSM 5511	Archaea	Euryarchaeota	Haloterrigena
-HTUR_RS17470	ATPase AAA	NA	bchI	S	403	NA	Haloterrigena turkmenica DSM 5511	Archaea	Euryarchaeota	Haloterrigena
 HTUR_RS19015	VWA domain-containing protein	NA	chlD	M	665	NA	Haloterrigena turkmenica DSM 5511	Archaea	Euryarchaeota	Haloterrigena
 HTUR_RS19010	magnesium chelatase	NA	chlI	S	365	NA	Haloterrigena turkmenica DSM 5511	Archaea	Euryarchaeota	Haloterrigena
 GOBS_RS02740	VWA domain-containing protein	NA	chlD	M	674	NA	Geodermatophilus obscurus DSM 43160	Bacteria	Actinobacteria	Geodermatophilus
@@ -460,7 +457,6 @@ TPAU_RS16485	magnesium chelatase	NA	bchI	S	473	NA	Tsukamurella paurometabola DSM
 METIN_RS00650	magnesium chelatase	NA	chlI	S	326	NA	Methanocaldococcus infernus ME	Archaea	Euryarchaeota	Methanocaldococcus
 METIN_RS00650_fs_METIN_RS00655	magnesium chelatase | VWA domain-containing protein	NA	chlD	M	630	-1	Methanocaldococcus infernus ME	Archaea	Euryarchaeota	Methanocaldococcus
 METIN_RS00645	cobaltochelatase subunit CobN	NA	bchH	L	1163	NA	Methanocaldococcus infernus ME	Archaea	Euryarchaeota	Methanocaldococcus
-METIN_RS06255	MoxR family ATPase	NA	cobS	S	306	NA	Methanocaldococcus infernus ME	Archaea	Euryarchaeota	Methanocaldococcus
 SBI_RS40040	VWA domain-containing protein	NA	chlD	M	730	NA	Streptomyces bingchenggensis BCW-1	Bacteria	Actinobacteria	Streptomyces
 SBI_RS08455	cobaltochelatase subunit CobN	NA	cobN	L	1215	NA	Streptomyces bingchenggensis BCW-1	Bacteria	Actinobacteria	Streptomyces
 TBIS_RS12330	VWA domain-containing protein	NA	chlD	M	690	NA	Thermobispora bispora DSM 43833	Bacteria	Actinobacteria	Thermobispora
@@ -529,7 +525,6 @@ MC7420_RS03450	magnesium chelatase subunit H	NA	chlH	L	1327	NA	Coleofasciculus c
 MC7420_RS09090	cobaltochelatase subunit CobN	NA	cobN	L	1346	NA	Coleofasciculus chthonoplastes PCC 7420	Bacteria	Cyanobacteria	Coleofasciculus
 MC7420_RS07975	magnesium chelatase ATPase subunit I	NA	chlI	S	364	NA	Coleofasciculus chthonoplastes PCC 7420	Bacteria	Cyanobacteria	Coleofasciculus
 MC7420_RS16040	magnesium chelatase ATPase subunit D	NA	chlD	M	676	NA	Coleofasciculus chthonoplastes PCC 7420	Bacteria	Cyanobacteria	Coleofasciculus
-MC7420_RS33345	MoxR family ATPase	NA	bchI	S	302	NA	Coleofasciculus chthonoplastes PCC 7420	Bacteria	Cyanobacteria	Coleofasciculus
 MKAN_RS23615	VWA domain-containing protein	NA	chlD	M	615	NA	Mycobacterium kansasii ATCC 12478	Bacteria	Actinobacteria	Mycobacterium
 MKAN_RS08545	magnesium chelatase	NA	bchI	S	461	NA	Mycobacterium kansasii ATCC 12478	Bacteria	Actinobacteria	Mycobacterium
 MKAN_RS01760	cobaltochelatase subunit CobN	NA	cobN	L	1194	NA	Mycobacterium kansasii ATCC 12478	Bacteria	Actinobacteria	Mycobacterium
@@ -690,7 +685,6 @@ MCON_RS09425	cobaltochelatase subunit CobN	NA	chlH	L	1239	NA	Methanothrix soehng
 SGM_RS12500	MoxR family ATPase	NA	cobS	S	321	NA	Streptomyces griseoaurantiacus M045	Bacteria	Actinobacteria	Streptomyces
 SGM_RS28220	VWA domain-containing protein	NA	chlD	M	667	NA	Streptomyces griseoaurantiacus M045	Bacteria	Actinobacteria	Streptomyces
 SGM_RS28215	cobaltochelatase subunit CobN	NA	cobN	L	1222	NA	Streptomyces griseoaurantiacus M045	Bacteria	Actinobacteria	Streptomyces
-SGM_RS29210	MoxR family ATPase	NA	bchI	S	346	NA	Streptomyces griseoaurantiacus M045	Bacteria	Actinobacteria	Streptomyces
 MCUP_RS01025	VWA domain-containing protein	NA	chlD	M	607	NA	Metallosphaera cuprina Ar-4	Archaea	Crenarchaeota	Metallosphaera
 MCUP_RS01020	cobalamin biosynthesis protein CobN	NA	cobN	L	1152	NA	Metallosphaera cuprina Ar-4	Archaea	Crenarchaeota	Metallosphaera
 SELSP_RS06110	VWA domain-containing protein	NA	chlD	M	648	NA	Selenomonas sputigena ATCC 35185	Bacteria	Firmicutes	Selenomonas
@@ -750,7 +744,6 @@ THIDRDRAFT_RS20230	magnesium chelatase ATPase subunit D	bchD	bchD	M	603	NA	Thior
 THIDRDRAFT_RS20225	magnesium chelatase ATPase subunit I	bchI	bchI	S	342	NA	Thiorhodococcus drewsii AZ1	Bacteria	Proteobacteria	Thiorhodococcus
 SZN_RS19815	VWA domain-containing protein	NA	chlD	M	665	NA	Streptomyces zinciresistens K42	Bacteria	Actinobacteria	Streptomyces
 SZN_RS19820	cobaltochelatase subunit CobN	NA	cobN	L	1217	NA	Streptomyces zinciresistens K42	Bacteria	Actinobacteria	Streptomyces
-SZN_RS32360	MoxR family ATPase	NA	bchI	S	343	NA	Streptomyces zinciresistens K42	Bacteria	Actinobacteria	Streptomyces
 ON04_RS08305	magnesium chelatase	NA	bchI	S	468	NA	Dietzia alimentaria 72	Bacteria	Actinobacteria	Dietzia
 ON04_RS13610	VWA domain-containing protein	NA	chlD	M	739	NA	Dietzia alimentaria 72	Bacteria	Actinobacteria	Dietzia
 ON04_RS13715	cobaltochelatase subunit CobN	NA	cobN	L	1244	NA	Dietzia alimentaria 72	Bacteria	Actinobacteria	Dietzia
@@ -808,14 +801,12 @@ SCATT_RS04800	cobaltochelatase subunit CobN	NA	cobN	L	1219	NA	Streptomyces cattl
 KEG_RS0101710	cobaltochelatase subunit CobN	NA	cobN	L	1193	NA	Mycobacterium avium subsp. avium Env 77	Bacteria	Actinobacteria	Mycobacterium
 KEG_RS0108510	VWA domain-containing protein	NA	chlD	M	583	NA	Mycobacterium avium subsp. avium Env 77	Bacteria	Actinobacteria	Mycobacterium
 KEG_RS0109500	magnesium chelatase	NA	bchI	S	463	NA	Mycobacterium avium subsp. avium Env 77	Bacteria	Actinobacteria	Mycobacterium
-KEG_RS0113430	MoxR family ATPase	NA	bchI	S	323	NA	Mycobacterium avium subsp. avium Env 77	Bacteria	Actinobacteria	Mycobacterium
 GOARA_RS02575	ATPase	NA	bchI	S	320	NA	Gordonia araii NBRC 100433	Bacteria	Actinobacteria	Gordonia
 GOARA_RS11310	magnesium chelatase	NA	bchI	S	487	NA	Gordonia araii NBRC 100433	Bacteria	Actinobacteria	Gordonia
 GOARA_RS13695	VWA domain-containing protein	NA	chlD	M	665	NA	Gordonia araii NBRC 100433	Bacteria	Actinobacteria	Gordonia
 GOEFS_RS03180	magnesium chelatase	NA	bchI	S	478	NA	Gordonia effusa NBRC 100432	Bacteria	Actinobacteria	Gordonia
 GOEFS_RS10150	cobaltochelatase subunit CobN	NA	cobN	L	1223	NA	Gordonia effusa NBRC 100432	Bacteria	Actinobacteria	Gordonia
 GOEFS_RS13530	VWA domain-containing protein	NA	chlD	M	670	NA	Gordonia effusa NBRC 100432	Bacteria	Actinobacteria	Gordonia
-GOEFS_RS14255	MoxR family ATPase	NA	cobS	S	333	NA	Gordonia effusa NBRC 100432	Bacteria	Actinobacteria	Gordonia
 GOAMR_RS01725	cobaltochelatase subunit CobN	NA	cobN	L	1204	NA	Gordonia amarae NBRC 15530	Bacteria	Actinobacteria	Gordonia
 GOAMR_RS18150	magnesium chelatase	NA	bchI	S	477	NA	Gordonia amarae NBRC 15530	Bacteria	Actinobacteria	Gordonia
 GOAMR_RS18320	VWA domain-containing protein	NA	chlD	M	648	NA	Gordonia amarae NBRC 15530	Bacteria	Actinobacteria	Gordonia
@@ -836,7 +827,6 @@ SINAC_RS07800	VWA domain-containing protein	NA	chlD	M	668	NA	Singulisphaera acid
 SINAC_RS07780	cobaltochelatase subunit CobN	cobN	cobN	L	1260	NA	Singulisphaera acidiphila DSM 18658	Bacteria	Planctomycetes	Singulisphaera
 SINAC_RS14980	magnesium chelatase	NA	bchI	S	475	NA	Singulisphaera acidiphila DSM 18658	Bacteria	Planctomycetes	Singulisphaera
 SINAC_RS15070	cobalamin biosynthesis protein CobN	NA	chlH	L	1411	NA	Singulisphaera acidiphila DSM 18658	Bacteria	Planctomycetes	Singulisphaera
-SINAC_RS00860	sigma-54-dependent Fis family transcriptional regulator	NA	bchI	S	378	NA	Singulisphaera acidiphila DSM 18658	Bacteria	Planctomycetes	Singulisphaera
 HOLFODRAFT_RS0205265	VWA domain-containing protein	NA	chlD	M	629	NA	Holophaga foetida DSM 6591	Bacteria	Acidobacteria	Holophaga
 HOLFODRAFT_RS0205260	cobaltochelatase subunit CobN	NA	cobN	L	1258	NA	Holophaga foetida DSM 6591	Bacteria	Acidobacteria	Holophaga
 HOLFODRAFT_RS0205270	magnesium chelatase	NA	chlI	S	324	NA	Holophaga foetida DSM 6591	Bacteria	Acidobacteria	Holophaga
@@ -861,13 +851,11 @@ AWO_RS05250	magnesium chelatase	NA	chlI	S	344	NA	Acetobacterium woodii DSM 1030	
 GPOL_RS10165	VWA domain-containing protein	NA	chlD	M	677	NA	Gordonia polyisoprenivorans VH2	Bacteria	Actinobacteria	Gordonia
 GPOL_RS06070	magnesium chelatase	NA	bchI	S	489	NA	Gordonia polyisoprenivorans VH2	Bacteria	Actinobacteria	Gordonia
 GPOL_RS12085	cobaltochelatase subunit CobN	NA	cobN	L	1218	NA	Gordonia polyisoprenivorans VH2	Bacteria	Actinobacteria	Gordonia
-MOPEL_RS05565	ATPase	NA	bchI	S	412	NA	Mobilicoccus pelagius NBRC 104925	Bacteria	Actinobacteria	Mobilicoccus
 MOPEL_RS13170	VWA domain-containing protein	NA	chlD	M	741	NA	Mobilicoccus pelagius NBRC 104925	Bacteria	Actinobacteria	Mobilicoccus
 MOPEL_RS13175	cobaltochelatase subunit CobN	NA	cobN	L	1320	NA	Mobilicoccus pelagius NBRC 104925	Bacteria	Actinobacteria	Mobilicoccus
 GOSPT_RS03435	cobaltochelatase subunit CobN	NA	cobN	L	1209	NA	Gordonia sputi NBRC 100414	Bacteria	Actinobacteria	Gordonia
 GOSPT_RS07865	VWA domain-containing protein	NA	chlD	M	675	NA	Gordonia sputi NBRC 100414	Bacteria	Actinobacteria	Gordonia
 GOSPT_RS15190	magnesium chelatase	NA	bchI	S	481	NA	Gordonia sputi NBRC 100414	Bacteria	Actinobacteria	Gordonia
-GOSPT_RS17000	MoxR family ATPase	NA	cobS	S	326	NA	Gordonia sputi NBRC 100414	Bacteria	Actinobacteria	Gordonia
 O3I_RS30835	VWA domain-containing protein	NA	chlD	M	684	NA	Nocardia brasiliensis ATCC 700358	Bacteria	Actinobacteria	Nocardia
 O3I_RS26750	cobaltochelatase subunit CobN	NA	cobN	L	1205	NA	Nocardia brasiliensis ATCC 700358	Bacteria	Actinobacteria	Nocardia
 MTC_RS08495_fs_MTC_RS08495	magnesium chelatase | magnesium chelatase	NA	chlD	M	656	-1	Methanocella conradii HZ254	Archaea	Euryarchaeota	Methanocella
@@ -1079,7 +1067,6 @@ CHA6605_RS18395	magnesium chelatase ATPase subunit D	NA	chlD	M	677	NA	Chamaesiph
 CHA6605_RS18610	cobaltochelatase subunit CobN	NA	cobN	L	1387	NA	Chamaesiphon minutus PCC 6605	Bacteria	Cyanobacteria	Chamaesiphon
 CHA6605_RS03485	magnesium chelatase subunit H	NA	chlH	L	1334	NA	Chamaesiphon minutus PCC 6605	Bacteria	Cyanobacteria	Chamaesiphon
 CHA6605_RS24740	magnesium chelatase ATPase subunit I	NA	chlI	S	359	NA	Chamaesiphon minutus PCC 6605	Bacteria	Cyanobacteria	Chamaesiphon
-CHA6605_RS15025	MoxR family ATPase	NA	cobS	S	320	NA	Chamaesiphon minutus PCC 6605	Bacteria	Cyanobacteria	Chamaesiphon
 UYK_RS0102915	magnesium chelatase ATPase subunit D	bchD	chlD	M	678	NA	Fischerella thermalis PCC 7521	Bacteria	Cyanobacteria	Fischerella
 UYK_RS0102785	magnesium chelatase subunit H	bchH	bchH	L	1244	NA	Fischerella thermalis PCC 7521	Bacteria	Cyanobacteria	Fischerella
 UYK_RS0106240	cobaltochelatase subunit CobN	NA	cobN	L	1273	NA	Fischerella thermalis PCC 7521	Bacteria	Cyanobacteria	Fischerella
@@ -1153,7 +1140,6 @@ BN6_RS33870	VWA domain-containing protein	NA	chlD	M	666	NA	Saccharothrix espanae
 BN6_RS12540	cobaltochelatase subunit CobN	NA	cobN	L	1205	NA	Saccharothrix espanaensis DSM 44229	Bacteria	Actinobacteria	Saccharothrix
 BN6_RS15215	Permease MFS-type	NA	bchI	S	461	NA	Saccharothrix espanaensis DSM 44229	Bacteria	Actinobacteria	Saccharothrix
 TEPIRE1_RS07220	magnesium chelatase	NA	bchI	S	439	NA	Tepidanaerobacter acetatoxydans Re1	Bacteria	Firmicutes	Tepidanaerobacter
-STRTUCAR8_RS02280	MoxR family ATPase	NA	bchI	S	346	NA	Streptomyces turgidiscabies Car8	Bacteria	Actinobacteria	Streptomyces
 STRTUCAR8_RS08280	VWA domain-containing protein	NA	chlD	M	677	NA	Streptomyces turgidiscabies Car8	Bacteria	Actinobacteria	Streptomyces
 STRTUCAR8_RS08275	cobaltochelatase subunit CobN	NA	cobN	L	1218	NA	Streptomyces turgidiscabies Car8	Bacteria	Actinobacteria	Streptomyces
 PSE7429_RS07250	cobaltochelatase subunit CobN	NA	cobN	L	1308	NA	Pseudanabaena biceps PCC 7429	Bacteria	Cyanobacteria	Pseudanabaena
@@ -1193,10 +1179,8 @@ C453_RS18585	VWA domain-containing protein	NA	chlD	M	721	NA	Haloferax elongans A
 C453_RS18590	cobaltochelatase subunit CobN	NA	cobN	L	1275	NA	Haloferax elongans ATCC BAA-1513	Archaea	Euryarchaeota	Haloferax
 C463_RS00250	VWA domain-containing protein	NA	chlD	M	726	NA	Halorubrum californiensis DSM 19288	Archaea	Euryarchaeota	Halorubrum
 C463_RS00245	cobaltochelatase subunit CobN	NA	cobN	L	1310	NA	Halorubrum californiensis DSM 19288	Archaea	Euryarchaeota	Halorubrum
-C449_RS04445	MoxR family ATPase	NA	cobS	S	320	NA	Halococcus saccharolyticus DSM 5350	Archaea	Euryarchaeota	Halococcus
 C449_RS09265	VWA domain-containing protein	NA	chlD	M	760	NA	Halococcus saccharolyticus DSM 5350	Archaea	Euryarchaeota	Halococcus
 C449_RS09260	cobaltochelatase subunit CobN	NA	cobN	L	1342	NA	Halococcus saccharolyticus DSM 5350	Archaea	Euryarchaeota	Halococcus
-C449_RS16790	ATP-binding protein	NA	chlI	S	460	NA	Halococcus saccharolyticus DSM 5350	Archaea	Euryarchaeota	Halococcus
 C450_RS07635	VWA domain-containing protein	NA	chlD	M	760	NA	Halococcus salifodinae DSM 8989	Archaea	Euryarchaeota	Halococcus
 C450_RS07640	cobaltochelatase subunit CobN	cobN	cobN	L	1329	NA	Halococcus salifodinae DSM 8989	Archaea	Euryarchaeota	Halococcus
 C464_RS16470	VWA domain-containing protein	NA	chlD	M	731	NA	Halorubrum coriense DSM 10284	Archaea	Euryarchaeota	Halorubrum
@@ -1210,7 +1194,6 @@ C493_RS03670	VWA domain-containing protein	NA	chlD	M	749	NA	Natronolimnobius inn
 C493_RS03665	cobaltochelatase subunit CobN	cobN	cobN	L	1298	NA	Natronolimnobius innermongolicus JCM 12255	Archaea	Euryarchaeota	Natronolimnobius
 C472_RS02990	VWA domain-containing protein	NA	chlD	M	729	NA	Halorubrum tebenquichense DSM 14210	Archaea	Euryarchaeota	Halorubrum
 C472_RS02985	cobaltochelatase subunit CobN	NA	cobN	L	1322	NA	Halorubrum tebenquichense DSM 14210	Archaea	Euryarchaeota	Halorubrum
-C472_RS09105	MoxR family ATPase	NA	cobS	S	320	NA	Halorubrum tebenquichense DSM 14210	Archaea	Euryarchaeota	Halorubrum
 C476_RS03705	VWA domain-containing protein	NA	chlD	M	731	NA	Haloterrigena limicola JCM 13563	Archaea	Euryarchaeota	Haloterrigena
 C476_RS03710	cobaltochelatase subunit CobN	NA	cobN	L	1296	NA	Haloterrigena limicola JCM 13563	Archaea	Euryarchaeota	Haloterrigena
 C479_RS06380	VWA domain-containing protein	NA	chlD	M	740	NA	Halovivax asiaticus JCM 14624	Archaea	Euryarchaeota	Halovivax
@@ -1252,8 +1235,6 @@ D458_RS0131520	magnesium chelatase	NA	bchI	S	473	NA	Nocardiopsis ganjiahuensis D
 D459_RS0107085	hypothetical protein	NA	bchI	S	454	NA	Nocardiopsis potens DSM 45234	Bacteria	Actinobacteria	Nocardiopsis
 D459_RS0107720	VWA domain-containing protein	NA	chlD	M	696	NA	Nocardiopsis potens DSM 45234	Bacteria	Actinobacteria	Nocardiopsis
 D459_RS0107765	cobaltochelatase subunit CobN	NA	cobN	L	1250	NA	Nocardiopsis potens DSM 45234	Bacteria	Actinobacteria	Nocardiopsis
-D459_RS0118575	MoxR family ATPase	NA	bchI	S	345	NA	Nocardiopsis potens DSM 45234	Bacteria	Actinobacteria	Nocardiopsis
-D471_RS0100570	MoxR family ATPase	NA	cobS	S	327	NA	Nocardiopsis lucentensis DSM 44048	Bacteria	Actinobacteria	Nocardiopsis
 D471_RS0119400	VWA domain-containing protein	NA	chlD	M	689	NA	Nocardiopsis lucentensis DSM 44048	Bacteria	Actinobacteria	Nocardiopsis
 D473_RS0114660	VWA domain-containing protein	NA	chlD	M	708	NA	Nocardiopsis xinjiangensis YIM 90004	Bacteria	Actinobacteria	Nocardiopsis
 D473_RS0114695	cobaltochelatase subunit CobN	NA	cobN	L	1196	NA	Nocardiopsis xinjiangensis YIM 90004	Bacteria	Actinobacteria	Nocardiopsis
@@ -1268,7 +1249,6 @@ G419_RS06605	cobaltochelatase subunit CobN	NA	cobN	L	1213	NA	Rhodococcus triatom
 G419_RS21505	VWA domain-containing protein	NA	chlD	M	641	NA	Rhodococcus triatomae BKS 15-14	Bacteria	Actinobacteria	Rhodococcus
 H340_RS01655	cobaltochelatase subunit CobN	NA	cobN	L	1209	NA	Streptomyces mobaraensis NBRC 13819 = DSM 40847	Bacteria	Actinobacteria	Streptomyces
 H340_RS11370	VWA domain-containing protein	NA	chlD	M	700	NA	Streptomyces mobaraensis NBRC 13819 = DSM 40847	Bacteria	Actinobacteria	Streptomyces
-H340_RS27310	ATPase	NA	bchI	S	334	NA	Streptomyces mobaraensis NBRC 13819 = DSM 40847	Bacteria	Actinobacteria	Streptomyces
 GM1_RS02190	cobaltochelatase subunit CobN	NA	cobN	L	1227	NA	Gordonia malaquae NBRC 108250	Bacteria	Actinobacteria	Gordonia
 GM1_RS10045	VWA domain-containing protein	NA	chlD	M	633	NA	Gordonia malaquae NBRC 108250	Bacteria	Actinobacteria	Gordonia
 GM1_RS11550	magnesium chelatase	NA	bchI	S	482	NA	Gordonia malaquae NBRC 108250	Bacteria	Actinobacteria	Gordonia
@@ -1317,7 +1297,6 @@ A3E7_RS0106980	cobaltochelatase subunit CobN	NA	cobN	L	1205	NA	Corynebacterium c
 A3ES_RS0106495	magnesium chelatase	NA	bchI	S	465	NA	Kribbella catacumbae DSM 19601	Bacteria	Actinobacteria	Kribbella
 A3ES_RS0121345	VWA domain-containing protein	NA	chlD	M	701	NA	Kribbella catacumbae DSM 19601	Bacteria	Actinobacteria	Kribbella
 A3ES_RS0121335	cobaltochelatase subunit CobN	NA	cobN	L	1233	NA	Kribbella catacumbae DSM 19601	Bacteria	Actinobacteria	Kribbella
-A3ES_RS0142455	MoxR family ATPase	NA	cobS	S	324	NA	Kribbella catacumbae DSM 19601	Bacteria	Actinobacteria	Kribbella
 A3IC_RS0103895	VWA domain-containing protein	NA	chlD	M	686	NA	Streptomyces scabrisporus DSM 41855	Bacteria	Actinobacteria	Streptomyces
 A3IC_RS0111670	cobaltochelatase subunit CobN	NA	cobN	L	1215	NA	Streptomyces scabrisporus DSM 41855	Bacteria	Actinobacteria	Streptomyces
 A3OO_RS0105525	magnesium chelatase ATPase subunit I	NA	bchI	S	377	NA	Methylocystis rosea SV97	Bacteria	Proteobacteria	Methylocystis
@@ -1332,12 +1311,9 @@ A3Q7_RS0101955	hypothetical protein	NA	bchH	L	1298	NA	Methyloversatilis thermoto
 A3Q7_RS0114635	hypothetical protein	NA	bchH	L	1434	NA	Methyloversatilis thermotolerans	Bacteria	Proteobacteria	Methyloversatilis
 A3Q7_RS0111155	VWA domain-containing protein	bchD	bchD	M	586	NA	Methyloversatilis thermotolerans	Bacteria	Proteobacteria	Methyloversatilis
 B056_RS34605	cobaltochelatase subunit CobN	NA	cobN	L	1271	NA	Frankia discariae	Bacteria	Actinobacteria	Frankia
-B056_RS0107125	MoxR family ATPase	NA	cobS	S	324	NA	Frankia discariae	Bacteria	Actinobacteria	Frankia
 B056_RS0112130	magnesium chelatase	NA	chlD	M	503	NA	Frankia discariae	Bacteria	Actinobacteria	Frankia
-B056_RS0129525	MoxR family ATPase	NA	cobS	S	346	NA	Frankia discariae	Bacteria	Actinobacteria	Frankia
 B056_RS0132030	VWA domain-containing protein	NA	chlD	M	748	NA	Frankia discariae	Bacteria	Actinobacteria	Frankia
 B207_RS0100885	magnesium chelatase	NA	chlD	M	503	NA	Frankia elaeagni	Bacteria	Actinobacteria	Frankia
-B207_RS0101740	MoxR family ATPase	NA	bchI	S	324	NA	Frankia elaeagni	Bacteria	Actinobacteria	Frankia
 B207_RS0106555	cobaltochelatase subunit CobN	NA	cobN	L	1315	NA	Frankia elaeagni	Bacteria	Actinobacteria	Frankia
 B207_RS0128330	VWA domain-containing protein	NA	chlD	M	746	NA	Frankia elaeagni	Bacteria	Actinobacteria	Frankia
 C229_RS0100230	magnesium chelatase	NA	bchI	S	491	NA	Actinomadura flavalba DSM 45200	Bacteria	Actinobacteria	Actinomadura
@@ -1345,13 +1321,11 @@ C229_RS0126105	VWA domain-containing protein	NA	chlD	M	719	NA	Actinomadura flava
 C229_RS0126120	cobaltochelatase subunit CobN	NA	cobN	L	1252	NA	Actinomadura flavalba DSM 45200	Bacteria	Actinobacteria	Actinomadura
 C503_RS0103120	VWA domain-containing protein	NA	chlD	M	666	NA	Actinokineospora enzanensis DSM 44649	Bacteria	Actinobacteria	Actinokineospora
 C503_RS0103175	cobaltochelatase subunit CobN	NA	cobN	L	1195	NA	Actinokineospora enzanensis DSM 44649	Bacteria	Actinobacteria	Actinokineospora
-C503_RS0116115	MoxR family ATPase	NA	bchI	S	331	NA	Actinokineospora enzanensis DSM 44649	Bacteria	Actinobacteria	Actinokineospora
 C503_RS0117605	magnesium chelatase	NA	bchI	S	465	NA	Actinokineospora enzanensis DSM 44649	Bacteria	Actinobacteria	Actinokineospora
 SSP08S_RS10020	VWA domain-containing protein	NA	chlD	M	666	NA	Streptomyces hokutonensis	Bacteria	Actinobacteria	Streptomyces
 SSP08S_RS10015	cobaltochelatase subunit CobN	NA	cobN	L	1217	NA	Streptomyces hokutonensis	Bacteria	Actinobacteria	Streptomyces
 F566_RS0107005	VWA domain-containing protein	NA	chlD	M	592	NA	Hahella ganghwensis DSM 17046	Bacteria	Proteobacteria	Hahella
 F566_RS0106935	cobaltochelatase subunit CobN	NA	cobN	L	1307	NA	Hahella ganghwensis DSM 17046	Bacteria	Proteobacteria	Hahella
-F566_RS0124750	MoxR family ATPase	NA	chlI	S	302	NA	Hahella ganghwensis DSM 17046	Bacteria	Proteobacteria	Hahella
 F555_RS0105085	magnesium chelatase	NA	chlI	S	359	NA	Methanothermococcus thermolithotrophicus DSM 2095	Archaea	Euryarchaeota	Methanothermococcus
 F555_RS0105085_fs_F555_RS0105095	magnesium chelatase | VWA domain-containing protein	NA	chlD	M	692	-1	Methanothermococcus thermolithotrophicus DSM 2095	Archaea	Euryarchaeota	Methanothermococcus
 F555_RS0105080	cobaltochelatase subunit CobN	NA	chlH	L	1221	NA	Methanothermococcus thermolithotrophicus DSM 2095	Archaea	Euryarchaeota	Methanothermococcus
@@ -1466,7 +1440,6 @@ F608_RS0125565	cobalt chelatase	NA	bchH	L	1264	NA	Desulfospira joergensenii DSM 
 F608_RS0125610	magnesium chelatase	NA	bchH	L	1316	NA	Desulfospira joergensenii DSM 10085	Bacteria	Proteobacteria	Desulfospira
 G322_RS0102710	magnesium chelatase	NA	chlD	M	568	NA	Psychromonas hadalis ATCC BAA-638	Bacteria	Proteobacteria	Psychromonas
 G322_RS0102760	cobaltochelatase subunit CobN	NA	cobN	L	1258	NA	Psychromonas hadalis ATCC BAA-638	Bacteria	Proteobacteria	Psychromonas
-G322_RS0117865	MoxR family ATPase	NA	bchI	S	302	NA	Psychromonas hadalis ATCC BAA-638	Bacteria	Proteobacteria	Psychromonas
 G513_RS0101390	magnesium chelatase ATPase subunit I	NA	bchI	S	341	NA	Nevskia ramosa DSM 11499	Bacteria	Proteobacteria	Nevskia
 G513_RS0101315	magnesium chelatase subunit H	NA	bchH	L	1257	NA	Nevskia ramosa DSM 11499	Bacteria	Proteobacteria	Nevskia
 G513_RS0101395	VWA domain-containing protein	bchD	bchD	M	607	NA	Nevskia ramosa DSM 11499	Bacteria	Proteobacteria	Nevskia
@@ -1533,7 +1506,6 @@ H596_RS0115395	magnesium chelatase subunit H	NA	bchH	L	1201	NA	Rubritepida flocc
 H596_RS0115335	VWA domain-containing protein	NA	bchD	M	670	NA	Rubritepida flocculans DSM 14296	Bacteria	Proteobacteria	Rubritepida
 K313_RS0100345	VWA domain-containing protein	NA	chlD	M	734	NA	Arsenicicoccus bolidensis DSM 15745	Bacteria	Actinobacteria	Arsenicicoccus
 K313_RS0100340	cobaltochelatase subunit CobN	NA	cobN	L	1234	NA	Arsenicicoccus bolidensis DSM 15745	Bacteria	Actinobacteria	Arsenicicoccus
-K313_RS0105400	MoxR family ATPase	NA	cobS	S	319	NA	Arsenicicoccus bolidensis DSM 15745	Bacteria	Actinobacteria	Arsenicicoccus
 K329_RS25720	VWA domain-containing protein	NA	chlD	M	722	NA	Nocardioides alkalitolerans DSM 16699	Bacteria	Actinobacteria	Nocardioides
 K329_RS0108910	cobaltochelatase subunit CobN	NA	cobN	L	1236	NA	Nocardioides alkalitolerans DSM 16699	Bacteria	Actinobacteria	Nocardioides
 K329_RS0109270	magnesium chelatase	NA	bchI	S	473	NA	Nocardioides alkalitolerans DSM 16699	Bacteria	Actinobacteria	Nocardioides
@@ -1623,9 +1595,7 @@ TX79_RS08855	VWA domain-containing protein	NA	chlD	M	739	NA	Halopiger goleimassi
 TX79_RS08850	cobaltochelatase subunit CobN	NA	cobN	L	1299	NA	Halopiger goleimassiliensis	Archaea	Euryarchaeota	Halopiger
 TX80_RS14540	VWA domain-containing protein	NA	chlD	M	723	NA	Halopiger djelfimassiliensis	Archaea	Euryarchaeota	Halopiger
 TX80_RS14535	cobaltochelatase subunit CobN	NA	cobN	L	1311	NA	Halopiger djelfimassiliensis	Archaea	Euryarchaeota	Halopiger
-KR51_RS01925	MoxR family ATPase	NA	bchI	S	320	NA	Rubidibacter lacunae KORDI 51-2	Bacteria	Cyanobacteria	Rubidibacter
 KR51_RS09875	cobaltochelatase subunit CobN	NA	cobN	L	1246	NA	Rubidibacter lacunae KORDI 51-2	Bacteria	Cyanobacteria	Rubidibacter
-KR51_RS10890	MoxR family ATPase	NA	bchI	S	302	NA	Rubidibacter lacunae KORDI 51-2	Bacteria	Cyanobacteria	Rubidibacter
 KR51_RS12230	magnesium chelatase subunit H	NA	chlH	L	1338	NA	Rubidibacter lacunae KORDI 51-2	Bacteria	Cyanobacteria	Rubidibacter
 KR51_RS12355	magnesium chelatase ATPase subunit I	NA	chlI	S	363	NA	Rubidibacter lacunae KORDI 51-2	Bacteria	Cyanobacteria	Rubidibacter
 KR51_RS16965	magnesium chelatase ATPase subunit D	NA	chlD	M	672	NA	Rubidibacter lacunae KORDI 51-2	Bacteria	Cyanobacteria	Rubidibacter
@@ -1634,13 +1604,11 @@ M595_RS03415	magnesium chelatase subunit H	NA	chlH	L	1326	NA	Lyngbya aestuarii B
 M595_RS06330	magnesium chelatase ATPase subunit D	NA	chlD	M	662	NA	Lyngbya aestuarii BL J	Bacteria	Cyanobacteria	Lyngbya
 M595_RS09565	magnesium chelatase ATPase subunit I	NA	chlI	S	367	NA	Lyngbya aestuarii BL J	Bacteria	Cyanobacteria	Lyngbya
 M595_RS18350	cobaltochelatase subunit CobN	NA	cobN	L	1250	NA	Lyngbya aestuarii BL J	Bacteria	Cyanobacteria	Lyngbya
-M595_RS26845	MoxR family ATPase	NA	bchI	S	302	NA	Lyngbya aestuarii BL J	Bacteria	Cyanobacteria	Lyngbya
 J116_RS22380	VWA domain-containing protein	NA	chlD	M	695	NA	Streptomyces thermolilacinus SPC6	Bacteria	Actinobacteria	Streptomyces
 J116_RS14600	cobaltochelatase subunit CobN	NA	cobN	L	1200	NA	Streptomyces thermolilacinus SPC6	Bacteria	Actinobacteria	Streptomyces
 H592_RS0119900	hypothetical protein	NA	chlD	M	613	NA	Psychromonas arctica DSM 14288	Bacteria	Proteobacteria	Psychromonas
 H592_RS0119955	cobaltochelatase subunit CobN	NA	cobN	L	1277	NA	Psychromonas arctica DSM 14288	Bacteria	Proteobacteria	Psychromonas
 H504_RS0119070	magnesium chelatase	NA	bchI	S	465	NA	Actinokineospora inagensis DSM 44258	Bacteria	Actinobacteria	Actinokineospora
-H504_RS0125080	MoxR family ATPase	NA	bchI	S	316	NA	Actinokineospora inagensis DSM 44258	Bacteria	Actinobacteria	Actinokineospora
 H504_RS0131795	VWA domain-containing protein	NA	chlD	M	661	NA	Actinokineospora inagensis DSM 44258	Bacteria	Actinobacteria	Actinokineospora
 H504_RS0131845	cobaltochelatase subunit CobN	NA	cobN	L	1198	NA	Actinokineospora inagensis DSM 44258	Bacteria	Actinobacteria	Actinokineospora
 GKIL_RS08160	magnesium chelatase ATPase subunit D	NA	chlD	M	662	NA	Gloeobacter kilaueensis JS1	Bacteria	Cyanobacteria	Gloeobacter
@@ -1752,14 +1720,12 @@ Y900_RS08150	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium aromaticivorans 
 Y900_RS26265	cobaltochelatase subunit CobN	NA	cobN	L	1200	NA	Mycobacterium aromaticivorans JS19b1 = JCM 16368	Bacteria	Actinobacteria	Mycobacterium
 UO65_RS02680	VWA domain-containing protein	NA	chlD	M	677	NA	Actinokineospora spheciospongiae	Bacteria	Actinobacteria	Actinokineospora
 UO65_RS06695	cobaltochelatase subunit CobN	NA	cobN	L	1194	NA	Actinokineospora spheciospongiae	Bacteria	Actinobacteria	Actinokineospora
-UO65_RS27190	MoxR family ATPase	NA	bchI	S	317	NA	Actinokineospora spheciospongiae	Bacteria	Actinobacteria	Actinokineospora
 UO65_RS32425	magnesium chelatase	NA	bchI	S	470	NA	Actinokineospora spheciospongiae	Bacteria	Actinobacteria	Actinokineospora
 X939_RS0101240	hypothetical protein	NA	chlD	M	657	NA	Dyadobacter tibetensis Y620-1	Bacteria	Bacteroidetes	Dyadobacter
 X939_RS0101235	cobaltochelatase subunit CobN	NA	cobN	L	1423	NA	Dyadobacter tibetensis Y620-1	Bacteria	Bacteroidetes	Dyadobacter
 X939_RS0104020	magnesium chelatase	NA	chlD	M	513	NA	Dyadobacter tibetensis Y620-1	Bacteria	Bacteroidetes	Dyadobacter
 N864_RS04930	VWA domain-containing protein	NA	chlD	M	719	NA	Intrasporangium chromatireducens Q5-1	Bacteria	Actinobacteria	Intrasporangium
 N864_RS04980	cobaltochelatase subunit CobN	NA	cobN	L	1225	NA	Intrasporangium chromatireducens Q5-1	Bacteria	Actinobacteria	Intrasporangium
-N864_RS10765	MoxR family ATPase	NA	bchI	S	346	NA	Intrasporangium chromatireducens Q5-1	Bacteria	Actinobacteria	Intrasporangium
 N864_RS19660	magnesium chelatase	NA	bchI	S	463	NA	Intrasporangium chromatireducens Q5-1	Bacteria	Actinobacteria	Intrasporangium
 D779_RS06285	magnesium chelatase ATPase subunit I	bchI	bchI	S	342	NA	Imhoffiella purpurea	Bacteria	Proteobacteria	Imhoffiella
 D779_RS06280	magnesium chelatase	bchD	bchD	M	603	NA	Imhoffiella purpurea	Bacteria	Proteobacteria	Imhoffiella
@@ -1788,7 +1754,6 @@ DEIPH_RS11900	magnesium chelatase	NA	bchI	S	486	NA	Deinococcus phoenicis	Bacteri
 BN978_RS21360	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium mageritense DSM 44476 = CIP 104973	Bacteria	Actinobacteria	Mycobacterium
 BN978_RS24235	hypothetical protein	NA	chlD	M	625	NA	Mycobacterium mageritense DSM 44476 = CIP 104973	Bacteria	Actinobacteria	Mycobacterium
 BN978_RS29790	cobaltochelatase subunit CobN	NA	cobN	L	1199	NA	Mycobacterium mageritense DSM 44476 = CIP 104973	Bacteria	Actinobacteria	Mycobacterium
-BN346_RS03000	MoxR family ATPase	NA	cobS	S	316	NA	Clostridium ihumii AP5	Bacteria	Firmicutes	Clostridium
 BN346_RS06160	VWA domain-containing protein	NA	chlD	M	632	NA	Clostridium ihumii AP5	Bacteria	Firmicutes	Clostridium
 BN346_RS06140	cobaltochelatase subunit CobN	cobN	cobN	L	1248	NA	Clostridium ihumii AP5	Bacteria	Firmicutes	Clostridium
 BN346_RS06155	magnesium chelatase	NA	chlI	S	343	NA	Clostridium ihumii AP5	Bacteria	Firmicutes	Clostridium
@@ -1869,7 +1834,6 @@ GEMMAAP_RS06635	magnesium chelatase ATPase subunit I	NA	bchI	S	351	NA	Gemmatimon
 GEMMAAP_RS06505	magnesium chelatase subunit H	NA	chlH	L	1280	NA	Gemmatimonas phototrophica	Bacteria	Gemmatimonadetes	Gemmatimonas
 GEMMAAP_RS03800	magnesium chelatase	NA	bchI	S	484	NA	Gemmatimonas phototrophica	Bacteria	Gemmatimonadetes	Gemmatimonas
 GEMMAAP_RS06640	hypothetical protein	NA	bchD	M	625	NA	Gemmatimonas phototrophica	Bacteria	Gemmatimonadetes	Gemmatimonas
-GEMMAAP_RS15940	MoxR family ATPase	NA	cobS	S	342	NA	Gemmatimonas phototrophica	Bacteria	Gemmatimonadetes	Gemmatimonas
 KCH_RS26655	magnesium chelatase	NA	chlD	M	677	NA	Kitasatospora cheerisanensis KCTC 2395	Bacteria	Actinobacteria	Kitasatospora
 KCH_RS31245	cobaltochelatase subunit CobN	NA	cobN	L	1202	NA	Kitasatospora cheerisanensis KCTC 2395	Bacteria	Actinobacteria	Kitasatospora
 FF32_RS12745	magnesium chelatase	NA	chlD	M	590	NA	Halomonas campaniensis	Bacteria	Proteobacteria	Halomonas
@@ -1931,7 +1895,6 @@ EH31_RS06600	cobaltochelatase subunit CobS	NA	cobS	S	329	NA	Erythrobacter longus
 EH31_RS08035	magnesium chelatase ATPase subunit I	NA	bchI	S	333	NA	Erythrobacter longus	Bacteria	Proteobacteria	Erythrobacter
 EH31_RS07915	magnesium chelatase subunit H	NA	bchH	L	1211	NA	Erythrobacter longus	Bacteria	Proteobacteria	Erythrobacter
 EH31_RS08030	VWA domain-containing protein	NA	bchD	M	558	NA	Erythrobacter longus	Bacteria	Proteobacteria	Erythrobacter
-HY87_RS0105060	ATPase	NA	bchI	S	328	NA	Streptomyces monomycini	Bacteria	Actinobacteria	Streptomyces
 HY87_RS0121680	cobaltochelatase subunit CobN	NA	cobN	L	1225	NA	Streptomyces monomycini	Bacteria	Actinobacteria	Streptomyces
 HY87_RS0122875	VWA domain-containing protein	NA	chlD	M	711	NA	Streptomyces monomycini	Bacteria	Actinobacteria	Streptomyces
 OP18_RS39125	magnesium chelatase	NA	bchI	S	465	NA	Dactylosporangium aurantiacum	Bacteria	Actinobacteria	Dactylosporangium
@@ -1939,7 +1902,6 @@ OP18_RS44185	VWA domain-containing protein	NA	chlD	M	698	NA	Dactylosporangium au
 OP18_RS44325	cobaltochelatase subunit CobN	NA	cobN	L	1189	NA	Dactylosporangium aurantiacum	Bacteria	Actinobacteria	Dactylosporangium
 OQ01_RS00250	cobaltochelatase subunit CobN	NA	cobN	L	1182	NA	Saccharothrix syringae	Bacteria	Actinobacteria	Saccharothrix
 OQ01_RS28895	magnesium chelatase	NA	chlD	M	657	NA	Saccharothrix syringae	Bacteria	Actinobacteria	Saccharothrix
-OQ01_RS30140	MoxR family ATPase	NA	bchI	S	328	NA	Saccharothrix syringae	Bacteria	Actinobacteria	Saccharothrix
 OQ01_RS40590	magnesium chelatase	NA	bchI	S	461	NA	Saccharothrix syringae	Bacteria	Actinobacteria	Saccharothrix
 OP79_RS00325	VWA domain-containing protein	NA	chlD	M	675	NA	Streptomyces yerevanensis	Bacteria	Actinobacteria	Streptomyces
 OP79_RS00320	cobaltochelatase subunit CobN	NA	cobN	L	1217	NA	Streptomyces yerevanensis	Bacteria	Actinobacteria	Streptomyces
@@ -1989,7 +1951,6 @@ IF83_RS0114545	VWA domain-containing protein	NA	chlD	M	797	NA	Streptomyces albus
 IF83_RS30715	cobaltochelatase subunit CobN	NA	cobN	L	1341	NA	Streptomyces albus subsp. albus	Bacteria	Actinobacteria	Streptomyces
 IF45_RS0109290	cobaltochelatase subunit CobN	NA	cobN	L	1202	NA	Streptomyces albidoflavus	Bacteria	Actinobacteria	Streptomyces
 IF45_RS0118455	VWA domain-containing protein	NA	chlD	M	707	NA	Streptomyces albidoflavus	Bacteria	Actinobacteria	Streptomyces
-IF45_RS0130285	MoxR family ATPase	NA	bchI	S	339	NA	Streptomyces albidoflavus	Bacteria	Actinobacteria	Streptomyces
 IF64_RS0107815	magnesium chelatase	NA	chlD	M	697	NA	Prauserella rugosa	Bacteria	Actinobacteria	Prauserella
 IF64_RS0107875	cobaltochelatase subunit CobN	NA	cobN	L	1207	NA	Prauserella rugosa	Bacteria	Actinobacteria	Prauserella
 IF64_RS0114645	magnesium chelatase	NA	bchI	S	466	NA	Prauserella rugosa	Bacteria	Actinobacteria	Prauserella
@@ -2018,13 +1979,11 @@ HX89_RS07665	magnesium chelatase	NA	chlD	M	714	NA	Dermacoccus nishinomiyaensis	B
 HX89_RS07620	cobaltochelatase subunit CobN	NA	cobN	L	1226	NA	Dermacoccus nishinomiyaensis	Bacteria	Actinobacteria	Dermacoccus
 PAP_RS03915	VWA domain-containing protein	NA	chlD	M	640	NA	Palaeococcus pacificus DY20341	Archaea	Euryarchaeota	Palaeococcus
 PAP_RS03920	cobaltochelatase subunit CobN	NA	chlH	L	1248	NA	Palaeococcus pacificus DY20341	Archaea	Euryarchaeota	Palaeococcus
-PAP_RS09605	MoxR family ATPase	NA	bchI	S	309	NA	Palaeococcus pacificus DY20341	Archaea	Euryarchaeota	Palaeococcus
 IO39_RS16260	magnesium chelatase	NA	chlD	M	790	NA	Nonomuraea candida	Bacteria	Actinobacteria	Nonomuraea
 IO39_RS16275	cobaltochelatase subunit CobN	NA	cobN	L	1233	NA	Nonomuraea candida	Bacteria	Actinobacteria	Nonomuraea
 IO39_RS27495	magnesium chelatase	NA	bchI	S	473	NA	Nonomuraea candida	Bacteria	Actinobacteria	Nonomuraea
 IO24_RS0134395	VWA domain-containing protein	NA	chlD	M	666	NA	Streptomyces flavovariabilis	Bacteria	Actinobacteria	Streptomyces
 IO24_RS0134390	cobaltochelatase subunit CobN	NA	cobN	L	1218	NA	Streptomyces flavovariabilis	Bacteria	Actinobacteria	Streptomyces
-ALTAJ2_RS04080	MoxR family ATPase	NA	bchI	S	373	NA	Natrinema altunense	Archaea	Euryarchaeota	Natrinema
 ALTAJ2_RS05450	VWA domain-containing protein	NA	chlD	M	741	NA	Natrinema altunense	Archaea	Euryarchaeota	Natrinema
 ALTAJ2_RS05455	cobaltochelatase subunit CobN	NA	cobN	L	1296	NA	Natrinema altunense	Archaea	Euryarchaeota	Natrinema
 AJAP_RS30640	magnesium chelatase	NA	chlD	M	651	NA	Amycolatopsis japonica	Bacteria	Actinobacteria	Amycolatopsis
@@ -2083,7 +2042,6 @@ EJ01_RS04170	hypothetical protein	NA	chlH	L	1588	NA	Methanobacterium veterum	Arc
 EJ01_RS14350	hypothetical protein	NA	bchH	L	1423	NA	Methanobacterium veterum	Archaea	Euryarchaeota	Methanobacterium
 EW57_RS08750	VWA domain-containing protein	NA	chlD	M	670	NA	Streptomyces atratus	Bacteria	Actinobacteria	Streptomyces
 EW57_RS23985	cobaltochelatase subunit CobN	NA	cobN	L	1199	NA	Streptomyces atratus	Bacteria	Actinobacteria	Streptomyces
-EW57_RS25615	MoxR family ATPase	NA	cobS	S	333	NA	Streptomyces atratus	Bacteria	Actinobacteria	Streptomyces
 EP26_RS12180	magnesium chelatase ATPase subunit I	NA	bchI	S	374	NA	Belnapia moabensis DSM 16746	Bacteria	Proteobacteria	Belnapia
 EP26_RS12240	magnesium chelatase subunit H	NA	bchH	L	1200	NA	Belnapia moabensis DSM 16746	Bacteria	Proteobacteria	Belnapia
 EP26_RS12175	magnesium chelatase	bchD	bchD	M	568	NA	Belnapia moabensis DSM 16746	Bacteria	Proteobacteria	Belnapia
@@ -2093,11 +2051,10 @@ EP26_RS20290	cobaltochelatase subunit CobN	NA	cobN	L	1090	NA	Belnapia moabensis 
 Q367_RS06280	magnesium chelatase	NA	bchI	S	461	NA	Ferrimicrobium acidiphilum DSM 19497	Bacteria	Actinobacteria	Ferrimicrobium
 Q367_RS09525	hypothetical protein	NA	chlD	M	573	NA	Ferrimicrobium acidiphilum DSM 19497	Bacteria	Actinobacteria	Ferrimicrobium
 Q367_RS09530	cobaltochelatase subunit CobN	NA	cobN	L	1180	NA	Ferrimicrobium acidiphilum DSM 19497	Bacteria	Actinobacteria	Ferrimicrobium
-Q367_RS11205	MoxR family ATPase	NA	bchI	S	315	NA	Ferrimicrobium acidiphilum DSM 19497	Bacteria	Actinobacteria	Ferrimicrobium
 Q363_RS13775	magnesium chelatase	NA	chlD	M	513	NA	Edaphobacter aggregans DSM 19364	Bacteria	Acidobacteria	Edaphobacter
+Q363_RS13870	sigma-54-dependent Fis family transcriptional regulator	NA	chlD	M	529	NA	Edaphobacter aggregans DSM 19364	Bacteria	Acidobacteria	Edaphobacter
 Q363_RS17170	magnesium chelatase	NA	chlD	M	579	NA	Edaphobacter aggregans DSM 19364	Bacteria	Acidobacteria	Edaphobacter
 Q363_RS17175	cobalt chelatase	NA	cobN	L	1461	NA	Edaphobacter aggregans DSM 19364	Bacteria	Acidobacteria	Edaphobacter
-Q363_RS25345	sigma-54-dependent Fis family transcriptional regulator	NA	bchI	S	457	NA	Edaphobacter aggregans DSM 19364	Bacteria	Acidobacteria	Edaphobacter
 CC87_RS04695	hypothetical protein	NA	chlD	M	628	NA	Thermodesulfobacterium hydrogeniphilum	Bacteria	Thermodesulfobacteria	Thermodesulfobacterium
 CC87_RS04585	cobaltochelatase subunit CobN	NA	cobN	L	1246	NA	Thermodesulfobacterium hydrogeniphilum	Bacteria	Thermodesulfobacteria	Thermodesulfobacterium
 CC87_RS04690	magnesium chelatase	NA	chlI	S	336	NA	Thermodesulfobacterium hydrogeniphilum	Bacteria	Thermodesulfobacteria	Thermodesulfobacterium
@@ -2134,7 +2091,6 @@ SGLAU_RS08115	VWA domain-containing protein	NA	chlD	M	663	NA	Streptomyces glauce
 SGLAU_RS08110	cobaltochelatase subunit CobN	NA	cobN	L	1220	NA	Streptomyces glaucescens	Bacteria	Actinobacteria	Streptomyces
 IN07_RS01375	magnesium chelatase	NA	chlD	M	694	NA	Modestobacter caceresii	Bacteria	Actinobacteria	Modestobacter
 IN07_RS04785	cobaltochelatase subunit CobN	NA	cobN	L	1205	NA	Modestobacter caceresii	Bacteria	Actinobacteria	Modestobacter
-IN07_RS22035	ATPase	NA	bchI	S	333	NA	Modestobacter caceresii	Bacteria	Actinobacteria	Modestobacter
 IN07_RS22805	magnesium chelatase	NA	bchI	S	492	NA	Modestobacter caceresii	Bacteria	Actinobacteria	Modestobacter
 IN07_RS22800	VWA domain-containing protein	NA	chlD	M	664	NA	Modestobacter caceresii	Bacteria	Actinobacteria	Modestobacter
 BRM9_RS09265	magnesium chelatase	NA	chlI	S	351	NA	Methanobacterium formicicum	Archaea	Euryarchaeota	Methanobacterium
@@ -2167,11 +2123,9 @@ KR76_RS17150	cobaltochelatase subunit CobN	NA	cobN	L	1209	NA	Pimelobacter simple
 KR76_RS20725	magnesium chelatase	NA	bchI	S	470	NA	Pimelobacter simplex	Bacteria	Actinobacteria	Pimelobacter
 MB27_RS06090	cobaltochelatase subunit CobN	NA	cobN	L	1176	NA	Actinoplanes utahensis	Bacteria	Actinobacteria	Actinoplanes
 MB27_RS27885	protoporphyrin IX magnesium chelatase	NA	chlD	M	773	NA	Actinoplanes utahensis	Bacteria	Actinobacteria	Actinoplanes
-MB27_RS31005	MoxR family ATPase	NA	bchI	S	338	NA	Actinoplanes utahensis	Bacteria	Actinobacteria	Actinoplanes
 MB27_RS42160	magnesium chelatase	NA	bchI	S	474	NA	Actinoplanes utahensis	Bacteria	Actinobacteria	Actinoplanes
 TR49_RS01220	magnesium chelatase	NA	chlD	M	683	NA	Streptacidiphilus melanogenes	Bacteria	Actinobacteria	Streptacidiphilus
 TR49_RS01225	cobaltochelatase subunit CobN	NA	cobN	L	1261	NA	Streptacidiphilus melanogenes	Bacteria	Actinobacteria	Streptacidiphilus
-TR49_RS26300	ATPase	NA	bchI	S	310	NA	Streptacidiphilus melanogenes	Bacteria	Actinobacteria	Streptacidiphilus
 AW38_RS06075	magnesium chelatase	NA	chlI	S	333	NA	Pseudomonas putida	Bacteria	Proteobacteria	Pseudomonas
 AW38_RS06075_fs_AW38_RS06080	magnesium chelatase | VWA domain-containing protein	NA	chlD	M	555	-1	Pseudomonas putida	Bacteria	Proteobacteria	Pseudomonas
 AW38_RS06070	cobaltochelatase subunit CobN	NA	cobN	L	1252	NA	Pseudomonas putida	Bacteria	Proteobacteria	Pseudomonas
@@ -2187,7 +2141,6 @@ NH26_RS05590	VWA domain-containing protein	NA	chlD	M	527	NA	Flammeovirga pacific
 NH26_RS05565	cobaltochelatase subunit CobN	NA	cobN	L	1248	NA	Flammeovirga pacifica	Bacteria	Bacteroidetes	Flammeovirga
 NH26_RS09985	hypothetical protein	NA	chlH	L	1402	NA	Flammeovirga pacifica	Bacteria	Bacteroidetes	Flammeovirga
 NH26_RS21625	magnesium chelatase	NA	chlD	M	503	NA	Flammeovirga pacifica	Bacteria	Bacteroidetes	Flammeovirga
-NH26_RS24425	MoxR family ATPase	NA	chlI	S	328	NA	Flammeovirga pacifica	Bacteria	Bacteroidetes	Flammeovirga
 NJ75_RS00080	cobaltochelatase subunit CobN	NA	cobN	L	1092	NA	Novosphingobium subterraneum	Bacteria	Proteobacteria	Novosphingobium
 NJ75_RS01170	cobaltochelatase subunit CobN	NA	cobN	L	1092	NA	Novosphingobium subterraneum	Bacteria	Proteobacteria	Novosphingobium
 NJ75_RS03715	cobalamin biosynthesis protein CobS	NA	cobS	S	326	NA	Novosphingobium subterraneum	Bacteria	Proteobacteria	Novosphingobium
@@ -2400,7 +2353,6 @@ NIG5292_RS12700	magnesium chelatase	NA	bchI	S	341	NA	Nereida ignava	Bacteria	Pro
 NIG5292_RS12785	magnesium chelatase subunit H	NA	bchH	L	1179	NA	Nereida ignava	Bacteria	Proteobacteria	Nereida
 NIG5292_RS12705	hypothetical protein	NA	bchD	M	549	NA	Nereida ignava	Bacteria	Proteobacteria	Nereida
 BN1837_RS05195	cobaltochelatase subunit CobN	NA	cobN	L	1189	NA	Mycobacterium malmesburyense	Bacteria	Actinobacteria	Mycobacterium
-BN1837_RS09670	AAA family ATPase	NA	bchI	S	333	NA	Mycobacterium malmesburyense	Bacteria	Actinobacteria	Mycobacterium
 BN1837_RS14400	magnesium chelatase	NA	bchI	S	461	NA	Mycobacterium malmesburyense	Bacteria	Actinobacteria	Mycobacterium
 BN1837_RS16740	VWA domain-containing protein	NA	chlD	M	615	NA	Mycobacterium malmesburyense	Bacteria	Actinobacteria	Mycobacterium
 BN1838_RS01330	cobaltochelatase subunit CobN	NA	cobN	L	1193	NA	Mycobacterium komaniense	Bacteria	Actinobacteria	Mycobacterium
@@ -2470,7 +2422,6 @@ AKG39_RS13555	hypothetical protein	NA	cobN	L	1146	NA	Acetobacterium bakii	Bacter
 F506_RS13830	magnesium chelatase	NA	chlD	M	654	NA	Herbaspirillum hiltneri N3	Bacteria	Proteobacteria	Herbaspirillum
 F506_RS13835	cobalt chelatase	NA	cobN	L	1382	NA	Herbaspirillum hiltneri N3	Bacteria	Proteobacteria	Herbaspirillum
 AOQ53_RS04755	cobaltochelatase subunit CobN	NA	cobN	L	1208	NA	Streptomyces azureus	Bacteria	Actinobacteria	Streptomyces
-AOQ53_RS24735	MoxR family ATPase	NA	bchI	S	345	NA	Streptomyces azureus	Bacteria	Actinobacteria	Streptomyces
 AOQ53_RS31055	VWA domain-containing protein	NA	chlD	M	670	NA	Streptomyces azureus	Bacteria	Actinobacteria	Streptomyces
 AOQ53_RS31050	cobaltochelatase subunit CobN	NA	cobN	L	1217	NA	Streptomyces azureus	Bacteria	Actinobacteria	Streptomyces
 H663_RS00685	hypothetical protein	NA	bchD	M	625	NA	Limnohabitans planktonicus II-D5	Bacteria	Proteobacteria	Limnohabitans
@@ -2496,7 +2447,6 @@ ISF6_RS04180	magnesium chelatase	bchH	bchH	L	1201	NA	Ideonella sakaiensis	Bacter
 ISF6_RS04245	hypothetical protein	NA	bchD	M	599	NA	Ideonella sakaiensis	Bacteria	Proteobacteria	Ideonella
 ISF6_RS21945	cobalamin biosynthesis protein CobS	NA	cobS	S	315	NA	Ideonella sakaiensis	Bacteria	Proteobacteria	Ideonella
 ISF6_RS21940	cobalt chelatase	NA	cobT	M	576	NA	Ideonella sakaiensis	Bacteria	Proteobacteria	Ideonella
-WG78_RS01815	AAA family ATPase	NA	chlI	S	325	NA	Amantichitinum ursilacus	Bacteria	Proteobacteria	Amantichitinum
 WG78_RS11600	magnesium chelatase	NA	chlI	S	344	NA	Amantichitinum ursilacus	Bacteria	Proteobacteria	Amantichitinum
 WG78_RS11600_fs_WG78_RS11595	magnesium chelatase | VWA domain-containing protein	NA	chlD	M	556	-1	Amantichitinum ursilacus	Bacteria	Proteobacteria	Amantichitinum
 WG78_RS11605	cobaltochelatase subunit CobN	NA	cobN	L	1259	NA	Amantichitinum ursilacus	Bacteria	Proteobacteria	Amantichitinum
@@ -2523,7 +2473,6 @@ ABB55_RS15400	hypothetical protein	NA	bchD	M	584	NA	Prosthecomicrobium hirschii	
 ADN01_RS01555	ATP-binding protein	NA	chlI	S	354	NA	Levilinea saccharolytica	Bacteria	Chloroflexi	Levilinea
 ADN01_RS05010	magnesium chelatase	NA	chlI	S	366	NA	Levilinea saccharolytica	Bacteria	Chloroflexi	Levilinea
 ADN01_RS05010_fs_ADN01_RS05015	magnesium chelatase | hypothetical protein	NA	chlD	M	690	-1	Levilinea saccharolytica	Bacteria	Chloroflexi	Levilinea
-ADN01_RS06505	MoxR family ATPase	NA	bchI	S	325	NA	Levilinea saccharolytica	Bacteria	Chloroflexi	Levilinea
 AC812_RS01135	ATP-binding protein	NA	chlI	S	397	NA	Bellilinea caldifistulae	Bacteria	Chloroflexi	Bellilinea
 AC812_RS06745	magnesium chelatase	NA	chlI	S	366	NA	Bellilinea caldifistulae	Bacteria	Chloroflexi	Bellilinea
 AC812_RS06745_fs_AC812_RS06740	magnesium chelatase | hypothetical protein	NA	chlD	M	694	-1	Bellilinea caldifistulae	Bacteria	Chloroflexi	Bellilinea
@@ -2582,25 +2531,18 @@ APZ15_RS18835	cobalt chelatase	NA	cobT	M	573	NA	Burkholderia cepacia ATCC 25416	
 APZ15_RS35275	cobalamin biosynthesis protein CobT	NA	cobT	M	567	NA	Burkholderia cepacia ATCC 25416	Bacteria	Proteobacteria	Burkholderia
 ASC49_RS02345	cobaltochelatase subunit CobN	NA	cobN	L	1282	NA	Marinomonas fungiae	Bacteria	Proteobacteria	Marinomonas
 ASC49_RS11250	magnesium chelatase	NA	chlD	M	586	NA	Marinomonas fungiae	Bacteria	Proteobacteria	Marinomonas
-AOK01_RS11930	MoxR family ATPase	NA	bchI	S	345	NA	Streptomyces aurantiacus	Bacteria	Actinobacteria	Streptomyces
 AOK01_RS31280	VWA domain-containing protein	NA	chlD	M	696	NA	Streptomyces aurantiacus	Bacteria	Actinobacteria	Streptomyces
 AOK01_RS36765	cobaltochelatase subunit CobN	NA	cobN	L	1197	NA	Streptomyces aurantiacus	Bacteria	Actinobacteria	Streptomyces
-AOK15_RS07440	MoxR family ATPase	NA	bchI	S	346	NA	Streptomyces ossamyceticus	Bacteria	Actinobacteria	Streptomyces
 AOK15_RS20330	VWA domain-containing protein	NA	chlD	M	671	NA	Streptomyces ossamyceticus	Bacteria	Actinobacteria	Streptomyces
 AOK15_RS20325	cobaltochelatase subunit CobN	NA	cobN	L	1220	NA	Streptomyces ossamyceticus	Bacteria	Actinobacteria	Streptomyces
 AOK16_RS11935	VWA domain-containing protein	NA	chlD	M	713	NA	Streptomyces pathocidini	Bacteria	Actinobacteria	Streptomyces
 AOK16_RS11930	cobaltochelatase subunit CobN	NA	cobN	L	1228	NA	Streptomyces pathocidini	Bacteria	Actinobacteria	Streptomyces
-AOK16_RS23965	MoxR family ATPase	NA	bchI	S	340	NA	Streptomyces pathocidini	Bacteria	Actinobacteria	Streptomyces
 AOK10_RS24505	VWA domain-containing protein	NA	chlD	M	664	NA	Streptomyces griseoruber	Bacteria	Actinobacteria	Streptomyces
 AOK10_RS24510	cobaltochelatase subunit CobN	NA	cobN	L	1217	NA	Streptomyces griseoruber	Bacteria	Actinobacteria	Streptomyces
-AOK10_RS44520	MoxR family ATPase	NA	bchI	S	345	NA	Streptomyces griseoruber	Bacteria	Actinobacteria	Streptomyces
-AOK17_RS10405	MoxR family ATPase	NA	bchI	S	345	NA	Streptomyces phaeochromogenes	Bacteria	Actinobacteria	Streptomyces
 AOK17_RS32730	VWA domain-containing protein	NA	chlD	M	690	NA	Streptomyces phaeochromogenes	Bacteria	Actinobacteria	Streptomyces
 AOK17_RS32735	cobaltochelatase subunit CobN	NA	cobN	L	1217	NA	Streptomyces phaeochromogenes	Bacteria	Actinobacteria	Streptomyces
-AOK17_RS46400	MoxR family ATPase	NA	bchI	S	302	NA	Streptomyces phaeochromogenes	Bacteria	Actinobacteria	Streptomyces
 AOK18_RS04760	VWA domain-containing protein	NA	chlD	M	675	NA	Streptomyces prasinopilosus	Bacteria	Actinobacteria	Streptomyces
 AOK18_RS05805	cobaltochelatase subunit CobN	NA	cobN	L	1211	NA	Streptomyces prasinopilosus	Bacteria	Actinobacteria	Streptomyces
-AOK18_RS19160	MoxR family ATPase	NA	bchI	S	337	NA	Streptomyces prasinopilosus	Bacteria	Actinobacteria	Streptomyces
 AN957_RS17170	hypothetical protein	NA	chlD	M	563	NA	Bacillus solani	Bacteria	Firmicutes	Bacillus
 AN957_RS17165	hypothetical protein	NA	chlH	L	1251	NA	Bacillus solani	Bacteria	Firmicutes	Bacillus
 AN957_RS17175	hypothetical protein	NA	chlI	S	318	NA	Bacillus solani	Bacteria	Firmicutes	Bacillus
@@ -2646,13 +2588,9 @@ Lrub_RS11750	magnesium chelatase subunit H	NA	chlH	L	1248	NA	Legionella rubriluc
 Lrub_RS11745	magnesium chelatase ATPase subunit I	NA	chlI	S	371	NA	Legionella rubrilucens	Bacteria	Proteobacteria	Legionella
 AUW17_RS05060	hypothetical protein	NA	chlD	M	565	NA	Tenacibaculum dicentrarchi	Bacteria	Bacteroidetes	Tenacibaculum
 AUW17_RS05040	cobaltochelatase subunit CobN	NA	cobN	L	1252	NA	Tenacibaculum dicentrarchi	Bacteria	Bacteroidetes	Tenacibaculum
-APY94_RS02090	MoxR family ATPase	NA	bchI	S	309	NA	Thermococcus celericrescens	Archaea	Euryarchaeota	Thermococcus
 APY94_RS03160	magnesium chelatase	NA	chlD	M	641	NA	Thermococcus celericrescens	Archaea	Euryarchaeota	Thermococcus
 APY94_RS03165	cobalt chelatase	NA	chlH	L	1252	NA	Thermococcus celericrescens	Archaea	Euryarchaeota	Thermococcus
-APY94_RS09345	MoxR family ATPase	NA	bchI	S	324	NA	Thermococcus celericrescens	Archaea	Euryarchaeota	Thermococcus
-APY94_RS09785	MoxR family ATPase	NA	bchI	S	324	NA	Thermococcus celericrescens	Archaea	Euryarchaeota	Thermococcus
 GD1_RS02445	cobaltochelatase subunit CobN	NA	cobN	L	1209	NA	Gordonia desulfuricans NBRC 100010	Bacteria	Actinobacteria	Gordonia
-GD1_RS07490	MoxR family ATPase	NA	cobS	S	331	NA	Gordonia desulfuricans NBRC 100010	Bacteria	Actinobacteria	Gordonia
 GD1_RS10520	magnesium chelatase	NA	chlD	M	603	NA	Gordonia desulfuricans NBRC 100010	Bacteria	Actinobacteria	Gordonia
 GD1_RS15380	magnesium chelatase	NA	bchI	S	486	NA	Gordonia desulfuricans NBRC 100010	Bacteria	Actinobacteria	Gordonia
 HHUB_RS09100	magnesium chelatase	NA	chlD	M	686	NA	Halobacterium hubeiense	Archaea	Euryarchaeota	Halobacterium
@@ -2728,7 +2666,6 @@ ACH01S_RS31935	cobaltochelatase subunit CobN	NA	cobN	L	1222	NA	Actinomadura chib
 AKI01S_RS16935	magnesium chelatase	NA	chlD	M	717	NA	Actinomadura kijaniata NBRC 14229	Bacteria	Actinobacteria	Actinomadura
 AKI01S_RS23840	magnesium chelatase	NA	bchI	S	472	NA	Actinomadura kijaniata NBRC 14229	Bacteria	Actinobacteria	Actinomadura
 AKI01S_RS30970	cobaltochelatase subunit CobN	NA	cobN	L	1184	NA	Actinomadura kijaniata NBRC 14229	Bacteria	Actinobacteria	Actinomadura
-AKI01S_RS41595	MoxR family ATPase	NA	bchI	S	337	NA	Actinomadura kijaniata NBRC 14229	Bacteria	Actinobacteria	Actinomadura
 AMA02S_RS11410	magnesium chelatase	NA	bchI	S	473	NA	Actinomadura macra NBRC 14102	Bacteria	Actinobacteria	Actinomadura
 AMA02S_RS21215	magnesium chelatase	NA	chlD	M	680	NA	Actinomadura macra NBRC 14102	Bacteria	Actinobacteria	Actinomadura
 AMA02S_RS21685	magnesium chelatase	NA	bchI	S	347	NA	Actinomadura macra NBRC 14102	Bacteria	Actinobacteria	Actinomadura
@@ -2737,14 +2674,12 @@ AMA02S_RS35840	cobaltochelatase subunit CobN	NA	cobN	L	1180	NA	Actinomadura macr
 AR3_RS06385	magnesium chelatase	NA	chlD	M	676	NA	Actinomadura rubrobrunea NBRC 15275	Bacteria	Actinobacteria	Actinomadura
 AR3_RS06285	cobaltochelatase subunit CobN	NA	cobN	L	1217	NA	Actinomadura rubrobrunea NBRC 15275	Bacteria	Actinobacteria	Actinomadura
 AR3_RS26775	magnesium chelatase	NA	bchI	S	500	NA	Actinomadura rubrobrunea NBRC 15275	Bacteria	Actinobacteria	Actinomadura
-AR3_RS27720	MoxR family ATPase	NA	bchI	S	396	NA	Actinomadura rubrobrunea NBRC 15275	Bacteria	Actinobacteria	Actinomadura
 CX1_RS09470	magnesium chelatase	NA	chlI	S	356	NA	Corynebacterium xerosis NBRC 16721	Bacteria	Actinobacteria	Corynebacterium
 CX1_RS09470_fs_CX1_RS09465	magnesium chelatase | VWA domain-containing protein	NA	chlD	M	613	1	Corynebacterium xerosis NBRC 16721	Bacteria	Actinobacteria	Corynebacterium
 CX1_RS10375	cobaltochelatase subunit CobN	NA	cobN	L	1249	NA	Corynebacterium xerosis NBRC 16721	Bacteria	Actinobacteria	Corynebacterium
 NT8_RS15850	magnesium chelatase	NA	bchI	S	358	NA	Nocardiopsis trehalosi NBRC 14201	Bacteria	Actinobacteria	Nocardiopsis
 NT8_RS16280	magnesium chelatase	NA	chlD	M	686	NA	Nocardiopsis trehalosi NBRC 14201	Bacteria	Actinobacteria	Nocardiopsis
 NT8_RS16335	cobaltochelatase subunit CobN	NA	cobN	L	1248	NA	Nocardiopsis trehalosi NBRC 14201	Bacteria	Actinobacteria	Nocardiopsis
-NT8_RS16750	MoxR family ATPase	NA	bchI	S	320	NA	Nocardiopsis trehalosi NBRC 14201	Bacteria	Actinobacteria	Nocardiopsis
 MB1_RS10130	cobaltochelatase subunit CobN	NA	cobN	L	1202	NA	Millisia brevis NBRC 105863	Bacteria	Actinobacteria	Millisia
 MB1_RS15485	magnesium chelatase	NA	bchI	S	468	NA	Millisia brevis NBRC 105863	Bacteria	Actinobacteria	Millisia
 MB1_RS20600	magnesium chelatase	NA	chlD	M	669	NA	Millisia brevis NBRC 105863	Bacteria	Actinobacteria	Millisia
@@ -2779,7 +2714,6 @@ AN618_RS03920	AAA family ATPase	NA	bchI	S	474	NA	Fervidicola ferrireducens	Bacte
 AWW66_RS09680	magnesium chelatase	NA	bchI	S	480	NA	Micromonospora rosaria	Bacteria	Actinobacteria	Micromonospora
 AWW66_RS21255	magnesium chelatase	NA	chlD	M	688	NA	Micromonospora rosaria	Bacteria	Actinobacteria	Micromonospora
 AWW66_RS21270	cobaltochelatase subunit CobN	NA	cobN	L	1212	NA	Micromonospora rosaria	Bacteria	Actinobacteria	Micromonospora
-AWW66_RS30305	MoxR family ATPase	NA	bchI	S	331	NA	Micromonospora rosaria	Bacteria	Actinobacteria	Micromonospora
 APK37_RS02440	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium brisbanense	Bacteria	Actinobacteria	Mycobacterium
 APK37_RS10175	hypothetical protein	NA	chlD	M	627	NA	Mycobacterium brisbanense	Bacteria	Actinobacteria	Mycobacterium
 APK37_RS21785	cobaltochelatase subunit CobN	NA	cobN	L	1220	NA	Mycobacterium brisbanense	Bacteria	Actinobacteria	Mycobacterium
@@ -2790,7 +2724,6 @@ AW272_RS20765	ABC transporter ATP-binding protein	NA	bchI	S	355	NA	Herbidospora 
 AW272_RS22110	magnesium chelatase	NA	chlD	M	668	NA	Herbidospora mongoliensis	Bacteria	Actinobacteria	Herbidospora
 AW272_RS22160	cobaltochelatase subunit CobN	NA	cobN	L	1209	NA	Herbidospora mongoliensis	Bacteria	Actinobacteria	Herbidospora
 AW272_RS28785	magnesium chelatase	NA	bchI	S	457	NA	Herbidospora mongoliensis	Bacteria	Actinobacteria	Herbidospora
-AW272_RS31525	MoxR family ATPase	NA	bchI	S	317	NA	Herbidospora mongoliensis	Bacteria	Actinobacteria	Herbidospora
 NLI01S_RS00990	magnesium chelatase	NA	chlD	M	711	NA	Nocardiopsis listeri NBRC 13360	Bacteria	Actinobacteria	Nocardiopsis
 NLI01S_RS00960	cobaltochelatase subunit CobN	NA	cobN	L	1196	NA	Nocardiopsis listeri NBRC 13360	Bacteria	Actinobacteria	Nocardiopsis
 NLI01S_RS20090	magnesium chelatase	NA	bchI	S	473	NA	Nocardiopsis listeri NBRC 13360	Bacteria	Actinobacteria	Nocardiopsis
@@ -2844,7 +2777,6 @@ ATZ99_RS09855	sigma-54-dependent Fis family transcriptional regulator	NA	bchI	S	
 ATZ99_RS11095	magnesium chelatase	NA	bchI	S	432	NA	Thermovenabulum gondwanense	Bacteria	Firmicutes	Thermovenabulum
 ATZ99_RS11090	VWA domain-containing protein	NA	chlD	M	538	NA	Thermovenabulum gondwanense	Bacteria	Firmicutes	Thermovenabulum
 NAM01S_RS09285	magnesium chelatase	NA	chlD	M	657	NA	Nocardia amikacinitolerans NBRC 108937	Bacteria	Actinobacteria	Nocardia
-NAM01S_RS17180	MoxR family ATPase	NA	chlI	S	326	NA	Nocardia amikacinitolerans NBRC 108937	Bacteria	Actinobacteria	Nocardia
 NAM01S_RS32145	cobaltochelatase subunit CobN	NA	cobN	L	1218	NA	Nocardia amikacinitolerans NBRC 108937	Bacteria	Actinobacteria	Nocardia
 NA8_RS13635	magnesium chelatase	NA	chlD	M	645	NA	Nocardia arthritidis NBRC 100137	Bacteria	Actinobacteria	Nocardia
 NA8_RS15765	magnesium chelatase	NA	bchI	S	464	NA	Nocardia arthritidis NBRC 100137	Bacteria	Actinobacteria	Nocardia
@@ -2998,7 +2930,6 @@ BB341_RS22695	VWA domain-containing protein	NA	chlD	M	737	NA	Streptomyces clavul
 BB341_RS15540	cobaltochelatase subunit CobN	NA	cobN	L	1219	NA	Streptomyces clavuligerus	Bacteria	Actinobacteria	Streptomyces
 BCR15_RS05770	VWA domain-containing protein	NA	chlD	M	665	NA	Tessaracoccus lapidicaptus	Bacteria	Actinobacteria	Tessaracoccus
 BCR15_RS05835	cobaltochelatase subunit CobN	NA	cobN	L	1203	NA	Tessaracoccus lapidicaptus	Bacteria	Actinobacteria	Tessaracoccus
-BCR15_RS07805	MoxR family ATPase	NA	bchI	S	324	NA	Tessaracoccus lapidicaptus	Bacteria	Actinobacteria	Tessaracoccus
 EV45_RS21510	VWA domain-containing protein	NA	chlD	M	705	NA	Planobispora rosea	Bacteria	Actinobacteria	Planobispora
 EV45_RS21110	cobaltochelatase subunit CobN	NA	cobN	L	1233	NA	Planobispora rosea	Bacteria	Actinobacteria	Planobispora
 EV45_RS32965	magnesium chelatase	NA	bchI	S	468	NA	Planobispora rosea	Bacteria	Actinobacteria	Planobispora
@@ -3016,7 +2947,6 @@ AWJ14_RS08890	cobaltochelatase subunit CobN	NA	cobN	L	1305	NA	Hoeflea olei	Bacte
 SNOUR_RS29670	VWA domain-containing protein	NA	chlD	M	723	NA	Streptomyces noursei ATCC 11455	Bacteria	Actinobacteria	Streptomyces
 SNOUR_RS20885	cobaltochelatase subunit CobN	NA	cobN	L	1200	NA	Streptomyces noursei ATCC 11455	Bacteria	Actinobacteria	Streptomyces
 BBH68_RS01295	VWA domain-containing protein	NA	chlD	M	722	NA	Streptomyces sparsogenes	Bacteria	Actinobacteria	Streptomyces
-BBH68_RS02490	MoxR family ATPase	NA	bchI	S	399	NA	Streptomyces sparsogenes	Bacteria	Actinobacteria	Streptomyces
 Ga0102493_RS04450	magnesium chelatase ATPase subunit I	NA	bchI	S	333	NA	Erythrobacter litoralis	Bacteria	Proteobacteria	Erythrobacter
 Ga0102493_RS04335	magnesium chelatase subunit H	NA	bchH	L	1216	NA	Erythrobacter litoralis	Bacteria	Proteobacteria	Erythrobacter
 Ga0102493_RS05400	cobaltochelatase subunit CobT	NA	cobT	M	616	NA	Erythrobacter litoralis	Bacteria	Proteobacteria	Erythrobacter
@@ -3026,12 +2956,9 @@ BHQ18_RS00065	VWA domain-containing protein	NA	chlD	M	609	NA	Mycobacterium flave
 BHQ18_RS04045	ABC transporter ATP-binding protein	NA	chlI	S	251	NA	Mycobacterium flavescens	Bacteria	Actinobacteria	Mycobacterium
 BHQ18_RS09845	cobaltochelatase subunit CobN	NA	cobN	L	1194	NA	Mycobacterium flavescens	Bacteria	Actinobacteria	Mycobacterium
 BHQ18_RS20155	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium flavescens	Bacteria	Actinobacteria	Mycobacterium
-BHQ18_RS21985	AAA family ATPase	NA	bchI	S	332	NA	Mycobacterium flavescens	Bacteria	Actinobacteria	Mycobacterium
-BHQ18_RS26990	MoxR family ATPase	NA	cobS	S	317	NA	Mycobacterium flavescens	Bacteria	Actinobacteria	Mycobacterium
 BHQ17_RS15355	VWA domain-containing protein	NA	chlD	M	611	NA	Mycobacterium holsaticum	Bacteria	Actinobacteria	Mycobacterium
 BHQ17_RS16170	cobaltochelatase subunit CobN	NA	cobN	L	1194	NA	Mycobacterium holsaticum	Bacteria	Actinobacteria	Mycobacterium
 BHQ17_RS24405	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium holsaticum	Bacteria	Actinobacteria	Mycobacterium
-BHQ17_RS28165	MoxR family ATPase	NA	chlI	S	319	NA	Mycobacterium holsaticum	Bacteria	Actinobacteria	Mycobacterium
 SL103_RS09890	VWA domain-containing protein	NA	chlD	M	719	NA	Streptomyces lydicus	Bacteria	Actinobacteria	Streptomyces
 SL103_RS00585	cobaltochelatase subunit CobN	NA	cobN	L	1201	NA	Streptomyces lydicus	Bacteria	Actinobacteria	Streptomyces
 BFF78_RS32075	VWA domain-containing protein	NA	chlD	M	662	NA	Streptomyces puniciscabiei	Bacteria	Actinobacteria	Streptomyces
@@ -3112,7 +3039,6 @@ BRW63_RS03500	magnesium chelatase ATPase subunit D	NA	chlD	M	684	NA	Phormidesmis
 BRW63_RS04665	magnesium chelatase ATPase subunit I	NA	chlI	S	366	NA	Phormidesmis priestleyi ULC007	Bacteria	Cyanobacteria	Phormidesmis
 BRW63_RS05585	magnesium chelatase subunit H	NA	bchH	L	1215	NA	Phormidesmis priestleyi ULC007	Bacteria	Cyanobacteria	Phormidesmis
 BRW63_RS15335	magnesium chelatase subunit H	NA	chlH	L	1327	NA	Phormidesmis priestleyi ULC007	Bacteria	Cyanobacteria	Phormidesmis
-BRW63_RS17775	MoxR family ATPase	NA	bchI	S	302	NA	Phormidesmis priestleyi ULC007	Bacteria	Cyanobacteria	Phormidesmis
 BRW63_RS22315	cobaltochelatase subunit CobN	NA	cobN	L	1239	NA	Phormidesmis priestleyi ULC007	Bacteria	Cyanobacteria	Phormidesmis
 NIES208_RS01520	magnesium chelatase subunit H	NA	chlH	L	1333	NA	Limnothrix rosea IAM M-220	Bacteria	Cyanobacteria	Limnothrix
 NIES208_RS11370	magnesium chelatase ATPase subunit D	NA	chlD	M	685	NA	Limnothrix rosea IAM M-220	Bacteria	Cyanobacteria	Limnothrix
@@ -3128,14 +3054,12 @@ FACHB389_RS15745	magnesium chelatase ATPase subunit I	NA	chlI	S	374	NA	Nostoc ca
 FACHB389_RS19740	magnesium chelatase subunit H	NA	bchH	L	1230	NA	Nostoc calcicola FACHB-389	Bacteria	Cyanobacteria	Nostoc
 FACHB389_RS23000	magnesium chelatase subunit H	NA	chlH	L	1328	NA	Nostoc calcicola FACHB-389	Bacteria	Cyanobacteria	Nostoc
 FACHB389_RS24010	cobaltochelatase subunit CobN	NA	cobN	L	1467	NA	Nostoc calcicola FACHB-389	Bacteria	Cyanobacteria	Nostoc
-FACHB389_RS24730	MoxR family ATPase	NA	bchI	S	302	NA	Nostoc calcicola FACHB-389	Bacteria	Cyanobacteria	Nostoc
 FACHB389_RS25715	magnesium chelatase ATPase subunit D	NA	chlD	M	675	NA	Nostoc calcicola FACHB-389	Bacteria	Cyanobacteria	Nostoc
 NIES2119_RS06520	magnesium chelatase subunit H	NA	chlH	L	1325	NA	Phormidium ambiguum IAM M-71	Bacteria	Cyanobacteria	Phormidium
 NIES2119_RS08025	magnesium chelatase ATPase subunit D	NA	chlD	M	658	NA	Phormidium ambiguum IAM M-71	Bacteria	Cyanobacteria	Phormidium
 NIES2119_RS18390	magnesium chelatase ATPase subunit I	NA	chlI	S	375	NA	Phormidium ambiguum IAM M-71	Bacteria	Cyanobacteria	Phormidium
 NIES2119_RS26535	magnesium chelatase subunit H	NA	bchH	L	1226	NA	Phormidium ambiguum IAM M-71	Bacteria	Cyanobacteria	Phormidium
 NIES2119_RS28210	cobaltochelatase subunit CobN	NA	cobN	L	1247	NA	Phormidium ambiguum IAM M-71	Bacteria	Cyanobacteria	Phormidium
-NIES30_RS05165	MoxR family ATPase	NA	cobS	S	302	NA	Phormidium tenue NIES-30	Bacteria	Cyanobacteria	Phormidium
 NIES30_RS06230	magnesium chelatase ATPase subunit D	NA	chlD	M	681	NA	Phormidium tenue NIES-30	Bacteria	Cyanobacteria	Phormidium
 NIES30_RS11780	magnesium chelatase subunit H	NA	chlH	L	1332	NA	Phormidium tenue NIES-30	Bacteria	Cyanobacteria	Phormidium
 NIES30_RS22615	cobaltochelatase subunit CobN	NA	cobN	L	1297	NA	Phormidium tenue NIES-30	Bacteria	Cyanobacteria	Phormidium
@@ -3146,12 +3070,9 @@ RH94_RS35075	VWA domain-containing protein	NA	chlD	M	662	NA	Streptomyces kebangs
 BRW64_RS05585	cobaltochelatase subunit CobN	NA	cobN	L	1197	NA	Mycobacterium diernhoferi	Bacteria	Actinobacteria	Mycobacterium
 BRW64_RS10780	VWA domain-containing protein	NA	chlD	M	618	NA	Mycobacterium diernhoferi	Bacteria	Actinobacteria	Mycobacterium
 BRW64_RS24110	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium diernhoferi	Bacteria	Actinobacteria	Mycobacterium
-BRW64_RS25210	AAA family ATPase	NA	bchI	S	333	NA	Mycobacterium diernhoferi	Bacteria	Actinobacteria	Mycobacterium
-BRW64_RS26015	MoxR family ATPase	NA	cobS	S	317	NA	Mycobacterium diernhoferi	Bacteria	Actinobacteria	Mycobacterium
 BJP27_RS02885	magnesium chelatase	NA	chlI	S	347	NA	Pseudomonas psychrotolerans	Bacteria	Proteobacteria	Pseudomonas
 BJP27_RS02885_fs_BJP27_RS02880	magnesium chelatase | VWA domain-containing protein	NA	chlD	M	569	-1	Pseudomonas psychrotolerans	Bacteria	Proteobacteria	Pseudomonas
 BJP27_RS02890	cobaltochelatase subunit CobN	NA	cobN	L	1249	NA	Pseudomonas psychrotolerans	Bacteria	Proteobacteria	Pseudomonas
-BJP25_RS01380	MoxR family ATPase	NA	bchI	S	327	NA	Actinokineospora bangkokensis	Bacteria	Actinobacteria	Actinokineospora
 BJP25_RS07235	magnesium chelatase	NA	bchI	S	467	NA	Actinokineospora bangkokensis	Bacteria	Actinobacteria	Actinokineospora
 BJP25_RS08075	VWA domain-containing protein	NA	chlD	M	683	NA	Actinokineospora bangkokensis	Bacteria	Actinobacteria	Actinokineospora
 BJP25_RS08220	cobaltochelatase subunit CobN	NA	cobN	L	1194	NA	Actinokineospora bangkokensis	Bacteria	Actinobacteria	Actinokineospora
@@ -3184,7 +3105,6 @@ RA876_RS02030_fs_RA876_RS02035	magnesium chelatase | VWA domain-containing prote
 RA876_RS02025	cobaltochelatase subunit CobN	NA	cobN	L	1281	NA	Rhodoferax antarcticus	Bacteria	Proteobacteria	Rhodoferax
 RA876_RS06120	magnesium chelatase subunit H	NA	bchH	L	1273	NA	Rhodoferax antarcticus	Bacteria	Proteobacteria	Rhodoferax
 RA876_RS06170	VWA domain-containing protein	NA	bchD	M	599	NA	Rhodoferax antarcticus	Bacteria	Proteobacteria	Rhodoferax
-BK138_RS19515	MoxR family ATPase	NA	bchI	S	324	NA	Paenibacillus rhizosphaerae	Bacteria	Firmicutes	Paenibacillus
 BK138_RS29830	VWA domain-containing protein	NA	chlD	M	659	NA	Paenibacillus rhizosphaerae	Bacteria	Firmicutes	Paenibacillus
 BK138_RS29825	magnesium chelatase	NA	chlH	L	1234	NA	Paenibacillus rhizosphaerae	Bacteria	Firmicutes	Paenibacillus
 BK138_RS29835	magnesium chelatase	NA	chlI	S	312	NA	Paenibacillus rhizosphaerae	Bacteria	Firmicutes	Paenibacillus
@@ -3210,10 +3130,8 @@ B1R94_RS23090	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium litorale	Bacter
 BBN63_RS27795	VWA domain-containing protein	NA	chlD	M	695	NA	Streptomyces niveus	Bacteria	Actinobacteria	Streptomyces
 BBN63_RS27800	cobaltochelatase subunit CobN	NA	cobN	L	1240	NA	Streptomyces niveus	Bacteria	Actinobacteria	Streptomyces
 B4387_RS17750	cobaltochelatase subunit CobN	NA	cobN	L	1205	NA	Mycobacterium salmoniphilum	Bacteria	Actinobacteria	Mycobacterium
-B4387_RS18855	MoxR family ATPase	NA	cobS	S	320	NA	Mycobacterium salmoniphilum	Bacteria	Actinobacteria	Mycobacterium
 B4387_RS20205	VWA domain-containing protein	NA	chlD	M	626	NA	Mycobacterium salmoniphilum	Bacteria	Actinobacteria	Mycobacterium
 B4393_RS13105	VWA domain-containing protein	NA	chlD	M	628	NA	Mycobacterium franklinii	Bacteria	Actinobacteria	Mycobacterium
-B4393_RS16875	MoxR family ATPase	NA	cobS	S	320	NA	Mycobacterium franklinii	Bacteria	Actinobacteria	Mycobacterium
 B4393_RS25725	cobaltochelatase subunit CobN	NA	cobN	L	1211	NA	Mycobacterium franklinii	Bacteria	Actinobacteria	Mycobacterium
 RF819_RS04335	magnesium chelatase ATPase subunit I	NA	bchI	S	339	NA	Rhodoferax fermentans	Bacteria	Proteobacteria	Rhodoferax
 RF819_RS04395	magnesium chelatase subunit H	NA	bchH	L	1273	NA	Rhodoferax fermentans	Bacteria	Proteobacteria	Rhodoferax
@@ -3246,7 +3164,6 @@ BST14_RS24955	magnesium chelatase	NA	bchI	S	464	NA	Mycobacterium arosiense ATCC 
 BST21_RS01025	VWA domain-containing protein	NA	chlD	M	606	NA	Mycobacterium celeriflavum	Bacteria	Actinobacteria	Mycobacterium
 BST21_RS05060	cobaltochelatase subunit CobN	NA	cobN	L	1201	NA	Mycobacterium celeriflavum	Bacteria	Actinobacteria	Mycobacterium
 BST21_RS11940	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium celeriflavum	Bacteria	Actinobacteria	Mycobacterium
-BST21_RS19570	AAA family ATPase	NA	bchI	S	333	NA	Mycobacterium celeriflavum	Bacteria	Actinobacteria	Mycobacterium
 BST25_RS02895	cobaltochelatase subunit CobN	NA	cobN	L	1195	NA	Mycobacterium heidelbergense	Bacteria	Actinobacteria	Mycobacterium
 BST25_RS04635	VWA domain-containing protein	NA	chlD	M	605	NA	Mycobacterium heidelbergense	Bacteria	Actinobacteria	Mycobacterium
 BST25_RS08985	magnesium chelatase	NA	bchI	S	461	NA	Mycobacterium heidelbergense	Bacteria	Actinobacteria	Mycobacterium
@@ -3264,7 +3181,6 @@ BST30_RS22510	VWA domain-containing protein	NA	chlD	M	615	NA	Mycobacterium mante
 BST36_RS00830	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium moriokaense	Bacteria	Actinobacteria	Mycobacterium
 BST36_RS04985	VWA domain-containing protein	NA	chlD	M	606	NA	Mycobacterium moriokaense	Bacteria	Actinobacteria	Mycobacterium
 BST36_RS10870	cobaltochelatase subunit CobN	NA	cobN	L	1194	NA	Mycobacterium moriokaense	Bacteria	Actinobacteria	Mycobacterium
-BST36_RS24915	AAA family ATPase	NA	bchI	S	333	NA	Mycobacterium moriokaense	Bacteria	Actinobacteria	Mycobacterium
 BST33_RS05510	VWA domain-containing protein	NA	chlD	M	660	NA	Mycobacterium minnesotense	Bacteria	Actinobacteria	Mycobacterium
 BST33_RS05455	cobaltochelatase subunit CobN	NA	cobN	L	1193	NA	Mycobacterium minnesotense	Bacteria	Actinobacteria	Mycobacterium
 BST33_RS10905	magnesium chelatase	NA	bchI	S	465	NA	Mycobacterium minnesotense	Bacteria	Actinobacteria	Mycobacterium
@@ -3274,7 +3190,6 @@ BST37_RS11765	VWA domain-containing protein	NA	chlD	M	607	NA	Mycobacterium novio
 BST11_RS08295	magnesium chelatase	NA	bchI	S	461	NA	Mycobacterium alsense	Bacteria	Actinobacteria	Mycobacterium
 BST11_RS10305	cobaltochelatase subunit CobN	NA	cobN	L	1191	NA	Mycobacterium alsense	Bacteria	Actinobacteria	Mycobacterium
 BST11_RS11150	VWA domain-containing protein	NA	chlD	M	611	NA	Mycobacterium alsense	Bacteria	Actinobacteria	Mycobacterium
-BST11_RS21705	MoxR family ATPase	NA	bchI	S	377	NA	Mycobacterium alsense	Bacteria	Actinobacteria	Mycobacterium
 BST47_RS00515	cobaltochelatase subunit CobN	NA	cobN	L	1194	NA	Mycobacterium tusciae	Bacteria	Actinobacteria	Mycobacterium
 BST47_RS16350	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium tusciae	Bacteria	Actinobacteria	Mycobacterium
 BST47_RS20765	VWA domain-containing protein	NA	chlD	M	609	NA	Mycobacterium tusciae	Bacteria	Actinobacteria	Mycobacterium
@@ -3305,7 +3220,6 @@ AWC22_RS27235	VWA domain-containing protein	NA	chlD	M	607	NA	Mycobacterium riyad
 AWC23_RS13210	magnesium chelatase	NA	bchI	S	461	NA	Mycobacterium saskatchewanense	Bacteria	Actinobacteria	Mycobacterium
 AWC23_RS14510	VWA domain-containing protein	NA	chlD	M	607	NA	Mycobacterium saskatchewanense	Bacteria	Actinobacteria	Mycobacterium
 AWC23_RS20310	cobaltochelatase subunit CobN	NA	cobN	L	1190	NA	Mycobacterium saskatchewanense	Bacteria	Actinobacteria	Mycobacterium
-AWC23_RS22425	MoxR family ATPase	NA	bchI	S	334	NA	Mycobacterium saskatchewanense	Bacteria	Actinobacteria	Mycobacterium
 AWC24_RS04725	magnesium chelatase	NA	bchI	S	462	NA	Mycobacterium senuense	Bacteria	Actinobacteria	Mycobacterium
 AWC24_RS18580	VWA domain-containing protein	NA	chlD	M	658	NA	Mycobacterium senuense	Bacteria	Actinobacteria	Mycobacterium
 AWC24_RS18645	cobaltochelatase subunit CobN	NA	cobN	L	1197	NA	Mycobacterium senuense	Bacteria	Actinobacteria	Mycobacterium
@@ -3313,10 +3227,8 @@ AWC28_RS05325	VWA domain-containing protein	NA	chlD	M	648	NA	Mycobacterium terra
 AWC28_RS05270	cobaltochelatase subunit CobN	NA	cobN	L	1194	NA	Mycobacterium terrae	Bacteria	Actinobacteria	Mycobacterium
 AWC28_RS20475	magnesium chelatase	NA	bchI	S	463	NA	Mycobacterium terrae	Bacteria	Actinobacteria	Mycobacterium
 AWC31_RS10405	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium wolinskyi	Bacteria	Actinobacteria	Mycobacterium
-AWC31_RS13615	AAA family ATPase	NA	bchI	S	333	NA	Mycobacterium wolinskyi	Bacteria	Actinobacteria	Mycobacterium
 AWC31_RS29770	ATP-dependent protease	NA	chlD	M	617	NA	Mycobacterium wolinskyi	Bacteria	Actinobacteria	Mycobacterium
 AWC31_RS33520	cobaltochelatase subunit CobN	NA	cobN	L	1212	NA	Mycobacterium wolinskyi	Bacteria	Actinobacteria	Mycobacterium
-AWC04_RS01825	MoxR family ATPase	NA	cobS	S	338	NA	Mycobacterium fallax	Bacteria	Actinobacteria	Mycobacterium
 AWC04_RS04805	VWA domain-containing protein	NA	chlD	M	622	NA	Mycobacterium fallax	Bacteria	Actinobacteria	Mycobacterium
 AWC04_RS16305	magnesium chelatase	NA	bchI	S	463	NA	Mycobacterium fallax	Bacteria	Actinobacteria	Mycobacterium
 AWC32_RS03470	magnesium chelatase	NA	bchI	S	464	NA	Mycobacterium xenopi	Bacteria	Actinobacteria	Mycobacterium
@@ -3328,7 +3240,6 @@ AWC00_RS27155	VWA domain-containing protein	NA	chlD	M	601	NA	Mycobacterium consp
 AWB99_RS07980	cobaltochelatase subunit CobN	NA	cobN	L	1203	NA	Mycobacterium confluentis	Bacteria	Actinobacteria	Mycobacterium
 AWB99_RS15805	VWA domain-containing protein	NA	chlD	M	615	NA	Mycobacterium confluentis	Bacteria	Actinobacteria	Mycobacterium
 AWB99_RS22790	magnesium chelatase	NA	bchI	S	460	NA	Mycobacterium confluentis	Bacteria	Actinobacteria	Mycobacterium
-AWC01_RS00125	AAA family ATPase	NA	bchI	S	333	NA	Mycobacterium doricum	Bacteria	Actinobacteria	Mycobacterium
 AWC01_RS02245	magnesium chelatase	NA	bchI	S	461	NA	Mycobacterium doricum	Bacteria	Actinobacteria	Mycobacterium
 AWC01_RS11210	VWA domain-containing protein	NA	chlD	M	622	NA	Mycobacterium doricum	Bacteria	Actinobacteria	Mycobacterium
 AWC01_RS12690	cobaltochelatase subunit CobN	NA	cobN	L	1194	NA	Mycobacterium doricum	Bacteria	Actinobacteria	Mycobacterium
@@ -3339,7 +3250,6 @@ AWC15_RS00050	cobaltochelatase subunit CobN	NA	cobN	L	1191	NA	Mycobacterium lacu
 AWC15_RS04555	VWA domain-containing protein	NA	chlD	M	607	NA	Mycobacterium lacus	Bacteria	Actinobacteria	Mycobacterium
 AWC15_RS14620	magnesium chelatase	NA	bchI	S	461	NA	Mycobacterium lacus	Bacteria	Actinobacteria	Mycobacterium
 AWC16_RS03270	magnesium chelatase	NA	bchI	S	462	NA	Mycobacterium longobardum	Bacteria	Actinobacteria	Mycobacterium
-AWC16_RS19710	AAA family ATPase	NA	bchI	S	372	NA	Mycobacterium longobardum	Bacteria	Actinobacteria	Mycobacterium
 AWC16_RS22360	VWA domain-containing protein	NA	chlD	M	657	NA	Mycobacterium longobardum	Bacteria	Actinobacteria	Mycobacterium
 AWC16_RS22420	cobaltochelatase subunit CobN	NA	cobN	L	1193	NA	Mycobacterium longobardum	Bacteria	Actinobacteria	Mycobacterium
 AWC20_RS08780	cobaltochelatase subunit CobN	NA	cobN	L	1191	NA	Mycobacterium parmense	Bacteria	Actinobacteria	Mycobacterium
@@ -3382,7 +3292,6 @@ BZY95_RS10780	magnesium chelatase	NA	chlD	M	599	NA	Halomonas desiderata SP1	Bact
 BZY95_RS17035	cobaltochelatase subunit CobN	NA	chlH	L	1303	NA	Halomonas desiderata SP1	Bacteria	Proteobacteria	Halomonas
 BZY53_RS06460	cobaltochelatase subunit CobN	NA	cobN	L	1197	NA	Streptomyces cacaoi subsp. cacaoi	Bacteria	Actinobacteria	Streptomyces
 BZY53_RS07240	VWA domain-containing protein	NA	chlD	M	707	NA	Streptomyces cacaoi subsp. cacaoi	Bacteria	Actinobacteria	Streptomyces
-BZY53_RS32945	MoxR family ATPase	NA	cobS	S	331	NA	Streptomyces cacaoi subsp. cacaoi	Bacteria	Actinobacteria	Streptomyces
 BZF57_RS02885	cobaltochelatase subunit CobS	NA	cobS	S	325	NA	Porphyrobacter colymbi	Bacteria	Proteobacteria	Porphyrobacter
 BZF57_RS08230	magnesium chelatase ATPase subunit I	NA	bchI	S	333	NA	Porphyrobacter colymbi	Bacteria	Proteobacteria	Porphyrobacter
 BZF57_RS08355	magnesium chelatase subunit H	NA	bchH	L	1212	NA	Porphyrobacter colymbi	Bacteria	Proteobacteria	Porphyrobacter
@@ -3396,15 +3305,12 @@ BZF61_RS00480	VWA domain-containing protein	NA	bchD	M	571	NA	Porphyrobacter tepi
 BZF61_RS11730	cobaltochelatase subunit CobS	NA	cobS	S	315	NA	Porphyrobacter tepidarius	Bacteria	Proteobacteria	Porphyrobacter
 CCN43_RS02995	VWA domain-containing protein	NA	chlD	M	670	NA	Streptomyces rochei	Bacteria	Actinobacteria	Streptomyces
 CCN43_RS02990	cobaltochelatase subunit CobN	NA	cobN	L	1221	NA	Streptomyces rochei	Bacteria	Actinobacteria	Streptomyces
-CCN43_RS26690	MoxR family ATPase	NA	bchI	S	345	NA	Streptomyces rochei	Bacteria	Actinobacteria	Streptomyces
-CCN35_RS19960	MoxR family ATPase	NA	bchI	S	333	NA	Streptomyces thermovulgaris	Bacteria	Actinobacteria	Streptomyces
 CCN35_RS21505	VWA domain-containing protein	NA	chlD	M	674	NA	Streptomyces thermovulgaris	Bacteria	Actinobacteria	Streptomyces
 CCN35_RS21510	cobaltochelatase subunit CobN	NA	cobN	L	1216	NA	Streptomyces thermovulgaris	Bacteria	Actinobacteria	Streptomyces
 B1756_RS11020	VWA domain-containing protein	NA	chlD	M	658	NA	Natrialbaceae archaeon JW/NM-HA 15	Archaea	Euryarchaeota	Natrialbaceae
 B1756_RS17730	VWA domain-containing protein	NA	chlD	M	740	NA	Natrialbaceae archaeon JW/NM-HA 15	Archaea	Euryarchaeota	Natrialbaceae
 B1756_RS17735	cobaltochelatase subunit CobN	NA	cobN	L	1298	NA	Natrialbaceae archaeon JW/NM-HA 15	Archaea	Euryarchaeota	Natrialbaceae
 B1756_RS11015	magnesium chelatase	NA	chlI	S	360	NA	Natrialbaceae archaeon JW/NM-HA 15	Archaea	Euryarchaeota	Natrialbaceae
-B1756_RS15850	ATPase	NA	cobS	S	316	NA	Natrialbaceae archaeon JW/NM-HA 15	Archaea	Euryarchaeota	Natrialbaceae
 B9H00_RS00570	VWA domain-containing protein	NA	chlD	M	656	NA	Kushneria marisflavi	Bacteria	Proteobacteria	Kushneria
 B9H00_RS00595	cobaltochelatase subunit CobN	NA	cobN	L	1293	NA	Kushneria marisflavi	Bacteria	Proteobacteria	Kushneria
 CCO03_RS05305	hypothetical protein	NA	chlI	S	442	NA	Comamonas serinivorans	Bacteria	Proteobacteria	Comamonas
@@ -3481,7 +3387,6 @@ PL9631_RS07430	magnesium chelatase subunit H	NA	chlH	L	1327	NA	Planktothrix pauc
 PL9631_RS09215	magnesium chelatase ATPase subunit I	NA	chlI	S	363	NA	Planktothrix paucivesiculata PCC 9631	Bacteria	Cyanobacteria	Planktothrix
 PL9631_RS17320	magnesium chelatase ATPase subunit D	NA	chlD	M	657	NA	Planktothrix paucivesiculata PCC 9631	Bacteria	Cyanobacteria	Planktothrix
 PL9631_RS20650	magnesium chelatase subunit H	NA	bchH	L	1223	NA	Planktothrix paucivesiculata PCC 9631	Bacteria	Cyanobacteria	Planktothrix
-PL8927_RS02920	MoxR family ATPase	NA	bchI	S	302	NA	Planktothrix serta PCC 8927	Bacteria	Cyanobacteria	Planktothrix
 PL8927_RS04460	cobaltochelatase subunit CobN	NA	cobN	L	1245	NA	Planktothrix serta PCC 8927	Bacteria	Cyanobacteria	Planktothrix
 PL8927_RS10920	magnesium chelatase subunit H	NA	chlH	L	1327	NA	Planktothrix serta PCC 8927	Bacteria	Cyanobacteria	Planktothrix
 PL8927_RS12285	magnesium chelatase ATPase subunit D	NA	chlD	M	658	NA	Planktothrix serta PCC 8927	Bacteria	Cyanobacteria	Planktothrix
@@ -3552,7 +3457,6 @@ BLQ89_RS01955	magnesium chelatase	NA	bchI	S	460	NA	Rhodococcus triatomae	Bacteri
 BLQ89_RS04385	magnesium chelatase ATPase subunit I	NA	chlI	S	312	NA	Rhodococcus triatomae	Bacteria	Actinobacteria	Rhodococcus
 BLQ89_RS17795	cobaltochelatase subunit CobN	NA	cobN	L	1200	NA	Rhodococcus triatomae	Bacteria	Actinobacteria	Rhodococcus
 BLQ89_RS19145	VWA domain-containing protein	NA	chlD	M	645	NA	Rhodococcus triatomae	Bacteria	Actinobacteria	Rhodococcus
-BLS95_RS05110	MoxR family ATPase	NA	cobS	S	304	NA	Nonomuraea jiangxiensis	Bacteria	Actinobacteria	Nonomuraea
 BLS95_RS17590	magnesium chelatase	NA	bchI	S	463	NA	Nonomuraea jiangxiensis	Bacteria	Actinobacteria	Nonomuraea
 BLS95_RS36580	VWA domain-containing protein	NA	chlD	M	724	NA	Nonomuraea jiangxiensis	Bacteria	Actinobacteria	Nonomuraea
 BLS95_RS36595	cobaltochelatase subunit CobN	NA	cobN	L	1231	NA	Nonomuraea jiangxiensis	Bacteria	Actinobacteria	Nonomuraea
@@ -3610,7 +3514,6 @@ BLT43_RS09645	cobaltochelatase subunit CobN	NA	cobN	L	1233	NA	Loktanella pyoseon
 BLS43_RS05310	magnesium chelatase	NA	bchI	S	466	NA	Pseudonocardia oroxyli	Bacteria	Actinobacteria	Pseudonocardia
 BLS43_RS07245	VWA domain-containing protein	NA	chlD	M	727	NA	Pseudonocardia oroxyli	Bacteria	Actinobacteria	Pseudonocardia
 BLS43_RS23265	cobaltochelatase subunit CobN	NA	cobN	L	1279	NA	Pseudonocardia oroxyli	Bacteria	Actinobacteria	Pseudonocardia
-BLQ72_RS04550	MoxR family ATPase	NA	bchI	S	384	NA	Halorientalis regularis	Archaea	Euryarchaeota	Halorientalis
 BLQ72_RS16200	VWA domain-containing protein	NA	chlD	M	726	NA	Halorientalis regularis	Archaea	Euryarchaeota	Halorientalis
 BLQ72_RS16205	cobaltochelatase subunit CobN	cobN	cobN	L	1298	NA	Halorientalis regularis	Archaea	Euryarchaeota	Halorientalis
 BLR32_RS07415	hypothetical protein	NA	chlI	S	314	NA	Chitinophaga filiformis	Bacteria	Bacteroidetes	Chitinophaga
@@ -3629,7 +3532,6 @@ BLP76_RS16855	cobaltochelatase subunit CobN	NA	cobN	L	1297	NA	Afifella marina DS
 BLQ97_RS06765	VWA domain-containing protein	NA	chlD	M	678	NA	Geodermatophilus telluris	Bacteria	Actinobacteria	Geodermatophilus
 BLQ97_RS06925	cobaltochelatase subunit CobN	NA	cobN	L	1208	NA	Geodermatophilus telluris	Bacteria	Actinobacteria	Geodermatophilus
 BLQ97_RS08285	magnesium chelatase	NA	bchI	S	491	NA	Geodermatophilus telluris	Bacteria	Actinobacteria	Geodermatophilus
-BLQ97_RS17115	ATPase	NA	bchI	S	323	NA	Geodermatophilus telluris	Bacteria	Actinobacteria	Geodermatophilus
 BLT16_RS04190	VWA domain-containing protein	NA	chlD	M	591	NA	Halomonas pantelleriensis	Bacteria	Proteobacteria	Halomonas
 BLT16_RS04205	cobaltochelatase subunit CobN	NA	cobN	L	1300	NA	Halomonas pantelleriensis	Bacteria	Proteobacteria	Halomonas
 BLQ62_RS09650	VWA domain-containing protein	NA	chlD	M	615	NA	Tsukamurella pulmonis	Bacteria	Actinobacteria	Tsukamurella
@@ -3777,7 +3679,6 @@ BMY44_RS12250	cobaltochelatase subunit CobN	NA	cobN	L	1232	NA	Loktanella koreens
 BMY44_RS15330	magnesium chelatase subunit H	NA	bchH	L	1181	NA	Loktanella koreensis	Bacteria	Proteobacteria	Loktanella
 BMY44_RS15395	VWA domain-containing protein	NA	bchD	M	533	NA	Loktanella koreensis	Bacteria	Proteobacteria	Loktanella
 BMX74_RS02105	magnesium chelatase	NA	bchI	S	463	NA	Nonomuraea pusilla	Bacteria	Actinobacteria	Nonomuraea
-BMX74_RS30230	MoxR family ATPase	NA	cobS	S	326	NA	Nonomuraea pusilla	Bacteria	Actinobacteria	Nonomuraea
 BMX74_RS34860	VWA domain-containing protein	NA	chlD	M	705	NA	Nonomuraea pusilla	Bacteria	Actinobacteria	Nonomuraea
 BMX74_RS34845	cobaltochelatase subunit CobN	NA	cobN	L	1203	NA	Nonomuraea pusilla	Bacteria	Actinobacteria	Nonomuraea
 BSG08_RS01015	cobaltochelatase subunit CobT	cobT	cobT	M	627	NA	Roseovarius azorensis	Bacteria	Proteobacteria	Roseovarius
@@ -3810,7 +3711,6 @@ BMX96_RS14800	cobaltochelatase subunit CobT	cobT	cobT	M	624	NA	Maribius pelagius
 BMX96_RS16570	magnesium chelatase subunit H	NA	bchH	L	1185	NA	Maribius pelagius	Bacteria	Proteobacteria	Maribius
 BMX17_RS12295	VWA domain-containing protein	NA	chlD	M	737	NA	Halorientalis persicus	Archaea	Euryarchaeota	Halorientalis
 BMX17_RS12300	cobaltochelatase subunit CobN	cobN	cobN	L	1300	NA	Halorientalis persicus	Archaea	Euryarchaeota	Halorientalis
-BMX17_RS14090	MoxR family ATPase	NA	bchI	S	364	NA	Halorientalis persicus	Archaea	Euryarchaeota	Halorientalis
 BMW99_RS31280	VWA domain-containing protein	NA	chlD	M	688	NA	Streptomyces rubidus	Bacteria	Actinobacteria	Streptomyces
 BMW99_RS31275	cobaltochelatase subunit CobN	NA	cobN	L	1245	NA	Streptomyces rubidus	Bacteria	Actinobacteria	Streptomyces
 BMW35_RS13350	VWA domain-containing protein	NA	chlD	M	723	NA	Halobacterium jilantaiense	Archaea	Euryarchaeota	Halobacterium
@@ -3830,14 +3730,12 @@ BMY04_RS21895	VWA domain-containing protein	NA	chlD	M	750	NA	Friedmanniella flav
 BMY04_RS22130	cobaltochelatase subunit CobN	NA	cobN	L	1101	NA	Friedmanniella flava	Bacteria	Actinobacteria	Friedmanniella
 BMX07_RS08005	VWA domain-containing protein	NA	chlD	M	732	NA	Natrinema salaciae	Archaea	Euryarchaeota	Natrinema
 BMX07_RS08000	cobaltochelatase subunit CobN	cobN	cobN	L	1302	NA	Natrinema salaciae	Archaea	Euryarchaeota	Natrinema
-BMX07_RS16665	MoxR family ATPase	NA	bchI	S	377	NA	Natrinema salaciae	Archaea	Euryarchaeota	Natrinema
 BMX62_RS02125	VWA domain-containing protein	bchD	bchD	M	595	NA	Ectothiorhodospira magna	Bacteria	Proteobacteria	Ectothiorhodospira
 BMX62_RS02120	magnesium chelatase ATPase subunit I	bchI	bchI	S	341	NA	Ectothiorhodospira magna	Bacteria	Proteobacteria	Ectothiorhodospira
 BMX62_RS08735	magnesium chelatase subunit H	NA	bchH	L	1262	NA	Ectothiorhodospira magna	Bacteria	Proteobacteria	Ectothiorhodospira
 BMY74_RS08450	magnesium chelatase	NA	bchI	S	463	NA	Lentzea albida	Bacteria	Actinobacteria	Lentzea
 BMY74_RS10590	cobaltochelatase subunit CobN	NA	cobN	L	1188	NA	Lentzea albida	Bacteria	Actinobacteria	Lentzea
 BMY74_RS18265	VWA domain-containing protein	NA	chlD	M	634	NA	Lentzea albida	Bacteria	Actinobacteria	Lentzea
-BMY07_RS18450	MoxR family ATPase	NA	bchI	S	315	NA	Actinokineospora terrae	Bacteria	Actinobacteria	Actinokineospora
 BMY07_RS19055	VWA domain-containing protein	NA	chlD	M	669	NA	Actinokineospora terrae	Bacteria	Actinobacteria	Actinokineospora
 BMY07_RS19015	cobaltochelatase subunit CobN	NA	cobN	L	1195	NA	Actinokineospora terrae	Bacteria	Actinobacteria	Actinokineospora
 BMY07_RS19980	magnesium chelatase	NA	bchI	S	458	NA	Actinokineospora terrae	Bacteria	Actinobacteria	Actinokineospora
@@ -4033,7 +3931,6 @@ BUE43_RS11025	VWA domain-containing protein	NA	chlD	M	704	NA	Streptoalloteichus 
 BUE43_RS16435	cobaltochelatase subunit CobN	NA	cobN	L	1201	NA	Streptoalloteichus hindustanus	Bacteria	Actinobacteria	Streptoalloteichus
 BUE29_RS16440	VWA domain-containing protein	NA	chlD	M	656	NA	Jatrophihabitans endophyticus	Bacteria	Actinobacteria	Jatrophihabitans
 BUE29_RS16385	cobaltochelatase subunit CobN	NA	cobN	L	1193	NA	Jatrophihabitans endophyticus	Bacteria	Actinobacteria	Jatrophihabitans
-BUE29_RS15605	MoxR family ATPase	NA	bchI	S	331	NA	Jatrophihabitans endophyticus	Bacteria	Actinobacteria	Jatrophihabitans
 BUE29_RS18970	magnesium chelatase	NA	bchI	S	493	NA	Jatrophihabitans endophyticus	Bacteria	Actinobacteria	Jatrophihabitans
 BUE37_RS01650	VWA domain-containing protein	NA	chlD	M	675	NA	Geodermatophilus nigrescens	Bacteria	Actinobacteria	Geodermatophilus
 BUE37_RS01870	cobaltochelatase subunit CobN	NA	cobN	L	1205	NA	Geodermatophilus nigrescens	Bacteria	Actinobacteria	Geodermatophilus
@@ -4117,7 +4014,6 @@ BQ9896_RS05180	cobaltochelatase subunit CobN	NA	cobN	L	1220	NA	Negativicoccus ma
 BQ9896_RS02000	magnesium chelatase ATPase subunit I	NA	chlI	S	343	NA	Negativicoccus massiliensis	Bacteria	Firmicutes	Negativicoccus
 BXA10_RS21995	VWA domain-containing protein	NA	chlD	M	733	NA	Micromonospora avicenniae	Bacteria	Actinobacteria	Micromonospora
 BXA10_RS22000	cobaltochelatase subunit CobN	NA	cobN	L	1222	NA	Micromonospora avicenniae	Bacteria	Actinobacteria	Micromonospora
-BXA10_RS26415	MoxR family ATPase	NA	bchI	S	331	NA	Micromonospora avicenniae	Bacteria	Actinobacteria	Micromonospora
 BXA10_RS27605	magnesium chelatase	NA	bchI	S	491	NA	Micromonospora avicenniae	Bacteria	Actinobacteria	Micromonospora
 B0B04_RS00485	magnesium chelatase subunit H	NA	bchH	L	1263	NA	Ectothiorhodosinus mongolicus	Bacteria	Proteobacteria	Ectothiorhodosinus
 B0B04_RS09065	magnesium chelatase ATPase subunit D	NA	bchD	M	597	NA	Ectothiorhodosinus mongolicus	Bacteria	Proteobacteria	Ectothiorhodosinus
@@ -4198,7 +4094,6 @@ B8982_RS11635_fs_B8982_RS11640	magnesium chelatase | VWA domain-containing prote
 B9A95_RS03775	VWA domain-containing protein	NA	chlD	M	553	NA	Deinococcus hopiensis KR-140	Bacteria	Deinococcus-Thermus	Deinococcus
 B9A95_RS03785	cobalt chelatase	NA	cobN	L	1441	NA	Deinococcus hopiensis KR-140	Bacteria	Deinococcus-Thermus	Deinococcus
 B9A95_RS16910	magnesium chelatase	NA	bchI	S	483	NA	Deinococcus hopiensis KR-140	Bacteria	Deinococcus-Thermus	Deinococcus
-B9A95_RS25275	MoxR family ATPase	NA	chlI	S	334	NA	Deinococcus hopiensis KR-140	Bacteria	Deinococcus-Thermus	Deinococcus
 B9A12_RS01635	VWA domain-containing protein	NA	chlD	M	704	NA	Desulfacinum hydrothermale DSM 13146	Bacteria	Proteobacteria	Desulfacinum
 B9A32_RS01450	VWA domain-containing protein	NA	chlD	M	686	NA	Desulfobacterium vacuolatum DSM 3385	Bacteria	Proteobacteria	Desulfobacterium
 B9A32_RS01490	cobaltochelatase subunit CobN	NA	cobN	L	1291	NA	Desulfobacterium vacuolatum DSM 3385	Bacteria	Proteobacteria	Desulfobacterium
@@ -4243,7 +4138,6 @@ CFB24_RS16285	magnesium chelatase ATPase subunit I	bchI	bchI	S	338	NA	Rhodoblast
 CFB24_RS16335	magnesium chelatase subunit H	NA	bchH	L	1242	NA	Rhodoblastus acidophilus	Bacteria	Proteobacteria	Rhodoblastus
 CFB24_RS16550	cobaltochelatase subunit CobN	NA	cobN	L	1130	NA	Rhodoblastus acidophilus	Bacteria	Proteobacteria	Rhodoblastus
 CFB18_RS00070	VWA domain-containing protein	NA	chlD	M	680	NA	Thermoflexus hugenholtzii JAD2	Bacteria	Chloroflexi	Thermoflexus
-CFB18_RS13150	MoxR family ATPase	NA	bchI	S	316	NA	Thermoflexus hugenholtzii JAD2	Bacteria	Chloroflexi	Thermoflexus
 CHC09_RS00490	cobaltochelatase subunit CobN	NA	cobN	L	1177	NA	Actinoplanes regularis	Bacteria	Actinobacteria	Actinoplanes
 CHC09_RS12460	VWA domain-containing protein	NA	chlD	M	677	NA	Actinoplanes regularis	Bacteria	Actinobacteria	Actinoplanes
 CHC09_RS13530	magnesium chelatase	NA	bchI	S	474	NA	Actinoplanes regularis	Bacteria	Actinobacteria	Actinoplanes

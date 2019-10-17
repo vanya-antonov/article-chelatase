@@ -2817,7 +2817,7 @@ id	name	genus	phylum	kingdom	tax2	num_M	num_bchlD	num_bchlD_fs
 2913	Ferrimicrobium acidiphilum DSM 19497	Ferrimicrobium	Actinobacteria	Bacteria	Acidimicrobiia	1	1	0
 2914	Deinococcus misasensis DSM 22328	Deinococcus	Deinococcus-Thermus	Bacteria	Deinococci	0	0	0
 2915	Alysiella crassa DSM 2578	Alysiella	Proteobacteria	Bacteria	Betaproteobacteria	0	0	0
-2916	Edaphobacter aggregans DSM 19364	Edaphobacter	Acidobacteria	Bacteria	Acidobacteriales	2	2	0
+2916	Edaphobacter aggregans DSM 19364	Edaphobacter	Acidobacteria	Bacteria	Acidobacteriales	3	3	0
 2917	Desulfobacter vibrioformis DSM 8776	Desulfobacter	Proteobacteria	Bacteria	Deltaproteobacteria	0	0	0
 2918	Methylocapsa aurea	Methylocapsa	Proteobacteria	Bacteria	Alphaproteobacteria	0	0	0
 2919	Thermodesulfobacterium hydrogeniphilum	Thermodesulfobacterium	Thermodesulfobacteria	Bacteria	Thermodesulfobacteriales	1	1	0

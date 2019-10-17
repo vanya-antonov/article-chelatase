@@ -9,4 +9,4 @@ Bacteria	Spirochaetes	67	4	4	2	2
 Bacteria	Firmicutes	1215	55	61	1	1
 Bacteria	Bacteroidetes	569	19	27	1	1
 Bacteria	Cyanobacteria	77	76	78	0	0
-Bacteria	Other	361	38	46	0	0
+Bacteria	Other	361	38	47	0	0
