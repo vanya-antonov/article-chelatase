@@ -23,3 +23,18 @@ mtx <- matrix(c(YY, YN,
               ncol=2, byrow=TRUE)
 fisher.test(mtx)
 
+
+###
+# Test the presense of a slippery sites (from 1113.Ba.fisher_test_Proteo)
+
+# chlD contains slippery site = Y; reduced genotype = Y
+site_YY <- 60
+site_NY <- 101 - 60
+site_YN <- 2
+site_NN <- 112 - 2
+
+site_mtx <- matrix(c(site_YY, site_YN,
+                     site_NY, site_NN),
+                   ncol=2, byrow=TRUE)
+fisher.test(site_mtx)$p.value
+
