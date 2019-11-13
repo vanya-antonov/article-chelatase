@@ -441,7 +441,7 @@ Lamprocystis purpurea DSM 4197	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xc
 Legionella rubrilucens	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xchlH, 1xchlD, 1xchlI	-	-	-	Lrub_RS11750	Lrub_RS11740	Lrub_RS11745
 Lentzea albida	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD, 1xchlI	BMY74_RS10590	-	-	-	BMY74_RS18265	BMY74_RS08450
 Lentzea albidocapillata	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD, 1xchlI	IG04_RS0110645	-	-	-	IG04_RS0127290	IG04_RS0139255
-Lentzea guizhouensis	Bacteria	Actinobacteria	Pseudonocardiales	1	1xcobN, 1xfs-chlD	BBK82_RS26180	-	-	-	BBK82_RS22390_fs_BBK82_RS22390	-
+Lentzea guizhouensis	Bacteria	Actinobacteria	Pseudonocardiales	1	1xcobN, 1xfs-chlD	BBK82_RS26180	-	-	-	BBK82_RS22390_fs_4501430	BBK82_RS22390
 Lentzea kentuckyensis	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD, 1xchlI	B0F77_RS23465	-	-	-	B0F77_RS26540	B0F77_RS34280
 Leptolinea tardivitalis	Bacteria	Chloroflexi	Anaerolineae	1	1xfs-chlD	-	-	-	-	LTAR_RS13115_fs_LTAR_RS13120	LTAR_RS13115
 Leptolyngbya boryana dg5	Bacteria	Cyanobacteria	Synechococcales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI	APT55_RS00765	-	-	APT55_RS21470, APT55_RS14510	APT55_RS08930	APT55_RS20910
@@ -515,7 +515,7 @@ Methanocaldococcus jannaschii DSM 2661	Archaea	Euryarchaeota	Methanococci	1	2xco
 Methanocaldococcus sp. FS406-22	Archaea	Euryarchaeota	Methanococci	1	2xcobN, 1xchlH, 1xfs-chlD	MFS40622_RS06250, MFS40622_RS03055	-	-	MFS40622_RS06440	MFS40622_RS06240_fs_MFS40622_RS06245	MFS40622_RS06240
 Methanocaldococcus villosus KIN24-T80	Archaea	Euryarchaeota	Methanococci	1	1xcobN, 1xchlH, 1xfs-chlD	METVI_RS0105250	-	-	METVI_RS0101625	METVI_RS0104220_fs_METVI_RS0104225	METVI_RS0104220
 Methanocaldococcus vulcanius M7	Archaea	Euryarchaeota	Methanococci	1	1xcobN, 1xchlH, 1xfs-chlD	METVU_RS00525	-	-	METVU_RS06200	METVU_RS00540_fs_METVU_RS00535	METVU_RS00540
-Methanocella conradii HZ254	Archaea	Euryarchaeota	Methanomicrobia	1	1xchlH, 1xfs-chlD	-	-	-	MTC_RS08435	MTC_RS08495_fs_MTC_RS08495	-
+Methanocella conradii HZ254	Archaea	Euryarchaeota	Methanomicrobia	1	1xchlH, 1xfs-chlD	-	-	-	MTC_RS08435	MTC_RS08495_fs_1637839	MTC_RS08495
 Methanococcoides vulcani	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 2xchlH, 3xchlD, 2xchlI	BMX02_RS05700	-	-	BMX02_RS02635, BMX02_RS05010	BMX02_RS03075, BMX02_RS02610, BMX02_RS00740	BMX02_RS00745, BMX02_RS03080
 Methanococcus aeolicus Nankai-3	Archaea	Euryarchaeota	Methanococci	1	1xcobN, 1xchlH, 1xfs-chlD	MAEO_RS00605	-	-	MAEO_RS00550	MAEO_RS00545_fs_MAEO_RS00540	MAEO_RS00545
 Methanococcus maripaludis X1	Archaea	Euryarchaeota	Methanococci	1	2xchlH, 1xfs-chlD	-	-	-	GYY_RS04115, GYY_RS04020	GYY_RS04120_fs_GYY_RS04125	GYY_RS04120
@@ -530,7 +530,7 @@ Methanolinea tarda NOBI-1	Archaea	Euryarchaeota	Methanomicrobia	0	1xcobN, 1xchlD
 Methanolobus vulcani	Archaea	Euryarchaeota	Methanomicrobia	0	2xcobN, 1xchlH, 1xchlD, 1xchlI	BLP52_RS00960, BLP52_RS00970	-	-	BLP52_RS00965	BLP52_RS03650	BLP52_RS03645
 Methanomassiliicoccus luminyensis B10	Archaea	Euryarchaeota	Thermoplasmata	0	3xcobN, 1xchlH, 2xchlD, 2xchlI	WYS_RS04810, WYS_RS04760, WYS_RS11025	-	-	WYS_RS14675	WYS_RS04805, WYS_RS11055	WYS_RS04800, WYS_RS11060
 Methanomicrobium mobile BP	Archaea	Euryarchaeota	Methanomicrobia	1	1xchlH, 1xfs-chlD	-	-	-	T502_RS00455	T502_RS08695_fs_T502_RS08700	T502_RS08695
-Methanoplanus limicola DSM 2279	Archaea	Euryarchaeota	Methanomicrobia	1	1xcobN, 1xchlH, 1xchlD, 1xfs-chlD	METLIM_RS08060	-	-	METLIM_RS11610	METLIM_RS16260_fs_METLIM_RS16260, METLIM_RS08065	-
+Methanoplanus limicola DSM 2279	Archaea	Euryarchaeota	Methanomicrobia	1	1xcobN, 1xchlH, 1xchlD, 1xfs-chlD	METLIM_RS08060	-	-	METLIM_RS11610	METLIM_RS16260_fs_2466685, METLIM_RS08065	METLIM_RS16260
 Methanoregula formicica SMSP	Archaea	Euryarchaeota	Methanomicrobia	0	2xchlH, 2xchlD, 1xchlI	-	-	-	METFOR_RS04445, METFOR_RS04225	METFOR_RS04220, METFOR_RS04410	METFOR_RS04415
 Methanosaeta harundinacea 6Ac	Archaea	Euryarchaeota	Methanomicrobia	0	2xchlH, 1xchlD, 1xchlI	-	-	-	MHAR_RS08225, MHAR_RS06970	MHAR_RS08245	MHAR_RS07360
 Methanosarcina acetivorans C2A	Archaea	Euryarchaeota	Methanomicrobia	0	4xcobN, 6xchlH, 1xchlD	MA_RS04595, MA_RS23120, MA_RS02015, MA_RS02025	-	-	MA_RS04540, MA_RS01830, MA_RS02010, MA_RS02030, MA_RS24220, MA_RS01840	MA_RS04565	-
@@ -731,7 +731,7 @@ Nocardia crassostreae	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD
 Nocardia cummidelens NBRC 100378	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD	NC5_RS33675	-	-	-	NC5_RS13180	-
 Nocardia cyriacigeorgica GUH-2	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD	NOCYR_RS16440	-	-	-	NOCYR_RS18995	-
 Nocardia donostiensis	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD	B0T36_RS07505	-	-	-	B0T36_RS12840	-
-Nocardia farcinica	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xchlI, 1xfs-chlD	AMO33_RS04540	-	-	-	AMO33_RS28315_fs_AMO33_RS28315	AMO33_RS26740
+Nocardia farcinica	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xchlI, 1xfs-chlD	AMO33_RS04540	-	-	-	AMO33_RS28315_fs_2502888	AMO33_RS28315, AMO33_RS26740
 Nocardia harenae NBRC 108248	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD	NH2_RS24540	-	-	-	NH2_RS27440	-
 Nocardia higoensis NBRC 100133	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD, 1xchlI	ON26_RS15045	-	-	-	ON26_RS18135	ON26_RS19860
 Nocardia inohanensis NBRC 100128	Bacteria	Actinobacteria	Corynebacteriales	0	1xchlD	-	-	-	-	NI1_RS30250	-
@@ -755,7 +755,7 @@ Nocardia speluncae NBRC 108251	Bacteria	Actinobacteria	Corynebacteriales	0	1xcob
 Nocardia takedensis NBRC 100417	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD	ON30_RS15520	-	-	-	ON30_RS18390	-
 Nocardia terpenica	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD	AWN90_RS30140	-	-	-	AWN90_RS22275	-
 Nocardia transvalensis NBRC 15921	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD, 1xchlI	ON41_RS16040	-	-	-	ON41_RS21515	ON41_RS11590
-Nocardia uniformis NBRC 13702	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD	NU1_RS26060	-	-	-	NU1_RS22650_fs_NU1_RS22650	-
+Nocardia uniformis NBRC 13702	Bacteria	Actinobacteria	Corynebacteriales	1	1xcobN, 1xfs-chlD	NU1_RS26060	-	-	-	NU1_RS22650_fs_3924	NU1_RS22650
 Nocardia vermiculata NBRC 100427	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD, 1xchlI	NV2_RS10060	-	-	-	NV2_RS20215	NV2_RS16265
 Nocardia veterana NBRC 100344	Bacteria	Actinobacteria	Corynebacteriales	0	1xcobN, 1xchlD, 1xchlI	ON37_RS13395	-	-	-	ON37_RS16345	ON37_RS18730
 Nocardia vinacea NBRC 16497	Bacteria	Actinobacteria	Corynebacteriales	0	1xchlD, 2xchlI	-	-	-	-	ON44_RS22175	ON44_RS19600, ON44_RS39470
@@ -801,7 +801,7 @@ Oceanobacillus sojae	Bacteria	Firmicutes	Bacilli	0	1xchlH, 1xchlD, 1xchlI	-	-	-	
 Oceanospirillum beijerinckii DSM 7166	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD	H579_RS0119235	-	-	-	H579_RS0119295	-
 Oceanospirillum maris DSM 6286	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xchlD	G517_RS0104470	-	-	-	G517_RS20420	-
 Oleiphilus messinensis	Bacteria	Proteobacteria	Gammaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlD	OLMES_RS13630	OLMES_RS05720	OLMES_RS05725	-	OLMES_RS13545	-
-Ornatilinea apprima	Bacteria	Chloroflexi	Anaerolineae	1	1xchlI, 1xfs-chlD	-	-	-	-	ADN00_RS19480_fs_ADN00_RS19480	ADN00_RS13755
+Ornatilinea apprima	Bacteria	Chloroflexi	Anaerolineae	1	1xchlI, 1xfs-chlD	-	-	-	-	ADN00_RS19480_fs_362264	ADN00_RS19480, ADN00_RS13755
 Oscillatoria acuminata PCC 6304	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI	OSCIL6304_RS31430	-	-	OSCIL6304_RS06775, OSCIL6304_RS18090	OSCIL6304_RS10010	OSCIL6304_RS11485
 Oscillatoria nigro-viridis PCC 7112	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI	OSC7112_RS02220	-	-	OSC7112_RS23255, OSC7112_RS20650	OSC7112_RS14085	OSC7112_RS28890
 Oscillatoriales cyanobacterium JSC-12	Bacteria	Cyanobacteria	Oscillatoriophycideae	0	1xcobN, 2xchlH, 1xchlD, 1xchlI	OSCCYDRAFT_RS19125	-	-	OSCCYDRAFT_RS11635, OSCCYDRAFT_RS18825	OSCCYDRAFT_RS05985	OSCCYDRAFT_RS08600
@@ -1035,10 +1035,10 @@ Sporomusa ovata DSM 2662	Bacteria	Firmicutes	Negativicutes	0	2xcobN, 2xchlD, 2xc
 Sporomusa sphaeroides DSM 2875	Bacteria	Firmicutes	Negativicutes	0	2xcobN, 1xchlD, 2xchlI	SPSPH_RS03075, SPSPH_RS03335	-	-	-	SPSPH_RS03155	SPSPH_RS00190, SPSPH_RS03150
 Stanieria cyanosphaera PCC 7437	Bacteria	Cyanobacteria	Pleurocapsales	0	1xcobN, 2xchlH, 1xchlD, 1xchlI	STA7437_RS04565	-	-	STA7437_RS21675, STA7437_RS17125	STA7437_RS14195	STA7437_RS05865
 Stappia stellulata DSM 5886	Bacteria	Proteobacteria	Alphaproteobacteria	0	1xcobN, 1xcobT, 1xcobS, 1xchlH, 1xchlD, 1xchlI	G572_RS0118065	G572_RS0107875	G572_RS0107880	G572_RS0119655	G572_RS0119495	G572_RS0119490
-Streptacidiphilus albus JL83	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xfs-chlD	BS75_RS29830	-	-	-	BS75_RS43520_fs_BS75_RS43520	-
+Streptacidiphilus albus JL83	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xfs-chlD	BS75_RS29830	-	-	-	BS75_RS43520_fs_6782770	BS75_RS43520
 Streptacidiphilus melanogenes	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD	TR49_RS01225	-	-	-	TR49_RS01220	-
-Streptacidiphilus oryzae TH49	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xfs-chlD	BS73_RS12020	-	-	-	BS73_RS12025_fs_BS73_RS12025	-
-Streptacidiphilus rugosus AM-16	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xfs-chlD	BS83_RS34335	-	-	-	BS83_RS34340_fs_BS83_RS34340	-
+Streptacidiphilus oryzae TH49	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xchlD, 1xfs-chlD	BS73_RS12020	-	-	-	BS73_RS12025, BS73_RS12025_fs_1748682	-
+Streptacidiphilus rugosus AM-16	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xchlD, 1xfs-chlD	BS83_RS34335	-	-	-	BS83_RS34340, BS83_RS34340_fs_5546949	-
 Streptoalloteichus hindustanus	Bacteria	Actinobacteria	Pseudonocardiales	0	1xcobN, 1xchlD	BUE43_RS16435	-	-	-	BUE43_RS11025	-
 Streptomonospora alba	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD, 1xchlI	LP52_RS21905	-	-	-	LP52_RS21945	LP52_RS21380
 Streptomyces acidiscabies 84-104	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD	ON12_RS26405	-	-	-	ON12_RS26400	-
@@ -1079,7 +1079,7 @@ Streptomyces guanduensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xch
 Streptomyces hokutonensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD	SSP08S_RS10015	-	-	-	SSP08S_RS10020	-
 Streptomyces indicus	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD	BLT97_RS26800	-	-	-	BLT97_RS26805	-
 Streptomyces jeddahensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD	STSP_RS16675	-	-	-	STSP_RS16670	-
-Streptomyces katrae	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xfs-chlD	B4U46_RS27715	-	-	-	B4U46_RS08905_fs_B4U46_RS08905	-
+Streptomyces katrae	Bacteria	Actinobacteria	Streptomycetales	1	1xcobN, 1xfs-chlD	B4U46_RS27715	-	-	-	B4U46_RS08905_fs_1958370	B4U46_RS08905
 Streptomyces kebangsaanensis	Bacteria	Actinobacteria	Streptomycetales	0	1xchlD	-	-	-	-	RH94_RS35075	-
 Streptomyces leeuwenhoekii	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD	BN2145_RS28105	-	-	-	BN2145_RS28100	-
 Streptomyces lincolnensis	Bacteria	Actinobacteria	Streptomycetales	0	1xcobN, 1xchlD, 1xchlI	SLINC_RS11175	-	-	-	SLINC_RS11180	SLINC_RS30230
@@ -1153,7 +1153,7 @@ Thermacetogenium phaeum DSM 12270	Bacteria	Firmicutes	Clostridia	0	1xcobN, 2xchl
 Thermanaeromonas toyohensis ToBE	Bacteria	Firmicutes	Clostridia	0	2xcobN, 2xchlD, 1xchlI	B9A14_RS02015, B9A14_RS02055	-	-	-	B9A14_RS02045, B9A14_RS14490	B9A14_RS02050
 Thermanaerothrix daxensis	Bacteria	Chloroflexi	Anaerolineae	1	1xfs-chlD	-	-	-	-	SE15_RS01475_fs_SE15_RS01470	SE15_RS01475
 Thermoactinospora rubra	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD, 1xchlI	BSB02_RS12360	-	-	-	BSB02_RS12340	BSB02_RS04765
-Thermoanaerobacter kivui	Bacteria	Firmicutes	Clostridia	1	3xcobN, 2xchlH, 1xfs-chlD	TKV_RS08070, TKV_RS02500, TKV_RS04955	-	-	TKV_RS04965, TKV_RS04655	TKV_RS02525_fs_TKV_RS02525	-
+Thermoanaerobacter kivui	Bacteria	Firmicutes	Clostridia	1	3xcobN, 2xchlH, 1xfs-chlD	TKV_RS08070, TKV_RS02500, TKV_RS04955	-	-	TKV_RS04965, TKV_RS04655	TKV_RS02525_fs_512211	TKV_RS02525
 Thermobifida cellulosilytica TB100	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD, 1xchlI	AC529_RS04060	-	-	-	AC529_RS04090	AC529_RS03270
 Thermobifida fusca YX	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD, 1xchlI	TFU_RS01580	-	-	-	TFU_RS01550	TFU_RS02210
 Thermobifida halotolerans	Bacteria	Actinobacteria	Streptosporangiales	0	1xcobN, 1xchlD, 1xchlI	AMR52_RS10600	-	-	-	AMR52_RS10545	AMR52_RS00445
@@ -1163,7 +1163,7 @@ Thermococcus celericrescens	Archaea	Euryarchaeota	Thermococci	0	1xchlH, 1xchlD	-
 Thermococcus onnurineus NA1	Archaea	Euryarchaeota	Thermococci	0	1xchlH, 1xchlD	-	-	-	TON_RS09570	TON_RS09575	-
 Thermococcus paralvinellae	Archaea	Euryarchaeota	Thermococci	0	1xchlH, 1xchlD	-	-	-	TES1_RS00580	TES1_RS00585	-
 Thermococcus piezophilus	Archaea	Euryarchaeota	Thermococci	0	1xchlH, 1xchlD	-	-	-	A7C91_RS05265	A7C91_RS05270	-
-Thermococcus zilligii AN1	Archaea	Euryarchaeota	Thermococci	1	1xchlH, 1xfs-chlD	-	-	-	TZI_RS0107235	TZI_RS10050_fs_TZI_RS10050	-
+Thermococcus zilligii AN1	Archaea	Euryarchaeota	Thermococci	1	1xchlH, 1xfs-chlD	-	-	-	TZI_RS0107235	TZI_RS10050_fs_247846	TZI_RS10050
 Thermocrispum municipale DSM 44069	Bacteria	Actinobacteria	Pseudonocardiales	0	2xcobN, 2xchlD	YWM_RS0100760, YWM_RS0100840	-	-	-	YWM_RS0100805, YWM_RS0100690	-
 Thermodesulfatator atlanticus DSM 21156	Bacteria	Thermodesulfobacteria	Thermodesulfobacteriales	0	1xcobN, 1xchlD, 1xchlI	H528_RS0110395	-	-	-	H528_RS0105720	H528_RS0105725
 Thermodesulfatator autotrophicus	Bacteria	Thermodesulfobacteria	Thermodesulfobacteriales	0	1xcobN, 1xchlD, 1xchlI	TH606_RS00455	-	-	-	TH606_RS05245	TH606_RS05250

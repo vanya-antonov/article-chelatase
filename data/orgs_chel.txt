@@ -1037,8 +1037,8 @@ id	dir_name	name	kingdom	phylum	genus	tax2	num_L	num_M	num_S	num_M_zero	num_M_fs
 2038	Stappia_stellulata_DSM_5886	Stappia stellulata DSM 5886	Bacteria	Proteobacteria	Stappia	Alphaproteobacteria	2	2	2	2	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0
 2893	Streptacidiphilus_albus_JL83	Streptacidiphilus albus JL83	Bacteria	Actinobacteria	Streptacidiphilus	Streptomycetales	1	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	1	0	0
 3044	Streptacidiphilus_melanogenes	Streptacidiphilus melanogenes	Bacteria	Actinobacteria	Streptacidiphilus	Streptomycetales	1	1	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
-2897	Streptacidiphilus_oryzae_TH49	Streptacidiphilus oryzae TH49	Bacteria	Actinobacteria	Streptacidiphilus	Streptomycetales	1	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	1	0	0
-2892	Streptacidiphilus_rugosus_AM_16	Streptacidiphilus rugosus AM-16	Bacteria	Actinobacteria	Streptacidiphilus	Streptomycetales	1	1	0	0	1	0	1	0	1	0	0	0	0	1	0	0	1	0	0
+2897	Streptacidiphilus_oryzae_TH49	Streptacidiphilus oryzae TH49	Bacteria	Actinobacteria	Streptacidiphilus	Streptomycetales	1	2	0	1	1	0	1	0	2	0	0	0	0	1	0	0	1	0	0
+2892	Streptacidiphilus_rugosus_AM_16	Streptacidiphilus rugosus AM-16	Bacteria	Actinobacteria	Streptacidiphilus	Streptomycetales	1	2	0	1	1	0	1	0	2	0	0	0	0	1	0	0	1	0	0
 5386	Streptoalloteichus_hindustanus	Streptoalloteichus hindustanus	Bacteria	Actinobacteria	Streptoalloteichus	Pseudonocardiales	1	1	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
 3120	Streptomonospora_alba	Streptomonospora alba	Bacteria	Actinobacteria	Streptomonospora	Streptosporangiales	1	1	1	1	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0
 1170	Streptomyces_acidiscabies_84_104	Streptomyces acidiscabies 84-104	Bacteria	Actinobacteria	Streptomyces	Streptomycetales	1	1	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
