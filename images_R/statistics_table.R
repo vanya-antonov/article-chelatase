@@ -21,8 +21,8 @@ orgs_df %>%
   mutate(phylum2 = factor(phylum2, levels = tar_phyla)) %>%
   group_by(kingdom, phylum2) %>%
   summarise(total_orgs = n(),
-            orgs_with_M = sum(ifelse(num_M > 0, 1, 0)),
-            num_M_genes = sum(num_M),
+            orgs_with_bchlD = sum(ifelse(num_bchlD > 0, 1, 0)),
+            num_bchlD = sum(num_bchlD),
             orgs_with_bchlD_fs = sum(num_bchlD_fs > 0),
             num_bchlD_fs = sum(num_bchlD_fs)) %>%
   write.table(file = paste0(OUT_DIR, "statistics_table.txt"), row.names = FALSE, quote = FALSE, sep = "\t")
