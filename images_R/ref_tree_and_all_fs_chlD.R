@@ -3,31 +3,9 @@ source('lib.R')
 
 ###
 
-# Genes that do not have good position in the REF_TREE
-BAD_GENES <- c('AMED_7054', 'CAGG_RS15520', 'RCAS_RS13095', 'DSHI_RS17730', 'RSP_0274', 'RSPH17025_RS05185', 'BLV13_RS00120', 'SADFL11_RS19460')
-FS_COLORS <- c('-1' = 'blue', '+1' = 'red', 'None' = 'white')
-
-###
-
-tree <- read.tree(paste0(DATA_DIR, '190821.ref_tree_with_fs_chlD.tree'))
-
-# Remove some genes
-# all(BAD_GENES %in% tree$tip.label)
-tree <- drop.tip(tree, BAD_GENES)
-
-anno_df <- read.delim(paste0(DATA_DIR, "genes_chel.txt"), as.is=TRUE) %>%
-  filter(name %in% tree$tip.label) %>%
-  mutate(fs_len = ifelse(is.na(fs_len), 'None', sprintf('%+d', fs_len))) %>%
-  mutate(fs_len = factor(fs_len, levels = names(FS_COLORS))) %>%
-  # There shouldn't be any shapes in genes w/o fs
-  mutate(shape_alpha = ifelse(fs_len == 'None', 0, 1))
-rownames(anno_df) <- anno_df$name
+tree <- read_tree_from_fn('ref_tree_and_all_fs_chlD.tree')
+anno_df <- read_anno_for_tree("genes_chel.txt", tree)
 length(tree$tip.label) == nrow(anno_df)
-#head(anno_df)
-
-anno_df %>% filter(kingdom == 'Archaea')
-
-
 
 # Re-root the tree
 outgroup_genes <- anno_df %>% filter(kingdom == 'Archaea' & fs_len == 'None') %>% pull(name)
@@ -39,9 +17,9 @@ chl_tips <- anno_df %>% filter(gene %in% c('chlD', 'bchD'), phylum == 'Cyanobact
 bch_tips <- anno_df %>% filter(gene == 'bchD', phylum == 'Proteobacteria') %>% pull(name)
 cob_chel_tips <- anno_df %>% filter(gene == 'cobT') %>% pull(name)
 
-title <- sprintf('Total number of genes in the tree = %s', nrow(anno_df))
-subT <- sprintf('Number of fs-chlD genes = %s', anno_df %>% filter(fs_len != 'None') %>% nrow())
 my_tree <- tree
+title <- sprintf('Total number of genes in the tree = %s', length(my_tree$tip.label))
+subT <- sprintf('Number of fs-chlD genes = %s', anno_df %>% filter(fs_len != 'None') %>% nrow())
 ggtree(my_tree) %<+% anno_df +
 #  geom_tiplab(size = 1) +
   # Add colored shapes to tips (according to fs_len)
@@ -57,5 +35,5 @@ ggtree(my_tree) %<+% anno_df +
   geom_hilight(node=findMRCA(my_tree, cob_chel_tips), fill="blue", alpha=.6) +
   ggtitle(title, subtitle = subT) +
   theme_tree(legend.position="bottom")
-ggsave('ref_tree_with_fs_chlD.pdf', path = OUT_DIR, width = 6, height = 6)
+ggsave('ref_tree_and_all_fs_chlD.pdf', path = paste0(OUT_DIR, 'ref_tree'), width = 4, height = 6)
 
