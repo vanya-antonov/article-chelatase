@@ -7,9 +7,12 @@ library(circlize)   # colorRamp2()
 ###
 
 TAR_ORGS <- c(
-  'Delftia_acidovorans_SPH_1',
-  'Methanocaldococcus_fervens_AG86',
-  'Methanocaldococcus_sp_FS406_22')
+  'Delftia acidovorans SPH-1',
+  'Methanocaldococcus fervens AG86',
+  'Methanocaldococcus sp. FS406-22',
+  'Rhodobacter sphaeroides 2.4.1',
+  'Mycobacterium tuberculosis H37Rv',
+  'Nostoc punctiforme PCC 73102')
 
 MG_CHEL_NAMES  <- c('chlH_bchH', 'chlD_bchD', 'chlI_bchI')
 COB_CHEL_NAMES <- c('cobN', 'cobT', 'cobS')
@@ -61,11 +64,11 @@ head(all_data)
 # rownames(all_data) <- all_data$org_id
 
 # Generate 'frameshift' column
-# all_data <- all_data %>%
-#   mutate(frameshift = ifelse(num_M_minus > 0, '-1', 'None')) %>%
-#   mutate(frameshift = ifelse(num_M_plus > 0, '+1', frameshift))
+all_data <- all_data %>%
+  mutate(frameshift = ifelse(num_M_minus > 0, '-1', 'None')) %>%
+  mutate(frameshift = ifelse(num_M_plus > 0, '+1', frameshift))
 
-all_data <- filter(all_data, dir_name %in% TAR_ORGS) %>%
+all_data <- filter(all_data, name %in% TAR_ORGS) %>%
   column_to_rownames('dir_name')
 
 str(all_data)
@@ -78,16 +81,25 @@ chlIDH_ht <- Heatmap(as.matrix(all_data[, MG_CHEL_NAMES]),
                      column_title = "Magnesium\nchelatase\ngenes",
                      col = EVALUE_COLORS,
                      heatmap_legend_param = list(
-                       'title' = 'BLAST -log10(E-value)',
+                       'title' = 'tBLASTn -log10(E-value)',
                        direction = "horizontal"),
                      cluster_columns = FALSE,
                      cluster_rows = FALSE,
+                     row_split = -all_data$num_M_fs,
+                     row_title = NULL,   # Hide cluster names
                      rect_gp = HT_RECT_GP,
                      row_names_side = "left",
                      row_labels = all_data$name,
-                     height = unit(3*HT_COL_W, "cm"),
+                     height = unit(nrow(all_data)*HT_COL_W, "cm"),
                      width = unit(3*HT_COL_W, "cm"))
 #draw(chlIDH_ht, heatmap_legend_side = "bottom")
+
+# fs_ha
+fs_ha <- rowAnnotation(Frameshift = all_data$frameshift,
+                       col = list(Frameshift = c('-1' = 'black', '+1' = 'red', 'None' = 'white')),
+                       annotation_legend_param = list(Frameshift = list(title = "Frameshift\nin chlD gene")),
+                       show_annotation_name = TRUE,
+                       width = unit(1, "cm"))
 
 # chl_path_ht
 chl_path_ht <- Heatmap(as.matrix(all_data[, CHL_PATH_GENES]),
@@ -127,6 +139,7 @@ b12_path_ht <- Heatmap(as.matrix(all_data[, B12_PATH_GENES]),
 
 ###
 # Save heatmaps ----
-pdf(paste0(OUT_DIR, 'heatmap_Da_Mf_Ms.pdf'), width = 9, height = 4)
-draw(chlIDH_ht + chl_path_ht + cobNST_ht + b12_path_ht, heatmap_legend_side = "bottom")
+pdf(paste0(OUT_DIR, 'heatmap_Da_Mf_Ms.pdf'), width = 9.5, height = 4.5)
+draw(chlIDH_ht + chl_path_ht + cobNST_ht + b12_path_ht + fs_ha,
+     heatmap_legend_side = "bottom")
 dev.off()
