@@ -20,8 +20,6 @@ COB_CHEL_NAMES <- c('cobN', 'cobT', 'cobS')
 CHL_PATH_GENES <- c("bchE", "chlB_bchB",  "chlG_bchG", "chlL_bchL", "chlM_bchM", "chlN_bchN")
 B12_PATH_GENES <- c("cobD_cobC", "cobO", "cobP_cobU", "cobQ", "cobV_cobS", "cysG_cobA")
 
-EVALUE_COLORS <- colorRamp2(c(0, 6, 100), c("white", "yellow", "red"))
-
 HT_COL_W = 0.8
 HT_RECT_GP = gpar(col = "black", lwd = 2)
 
@@ -64,9 +62,7 @@ head(all_data)
 # rownames(all_data) <- all_data$org_id
 
 # Generate 'frameshift' column
-all_data <- all_data %>%
-  mutate(frameshift = ifelse(num_M_minus > 0, '-1', 'None')) %>%
-  mutate(frameshift = ifelse(num_M_plus > 0, '+1', frameshift))
+all_data <- all_data %>% mutate(frameshift = ifelse(num_M_fs > 0, 'Yes', 'No' ))
 
 all_data <- filter(all_data, name %in% TAR_ORGS) %>%
   column_to_rownames('dir_name')
@@ -96,7 +92,7 @@ chlIDH_ht <- Heatmap(as.matrix(all_data[, MG_CHEL_NAMES]),
 
 # fs_ha
 fs_ha <- rowAnnotation(Frameshift = all_data$frameshift,
-                       col = list(Frameshift = c('-1' = 'black', '+1' = 'red', 'None' = 'white')),
+                       col = list(Frameshift = FS_COLORS),
                        annotation_legend_param = list(Frameshift = list(title = "Frameshift\nin chlD gene")),
                        show_annotation_name = TRUE,
                        width = unit(1, "cm"))

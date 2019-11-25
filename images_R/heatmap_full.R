@@ -2,7 +2,6 @@
 source('lib.R')
 
 library(ComplexHeatmap)
-library(circlize)   # colorRamp2()
 
 ###
 
@@ -12,10 +11,8 @@ COB_CHEL_NAMES <- c('cobN', 'cobT', 'cobS')
 CHL_PATH_GENES <- c("bchE", "chlB_bchB",  "chlG_bchG", "chlL_bchL", "chlM_bchM", "chlN_bchN")
 B12_PATH_GENES <- c("cobD_cobC", "cobO", "cobP_cobU", "cobQ", "cobV_cobS", "cysG_cobA")
 
-EVALUE_COLORS <- colorRamp2(c(0, 6, 100), c("white", "yellow", "red"))
-
-TAXA_COLS <- c("Proteobacteria" = "plum", "Actinobacteria" = "cyan3", "Archaea" = 'black', "Chloroflexi" = 'blue',
-               "Firmicutes" = 'orange', "Cyanobacteria" = "darkgreen", "Other" = "gray")
+TAXA_COLS <- c("Proteobacteria" = "grey", "Actinobacteria" = "white", "Archaea" = 'grey', "Chloroflexi" = 'white',
+               "Firmicutes" = 'grey', "Cyanobacteria" = "white", "Other" = "gray")
 
 HT_COL_W = 0.8
 
@@ -90,12 +87,7 @@ all_data <- all_data %>%
 rownames(all_data) <- all_data$dir_name
 
 # Generate 'frameshift' column
-all_data <- all_data %>%
-  mutate(frameshift = case_when(
-    num_M_minus > 0 ~ '-1',
-    num_M_plus > 0 ~ '+1',
-    TRUE ~ 'None'))
-
+all_data <- all_data %>% mutate(frameshift = ifelse(num_M_fs > 0, 'Yes', 'No' ))
 str(all_data)
 
 ###
@@ -105,6 +97,8 @@ str(all_data)
 taxa_ht <- Heatmap(data.frame(Taxonomy = all_data$taxa),
                    name = "taxa",
                    col = TAXA_COLS,
+                   #row_title_gp = gpar(col = TAXA_COLS, font = 2)
+                   row_title_gp = gpar(font = 2),
                    width = unit(3, "mm"),
                    cluster_columns = FALSE,
                    cluster_rows = FALSE,
@@ -112,13 +106,12 @@ taxa_ht <- Heatmap(data.frame(Taxonomy = all_data$taxa),
                    show_heatmap_legend = FALSE,
                    split = all_data$taxa,
                    row_title_rot = 0,
-                   gap = unit(0, "mm"),
-                   row_title_gp = gpar(col = TAXA_COLS, font = 2))
+                   gap = unit(0, "mm"))
 #taxa_ht
 
 # fs_ha
 fs_ha <- rowAnnotation(Frameshift = all_data$frameshift,
-                       col = list(Frameshift = c('-1' = 'black', '+1' = 'red', 'None' = 'white')),
+                       col = list(Frameshift = FS_COLORS),
                        annotation_legend_param = list(Frameshift = list(title = "Frameshift\nin chlD gene")),
                        show_annotation_name = TRUE,
                        width = unit(1, "cm"))
