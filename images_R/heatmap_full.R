@@ -142,7 +142,7 @@ fs_ha <- rowAnnotation(Frameshift = all_data$frameshift,
 chlIDH_ht <- Heatmap(as.matrix(all_data[, MG_CHEL_NAMES]),
                      column_title = "Magnesium\nchelatase\ngenes",
                      col = EVALUE_COLORS,
-                     heatmap_legend_param = list('title' = 'BLAST\n-log10(E-value)'),
+                     heatmap_legend_param = list('title' = 'tBLASTn\n-log10(E-value)'),
                      cluster_columns = FALSE,
                      width = unit(3*HT_COL_W, "cm"))
 # taxa_ht + fs_ha + chlIDH_ht
@@ -192,5 +192,5 @@ pdf(paste0(OUT_DIR, 'heatmap_full.pdf'), width = 10, height = 8)
 #draw(taxa_ht + fs_ha + chlIDH_ht + chl_path_ht + photo_ha + cobNST_ht + b12_path_ht + b12_ha,
 draw(taxa_ht + fs_ha + chlIDH_ht + chl_path_ht + cobNST_ht + b12_path_ht,
      #show_heatmap_legend = FALSE,
-     row_title = sprintf('%d prokaryotic genomes', nrow(all_data)))
+     row_title = sprintf('%d prokaryotic genomes*', nrow(all_data)))
 dev.off()
