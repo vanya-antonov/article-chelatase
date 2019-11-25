@@ -49,32 +49,3 @@ orgs_df %>%
   guides(fill = guide_legend(ncol = 1))
 ggsave(paste0('genotype_fs_chlD_histogram.pdf'), path = OUT_DIR, w=13, h=15)
 
-
-# Statistics ----
-
-# "the small chelatase subunit gene was absent in 140 out of the 150 fs-chlD containing genomes
-# that had at least one large chelatase subunit gene"
-n_orgs_with_L <- orgs_df %>% filter(num_L > 0) %>% nrow()
-n_orgs_with_L_wo_S <- orgs_df %>% filter(num_L > 0 & num_S == 0) %>% nrow()
-sprintf("the small chelatase subunit gene was absent in %s out of the %s fs-chlD containing genomes (%.0f%%)...",
-        n_orgs_with_L_wo_S, n_orgs_with_L, 100*n_orgs_with_L_wo_S/n_orgs_with_L)
-
-
-orgs_df %>%
-  group_by(genotype) %>%
-  summarise(n = n()) %>%
-  arrange(n) %>%
-  as.data.frame()
-  
-
-# Number of Proteobacteria with expected genotypes: 175 (54.5%)
-n_proteo <- orgs_df %>% filter(phylum == 'Proteobacteria') %>% nrow()
-n_good_proteo <- orgs_df %>% filter(phylum == 'Proteobacteria', genotype %in% EXPECTED_G) %>% nrow()
-sprintf("%d (%.1f%%)", n_good_proteo, 100*n_good_proteo/n_proteo)
-
-# Expected genotypes with fs-chlD: 59
-orgs_df %>% filter(phylum == 'Proteobacteria', genotype %in% EXPECTED_G, num_M_fs > 0) %>% nrow()
-
-# Expected genotypes w/o fs-chlD: 116
-orgs_df %>% filter(phylum == 'Proteobacteria', genotype %in% EXPECTED_G, num_M_fs == 0) %>% nrow()
-
