@@ -39,6 +39,8 @@ orgs_df %>%
 #    name = 'Genotype contains fs-chlD gene: ',
 #    values = c('No' = 'gray', 'Yes' = 'red')) +
 #  theme(legend.position="top") +
-  coord_flip()
-ggsave(paste0('genotype_histogram.pdf'), path = OUT_DIR, w=13, h=6)
+  coord_flip() +
+  theme(legend.position="bottom") +
+  guides(fill = guide_legend(ncol = 1))
+ggsave(paste0('genotype_histogram.pdf'), path = OUT_DIR, w=9, h=6)
 
