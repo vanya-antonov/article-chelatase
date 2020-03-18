@@ -85,6 +85,7 @@ chlIDH_ht <- Heatmap(as.matrix(all_data[, MG_CHEL_NAMES]),
                      row_title = NULL,   # Hide cluster names
                      rect_gp = HT_RECT_GP,
                      row_names_side = "left",
+                     row_names_gp = gpar(fontface = 'italic'),
                      row_labels = all_data$name,
                      height = unit(nrow(all_data)*HT_COL_W, "cm"),
                      width = unit(3*HT_COL_W, "cm"))
