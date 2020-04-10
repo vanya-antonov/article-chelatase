@@ -57,7 +57,7 @@ GGCGGGCCAGCAGGCGACCGGCCAGCCCCGGCTGGCCCAGGC
 [RNAfold results](http://rna.tbi.univie.ac.at//cgi-bin/RNAWebSuite/RNAfold.cgi?PAGE=3&ID=8jdohAUhHd)
 |
 [FORNA view](http://rna.tbi.univie.ac.at/forna/forna.html?id=RNAfold/8jdohAUhHd&file=mfe.json)
-  * FORNA custom colors: `21-27:red 31-33:blue`
+  * FORNA custom colors: `21-27:pink 31-33:skyblue`
 * Proteobacteria_Pa:
 [sequence from NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_002516.2?report=fasta&from=3297866&to=3297919&strand=true)
 |
