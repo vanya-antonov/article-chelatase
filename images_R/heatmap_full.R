@@ -11,8 +11,8 @@ COB_CHEL_NAMES <- c('cobN', 'cobT', 'cobS')
 CHL_PATH_GENES <- c("bchE", "chlB_bchB",  "chlG_bchG", "chlL_bchL", "chlM_bchM", "chlN_bchN")
 B12_PATH_GENES <- c("cobD_cobC", "cobO", "cobP_cobU", "cobQ", "cobV_cobS", "cysG_cobA")
 
-TAXA_COLS <- c("Proteobacteria" = "grey", "Actinobacteria" = "white", "Archaea" = 'grey', "Chloroflexi" = 'white',
-               "Firmicutes" = 'grey', "Cyanobacteria" = "white", "Other" = "gray")
+TAXA_COLS <- c("Proteobacteria" = "plum", "Actinobacteria" = "cyan3", "Archaea" = 'chocolate', "Chloroflexi" = 'blue',
+               "Firmicutes" = 'orange', "Cyanobacteria" = "darkgreen", "Other" = "gray")
 
 HT_COL_W = 0.8
 
@@ -23,7 +23,18 @@ ht_opt(
   legend_border = "black",
   heatmap_border = TRUE)
 
+OUT_FN <- 'heatmap_full.pdf'
+
 ###
+
+
+###
+# Uncomment this to produce black-and-white image
+# TAXA_COLS <- c("Proteobacteria" = "grey", "Actinobacteria" = "white", "Archaea" = 'grey', "Chloroflexi" = 'white',
+#                "Firmicutes" = 'grey', "Cyanobacteria" = "white", "Other" = "gray")
+# EVALUE_COLORS <- EVALUE_COLORS_BW
+# OUT_FN <- 'heatmap_full_BW.pdf'
+
 
 all_data <- read.delim(paste0(DATA_DIR, "orgs_chel.txt"), header=TRUE, as.is = TRUE)
 rownames(all_data) <- all_data$dir_name
@@ -181,7 +192,7 @@ b12_path_ht <- Heatmap(as.matrix(all_data[, B12_PATH_GENES]),
 
 ###
 # Save heatmaps ----
-pdf(paste0(OUT_DIR, 'heatmap_full.pdf'), width = 10, height = 8)
+pdf(paste0(OUT_DIR, OUT_FN), width = 10, height = 8)
 #draw(taxa_ht + fs_ha + chlIDH_ht + chl_path_ht + photo_ha + cobNST_ht + b12_path_ht + b12_ha,
 draw(taxa_ht + fs_ha + chlIDH_ht + chl_path_ht + cobNST_ht + b12_path_ht,
      #show_heatmap_legend = FALSE,

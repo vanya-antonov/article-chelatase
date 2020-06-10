@@ -2,7 +2,6 @@
 source('lib.R')
 
 library(ComplexHeatmap)
-library(circlize)   # colorRamp2()
 
 ###
 
@@ -23,7 +22,16 @@ B12_PATH_GENES <- c("cobD_cobC", "cobO", "cobP_cobU", "cobQ", "cobV_cobS", "cysG
 HT_COL_W = 0.8
 HT_RECT_GP = gpar(col = "black", lwd = 2)
 
+OUT_FN <- 'heatmap_Da_Mf_Ms.pdf'
+
 ###
+
+
+###
+# Uncomment this to produce black-and-white image
+# EVALUE_COLORS <- EVALUE_COLORS_BW
+# OUT_FN <- 'heatmap_Da_Mf_Ms_BW.pdf'
+
 
 all_data <- read.delim(paste0(DATA_DIR, "orgs_chel.txt"), header=TRUE, as.is = TRUE)
 rownames(all_data) <- all_data$dir_name
@@ -136,7 +144,7 @@ b12_path_ht <- Heatmap(as.matrix(all_data[, B12_PATH_GENES]),
 
 ###
 # Save heatmaps ----
-pdf(paste0(OUT_DIR, 'heatmap_Da_Mf_Ms.pdf'), width = 9.5, height = 4.5)
+pdf(paste0(OUT_DIR, OUT_FN), width = 9.5, height = 4.5)
 draw(chlIDH_ht + chl_path_ht + cobNST_ht + b12_path_ht + fs_ha,
      heatmap_legend_side = "bottom")
 dev.off()
